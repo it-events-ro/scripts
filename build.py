@@ -112,6 +112,17 @@ for event in events:
         slugify(event['name']))
     )
 
+template_loader = jinja2.Environment(
+    loader=jinja2.FileSystemLoader('templates'), extensions=['jinja2.ext.autoescape'],
+    autoescape=True)
+
+template_loader.filters['datetime'] = formatDatetime
+
+print('Writing events...')
+event_template = template_loader.get_template('event.html')
+for event in events:
+    renderTo(target_dir / event['url'][1:], event_template, event)
+
 events_by_year_month = collections.defaultdict(list)
 events_by_year_week = collections.defaultdict(list)
 
@@ -120,12 +131,6 @@ for event in events:
     events_by_year_month[key].append(event)
     key = event['time'].strftime('%Y-%U')
     events_by_year_week[key].append(event)
-
-template_loader = jinja2.Environment(
-    loader=jinja2.FileSystemLoader('templates'), extensions=['jinja2.ext.autoescape'],
-    autoescape=True)
-
-template_loader.filters['datetime'] = formatDatetime
 
 print('Writing event lists...')
 event_list_template = template_loader.get_template('event_list.html')
@@ -136,11 +141,6 @@ for key, events in events_by_year_month.items():
 key = datetime.datetime.now().strftime('%Y-%m')
 events = sortedEvents(events_by_year_month[key])
 renderTo(target_dir / 'index.html', event_list_template, dict(events=events))
-
-print('Writing events...')
-event_template = template_loader.get_template('event.html')
-for event in events:
-    renderTo(target_dir / event['url'][1:], event_template, event)
 
 print('Writing sitemap.xml...')
 prefix_length = len(str(target_dir))
