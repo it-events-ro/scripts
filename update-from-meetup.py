@@ -24,6 +24,9 @@ for i, meetup_id in enumerate(meetup_ids):
     url = ('https://api.meetup.com/%s/events?&page=%d&status=past,upcoming&key=%s'
       % (meetup_id, NO_EVENTS_TO_FETCH, KEY))
     data = json.loads(requests.get(url).content.decode('utf-8'))
+    if not isinstance(data, list):
+      print('!!! Unexpected shape of response for %s:\n%s' % (meetup_id, data))
+      continue
     meetup_data['events'][meetup_id] = data
   except Exception as e:
     print('There was an error processing %s: %s' % (meetup_id, e))

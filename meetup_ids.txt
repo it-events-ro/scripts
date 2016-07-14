@@ -44,7 +44,6 @@ PMI-Romania-Cluj-Napoca-Project-Management-Meetup-Group
 PyTim-Meetup
 romanian-lean-startup-cell
 ROPUG-Meetup-Progress-Users-Group-Romania
-ropython-iasi
 RoPython-Timisoara
 StartupGrindClujNapoca
 Startup-Grind-Romania
