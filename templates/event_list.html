@@ -4,7 +4,7 @@
 
 <ul>
 {% for event in events %}
-    <li><p>{{ event.name }}</p>
+    <li><p><a href="{{ event.url }}">{{ event.name }}</a></p>
         <p class="text-muted">{{ event.time | datetime }}</p>
     </li>
 {% endfor %}

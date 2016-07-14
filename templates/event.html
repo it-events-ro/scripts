@@ -1,0 +1,12 @@
+{% extends "index.html" %}
+
+{% block content %}
+
+<h2>{{ name }}</h2>
+<p class="text-muted">{{ time | datetime }}</p>
+
+{% autoescape false %}{{ description }}{% endautoescape %}
+
+<p>Link: <a href="{{ link }}">{{ link }}</a></p>
+
+{% endblock %}

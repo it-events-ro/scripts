@@ -5,10 +5,12 @@ import datetime
 import json
 import glob
 import pathlib
+import re
 import shutil
 import sys
 
 import babel.dates
+import bs4
 import jinja2
 import pytz
 
@@ -39,7 +41,7 @@ def populateFromMeetups(meetups, events, locations, organizations):
             events.append(dict(
                 event_id='mtup-%s' % e['id'],
                 name=e['name'],
-                description=e.get('description', ''),
+                description=bs4.BeautifulSoup(e.get('description', ''), 'html5lib').prettify(),
                 link=e['link'],
                 venue_id=venue_id if venue else None,
                 organizer_id = 'mtup-grp-%s' % e['group']['id'],
@@ -65,8 +67,12 @@ def renderTo(path, template, context):
     path.write_bytes(template.render(context).encode('utf-8'))
 
 
-def slugify(*args):
-    result = ''.join(args)
+def slugify(v):
+    v = v.lower()
+    v = re.sub(r'[^a-z0-9\-]+', '-', v)
+    v = re.sub(r'-{2,}', '-', v)
+    v = v.strip('-').rstrip('-')
+    return v
 
 
 def formatDatetime(d):
@@ -100,6 +106,12 @@ with open('meetups.json', 'r') as f:
 events, locations, organizations = [], {}, {}
 populateFromMeetups(meetups, events, locations, organizations)
 
+for event in events:
+    event['url'] = (
+        '/%s/%s-%s.html' % (event['time'].strftime('%Y/%m'), event['event_id'],
+        slugify(event['name']))
+    )
+
 events_by_year_month = collections.defaultdict(list)
 events_by_year_week = collections.defaultdict(list)
 
@@ -121,10 +133,14 @@ for key, events in events_by_year_month.items():
     events = sortedEvents(events)
     renderTo(target_dir / 'evenimente' / (key + '.html'), event_list_template, dict(events=events))
 
-
 key = datetime.datetime.now().strftime('%Y-%m')
 events = sortedEvents(events_by_year_month[key])
 renderTo(target_dir / 'index.html', event_list_template, dict(events=events))
+
+print('Writing events...')
+event_template = template_loader.get_template('event.html')
+for event in events:
+    renderTo(target_dir / event['url'][1:], event_template, event)
 
 print('Writing sitemap.xml...')
 prefix_length = len(str(target_dir))
