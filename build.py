@@ -108,7 +108,7 @@ populateFromMeetups(meetups, events, locations, organizations)
 
 for event in events:
     event['url'] = (
-        '/%s/%s-%s.html' % (event['time'].strftime('%Y/%m'), event['event_id'],
+        '/eveniment/%s/%s-%s.html' % (event['time'].strftime('%Y/%m'), event['event_id'],
         slugify(event['name']))
     )
 
