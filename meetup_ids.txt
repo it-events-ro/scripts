@@ -19,6 +19,7 @@ Cluj-WEB-Developers
 Comunitatea-Hatch-Bucuresti
 Constanța-Web-Developers
 DevOps-Cluj-Community
+Docker-Cluj
 Docker-Cluj-Napoca
 DOTNET-Cluj
 Drupal-Cluj
