@@ -145,7 +145,7 @@ renderTo(target_dir / 'index.html', event_list_template, dict(events=events))
 print('Writing sitemap.xml...')
 prefix_length = len(str(target_dir))
 page_relative_paths = [str(p)[prefix_length:] for p in target_dir.glob('**/*.html')]
-excluded_pages_from_sitemap = frozenset(['/index.html', '/404.html'])
+excluded_pages_from_sitemap = frozenset(['/index.html', '/404.html', '/google0302201fa5fdf331.html'])
 page_relative_paths = sorted([
     p for p in page_relative_paths if p not in excluded_pages_from_sitemap])
 renderTo(
