@@ -2,10 +2,10 @@
 # -*- coding: utf-8 -*-
 import os
 import json
-import requests
+
+import utils
 
 
-KEY = os.environ['MEETUP_API_KEY']
 NO_EVENTS_TO_FETCH = 100
 
 
@@ -21,9 +21,8 @@ meetup_data = {
 for i, meetup_id in enumerate(meetup_ids):
   print('Getting events for %s (%d/%d)' % (meetup_id, i+1, len(meetup_ids)))
   try:
-    url = ('https://api.meetup.com/%s/events?&page=%d&status=past,upcoming&key=%s'
-      % (meetup_id, NO_EVENTS_TO_FETCH, KEY))
-    data = json.loads(requests.get(url).content.decode('utf-8'))
+    data = utils.meetupApi(
+      '/%s/events?&page=%d&status=past,upcoming' % (meetup_id, NO_EVENTS_TO_FETCH))
     if not isinstance(data, list):
       print('!!! Unexpected shape of response for %s:\n%s' % (meetup_id, data))
       continue
@@ -36,8 +35,7 @@ group_urlids = sorted(
   set(e['group']['urlname'] for events in meetup_data['events'].values() for e in events))
 for i, group_urlid in enumerate(group_urlids):
   print('Getting group info for %s (%d/%d)' % (group_urlid, i+1, len(group_urlids)))
-  url = 'https://api.meetup.com/%s?key=%s' % (group_urlid, KEY)
-  data = json.loads(requests.get(url).content.decode('utf-8'))
+  data = utils.meetupApi(group_urlid)
   meetup_data['groups'][group_urlid] = data
 
 
