@@ -22,7 +22,7 @@ for i, meetup_id in enumerate(meetup_ids):
   print('Getting events for %s (%d/%d)' % (meetup_id, i+1, len(meetup_ids)))
   try:
     data = utils.meetupApi(
-      '/%s/events?&page=%d&status=past,upcoming' % (meetup_id, NO_EVENTS_TO_FETCH))
+      '%s/events?&page=%d&status=past,upcoming' % (meetup_id, NO_EVENTS_TO_FETCH))
     if not isinstance(data, list):
       print('!!! Unexpected shape of response for %s:\n%s' % (meetup_id, data))
       continue

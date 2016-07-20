@@ -4,12 +4,12 @@ import os
 
 
 def meetupApi(url):
-  url = 'https://api.meetup.com/%s'
+  url = 'https://api.meetup.com/%s' % url
   meetup_key = os.environ['MEETUP_API_KEY']
   if '?' in url:
-    url += '&key=%s' % key
+    url += '&key=%s' % meetup_key
   else:
-    url += '?key=%s' % key
+    url += '?key=%s' % meetup_key
   return requests.get(url).json()
 
 
