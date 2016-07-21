@@ -1,0 +1,1663 @@
+{
+    "events": [
+        {
+            "capacity": 100,
+            "category_id": "102",
+            "changed": "2016-05-18T19:50:23Z",
+            "created": "2016-05-18T19:45:16Z",
+            "currency": "EUR",
+            "description": {
+                "html": null,
+                "text": null
+            },
+            "end": {
+                "local": "2016-12-03T22:00:00",
+                "timezone": "Europe/Bucharest",
+                "utc": "2016-12-03T20:00:00Z"
+            },
+            "format_id": "2",
+            "hide_end_date": false,
+            "hide_start_date": false,
+            "id": "25552079959",
+            "is_locked": false,
+            "is_reserved_seating": false,
+            "is_series": false,
+            "is_series_parent": false,
+            "listed": true,
+            "locale": "en_US",
+            "logo": {
+                "aspect_ratio": "2",
+                "edge_color": "#21a5de",
+                "edge_color_set": true,
+                "id": "21214023",
+                "url": "https://img.evbuc.com/http%3A%2F%2Fcdn.evbuc.com%2Fimages%2F21214023%2F149733979896%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C0%2C630%2C315&s=66437050f902ea116d2e14fadb9f45c2"
+            },
+            "logo_id": "21214023",
+            "name": {
+                "html": "Science Summit",
+                "text": "Science Summit"
+            },
+            "online_event": false,
+            "organizer_id": "8384351483",
+            "privacy_setting": "unlocked",
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/25552079959/",
+            "shareable": true,
+            "start": {
+                "local": "2016-12-03T19:00:00",
+                "timezone": "Europe/Bucharest",
+                "utc": "2016-12-03T17:00:00Z"
+            },
+            "status": "live",
+            "subcategory_id": "2002",
+            "tx_time_limit": 900,
+            "url": "http://www.eventbrite.com/e/science-summit-tickets-25552079959",
+            "venue_id": "15447749"
+        },
+        {
+            "capacity": 100,
+            "category_id": "102",
+            "changed": "2016-05-18T19:50:23Z",
+            "created": "2016-05-18T19:45:16Z",
+            "currency": "EUR",
+            "description": {
+                "html": null,
+                "text": null
+            },
+            "end": {
+                "local": "2016-12-03T22:00:00",
+                "timezone": "Europe/Bucharest",
+                "utc": "2016-12-03T20:00:00Z"
+            },
+            "format_id": "2",
+            "hide_end_date": false,
+            "hide_start_date": false,
+            "id": "25552079959",
+            "is_locked": false,
+            "is_reserved_seating": false,
+            "is_series": false,
+            "is_series_parent": false,
+            "listed": true,
+            "locale": "en_US",
+            "logo": {
+                "aspect_ratio": "2",
+                "edge_color": "#21a5de",
+                "edge_color_set": true,
+                "id": "21214023",
+                "url": "https://img.evbuc.com/http%3A%2F%2Fcdn.evbuc.com%2Fimages%2F21214023%2F149733979896%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C0%2C630%2C315&s=66437050f902ea116d2e14fadb9f45c2"
+            },
+            "logo_id": "21214023",
+            "name": {
+                "html": "Science Summit",
+                "text": "Science Summit"
+            },
+            "online_event": false,
+            "organizer_id": "8384351483",
+            "privacy_setting": "unlocked",
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/25552079959/",
+            "shareable": true,
+            "start": {
+                "local": "2016-12-03T19:00:00",
+                "timezone": "Europe/Bucharest",
+                "utc": "2016-12-03T17:00:00Z"
+            },
+            "status": "live",
+            "subcategory_id": "2002",
+            "tx_time_limit": 900,
+            "url": "http://www.eventbrite.com/e/science-summit-tickets-25552079959",
+            "venue_id": "15447749"
+        },
+        {
+            "capacity": 100,
+            "category_id": "102",
+            "changed": "2016-05-18T19:50:23Z",
+            "created": "2016-05-18T19:45:16Z",
+            "currency": "EUR",
+            "description": {
+                "html": null,
+                "text": null
+            },
+            "end": {
+                "local": "2016-12-03T22:00:00",
+                "timezone": "Europe/Bucharest",
+                "utc": "2016-12-03T20:00:00Z"
+            },
+            "format_id": "2",
+            "hide_end_date": false,
+            "hide_start_date": false,
+            "id": "25552079959",
+            "is_locked": false,
+            "is_reserved_seating": false,
+            "is_series": false,
+            "is_series_parent": false,
+            "listed": true,
+            "locale": "en_US",
+            "logo": {
+                "aspect_ratio": "2",
+                "edge_color": "#21a5de",
+                "edge_color_set": true,
+                "id": "21214023",
+                "url": "https://img.evbuc.com/http%3A%2F%2Fcdn.evbuc.com%2Fimages%2F21214023%2F149733979896%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C0%2C630%2C315&s=66437050f902ea116d2e14fadb9f45c2"
+            },
+            "logo_id": "21214023",
+            "name": {
+                "html": "Science Summit",
+                "text": "Science Summit"
+            },
+            "online_event": false,
+            "organizer_id": "8384351483",
+            "privacy_setting": "unlocked",
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/25552079959/",
+            "shareable": true,
+            "start": {
+                "local": "2016-12-03T19:00:00",
+                "timezone": "Europe/Bucharest",
+                "utc": "2016-12-03T17:00:00Z"
+            },
+            "status": "live",
+            "subcategory_id": "2002",
+            "tx_time_limit": 900,
+            "url": "http://www.eventbrite.com/e/science-summit-tickets-25552079959",
+            "venue_id": "15447749"
+        },
+        {
+            "capacity": 100,
+            "category_id": "102",
+            "changed": "2016-05-18T19:50:23Z",
+            "created": "2016-05-18T19:45:16Z",
+            "currency": "EUR",
+            "description": {
+                "html": null,
+                "text": null
+            },
+            "end": {
+                "local": "2016-12-03T22:00:00",
+                "timezone": "Europe/Bucharest",
+                "utc": "2016-12-03T20:00:00Z"
+            },
+            "format_id": "2",
+            "hide_end_date": false,
+            "hide_start_date": false,
+            "id": "25552079959",
+            "is_locked": false,
+            "is_reserved_seating": false,
+            "is_series": false,
+            "is_series_parent": false,
+            "listed": true,
+            "locale": "en_US",
+            "logo": {
+                "aspect_ratio": "2",
+                "edge_color": "#21a5de",
+                "edge_color_set": true,
+                "id": "21214023",
+                "url": "https://img.evbuc.com/http%3A%2F%2Fcdn.evbuc.com%2Fimages%2F21214023%2F149733979896%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C0%2C630%2C315&s=66437050f902ea116d2e14fadb9f45c2"
+            },
+            "logo_id": "21214023",
+            "name": {
+                "html": "Science Summit",
+                "text": "Science Summit"
+            },
+            "online_event": false,
+            "organizer_id": "8384351483",
+            "privacy_setting": "unlocked",
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/25552079959/",
+            "shareable": true,
+            "start": {
+                "local": "2016-12-03T19:00:00",
+                "timezone": "Europe/Bucharest",
+                "utc": "2016-12-03T17:00:00Z"
+            },
+            "status": "live",
+            "subcategory_id": "2002",
+            "tx_time_limit": 900,
+            "url": "http://www.eventbrite.com/e/science-summit-tickets-25552079959",
+            "venue_id": "15447749"
+        },
+        {
+            "capacity": 100,
+            "category_id": "102",
+            "changed": "2016-05-18T19:50:23Z",
+            "created": "2016-05-18T19:45:16Z",
+            "currency": "EUR",
+            "description": {
+                "html": null,
+                "text": null
+            },
+            "end": {
+                "local": "2016-12-03T22:00:00",
+                "timezone": "Europe/Bucharest",
+                "utc": "2016-12-03T20:00:00Z"
+            },
+            "format_id": "2",
+            "hide_end_date": false,
+            "hide_start_date": false,
+            "id": "25552079959",
+            "is_locked": false,
+            "is_reserved_seating": false,
+            "is_series": false,
+            "is_series_parent": false,
+            "listed": true,
+            "locale": "en_US",
+            "logo": {
+                "aspect_ratio": "2",
+                "edge_color": "#21a5de",
+                "edge_color_set": true,
+                "id": "21214023",
+                "url": "https://img.evbuc.com/http%3A%2F%2Fcdn.evbuc.com%2Fimages%2F21214023%2F149733979896%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C0%2C630%2C315&s=66437050f902ea116d2e14fadb9f45c2"
+            },
+            "logo_id": "21214023",
+            "name": {
+                "html": "Science Summit",
+                "text": "Science Summit"
+            },
+            "online_event": false,
+            "organizer_id": "8384351483",
+            "privacy_setting": "unlocked",
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/25552079959/",
+            "shareable": true,
+            "start": {
+                "local": "2016-12-03T19:00:00",
+                "timezone": "Europe/Bucharest",
+                "utc": "2016-12-03T17:00:00Z"
+            },
+            "status": "live",
+            "subcategory_id": "2002",
+            "tx_time_limit": 900,
+            "url": "http://www.eventbrite.com/e/science-summit-tickets-25552079959",
+            "venue_id": "15447749"
+        },
+        {
+            "capacity": 100,
+            "category_id": "102",
+            "changed": "2016-05-18T19:50:23Z",
+            "created": "2016-05-18T19:45:16Z",
+            "currency": "EUR",
+            "description": {
+                "html": null,
+                "text": null
+            },
+            "end": {
+                "local": "2016-12-03T22:00:00",
+                "timezone": "Europe/Bucharest",
+                "utc": "2016-12-03T20:00:00Z"
+            },
+            "format_id": "2",
+            "hide_end_date": false,
+            "hide_start_date": false,
+            "id": "25552079959",
+            "is_locked": false,
+            "is_reserved_seating": false,
+            "is_series": false,
+            "is_series_parent": false,
+            "listed": true,
+            "locale": "en_US",
+            "logo": {
+                "aspect_ratio": "2",
+                "edge_color": "#21a5de",
+                "edge_color_set": true,
+                "id": "21214023",
+                "url": "https://img.evbuc.com/http%3A%2F%2Fcdn.evbuc.com%2Fimages%2F21214023%2F149733979896%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C0%2C630%2C315&s=66437050f902ea116d2e14fadb9f45c2"
+            },
+            "logo_id": "21214023",
+            "name": {
+                "html": "Science Summit",
+                "text": "Science Summit"
+            },
+            "online_event": false,
+            "organizer_id": "8384351483",
+            "privacy_setting": "unlocked",
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/25552079959/",
+            "shareable": true,
+            "start": {
+                "local": "2016-12-03T19:00:00",
+                "timezone": "Europe/Bucharest",
+                "utc": "2016-12-03T17:00:00Z"
+            },
+            "status": "live",
+            "subcategory_id": "2002",
+            "tx_time_limit": 900,
+            "url": "http://www.eventbrite.com/e/science-summit-tickets-25552079959",
+            "venue_id": "15447749"
+        },
+        {
+            "capacity": 100,
+            "category_id": "102",
+            "changed": "2016-05-18T19:50:23Z",
+            "created": "2016-05-18T19:45:16Z",
+            "currency": "EUR",
+            "description": {
+                "html": null,
+                "text": null
+            },
+            "end": {
+                "local": "2016-12-03T22:00:00",
+                "timezone": "Europe/Bucharest",
+                "utc": "2016-12-03T20:00:00Z"
+            },
+            "format_id": "2",
+            "hide_end_date": false,
+            "hide_start_date": false,
+            "id": "25552079959",
+            "is_locked": false,
+            "is_reserved_seating": false,
+            "is_series": false,
+            "is_series_parent": false,
+            "listed": true,
+            "locale": "en_US",
+            "logo": {
+                "aspect_ratio": "2",
+                "edge_color": "#21a5de",
+                "edge_color_set": true,
+                "id": "21214023",
+                "url": "https://img.evbuc.com/http%3A%2F%2Fcdn.evbuc.com%2Fimages%2F21214023%2F149733979896%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C0%2C630%2C315&s=66437050f902ea116d2e14fadb9f45c2"
+            },
+            "logo_id": "21214023",
+            "name": {
+                "html": "Science Summit",
+                "text": "Science Summit"
+            },
+            "online_event": false,
+            "organizer_id": "8384351483",
+            "privacy_setting": "unlocked",
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/25552079959/",
+            "shareable": true,
+            "start": {
+                "local": "2016-12-03T19:00:00",
+                "timezone": "Europe/Bucharest",
+                "utc": "2016-12-03T17:00:00Z"
+            },
+            "status": "live",
+            "subcategory_id": "2002",
+            "tx_time_limit": 900,
+            "url": "http://www.eventbrite.com/e/science-summit-tickets-25552079959",
+            "venue_id": "15447749"
+        },
+        {
+            "capacity": 100,
+            "category_id": "102",
+            "changed": "2016-05-18T19:50:23Z",
+            "created": "2016-05-18T19:45:16Z",
+            "currency": "EUR",
+            "description": {
+                "html": null,
+                "text": null
+            },
+            "end": {
+                "local": "2016-12-03T22:00:00",
+                "timezone": "Europe/Bucharest",
+                "utc": "2016-12-03T20:00:00Z"
+            },
+            "format_id": "2",
+            "hide_end_date": false,
+            "hide_start_date": false,
+            "id": "25552079959",
+            "is_locked": false,
+            "is_reserved_seating": false,
+            "is_series": false,
+            "is_series_parent": false,
+            "listed": true,
+            "locale": "en_US",
+            "logo": {
+                "aspect_ratio": "2",
+                "edge_color": "#21a5de",
+                "edge_color_set": true,
+                "id": "21214023",
+                "url": "https://img.evbuc.com/http%3A%2F%2Fcdn.evbuc.com%2Fimages%2F21214023%2F149733979896%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C0%2C630%2C315&s=66437050f902ea116d2e14fadb9f45c2"
+            },
+            "logo_id": "21214023",
+            "name": {
+                "html": "Science Summit",
+                "text": "Science Summit"
+            },
+            "online_event": false,
+            "organizer_id": "8384351483",
+            "privacy_setting": "unlocked",
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/25552079959/",
+            "shareable": true,
+            "start": {
+                "local": "2016-12-03T19:00:00",
+                "timezone": "Europe/Bucharest",
+                "utc": "2016-12-03T17:00:00Z"
+            },
+            "status": "live",
+            "subcategory_id": "2002",
+            "tx_time_limit": 900,
+            "url": "http://www.eventbrite.com/e/science-summit-tickets-25552079959",
+            "venue_id": "15447749"
+        },
+        {
+            "capacity": 100,
+            "category_id": "102",
+            "changed": "2016-05-18T19:50:23Z",
+            "created": "2016-05-18T19:45:16Z",
+            "currency": "EUR",
+            "description": {
+                "html": null,
+                "text": null
+            },
+            "end": {
+                "local": "2016-12-03T22:00:00",
+                "timezone": "Europe/Bucharest",
+                "utc": "2016-12-03T20:00:00Z"
+            },
+            "format_id": "2",
+            "hide_end_date": false,
+            "hide_start_date": false,
+            "id": "25552079959",
+            "is_locked": false,
+            "is_reserved_seating": false,
+            "is_series": false,
+            "is_series_parent": false,
+            "listed": true,
+            "locale": "en_US",
+            "logo": {
+                "aspect_ratio": "2",
+                "edge_color": "#21a5de",
+                "edge_color_set": true,
+                "id": "21214023",
+                "url": "https://img.evbuc.com/http%3A%2F%2Fcdn.evbuc.com%2Fimages%2F21214023%2F149733979896%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C0%2C630%2C315&s=66437050f902ea116d2e14fadb9f45c2"
+            },
+            "logo_id": "21214023",
+            "name": {
+                "html": "Science Summit",
+                "text": "Science Summit"
+            },
+            "online_event": false,
+            "organizer_id": "8384351483",
+            "privacy_setting": "unlocked",
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/25552079959/",
+            "shareable": true,
+            "start": {
+                "local": "2016-12-03T19:00:00",
+                "timezone": "Europe/Bucharest",
+                "utc": "2016-12-03T17:00:00Z"
+            },
+            "status": "live",
+            "subcategory_id": "2002",
+            "tx_time_limit": 900,
+            "url": "http://www.eventbrite.com/e/science-summit-tickets-25552079959",
+            "venue_id": "15447749"
+        },
+        {
+            "capacity": 100,
+            "category_id": "102",
+            "changed": "2016-05-18T19:50:23Z",
+            "created": "2016-05-18T19:45:16Z",
+            "currency": "EUR",
+            "description": {
+                "html": null,
+                "text": null
+            },
+            "end": {
+                "local": "2016-12-03T22:00:00",
+                "timezone": "Europe/Bucharest",
+                "utc": "2016-12-03T20:00:00Z"
+            },
+            "format_id": "2",
+            "hide_end_date": false,
+            "hide_start_date": false,
+            "id": "25552079959",
+            "is_locked": false,
+            "is_reserved_seating": false,
+            "is_series": false,
+            "is_series_parent": false,
+            "listed": true,
+            "locale": "en_US",
+            "logo": {
+                "aspect_ratio": "2",
+                "edge_color": "#21a5de",
+                "edge_color_set": true,
+                "id": "21214023",
+                "url": "https://img.evbuc.com/http%3A%2F%2Fcdn.evbuc.com%2Fimages%2F21214023%2F149733979896%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C0%2C630%2C315&s=66437050f902ea116d2e14fadb9f45c2"
+            },
+            "logo_id": "21214023",
+            "name": {
+                "html": "Science Summit",
+                "text": "Science Summit"
+            },
+            "online_event": false,
+            "organizer_id": "8384351483",
+            "privacy_setting": "unlocked",
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/25552079959/",
+            "shareable": true,
+            "start": {
+                "local": "2016-12-03T19:00:00",
+                "timezone": "Europe/Bucharest",
+                "utc": "2016-12-03T17:00:00Z"
+            },
+            "status": "live",
+            "subcategory_id": "2002",
+            "tx_time_limit": 900,
+            "url": "http://www.eventbrite.com/e/science-summit-tickets-25552079959",
+            "venue_id": "15447749"
+        },
+        {
+            "capacity": 100,
+            "category_id": "102",
+            "changed": "2016-05-18T19:50:23Z",
+            "created": "2016-05-18T19:45:16Z",
+            "currency": "EUR",
+            "description": {
+                "html": null,
+                "text": null
+            },
+            "end": {
+                "local": "2016-12-03T22:00:00",
+                "timezone": "Europe/Bucharest",
+                "utc": "2016-12-03T20:00:00Z"
+            },
+            "format_id": "2",
+            "hide_end_date": false,
+            "hide_start_date": false,
+            "id": "25552079959",
+            "is_locked": false,
+            "is_reserved_seating": false,
+            "is_series": false,
+            "is_series_parent": false,
+            "listed": true,
+            "locale": "en_US",
+            "logo": {
+                "aspect_ratio": "2",
+                "edge_color": "#21a5de",
+                "edge_color_set": true,
+                "id": "21214023",
+                "url": "https://img.evbuc.com/http%3A%2F%2Fcdn.evbuc.com%2Fimages%2F21214023%2F149733979896%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C0%2C630%2C315&s=66437050f902ea116d2e14fadb9f45c2"
+            },
+            "logo_id": "21214023",
+            "name": {
+                "html": "Science Summit",
+                "text": "Science Summit"
+            },
+            "online_event": false,
+            "organizer_id": "8384351483",
+            "privacy_setting": "unlocked",
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/25552079959/",
+            "shareable": true,
+            "start": {
+                "local": "2016-12-03T19:00:00",
+                "timezone": "Europe/Bucharest",
+                "utc": "2016-12-03T17:00:00Z"
+            },
+            "status": "live",
+            "subcategory_id": "2002",
+            "tx_time_limit": 900,
+            "url": "http://www.eventbrite.com/e/science-summit-tickets-25552079959",
+            "venue_id": "15447749"
+        },
+        {
+            "capacity": 100,
+            "category_id": "102",
+            "changed": "2016-05-18T19:50:23Z",
+            "created": "2016-05-18T19:45:16Z",
+            "currency": "EUR",
+            "description": {
+                "html": null,
+                "text": null
+            },
+            "end": {
+                "local": "2016-12-03T22:00:00",
+                "timezone": "Europe/Bucharest",
+                "utc": "2016-12-03T20:00:00Z"
+            },
+            "format_id": "2",
+            "hide_end_date": false,
+            "hide_start_date": false,
+            "id": "25552079959",
+            "is_locked": false,
+            "is_reserved_seating": false,
+            "is_series": false,
+            "is_series_parent": false,
+            "listed": true,
+            "locale": "en_US",
+            "logo": {
+                "aspect_ratio": "2",
+                "edge_color": "#21a5de",
+                "edge_color_set": true,
+                "id": "21214023",
+                "url": "https://img.evbuc.com/http%3A%2F%2Fcdn.evbuc.com%2Fimages%2F21214023%2F149733979896%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C0%2C630%2C315&s=66437050f902ea116d2e14fadb9f45c2"
+            },
+            "logo_id": "21214023",
+            "name": {
+                "html": "Science Summit",
+                "text": "Science Summit"
+            },
+            "online_event": false,
+            "organizer_id": "8384351483",
+            "privacy_setting": "unlocked",
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/25552079959/",
+            "shareable": true,
+            "start": {
+                "local": "2016-12-03T19:00:00",
+                "timezone": "Europe/Bucharest",
+                "utc": "2016-12-03T17:00:00Z"
+            },
+            "status": "live",
+            "subcategory_id": "2002",
+            "tx_time_limit": 900,
+            "url": "http://www.eventbrite.com/e/science-summit-tickets-25552079959",
+            "venue_id": "15447749"
+        },
+        {
+            "capacity": 100,
+            "category_id": "102",
+            "changed": "2016-05-18T19:50:23Z",
+            "created": "2016-05-18T19:45:16Z",
+            "currency": "EUR",
+            "description": {
+                "html": null,
+                "text": null
+            },
+            "end": {
+                "local": "2016-12-03T22:00:00",
+                "timezone": "Europe/Bucharest",
+                "utc": "2016-12-03T20:00:00Z"
+            },
+            "format_id": "2",
+            "hide_end_date": false,
+            "hide_start_date": false,
+            "id": "25552079959",
+            "is_locked": false,
+            "is_reserved_seating": false,
+            "is_series": false,
+            "is_series_parent": false,
+            "listed": true,
+            "locale": "en_US",
+            "logo": {
+                "aspect_ratio": "2",
+                "edge_color": "#21a5de",
+                "edge_color_set": true,
+                "id": "21214023",
+                "url": "https://img.evbuc.com/http%3A%2F%2Fcdn.evbuc.com%2Fimages%2F21214023%2F149733979896%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C0%2C630%2C315&s=66437050f902ea116d2e14fadb9f45c2"
+            },
+            "logo_id": "21214023",
+            "name": {
+                "html": "Science Summit",
+                "text": "Science Summit"
+            },
+            "online_event": false,
+            "organizer_id": "8384351483",
+            "privacy_setting": "unlocked",
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/25552079959/",
+            "shareable": true,
+            "start": {
+                "local": "2016-12-03T19:00:00",
+                "timezone": "Europe/Bucharest",
+                "utc": "2016-12-03T17:00:00Z"
+            },
+            "status": "live",
+            "subcategory_id": "2002",
+            "tx_time_limit": 900,
+            "url": "http://www.eventbrite.com/e/science-summit-tickets-25552079959",
+            "venue_id": "15447749"
+        },
+        {
+            "capacity": 100,
+            "category_id": "102",
+            "changed": "2016-05-18T19:50:23Z",
+            "created": "2016-05-18T19:45:16Z",
+            "currency": "EUR",
+            "description": {
+                "html": null,
+                "text": null
+            },
+            "end": {
+                "local": "2016-12-03T22:00:00",
+                "timezone": "Europe/Bucharest",
+                "utc": "2016-12-03T20:00:00Z"
+            },
+            "format_id": "2",
+            "hide_end_date": false,
+            "hide_start_date": false,
+            "id": "25552079959",
+            "is_locked": false,
+            "is_reserved_seating": false,
+            "is_series": false,
+            "is_series_parent": false,
+            "listed": true,
+            "locale": "en_US",
+            "logo": {
+                "aspect_ratio": "2",
+                "edge_color": "#21a5de",
+                "edge_color_set": true,
+                "id": "21214023",
+                "url": "https://img.evbuc.com/http%3A%2F%2Fcdn.evbuc.com%2Fimages%2F21214023%2F149733979896%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C0%2C630%2C315&s=66437050f902ea116d2e14fadb9f45c2"
+            },
+            "logo_id": "21214023",
+            "name": {
+                "html": "Science Summit",
+                "text": "Science Summit"
+            },
+            "online_event": false,
+            "organizer_id": "8384351483",
+            "privacy_setting": "unlocked",
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/25552079959/",
+            "shareable": true,
+            "start": {
+                "local": "2016-12-03T19:00:00",
+                "timezone": "Europe/Bucharest",
+                "utc": "2016-12-03T17:00:00Z"
+            },
+            "status": "live",
+            "subcategory_id": "2002",
+            "tx_time_limit": 900,
+            "url": "http://www.eventbrite.com/e/science-summit-tickets-25552079959",
+            "venue_id": "15447749"
+        },
+        {
+            "capacity": 100,
+            "category_id": "102",
+            "changed": "2016-05-18T19:50:23Z",
+            "created": "2016-05-18T19:45:16Z",
+            "currency": "EUR",
+            "description": {
+                "html": null,
+                "text": null
+            },
+            "end": {
+                "local": "2016-12-03T22:00:00",
+                "timezone": "Europe/Bucharest",
+                "utc": "2016-12-03T20:00:00Z"
+            },
+            "format_id": "2",
+            "hide_end_date": false,
+            "hide_start_date": false,
+            "id": "25552079959",
+            "is_locked": false,
+            "is_reserved_seating": false,
+            "is_series": false,
+            "is_series_parent": false,
+            "listed": true,
+            "locale": "en_US",
+            "logo": {
+                "aspect_ratio": "2",
+                "edge_color": "#21a5de",
+                "edge_color_set": true,
+                "id": "21214023",
+                "url": "https://img.evbuc.com/http%3A%2F%2Fcdn.evbuc.com%2Fimages%2F21214023%2F149733979896%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C0%2C630%2C315&s=66437050f902ea116d2e14fadb9f45c2"
+            },
+            "logo_id": "21214023",
+            "name": {
+                "html": "Science Summit",
+                "text": "Science Summit"
+            },
+            "online_event": false,
+            "organizer_id": "8384351483",
+            "privacy_setting": "unlocked",
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/25552079959/",
+            "shareable": true,
+            "start": {
+                "local": "2016-12-03T19:00:00",
+                "timezone": "Europe/Bucharest",
+                "utc": "2016-12-03T17:00:00Z"
+            },
+            "status": "live",
+            "subcategory_id": "2002",
+            "tx_time_limit": 900,
+            "url": "http://www.eventbrite.com/e/science-summit-tickets-25552079959",
+            "venue_id": "15447749"
+        },
+        {
+            "capacity": 100,
+            "category_id": "102",
+            "changed": "2016-05-18T19:50:23Z",
+            "created": "2016-05-18T19:45:16Z",
+            "currency": "EUR",
+            "description": {
+                "html": null,
+                "text": null
+            },
+            "end": {
+                "local": "2016-12-03T22:00:00",
+                "timezone": "Europe/Bucharest",
+                "utc": "2016-12-03T20:00:00Z"
+            },
+            "format_id": "2",
+            "hide_end_date": false,
+            "hide_start_date": false,
+            "id": "25552079959",
+            "is_locked": false,
+            "is_reserved_seating": false,
+            "is_series": false,
+            "is_series_parent": false,
+            "listed": true,
+            "locale": "en_US",
+            "logo": {
+                "aspect_ratio": "2",
+                "edge_color": "#21a5de",
+                "edge_color_set": true,
+                "id": "21214023",
+                "url": "https://img.evbuc.com/http%3A%2F%2Fcdn.evbuc.com%2Fimages%2F21214023%2F149733979896%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C0%2C630%2C315&s=66437050f902ea116d2e14fadb9f45c2"
+            },
+            "logo_id": "21214023",
+            "name": {
+                "html": "Science Summit",
+                "text": "Science Summit"
+            },
+            "online_event": false,
+            "organizer_id": "8384351483",
+            "privacy_setting": "unlocked",
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/25552079959/",
+            "shareable": true,
+            "start": {
+                "local": "2016-12-03T19:00:00",
+                "timezone": "Europe/Bucharest",
+                "utc": "2016-12-03T17:00:00Z"
+            },
+            "status": "live",
+            "subcategory_id": "2002",
+            "tx_time_limit": 900,
+            "url": "http://www.eventbrite.com/e/science-summit-tickets-25552079959",
+            "venue_id": "15447749"
+        },
+        {
+            "capacity": 100,
+            "category_id": "102",
+            "changed": "2016-05-18T19:50:23Z",
+            "created": "2016-05-18T19:45:16Z",
+            "currency": "EUR",
+            "description": {
+                "html": null,
+                "text": null
+            },
+            "end": {
+                "local": "2016-12-03T22:00:00",
+                "timezone": "Europe/Bucharest",
+                "utc": "2016-12-03T20:00:00Z"
+            },
+            "format_id": "2",
+            "hide_end_date": false,
+            "hide_start_date": false,
+            "id": "25552079959",
+            "is_locked": false,
+            "is_reserved_seating": false,
+            "is_series": false,
+            "is_series_parent": false,
+            "listed": true,
+            "locale": "en_US",
+            "logo": {
+                "aspect_ratio": "2",
+                "edge_color": "#21a5de",
+                "edge_color_set": true,
+                "id": "21214023",
+                "url": "https://img.evbuc.com/http%3A%2F%2Fcdn.evbuc.com%2Fimages%2F21214023%2F149733979896%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C0%2C630%2C315&s=66437050f902ea116d2e14fadb9f45c2"
+            },
+            "logo_id": "21214023",
+            "name": {
+                "html": "Science Summit",
+                "text": "Science Summit"
+            },
+            "online_event": false,
+            "organizer_id": "8384351483",
+            "privacy_setting": "unlocked",
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/25552079959/",
+            "shareable": true,
+            "start": {
+                "local": "2016-12-03T19:00:00",
+                "timezone": "Europe/Bucharest",
+                "utc": "2016-12-03T17:00:00Z"
+            },
+            "status": "live",
+            "subcategory_id": "2002",
+            "tx_time_limit": 900,
+            "url": "http://www.eventbrite.com/e/science-summit-tickets-25552079959",
+            "venue_id": "15447749"
+        },
+        {
+            "capacity": 100,
+            "category_id": "102",
+            "changed": "2016-05-18T19:50:23Z",
+            "created": "2016-05-18T19:45:16Z",
+            "currency": "EUR",
+            "description": {
+                "html": null,
+                "text": null
+            },
+            "end": {
+                "local": "2016-12-03T22:00:00",
+                "timezone": "Europe/Bucharest",
+                "utc": "2016-12-03T20:00:00Z"
+            },
+            "format_id": "2",
+            "hide_end_date": false,
+            "hide_start_date": false,
+            "id": "25552079959",
+            "is_locked": false,
+            "is_reserved_seating": false,
+            "is_series": false,
+            "is_series_parent": false,
+            "listed": true,
+            "locale": "en_US",
+            "logo": {
+                "aspect_ratio": "2",
+                "edge_color": "#21a5de",
+                "edge_color_set": true,
+                "id": "21214023",
+                "url": "https://img.evbuc.com/http%3A%2F%2Fcdn.evbuc.com%2Fimages%2F21214023%2F149733979896%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C0%2C630%2C315&s=66437050f902ea116d2e14fadb9f45c2"
+            },
+            "logo_id": "21214023",
+            "name": {
+                "html": "Science Summit",
+                "text": "Science Summit"
+            },
+            "online_event": false,
+            "organizer_id": "8384351483",
+            "privacy_setting": "unlocked",
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/25552079959/",
+            "shareable": true,
+            "start": {
+                "local": "2016-12-03T19:00:00",
+                "timezone": "Europe/Bucharest",
+                "utc": "2016-12-03T17:00:00Z"
+            },
+            "status": "live",
+            "subcategory_id": "2002",
+            "tx_time_limit": 900,
+            "url": "http://www.eventbrite.com/e/science-summit-tickets-25552079959",
+            "venue_id": "15447749"
+        },
+        {
+            "capacity": 100,
+            "category_id": "102",
+            "changed": "2016-05-18T19:50:23Z",
+            "created": "2016-05-18T19:45:16Z",
+            "currency": "EUR",
+            "description": {
+                "html": null,
+                "text": null
+            },
+            "end": {
+                "local": "2016-12-03T22:00:00",
+                "timezone": "Europe/Bucharest",
+                "utc": "2016-12-03T20:00:00Z"
+            },
+            "format_id": "2",
+            "hide_end_date": false,
+            "hide_start_date": false,
+            "id": "25552079959",
+            "is_locked": false,
+            "is_reserved_seating": false,
+            "is_series": false,
+            "is_series_parent": false,
+            "listed": true,
+            "locale": "en_US",
+            "logo": {
+                "aspect_ratio": "2",
+                "edge_color": "#21a5de",
+                "edge_color_set": true,
+                "id": "21214023",
+                "url": "https://img.evbuc.com/http%3A%2F%2Fcdn.evbuc.com%2Fimages%2F21214023%2F149733979896%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C0%2C630%2C315&s=66437050f902ea116d2e14fadb9f45c2"
+            },
+            "logo_id": "21214023",
+            "name": {
+                "html": "Science Summit",
+                "text": "Science Summit"
+            },
+            "online_event": false,
+            "organizer_id": "8384351483",
+            "privacy_setting": "unlocked",
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/25552079959/",
+            "shareable": true,
+            "start": {
+                "local": "2016-12-03T19:00:00",
+                "timezone": "Europe/Bucharest",
+                "utc": "2016-12-03T17:00:00Z"
+            },
+            "status": "live",
+            "subcategory_id": "2002",
+            "tx_time_limit": 900,
+            "url": "http://www.eventbrite.com/e/science-summit-tickets-25552079959",
+            "venue_id": "15447749"
+        },
+        {
+            "capacity": 100,
+            "category_id": "102",
+            "changed": "2016-05-18T19:50:23Z",
+            "created": "2016-05-18T19:45:16Z",
+            "currency": "EUR",
+            "description": {
+                "html": null,
+                "text": null
+            },
+            "end": {
+                "local": "2016-12-03T22:00:00",
+                "timezone": "Europe/Bucharest",
+                "utc": "2016-12-03T20:00:00Z"
+            },
+            "format_id": "2",
+            "hide_end_date": false,
+            "hide_start_date": false,
+            "id": "25552079959",
+            "is_locked": false,
+            "is_reserved_seating": false,
+            "is_series": false,
+            "is_series_parent": false,
+            "listed": true,
+            "locale": "en_US",
+            "logo": {
+                "aspect_ratio": "2",
+                "edge_color": "#21a5de",
+                "edge_color_set": true,
+                "id": "21214023",
+                "url": "https://img.evbuc.com/http%3A%2F%2Fcdn.evbuc.com%2Fimages%2F21214023%2F149733979896%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C0%2C630%2C315&s=66437050f902ea116d2e14fadb9f45c2"
+            },
+            "logo_id": "21214023",
+            "name": {
+                "html": "Science Summit",
+                "text": "Science Summit"
+            },
+            "online_event": false,
+            "organizer_id": "8384351483",
+            "privacy_setting": "unlocked",
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/25552079959/",
+            "shareable": true,
+            "start": {
+                "local": "2016-12-03T19:00:00",
+                "timezone": "Europe/Bucharest",
+                "utc": "2016-12-03T17:00:00Z"
+            },
+            "status": "live",
+            "subcategory_id": "2002",
+            "tx_time_limit": 900,
+            "url": "http://www.eventbrite.com/e/science-summit-tickets-25552079959",
+            "venue_id": "15447749"
+        },
+        {
+            "capacity": 100,
+            "category_id": "102",
+            "changed": "2016-05-18T19:50:23Z",
+            "created": "2016-05-18T19:45:16Z",
+            "currency": "EUR",
+            "description": {
+                "html": null,
+                "text": null
+            },
+            "end": {
+                "local": "2016-12-03T22:00:00",
+                "timezone": "Europe/Bucharest",
+                "utc": "2016-12-03T20:00:00Z"
+            },
+            "format_id": "2",
+            "hide_end_date": false,
+            "hide_start_date": false,
+            "id": "25552079959",
+            "is_locked": false,
+            "is_reserved_seating": false,
+            "is_series": false,
+            "is_series_parent": false,
+            "listed": true,
+            "locale": "en_US",
+            "logo": {
+                "aspect_ratio": "2",
+                "edge_color": "#21a5de",
+                "edge_color_set": true,
+                "id": "21214023",
+                "url": "https://img.evbuc.com/http%3A%2F%2Fcdn.evbuc.com%2Fimages%2F21214023%2F149733979896%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C0%2C630%2C315&s=66437050f902ea116d2e14fadb9f45c2"
+            },
+            "logo_id": "21214023",
+            "name": {
+                "html": "Science Summit",
+                "text": "Science Summit"
+            },
+            "online_event": false,
+            "organizer_id": "8384351483",
+            "privacy_setting": "unlocked",
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/25552079959/",
+            "shareable": true,
+            "start": {
+                "local": "2016-12-03T19:00:00",
+                "timezone": "Europe/Bucharest",
+                "utc": "2016-12-03T17:00:00Z"
+            },
+            "status": "live",
+            "subcategory_id": "2002",
+            "tx_time_limit": 900,
+            "url": "http://www.eventbrite.com/e/science-summit-tickets-25552079959",
+            "venue_id": "15447749"
+        }
+    ],
+    "orgs": {
+        "2300226659": {
+            "description": {
+                "html": "<P>ScienceHUB este o retea formata din oameni de stiinta, jurnalisti si cercetatori interesati de promovarea catre publicul larg a cercetarii.</P>\r\n<P>\u00a0</P>",
+                "text": "ScienceHUB este o retea formata din oameni de stiinta, jurnalisti si cercetatori interesati de promovarea catre publicul larg a cercetarii.\r\n\u00a0"
+            },
+            "facebook": "stiinta",
+            "id": "8384351483",
+            "logo": {
+                "aspect_ratio": null,
+                "edge_color": null,
+                "edge_color_set": null,
+                "id": "21073247",
+                "url": "https://cdn.evbuc.com/images/21073247/149733979896/2/logo.png"
+            },
+            "long_description": {
+                "html": "<P>ScienceHUB este o retea formata din oameni de stiinta, jurnalisti si cercetatori interesati de promovarea catre publicul larg a cercetarii.</P>\r\n<P>\u00a0</P>",
+                "text": "ScienceHUB este o retea formata din oameni de stiinta, jurnalisti si cercetatori interesati de promovarea catre publicul larg a cercetarii.\r\n\u00a0"
+            },
+            "name": "ScienceHUB",
+            "resource_uri": "https://www.eventbriteapi.com/v3/organizers/8384351483/",
+            "twitter": "@stiinta",
+            "url": "http://www.eventbrite.com/o/sciencehub-8384351483",
+            "vanity_url": "http://sciencehub.eventbrite.com",
+            "website": "http://www.stiintaazi.ro"
+        },
+        "2491303902": {
+            "description": {
+                "html": "<P>ScienceHUB este o retea formata din oameni de stiinta, jurnalisti si cercetatori interesati de promovarea catre publicul larg a cercetarii.</P>\r\n<P>\u00a0</P>",
+                "text": "ScienceHUB este o retea formata din oameni de stiinta, jurnalisti si cercetatori interesati de promovarea catre publicul larg a cercetarii.\r\n\u00a0"
+            },
+            "facebook": "stiinta",
+            "id": "8384351483",
+            "logo": {
+                "aspect_ratio": null,
+                "edge_color": null,
+                "edge_color_set": null,
+                "id": "21073247",
+                "url": "https://cdn.evbuc.com/images/21073247/149733979896/2/logo.png"
+            },
+            "long_description": {
+                "html": "<P>ScienceHUB este o retea formata din oameni de stiinta, jurnalisti si cercetatori interesati de promovarea catre publicul larg a cercetarii.</P>\r\n<P>\u00a0</P>",
+                "text": "ScienceHUB este o retea formata din oameni de stiinta, jurnalisti si cercetatori interesati de promovarea catre publicul larg a cercetarii.\r\n\u00a0"
+            },
+            "name": "ScienceHUB",
+            "resource_uri": "https://www.eventbriteapi.com/v3/organizers/8384351483/",
+            "twitter": "@stiinta",
+            "url": "http://www.eventbrite.com/o/sciencehub-8384351483",
+            "vanity_url": "http://sciencehub.eventbrite.com",
+            "website": "http://www.stiintaazi.ro"
+        },
+        "2761218168": {
+            "description": {
+                "html": "<P>ScienceHUB este o retea formata din oameni de stiinta, jurnalisti si cercetatori interesati de promovarea catre publicul larg a cercetarii.</P>\r\n<P>\u00a0</P>",
+                "text": "ScienceHUB este o retea formata din oameni de stiinta, jurnalisti si cercetatori interesati de promovarea catre publicul larg a cercetarii.\r\n\u00a0"
+            },
+            "facebook": "stiinta",
+            "id": "8384351483",
+            "logo": {
+                "aspect_ratio": null,
+                "edge_color": null,
+                "edge_color_set": null,
+                "id": "21073247",
+                "url": "https://cdn.evbuc.com/images/21073247/149733979896/2/logo.png"
+            },
+            "long_description": {
+                "html": "<P>ScienceHUB este o retea formata din oameni de stiinta, jurnalisti si cercetatori interesati de promovarea catre publicul larg a cercetarii.</P>\r\n<P>\u00a0</P>",
+                "text": "ScienceHUB este o retea formata din oameni de stiinta, jurnalisti si cercetatori interesati de promovarea catre publicul larg a cercetarii.\r\n\u00a0"
+            },
+            "name": "ScienceHUB",
+            "resource_uri": "https://www.eventbriteapi.com/v3/organizers/8384351483/",
+            "twitter": "@stiinta",
+            "url": "http://www.eventbrite.com/o/sciencehub-8384351483",
+            "vanity_url": "http://sciencehub.eventbrite.com",
+            "website": "http://www.stiintaazi.ro"
+        },
+        "3001324227": {
+            "description": {
+                "html": "<P>ScienceHUB este o retea formata din oameni de stiinta, jurnalisti si cercetatori interesati de promovarea catre publicul larg a cercetarii.</P>\r\n<P>\u00a0</P>",
+                "text": "ScienceHUB este o retea formata din oameni de stiinta, jurnalisti si cercetatori interesati de promovarea catre publicul larg a cercetarii.\r\n\u00a0"
+            },
+            "facebook": "stiinta",
+            "id": "8384351483",
+            "logo": {
+                "aspect_ratio": null,
+                "edge_color": null,
+                "edge_color_set": null,
+                "id": "21073247",
+                "url": "https://cdn.evbuc.com/images/21073247/149733979896/2/logo.png"
+            },
+            "long_description": {
+                "html": "<P>ScienceHUB este o retea formata din oameni de stiinta, jurnalisti si cercetatori interesati de promovarea catre publicul larg a cercetarii.</P>\r\n<P>\u00a0</P>",
+                "text": "ScienceHUB este o retea formata din oameni de stiinta, jurnalisti si cercetatori interesati de promovarea catre publicul larg a cercetarii.\r\n\u00a0"
+            },
+            "name": "ScienceHUB",
+            "resource_uri": "https://www.eventbriteapi.com/v3/organizers/8384351483/",
+            "twitter": "@stiinta",
+            "url": "http://www.eventbrite.com/o/sciencehub-8384351483",
+            "vanity_url": "http://sciencehub.eventbrite.com",
+            "website": "http://www.stiintaazi.ro"
+        },
+        "3168795376": {
+            "description": {
+                "html": "<P>ScienceHUB este o retea formata din oameni de stiinta, jurnalisti si cercetatori interesati de promovarea catre publicul larg a cercetarii.</P>\r\n<P>\u00a0</P>",
+                "text": "ScienceHUB este o retea formata din oameni de stiinta, jurnalisti si cercetatori interesati de promovarea catre publicul larg a cercetarii.\r\n\u00a0"
+            },
+            "facebook": "stiinta",
+            "id": "8384351483",
+            "logo": {
+                "aspect_ratio": null,
+                "edge_color": null,
+                "edge_color_set": null,
+                "id": "21073247",
+                "url": "https://cdn.evbuc.com/images/21073247/149733979896/2/logo.png"
+            },
+            "long_description": {
+                "html": "<P>ScienceHUB este o retea formata din oameni de stiinta, jurnalisti si cercetatori interesati de promovarea catre publicul larg a cercetarii.</P>\r\n<P>\u00a0</P>",
+                "text": "ScienceHUB este o retea formata din oameni de stiinta, jurnalisti si cercetatori interesati de promovarea catre publicul larg a cercetarii.\r\n\u00a0"
+            },
+            "name": "ScienceHUB",
+            "resource_uri": "https://www.eventbriteapi.com/v3/organizers/8384351483/",
+            "twitter": "@stiinta",
+            "url": "http://www.eventbrite.com/o/sciencehub-8384351483",
+            "vanity_url": "http://sciencehub.eventbrite.com",
+            "website": "http://www.stiintaazi.ro"
+        },
+        "3367422098": {
+            "description": {
+                "html": "<P>ScienceHUB este o retea formata din oameni de stiinta, jurnalisti si cercetatori interesati de promovarea catre publicul larg a cercetarii.</P>\r\n<P>\u00a0</P>",
+                "text": "ScienceHUB este o retea formata din oameni de stiinta, jurnalisti si cercetatori interesati de promovarea catre publicul larg a cercetarii.\r\n\u00a0"
+            },
+            "facebook": "stiinta",
+            "id": "8384351483",
+            "logo": {
+                "aspect_ratio": null,
+                "edge_color": null,
+                "edge_color_set": null,
+                "id": "21073247",
+                "url": "https://cdn.evbuc.com/images/21073247/149733979896/2/logo.png"
+            },
+            "long_description": {
+                "html": "<P>ScienceHUB este o retea formata din oameni de stiinta, jurnalisti si cercetatori interesati de promovarea catre publicul larg a cercetarii.</P>\r\n<P>\u00a0</P>",
+                "text": "ScienceHUB este o retea formata din oameni de stiinta, jurnalisti si cercetatori interesati de promovarea catre publicul larg a cercetarii.\r\n\u00a0"
+            },
+            "name": "ScienceHUB",
+            "resource_uri": "https://www.eventbriteapi.com/v3/organizers/8384351483/",
+            "twitter": "@stiinta",
+            "url": "http://www.eventbrite.com/o/sciencehub-8384351483",
+            "vanity_url": "http://sciencehub.eventbrite.com",
+            "website": "http://www.stiintaazi.ro"
+        },
+        "4138472935": {
+            "description": {
+                "html": "<P>ScienceHUB este o retea formata din oameni de stiinta, jurnalisti si cercetatori interesati de promovarea catre publicul larg a cercetarii.</P>\r\n<P>\u00a0</P>",
+                "text": "ScienceHUB este o retea formata din oameni de stiinta, jurnalisti si cercetatori interesati de promovarea catre publicul larg a cercetarii.\r\n\u00a0"
+            },
+            "facebook": "stiinta",
+            "id": "8384351483",
+            "logo": {
+                "aspect_ratio": null,
+                "edge_color": null,
+                "edge_color_set": null,
+                "id": "21073247",
+                "url": "https://cdn.evbuc.com/images/21073247/149733979896/2/logo.png"
+            },
+            "long_description": {
+                "html": "<P>ScienceHUB este o retea formata din oameni de stiinta, jurnalisti si cercetatori interesati de promovarea catre publicul larg a cercetarii.</P>\r\n<P>\u00a0</P>",
+                "text": "ScienceHUB este o retea formata din oameni de stiinta, jurnalisti si cercetatori interesati de promovarea catre publicul larg a cercetarii.\r\n\u00a0"
+            },
+            "name": "ScienceHUB",
+            "resource_uri": "https://www.eventbriteapi.com/v3/organizers/8384351483/",
+            "twitter": "@stiinta",
+            "url": "http://www.eventbrite.com/o/sciencehub-8384351483",
+            "vanity_url": "http://sciencehub.eventbrite.com",
+            "website": "http://www.stiintaazi.ro"
+        },
+        "4206997271": {
+            "description": {
+                "html": "<P>ScienceHUB este o retea formata din oameni de stiinta, jurnalisti si cercetatori interesati de promovarea catre publicul larg a cercetarii.</P>\r\n<P>\u00a0</P>",
+                "text": "ScienceHUB este o retea formata din oameni de stiinta, jurnalisti si cercetatori interesati de promovarea catre publicul larg a cercetarii.\r\n\u00a0"
+            },
+            "facebook": "stiinta",
+            "id": "8384351483",
+            "logo": {
+                "aspect_ratio": null,
+                "edge_color": null,
+                "edge_color_set": null,
+                "id": "21073247",
+                "url": "https://cdn.evbuc.com/images/21073247/149733979896/2/logo.png"
+            },
+            "long_description": {
+                "html": "<P>ScienceHUB este o retea formata din oameni de stiinta, jurnalisti si cercetatori interesati de promovarea catre publicul larg a cercetarii.</P>\r\n<P>\u00a0</P>",
+                "text": "ScienceHUB este o retea formata din oameni de stiinta, jurnalisti si cercetatori interesati de promovarea catre publicul larg a cercetarii.\r\n\u00a0"
+            },
+            "name": "ScienceHUB",
+            "resource_uri": "https://www.eventbriteapi.com/v3/organizers/8384351483/",
+            "twitter": "@stiinta",
+            "url": "http://www.eventbrite.com/o/sciencehub-8384351483",
+            "vanity_url": "http://sciencehub.eventbrite.com",
+            "website": "http://www.stiintaazi.ro"
+        },
+        "4246372985": {
+            "description": {
+                "html": "<P>ScienceHUB este o retea formata din oameni de stiinta, jurnalisti si cercetatori interesati de promovarea catre publicul larg a cercetarii.</P>\r\n<P>\u00a0</P>",
+                "text": "ScienceHUB este o retea formata din oameni de stiinta, jurnalisti si cercetatori interesati de promovarea catre publicul larg a cercetarii.\r\n\u00a0"
+            },
+            "facebook": "stiinta",
+            "id": "8384351483",
+            "logo": {
+                "aspect_ratio": null,
+                "edge_color": null,
+                "edge_color_set": null,
+                "id": "21073247",
+                "url": "https://cdn.evbuc.com/images/21073247/149733979896/2/logo.png"
+            },
+            "long_description": {
+                "html": "<P>ScienceHUB este o retea formata din oameni de stiinta, jurnalisti si cercetatori interesati de promovarea catre publicul larg a cercetarii.</P>\r\n<P>\u00a0</P>",
+                "text": "ScienceHUB este o retea formata din oameni de stiinta, jurnalisti si cercetatori interesati de promovarea catre publicul larg a cercetarii.\r\n\u00a0"
+            },
+            "name": "ScienceHUB",
+            "resource_uri": "https://www.eventbriteapi.com/v3/organizers/8384351483/",
+            "twitter": "@stiinta",
+            "url": "http://www.eventbrite.com/o/sciencehub-8384351483",
+            "vanity_url": "http://sciencehub.eventbrite.com",
+            "website": "http://www.stiintaazi.ro"
+        },
+        "4662547959": {
+            "description": {
+                "html": "<P>ScienceHUB este o retea formata din oameni de stiinta, jurnalisti si cercetatori interesati de promovarea catre publicul larg a cercetarii.</P>\r\n<P>\u00a0</P>",
+                "text": "ScienceHUB este o retea formata din oameni de stiinta, jurnalisti si cercetatori interesati de promovarea catre publicul larg a cercetarii.\r\n\u00a0"
+            },
+            "facebook": "stiinta",
+            "id": "8384351483",
+            "logo": {
+                "aspect_ratio": null,
+                "edge_color": null,
+                "edge_color_set": null,
+                "id": "21073247",
+                "url": "https://cdn.evbuc.com/images/21073247/149733979896/2/logo.png"
+            },
+            "long_description": {
+                "html": "<P>ScienceHUB este o retea formata din oameni de stiinta, jurnalisti si cercetatori interesati de promovarea catre publicul larg a cercetarii.</P>\r\n<P>\u00a0</P>",
+                "text": "ScienceHUB este o retea formata din oameni de stiinta, jurnalisti si cercetatori interesati de promovarea catre publicul larg a cercetarii.\r\n\u00a0"
+            },
+            "name": "ScienceHUB",
+            "resource_uri": "https://www.eventbriteapi.com/v3/organizers/8384351483/",
+            "twitter": "@stiinta",
+            "url": "http://www.eventbrite.com/o/sciencehub-8384351483",
+            "vanity_url": "http://sciencehub.eventbrite.com",
+            "website": "http://www.stiintaazi.ro"
+        },
+        "5899601137": {
+            "description": {
+                "html": "<P>ScienceHUB este o retea formata din oameni de stiinta, jurnalisti si cercetatori interesati de promovarea catre publicul larg a cercetarii.</P>\r\n<P>\u00a0</P>",
+                "text": "ScienceHUB este o retea formata din oameni de stiinta, jurnalisti si cercetatori interesati de promovarea catre publicul larg a cercetarii.\r\n\u00a0"
+            },
+            "facebook": "stiinta",
+            "id": "8384351483",
+            "logo": {
+                "aspect_ratio": null,
+                "edge_color": null,
+                "edge_color_set": null,
+                "id": "21073247",
+                "url": "https://cdn.evbuc.com/images/21073247/149733979896/2/logo.png"
+            },
+            "long_description": {
+                "html": "<P>ScienceHUB este o retea formata din oameni de stiinta, jurnalisti si cercetatori interesati de promovarea catre publicul larg a cercetarii.</P>\r\n<P>\u00a0</P>",
+                "text": "ScienceHUB este o retea formata din oameni de stiinta, jurnalisti si cercetatori interesati de promovarea catre publicul larg a cercetarii.\r\n\u00a0"
+            },
+            "name": "ScienceHUB",
+            "resource_uri": "https://www.eventbriteapi.com/v3/organizers/8384351483/",
+            "twitter": "@stiinta",
+            "url": "http://www.eventbrite.com/o/sciencehub-8384351483",
+            "vanity_url": "http://sciencehub.eventbrite.com",
+            "website": "http://www.stiintaazi.ro"
+        },
+        "6397991619": {
+            "description": {
+                "html": "<P>ScienceHUB este o retea formata din oameni de stiinta, jurnalisti si cercetatori interesati de promovarea catre publicul larg a cercetarii.</P>\r\n<P>\u00a0</P>",
+                "text": "ScienceHUB este o retea formata din oameni de stiinta, jurnalisti si cercetatori interesati de promovarea catre publicul larg a cercetarii.\r\n\u00a0"
+            },
+            "facebook": "stiinta",
+            "id": "8384351483",
+            "logo": {
+                "aspect_ratio": null,
+                "edge_color": null,
+                "edge_color_set": null,
+                "id": "21073247",
+                "url": "https://cdn.evbuc.com/images/21073247/149733979896/2/logo.png"
+            },
+            "long_description": {
+                "html": "<P>ScienceHUB este o retea formata din oameni de stiinta, jurnalisti si cercetatori interesati de promovarea catre publicul larg a cercetarii.</P>\r\n<P>\u00a0</P>",
+                "text": "ScienceHUB este o retea formata din oameni de stiinta, jurnalisti si cercetatori interesati de promovarea catre publicul larg a cercetarii.\r\n\u00a0"
+            },
+            "name": "ScienceHUB",
+            "resource_uri": "https://www.eventbriteapi.com/v3/organizers/8384351483/",
+            "twitter": "@stiinta",
+            "url": "http://www.eventbrite.com/o/sciencehub-8384351483",
+            "vanity_url": "http://sciencehub.eventbrite.com",
+            "website": "http://www.stiintaazi.ro"
+        },
+        "6671021543": {
+            "description": {
+                "html": "<P>ScienceHUB este o retea formata din oameni de stiinta, jurnalisti si cercetatori interesati de promovarea catre publicul larg a cercetarii.</P>\r\n<P>\u00a0</P>",
+                "text": "ScienceHUB este o retea formata din oameni de stiinta, jurnalisti si cercetatori interesati de promovarea catre publicul larg a cercetarii.\r\n\u00a0"
+            },
+            "facebook": "stiinta",
+            "id": "8384351483",
+            "logo": {
+                "aspect_ratio": null,
+                "edge_color": null,
+                "edge_color_set": null,
+                "id": "21073247",
+                "url": "https://cdn.evbuc.com/images/21073247/149733979896/2/logo.png"
+            },
+            "long_description": {
+                "html": "<P>ScienceHUB este o retea formata din oameni de stiinta, jurnalisti si cercetatori interesati de promovarea catre publicul larg a cercetarii.</P>\r\n<P>\u00a0</P>",
+                "text": "ScienceHUB este o retea formata din oameni de stiinta, jurnalisti si cercetatori interesati de promovarea catre publicul larg a cercetarii.\r\n\u00a0"
+            },
+            "name": "ScienceHUB",
+            "resource_uri": "https://www.eventbriteapi.com/v3/organizers/8384351483/",
+            "twitter": "@stiinta",
+            "url": "http://www.eventbrite.com/o/sciencehub-8384351483",
+            "vanity_url": "http://sciencehub.eventbrite.com",
+            "website": "http://www.stiintaazi.ro"
+        },
+        "6795968089": {
+            "description": {
+                "html": "<P>ScienceHUB este o retea formata din oameni de stiinta, jurnalisti si cercetatori interesati de promovarea catre publicul larg a cercetarii.</P>\r\n<P>\u00a0</P>",
+                "text": "ScienceHUB este o retea formata din oameni de stiinta, jurnalisti si cercetatori interesati de promovarea catre publicul larg a cercetarii.\r\n\u00a0"
+            },
+            "facebook": "stiinta",
+            "id": "8384351483",
+            "logo": {
+                "aspect_ratio": null,
+                "edge_color": null,
+                "edge_color_set": null,
+                "id": "21073247",
+                "url": "https://cdn.evbuc.com/images/21073247/149733979896/2/logo.png"
+            },
+            "long_description": {
+                "html": "<P>ScienceHUB este o retea formata din oameni de stiinta, jurnalisti si cercetatori interesati de promovarea catre publicul larg a cercetarii.</P>\r\n<P>\u00a0</P>",
+                "text": "ScienceHUB este o retea formata din oameni de stiinta, jurnalisti si cercetatori interesati de promovarea catre publicul larg a cercetarii.\r\n\u00a0"
+            },
+            "name": "ScienceHUB",
+            "resource_uri": "https://www.eventbriteapi.com/v3/organizers/8384351483/",
+            "twitter": "@stiinta",
+            "url": "http://www.eventbrite.com/o/sciencehub-8384351483",
+            "vanity_url": "http://sciencehub.eventbrite.com",
+            "website": "http://www.stiintaazi.ro"
+        },
+        "6873285549": {
+            "description": {
+                "html": "<P>ScienceHUB este o retea formata din oameni de stiinta, jurnalisti si cercetatori interesati de promovarea catre publicul larg a cercetarii.</P>\r\n<P>\u00a0</P>",
+                "text": "ScienceHUB este o retea formata din oameni de stiinta, jurnalisti si cercetatori interesati de promovarea catre publicul larg a cercetarii.\r\n\u00a0"
+            },
+            "facebook": "stiinta",
+            "id": "8384351483",
+            "logo": {
+                "aspect_ratio": null,
+                "edge_color": null,
+                "edge_color_set": null,
+                "id": "21073247",
+                "url": "https://cdn.evbuc.com/images/21073247/149733979896/2/logo.png"
+            },
+            "long_description": {
+                "html": "<P>ScienceHUB este o retea formata din oameni de stiinta, jurnalisti si cercetatori interesati de promovarea catre publicul larg a cercetarii.</P>\r\n<P>\u00a0</P>",
+                "text": "ScienceHUB este o retea formata din oameni de stiinta, jurnalisti si cercetatori interesati de promovarea catre publicul larg a cercetarii.\r\n\u00a0"
+            },
+            "name": "ScienceHUB",
+            "resource_uri": "https://www.eventbriteapi.com/v3/organizers/8384351483/",
+            "twitter": "@stiinta",
+            "url": "http://www.eventbrite.com/o/sciencehub-8384351483",
+            "vanity_url": "http://sciencehub.eventbrite.com",
+            "website": "http://www.stiintaazi.ro"
+        },
+        "6886785391": {
+            "description": {
+                "html": "<P>ScienceHUB este o retea formata din oameni de stiinta, jurnalisti si cercetatori interesati de promovarea catre publicul larg a cercetarii.</P>\r\n<P>\u00a0</P>",
+                "text": "ScienceHUB este o retea formata din oameni de stiinta, jurnalisti si cercetatori interesati de promovarea catre publicul larg a cercetarii.\r\n\u00a0"
+            },
+            "facebook": "stiinta",
+            "id": "8384351483",
+            "logo": {
+                "aspect_ratio": null,
+                "edge_color": null,
+                "edge_color_set": null,
+                "id": "21073247",
+                "url": "https://cdn.evbuc.com/images/21073247/149733979896/2/logo.png"
+            },
+            "long_description": {
+                "html": "<P>ScienceHUB este o retea formata din oameni de stiinta, jurnalisti si cercetatori interesati de promovarea catre publicul larg a cercetarii.</P>\r\n<P>\u00a0</P>",
+                "text": "ScienceHUB este o retea formata din oameni de stiinta, jurnalisti si cercetatori interesati de promovarea catre publicul larg a cercetarii.\r\n\u00a0"
+            },
+            "name": "ScienceHUB",
+            "resource_uri": "https://www.eventbriteapi.com/v3/organizers/8384351483/",
+            "twitter": "@stiinta",
+            "url": "http://www.eventbrite.com/o/sciencehub-8384351483",
+            "vanity_url": "http://sciencehub.eventbrite.com",
+            "website": "http://www.stiintaazi.ro"
+        },
+        "7802438407": {
+            "description": {
+                "html": "<P>ScienceHUB este o retea formata din oameni de stiinta, jurnalisti si cercetatori interesati de promovarea catre publicul larg a cercetarii.</P>\r\n<P>\u00a0</P>",
+                "text": "ScienceHUB este o retea formata din oameni de stiinta, jurnalisti si cercetatori interesati de promovarea catre publicul larg a cercetarii.\r\n\u00a0"
+            },
+            "facebook": "stiinta",
+            "id": "8384351483",
+            "logo": {
+                "aspect_ratio": null,
+                "edge_color": null,
+                "edge_color_set": null,
+                "id": "21073247",
+                "url": "https://cdn.evbuc.com/images/21073247/149733979896/2/logo.png"
+            },
+            "long_description": {
+                "html": "<P>ScienceHUB este o retea formata din oameni de stiinta, jurnalisti si cercetatori interesati de promovarea catre publicul larg a cercetarii.</P>\r\n<P>\u00a0</P>",
+                "text": "ScienceHUB este o retea formata din oameni de stiinta, jurnalisti si cercetatori interesati de promovarea catre publicul larg a cercetarii.\r\n\u00a0"
+            },
+            "name": "ScienceHUB",
+            "resource_uri": "https://www.eventbriteapi.com/v3/organizers/8384351483/",
+            "twitter": "@stiinta",
+            "url": "http://www.eventbrite.com/o/sciencehub-8384351483",
+            "vanity_url": "http://sciencehub.eventbrite.com",
+            "website": "http://www.stiintaazi.ro"
+        },
+        "8767089022": {
+            "description": {
+                "html": "<P>ScienceHUB este o retea formata din oameni de stiinta, jurnalisti si cercetatori interesati de promovarea catre publicul larg a cercetarii.</P>\r\n<P>\u00a0</P>",
+                "text": "ScienceHUB este o retea formata din oameni de stiinta, jurnalisti si cercetatori interesati de promovarea catre publicul larg a cercetarii.\r\n\u00a0"
+            },
+            "facebook": "stiinta",
+            "id": "8384351483",
+            "logo": {
+                "aspect_ratio": null,
+                "edge_color": null,
+                "edge_color_set": null,
+                "id": "21073247",
+                "url": "https://cdn.evbuc.com/images/21073247/149733979896/2/logo.png"
+            },
+            "long_description": {
+                "html": "<P>ScienceHUB este o retea formata din oameni de stiinta, jurnalisti si cercetatori interesati de promovarea catre publicul larg a cercetarii.</P>\r\n<P>\u00a0</P>",
+                "text": "ScienceHUB este o retea formata din oameni de stiinta, jurnalisti si cercetatori interesati de promovarea catre publicul larg a cercetarii.\r\n\u00a0"
+            },
+            "name": "ScienceHUB",
+            "resource_uri": "https://www.eventbriteapi.com/v3/organizers/8384351483/",
+            "twitter": "@stiinta",
+            "url": "http://www.eventbrite.com/o/sciencehub-8384351483",
+            "vanity_url": "http://sciencehub.eventbrite.com",
+            "website": "http://www.stiintaazi.ro"
+        },
+        "9377817403": {
+            "description": {
+                "html": "<P>ScienceHUB este o retea formata din oameni de stiinta, jurnalisti si cercetatori interesati de promovarea catre publicul larg a cercetarii.</P>\r\n<P>\u00a0</P>",
+                "text": "ScienceHUB este o retea formata din oameni de stiinta, jurnalisti si cercetatori interesati de promovarea catre publicul larg a cercetarii.\r\n\u00a0"
+            },
+            "facebook": "stiinta",
+            "id": "8384351483",
+            "logo": {
+                "aspect_ratio": null,
+                "edge_color": null,
+                "edge_color_set": null,
+                "id": "21073247",
+                "url": "https://cdn.evbuc.com/images/21073247/149733979896/2/logo.png"
+            },
+            "long_description": {
+                "html": "<P>ScienceHUB este o retea formata din oameni de stiinta, jurnalisti si cercetatori interesati de promovarea catre publicul larg a cercetarii.</P>\r\n<P>\u00a0</P>",
+                "text": "ScienceHUB este o retea formata din oameni de stiinta, jurnalisti si cercetatori interesati de promovarea catre publicul larg a cercetarii.\r\n\u00a0"
+            },
+            "name": "ScienceHUB",
+            "resource_uri": "https://www.eventbriteapi.com/v3/organizers/8384351483/",
+            "twitter": "@stiinta",
+            "url": "http://www.eventbrite.com/o/sciencehub-8384351483",
+            "vanity_url": "http://sciencehub.eventbrite.com",
+            "website": "http://www.stiintaazi.ro"
+        },
+        "10949312400": {
+            "description": {
+                "html": "<P>ScienceHUB este o retea formata din oameni de stiinta, jurnalisti si cercetatori interesati de promovarea catre publicul larg a cercetarii.</P>\r\n<P>\u00a0</P>",
+                "text": "ScienceHUB este o retea formata din oameni de stiinta, jurnalisti si cercetatori interesati de promovarea catre publicul larg a cercetarii.\r\n\u00a0"
+            },
+            "facebook": "stiinta",
+            "id": "8384351483",
+            "logo": {
+                "aspect_ratio": null,
+                "edge_color": null,
+                "edge_color_set": null,
+                "id": "21073247",
+                "url": "https://cdn.evbuc.com/images/21073247/149733979896/2/logo.png"
+            },
+            "long_description": {
+                "html": "<P>ScienceHUB este o retea formata din oameni de stiinta, jurnalisti si cercetatori interesati de promovarea catre publicul larg a cercetarii.</P>\r\n<P>\u00a0</P>",
+                "text": "ScienceHUB este o retea formata din oameni de stiinta, jurnalisti si cercetatori interesati de promovarea catre publicul larg a cercetarii.\r\n\u00a0"
+            },
+            "name": "ScienceHUB",
+            "resource_uri": "https://www.eventbriteapi.com/v3/organizers/8384351483/",
+            "twitter": "@stiinta",
+            "url": "http://www.eventbrite.com/o/sciencehub-8384351483",
+            "vanity_url": "http://sciencehub.eventbrite.com",
+            "website": "http://www.stiintaazi.ro"
+        },
+        "10963965257": {
+            "description": {
+                "html": "<P>ScienceHUB este o retea formata din oameni de stiinta, jurnalisti si cercetatori interesati de promovarea catre publicul larg a cercetarii.</P>\r\n<P>\u00a0</P>",
+                "text": "ScienceHUB este o retea formata din oameni de stiinta, jurnalisti si cercetatori interesati de promovarea catre publicul larg a cercetarii.\r\n\u00a0"
+            },
+            "facebook": "stiinta",
+            "id": "8384351483",
+            "logo": {
+                "aspect_ratio": null,
+                "edge_color": null,
+                "edge_color_set": null,
+                "id": "21073247",
+                "url": "https://cdn.evbuc.com/images/21073247/149733979896/2/logo.png"
+            },
+            "long_description": {
+                "html": "<P>ScienceHUB este o retea formata din oameni de stiinta, jurnalisti si cercetatori interesati de promovarea catre publicul larg a cercetarii.</P>\r\n<P>\u00a0</P>",
+                "text": "ScienceHUB este o retea formata din oameni de stiinta, jurnalisti si cercetatori interesati de promovarea catre publicul larg a cercetarii.\r\n\u00a0"
+            },
+            "name": "ScienceHUB",
+            "resource_uri": "https://www.eventbriteapi.com/v3/organizers/8384351483/",
+            "twitter": "@stiinta",
+            "url": "http://www.eventbrite.com/o/sciencehub-8384351483",
+            "vanity_url": "http://sciencehub.eventbrite.com",
+            "website": "http://www.stiintaazi.ro"
+        }
+    },
+    "venues": {
+        "15447749": {
+            "address": {
+                "address_1": "1-3 Strada Episcopiei",
+                "address_2": null,
+                "city": "Bucure\u0219ti",
+                "country": "RO",
+                "latitude": "44.440973",
+                "longitude": "26.095579000000043",
+                "postal_code": "010292",
+                "region": null
+            },
+            "id": "15447749",
+            "latitude": "44.440973",
+            "longitude": "26.095579000000043",
+            "name": "Athenee Palace Hilton Bucharest",
+            "resource_uri": "https://www.eventbriteapi.com/v3/venues/15447749/"
+        }
+    }
+}

@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+import json
 import sys
 
 import utils
@@ -60,8 +61,13 @@ excluded_organizers = {
   10952849991, # http://www.eventbrite.co.uk/o/art-live-10952849991
   10902884665, # http://www.eventbrite.com/o/10902884665
   10942128462, # http://www.eventbrite.com/o/eurotech-assessment-and-certification-services-pvt-ltd-10942128462
+  9631107106, # http://www.eventbrite.com/o/de-ce-nu-eu-9631107106
 }
 
+# TODO: make somehow API calls return historical events also
+# TODO: make API calls handle paging
+
+print ('Looking for new organizations')
 has_unknown_orgs = False
 events = utils.eventbriteApi('events/search/?venue.country=RO&include_unavailable_events=true')
 for e in events['events']:
@@ -76,4 +82,37 @@ for e in events['events']:
 if has_unknown_orgs:
   print('Had unknown orgs, stopping')
   sys.exit(1)
+
+
+orgs, venues, events = {}, {}, []
+
+for i, org_id in enumerate(included_organizers):
+  progress = '(%d/%d)' % (i+1, len(included_organizers))
+  print('Fetching organization data for %d %s' % (org_id, progress))
+  org = utils.eventbriteApi('organizers/%d/' % organizer_id)
+  orgs[org_id] = org
+
+  print('Fetching events for %d %s' % (org_id, progress))
+  org_events = utils.eventbriteApi(
+    'organizers/%d/events/?start_date.range_start=2010-01-01T00:00:00&status=all' % organizer_id)
+  events += org_events['events']
+
+
+unique_venues = frozenset(int(e['venue_id']) for e in events)
+for i, venue_id in enumerate(unique_venues):
+  progress = '(%d/%d)' % (i+1, len(unique_venues))
+  print('Fetching venue information for %d %s' % (venue_id, progress))
+  venue = utils.eventbriteApi('venues/%d/' % venue_id)
+  # some organizations do events world-wide, not in RO only
+  if venue['address']['country'] != 'RO': continue
+  venues[venue_id] = venue
+
+
+# filter out events not from RO
+events = [e for e in events if int(e['venue_id']) in venues]
+
+
+result = dict(orgs=orgs, venues=venues, events=events)
+with open('eventbrites.json', 'w') as f:
+  f.write(json.dumps(result, sort_keys=True, indent=4))
 
