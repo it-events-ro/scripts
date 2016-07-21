@@ -89,14 +89,13 @@ orgs, venues, events = {}, {}, []
 for i, org_id in enumerate(included_organizers):
   progress = '(%d/%d)' % (i+1, len(included_organizers))
   print('Fetching organization data for %d %s' % (org_id, progress))
-  org = utils.eventbriteApi('organizers/%d/' % organizer_id)
+  org = utils.eventbriteApi('organizers/%d/' % org_id)
   orgs[org_id] = org
 
   print('Fetching events for %d %s' % (org_id, progress))
   org_events = utils.eventbriteApi(
-    'organizers/%d/events/?start_date.range_start=2010-01-01T00:00:00&status=all' % organizer_id)
-  events += org_events['events']
-
+    'organizers/%d/events/?start_date.range_start=2010-01-01T00:00:00&status=all' % org_id)
+  events += [e for e in org_events['events'] if 'venue_id' in e and e['venue_id'] is not None]
 
 unique_venues = frozenset(int(e['venue_id']) for e in events)
 for i, venue_id in enumerate(unique_venues):
