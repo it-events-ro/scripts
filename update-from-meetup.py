@@ -18,25 +18,21 @@ meetup_data = {
   'groups': {},
 }
 
-for i, meetup_id in enumerate(meetup_ids):
-  print('Getting events for %s (%d/%d)' % (meetup_id, i+1, len(meetup_ids)))
-  try:
-    data = utils.meetupApi(
-      '%s/events?&page=%d&status=past,upcoming' % (meetup_id, NO_EVENTS_TO_FETCH))
-    if not isinstance(data, list):
-      print('!!! Unexpected shape of response for %s:\n%s' % (meetup_id, data))
-      continue
-    meetup_data['events'][meetup_id] = data
-  except Exception as e:
-    print('There was an error processing %s: %s' % (meetup_id, e))
+def _getEvents(meetup_id):
+  data = utils.meetupApi(
+    '%s/events?&page=%d&status=past,upcoming' % (meetup_id, NO_EVENTS_TO_FETCH))
+  if not isinstance(data, list):
+    print('!!! Unexpected shape of response for %s:\n%s' % (meetup_id, data))
+    return
+  meetup_data['events'][meetup_id] = data
+utils.repeat(meetup_ids, 'Getting events for %s', _getEvents)
 
-
-group_urlids = sorted(
-  set(e['group']['urlname'] for events in meetup_data['events'].values() for e in events))
-for i, group_urlid in enumerate(group_urlids):
-  print('Getting group info for %s (%d/%d)' % (group_urlid, i+1, len(group_urlids)))
+def _getGroupInfo(group_urlid):
   data = utils.meetupApi(group_urlid)
   meetup_data['groups'][group_urlid] = data
+group_urlids = sorted(
+  set(e['group']['urlname'] for events in meetup_data['events'].values() for e in events))
+utils.repeat(group_urlids, 'Getting group info for %s', _getGroupInfo)
 
 
 with open('meetups.json', 'w') as f:

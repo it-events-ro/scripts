@@ -27,6 +27,7 @@ included_organizers = {
   4246372985, # http://www.eventbrite.com/o/hackathon-in-a-box-4246372985
   8767089022, # http://www.eventbrite.com.au/o/bm-college-8767089022
   6886785391, # http://www.eventbrite.com/o/sprint-consulting-6886785391
+  8270334915, # http://www.eventbrite.co.uk/o/msg-systems-romania-8270334915
 }
 
 excluded_organizers = {
@@ -62,6 +63,7 @@ excluded_organizers = {
   10902884665, # http://www.eventbrite.com/o/10902884665
   10942128462, # http://www.eventbrite.com/o/eurotech-assessment-and-certification-services-pvt-ltd-10942128462
   9631107106, # http://www.eventbrite.com/o/de-ce-nu-eu-9631107106
+  11054013211, # http://www.eventbrite.co.uk/o/first-people-solutions-aviation-11054013211
 }
 
 # TODO: make somehow API calls return historical events also
@@ -86,25 +88,25 @@ if has_unknown_orgs:
 
 orgs, venues, events = {}, {}, []
 
-for i, org_id in enumerate(included_organizers):
-  progress = '(%d/%d)' % (i+1, len(included_organizers))
-  print('Fetching organization data for %d %s' % (org_id, progress))
+def _getOrganizersAndEvents(org_id):
+  global events, orgs
   org = utils.eventbriteApi('organizers/%d/' % org_id)
   orgs[org_id] = org
 
-  print('Fetching events for %d %s' % (org_id, progress))
   org_events = utils.eventbriteApi(
     'organizers/%d/events/?start_date.range_start=2010-01-01T00:00:00&status=all' % org_id)
   events += [e for e in org_events['events'] if 'venue_id' in e and e['venue_id'] is not None]
+utils.repeat(included_organizers, 'Fetching organization data for %d', _getOrganizersAndEvents)
 
-unique_venues = frozenset(int(e['venue_id']) for e in events)
-for i, venue_id in enumerate(unique_venues):
-  progress = '(%d/%d)' % (i+1, len(unique_venues))
-  print('Fetching venue information for %d %s' % (venue_id, progress))
+
+def _getVenueInfo(venue_id):
+  global venues
   venue = utils.eventbriteApi('venues/%d/' % venue_id)
   # some organizations do events world-wide, not in RO only
-  if venue['address']['country'] != 'RO': continue
+  if venue['address']['country'] != 'RO': return
   venues[venue_id] = venue
+unique_venues = frozenset(int(e['venue_id']) for e in events)
+utils.repeat(unique_venues, 'Fetching venue information for %d', _getVenueInfo)
 
 
 # filter out events not from RO
