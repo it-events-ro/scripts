@@ -11,6 +11,7 @@ Cluj-Javascripters
 Cluj-JS
 Cluj-Mobile-Developers
 Cluj-Napoca-Python-and-Big-Data
+Cluj-NET-Community-Meetup
 Cluj-py
 cluj-rb
 Cluj-Semantic-WEB
