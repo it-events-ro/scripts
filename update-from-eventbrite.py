@@ -28,6 +28,7 @@ included_organizers = {
   8767089022, # http://www.eventbrite.com.au/o/bm-college-8767089022
   6886785391, # http://www.eventbrite.com/o/sprint-consulting-6886785391
   8270334915, # http://www.eventbrite.co.uk/o/msg-systems-romania-8270334915
+  2670928534, # http://www.eventbrite.com/o/itcamp-community-2670928534
 }
 
 excluded_organizers = {
@@ -64,6 +65,7 @@ excluded_organizers = {
   10942128462, # http://www.eventbrite.com/o/eurotech-assessment-and-certification-services-pvt-ltd-10942128462
   9631107106, # http://www.eventbrite.com/o/de-ce-nu-eu-9631107106
   11054013211, # http://www.eventbrite.co.uk/o/first-people-solutions-aviation-11054013211
+  10867523860, # http://www.eventbrite.com/o/igloo-media-10867523860
 }
 
 # TODO: make somehow API calls return historical events also

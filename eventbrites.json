@@ -3,7 +3,7 @@
         {
             "capacity": 80,
             "category_id": "102",
-            "changed": "2015-12-16T14:36:18Z",
+            "changed": "2016-07-26T09:50:38Z",
             "created": "2015-10-21T08:53:32Z",
             "currency": "USD",
             "description": {
@@ -25,8 +25,14 @@
             "is_series_parent": false,
             "listed": true,
             "locale": "en_US",
-            "logo": null,
-            "logo_id": null,
+            "logo": {
+                "aspect_ratio": "2",
+                "edge_color": "#956a58",
+                "edge_color_set": true,
+                "id": "22793064",
+                "url": "https://img.evbuc.com/http%3A%2F%2Fcdn.evbuc.com%2Fimages%2F22793064%2F131185095281%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C31%2C960%2C480&s=668c6f3b3352974f7385a68ca41a810e"
+            },
+            "logo_id": "22793064",
             "name": {
                 "html": "ADULTS LEARNING CODE",
                 "text": "ADULTS LEARNING CODE"
@@ -49,62 +55,9 @@
             "venue_id": "9386975"
         },
         {
-            "capacity": 18,
-            "category_id": "101",
-            "changed": "2016-07-23T10:48:42Z",
-            "created": "2016-07-22T09:19:48Z",
-            "currency": "EUR",
-            "description": {
-                "html": "<P><SPAN>First module, out of 2.</SPAN></P>\n<P><SPAN><STRONG>Andrei Gusan</STRONG> - Father of two. Designer by day and developer by night. who never sleeps\u2026 almost :) is going to talk about\u00a0</SPAN><STRONG>THE BASICS OF SEO.</STRONG></P>\n<P>Find out more about how Search Engines operate, why it's important and what can you do to increase your visibility on Google.</P>\n<P>Join us on Tuesday, 26 July, 2016, @InnoWork \u00a0</P>\n<UL>\n<LI>\n<P><SPAN>14 Seats available</SPAN></P>\n</LI>\n<LI>\n<P><SPAN>Access based on registration only</SPAN></P>\n</LI>\n</UL>\n<UL>\n<LI>\n<P><SPAN>15 RON Attendance Fee/ Free for Innowork coworkers</SPAN></P>\n</LI>\n</UL>\n<P>SEO is a marketing discipline focused on growing visibility in organic (non-paid) search engine results. SEO encompasses both the technical and creative elements required to improve rankings, drive traffic, and increase awareness in search engines. SEO isn't just about building search engine-friendly websites. It's about making your site better for people too.</P>\n<HR>\n<P>InnoWork:\u00a0WORK. CONNECT. CREATE.\u00a0InnoWork is an affordable and inspiring shared office environment for creatives, startups, and freelancers in Mures.\u00a0</P>",
-                "text": "First module, out of 2.\nAndrei Gusan - Father of two. Designer by day and developer by night. who never sleeps\u2026 almost :) is going to talk about\u00a0THE BASICS OF SEO.\nFind out more about how Search Engines operate, why it's important and what can you do to increase your visibility on Google.\nJoin us on Tuesday, 26 July, 2016, @InnoWork \u00a0\n\n\n14 Seats available\n\n\nAccess based on registration only\n\n\n\n\n15 RON Attendance Fee/ Free for Innowork coworkers\n\n\nSEO is a marketing discipline focused on growing visibility in organic (non-paid) search engine results. SEO encompasses both the technical and creative elements required to improve rankings, drive traffic, and increase awareness in search engines. SEO isn't just about building search engine-friendly websites. It's about making your site better for people too.\n\nInnoWork:\u00a0WORK. CONNECT. CREATE.\u00a0InnoWork is an affordable and inspiring shared office environment for creatives, startups, and freelancers in Mures.\u00a0"
-            },
-            "end": {
-                "local": "2016-07-26T20:00:00",
-                "timezone": "Europe/Bucharest",
-                "utc": "2016-07-26T17:00:00Z"
-            },
-            "format_id": "2",
-            "hide_end_date": false,
-            "hide_start_date": false,
-            "id": "26718713391",
-            "is_locked": false,
-            "is_reserved_seating": false,
-            "is_series": false,
-            "is_series_parent": false,
-            "listed": true,
-            "locale": "en_US",
-            "logo": {
-                "aspect_ratio": "2",
-                "edge_color": null,
-                "edge_color_set": true,
-                "id": "22718869",
-                "url": "https://img.evbuc.com/http%3A%2F%2Fcdn.evbuc.com%2Fimages%2F22718869%2F131185095281%2F1%2Foriginal.jpg?h=200&w=450&rect=470%2C0%2C1182%2C591&s=7232633c2ca3defdd505d9b1e043cd6d"
-            },
-            "logo_id": "22718869",
-            "name": {
-                "html": "SEO with Andrei Gusan",
-                "text": "SEO with Andrei Gusan"
-            },
-            "online_event": false,
-            "organizer_id": "7802438407",
-            "privacy_setting": "unlocked",
-            "resource_uri": "https://www.eventbriteapi.com/v3/events/26718713391/",
-            "shareable": true,
-            "start": {
-                "local": "2016-07-26T18:30:00",
-                "timezone": "Europe/Bucharest",
-                "utc": "2016-07-26T15:30:00Z"
-            },
-            "status": "live",
-            "subcategory_id": "1007",
-            "tx_time_limit": 480,
-            "url": "http://www.eventbrite.com/e/seo-with-andrei-gusan-tickets-26718713391",
-            "venue_id": "16075932"
-        },
-        {
-            "capacity": 20,
+            "capacity": 22,
             "category_id": "102",
-            "changed": "2016-07-23T10:51:16Z",
+            "changed": "2016-07-27T07:32:26Z",
             "created": "2016-07-22T12:06:02Z",
             "currency": "EUR",
             "description": {
@@ -156,24 +109,24 @@
             "venue_id": "16075932"
         },
         {
-            "capacity": 44,
-            "category_id": "101",
-            "changed": "2016-07-23T07:35:25Z",
-            "created": "2016-07-01T09:43:24Z",
-            "currency": "EUR",
+            "capacity": 500,
+            "category_id": "102",
+            "changed": "2016-07-25T14:17:41Z",
+            "created": "2016-07-24T08:35:33Z",
+            "currency": "USD",
             "description": {
-                "html": "<H2>Vino al\u0103turi de noi pe 23 iulie 2016, \u00een Ia\u0219i, pentru un<STRONG> </STRONG><A HREF=\"http://schoolofcontent.net/cursuri-online-marketing/curs-content-marketing/\" TARGET=\"_blank\" TITLE=\"Curs intensiv Content Marketing pentru incepatori\" REL=\"nofollow\"><STRONG>Curs intensiv de </STRONG><STRONG>CONTENT MARKETING</STRONG> pentru \u00eencep\u0103tori</A>.\u00a0</H2>\n<DIV CLASS=\"et_pb_column et_pb_column_1_2  et_pb_column_1\">\n<DIV CLASS=\"et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_left  et_pb_text_1\">\n<H3><BR></H3>\n<H3><STRONG>Provocarea</STRONG></H3>\n<P>Mediul online este unul extrem de dinamic, \u00een fiecare an fiind create sute de siteuri noi, \u00een cele mai variate ni\u0219e. Provocarea nu mai este s\u0103-\u021bi \u201efaci un site\u201d, ci s\u0103 \u0219tii unde \u0219i cum s\u0103-l promovezi astfel \u00eenc\u00e2t s\u0103 ajungi la publicul t\u0103u \u021bint\u0103 \u0219i s\u0103-l determini s\u0103 ac\u021bioneze \u00een folosul t\u0103u.</P>\n<P><BR></P>\n</DIV>\n</DIV>\n<H3><STRONG>Cui ne adres\u0103m</STRONG></H3>\n<P>Content marketerilor care lucreaz\u0103 ca freelanceri sau \u00een cadrul unui departament online, celor care de\u021bin un site personal \u0219i vor s\u0103 \u00eenve\u021be cum s\u0103-l promoveze, companiilor IT \u0219i non-IT care doresc s\u0103-\u0219i \u00eembun\u0103t\u0103\u021beasc\u0103 prezen\u021ba online, celor care doresc o carier\u0103 \u00een marketing online.</P>\n<P><BR></P>\n<H3><STRONG>La finalul cursului vei \u0219ti s\u0103:</STRONG></H3>\n<UL>\n<LI>\n<P>\u00a0stabile\u0219ti scopul \u0219i etapele planului de content marketing</P>\n</LI>\n<LI>\n<P>identifici canalele cele mai potrivite pentru promovare</P>\n</LI>\n<LI>\n<P>determini publicul \u021bint\u0103 \u0219i nevoile lui</P>\n</LI>\n<LI>\n<P>realizezi un calendar de con\u021binut pentru blog \u0219i social media</P>\n</LI>\n<LI>\n<P>identifici cele mai relevante subiecte pentru siteul t\u0103u</P>\n</LI>\n<LI>\n<P>identifici oportunit\u0103\u021bi pentru backlinkuri</P>\n</LI>\n<LI>\n<P>alegi cele mai potrivite tipuri de con\u021binut \u00een func\u021bie de p\u00e2lnia de v\u00e2nz\u0103ri</P>\n</LI>\n<LI>\n<P>stabile\u0219ti metrici pentru m\u0103surarea rezultatelor</P>\n</LI>\n</UL>\n<P><BR></P>\n<DIV CLASS=\"et_pb_row et_pb_row_3\">\n<DIV CLASS=\"et_pb_column et_pb_column_4_4  et_pb_column_4\">\n<H2 CLASS=\"et_pb_text et_pb_module et_pb_bg_layout_dark et_pb_text_align_center  et_pb_text_4\"><STRONG>Structura cursului</STRONG></H2>\n<P><BR></P>\n</DIV>\n</DIV>\n<DIV CLASS=\"et_pb_row et_pb_row_4\">\n<DIV CLASS=\"et_pb_column et_pb_column_1_2  et_pb_column_5\">\n<DIV CLASS=\"et_pb_blurb et_pb_module et_pb_bg_layout_dark et_pb_text_align_justified  et_pb_blurb_0 et_pb_blurb_position_left\">\n<DIV CLASS=\"et_pb_blurb_content\">\n<DIV CLASS=\"et_pb_blurb_container\">\n<H3>1. Introducere \u00een content marketing</H3>\n<P>Ce \u00eenseamn\u0103 marketing de con\u021binut \u0219i ce abilit\u0103\u021bi trebuie s\u0103 aib\u0103 un content marketer.</P>\n</DIV>\n</DIV>\n</DIV>\n<DIV CLASS=\"et_pb_blurb et_pb_module et_pb_bg_layout_dark et_pb_text_align_justified  et_pb_blurb_1 et_pb_blurb_position_left\">\n<DIV CLASS=\"et_pb_blurb_content\">\n<DIV CLASS=\"et_pb_blurb_container\">\n<H3>2. Definirea obiectivelor \u0219i a publicului \u021bint\u0103</H3>\n<P>De ce facem content marketing \u0219i cui ne adres\u0103m? Definirea conceptelor de buyer persona \u0219i customer journey.</P>\n</DIV>\n</DIV>\n</DIV>\n<DIV CLASS=\"et_pb_blurb et_pb_module et_pb_bg_layout_dark et_pb_text_align_justified  et_pb_blurb_2 et_pb_blurb_position_left\">\n<DIV CLASS=\"et_pb_blurb_content\">\n<DIV CLASS=\"et_pb_blurb_container\">\n<H3>3. Cuvinte cheie \u0219i tipuri de con\u021binut</H3>\n<P>Ce \u0219i cum scriem pentru a fi g\u0103si\u021bi de publicul \u021bint\u0103? Definirea conceptelor head- \u0219i long-tail keywords. Tipuri de con\u021binut.</P>\n</DIV>\n</DIV>\n</DIV>\n</DIV>\n<DIV CLASS=\"et_pb_column et_pb_column_1_2  et_pb_column_6\">\n<DIV CLASS=\"et_pb_blurb et_pb_module et_pb_bg_layout_dark et_pb_text_align_justified  et_pb_blurb_3 et_pb_blurb_position_left\">\n<DIV CLASS=\"et_pb_blurb_content\">\n<DIV CLASS=\"et_pb_blurb_container\">\n<H3>4. Canale \u0219i solu\u021bii de promovare</H3>\n<P>Am creat con\u021binut pentru un site, unde \u0219i cum \u00eel distribuim? Prezentare platforme social media \u0219i definirea conceptului de blogger outreach.</P>\n</DIV>\n</DIV>\n</DIV>\n<DIV CLASS=\"et_pb_blurb et_pb_module et_pb_bg_layout_dark et_pb_text_align_justified  et_pb_blurb_4 et_pb_blurb_position_left\">\n<DIV CLASS=\"et_pb_blurb_content\">\n<DIV CLASS=\"et_pb_blurb_container\">\n<H3>5. Planul de content marketing</H3>\n<P>Organizarea activit\u0103\u021bilor \u0219i realizarea calendarului de con\u021binut. Definirea conceptelor de backlink, on-site \u0219i off-site SEO.</P>\n</DIV>\n</DIV>\n</DIV>\n<DIV CLASS=\"et_pb_blurb et_pb_module et_pb_bg_layout_dark et_pb_text_align_justified  et_pb_blurb_5 et_pb_blurb_position_left\">\n<DIV CLASS=\"et_pb_blurb_content\">\n<DIV CLASS=\"et_pb_blurb_container\">\n<H3>6. Tool-uri de automatizare \u0219i analiz\u0103</H3>\n<P>Ce instrumente folosim pentru a automatiza procesul de distribu\u021bie a con\u021binutului? Cum m\u0103sur\u0103m rezultatele, \u0219i ce metrici urm\u0103rim?</P>\n<H2><BR></H2>\n<DIV CLASS=\"et_pb_row et_pb_row_5\">\n<DIV CLASS=\"et_pb_column et_pb_column_4_4  et_pb_column_7\">\n<H2 CLASS=\"et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_left  et_pb_text_5\"><STRONG>De ce s\u0103 vii la curs?</STRONG></H2>\n<P>Content is king. C\u00e2t timp vor exista siteuri web, va fi nevoie de con\u021binut \u0219i implicit de oameni care s\u0103 creeze con\u021binutul \u0219i s\u0103-l promoveze. Cursul nostru te ajut\u0103 s\u0103 te familiarizezi cu no\u021biunile de baz\u0103 de content marketing, s\u0103 alegi tipurile potrivite de con\u021binut pentru siteul t\u0103u \u0219i s\u0103 schi\u021bezi un plan de content marketing pentru compania ta.</P>\n<P>Te a\u0219tept\u0103m al\u0103turi de noi la un<STRONG> curs practic</STRONG>, \u00een timpul c\u0103ruia vei aplica no\u021biunile teoretice pe propriul site sau blog.</P>\n<P>\u00a0</P>\n<H3><STRONG>Timp de 8 ore, vei \u00eenv\u0103\u021ba:</STRONG></H3>\n<UL>\n<LI>s\u0103 faci auditul siteului t\u0103u</LI>\n<LI>s\u0103 identifici cuvintele cheie cele mai potrivite pentru a genera trafic organic</LI>\n<LI>s\u0103 structurezi siteul \u0219i articolele de blog astfel \u00eenc\u00e2t s\u0103 \u00eencurajezi conversiile</LI>\n<LI>s\u0103 scrii con\u021binut care vinde</LI>\n<LI>s\u0103 realizezi un landing page pentru cre\u0219terea listei de abona\u021bi</LI>\n<LI>s\u0103 planifici emailurile de marketing pe baza planului de con\u021binut</LI>\n<LI>s\u0103-\u021bi optimizezi siteul \u0219i cum s\u0103 identifici oportunit\u0103\u021bi pentru construirea de backlinkuri</LI>\n</UL>\n</DIV>\n</DIV>\n<DIV CLASS=\"et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_left  et_pb_text_7\">\n<P><BR></P>\n<P><STRONG>Oric\u00e2t de mult\u0103 teorie ai \u0219ti, ai nevoie s\u0103 aplici practic no\u021biunile \u00eenv\u0103\u021bate.</STRONG></P>\n<P>Trainerul care te va \u00eendruma la acest curs practic\u0103 de peste 8 ani no\u021biunile \u0219i strategiile predate, a\u0219adar vei avea ocazia s\u0103 \u00eenve\u021bi din experien\u021ba sa, s\u0103 pui \u00eentreb\u0103ri \u0219i s\u0103 treci prin toate etapele anterior men\u021bionate f\u0103r\u0103 teama c\u0103 vei face vreun pas gre\u0219it.</P>\n<P>La finalul cursului vei primi o diplom\u0103 din partea School of Content, \u00eens\u0103 mai important este c\u0103 <STRONG>vei \u00eenv\u0103\u021ba \u00een doar 8 ore de curs tot ce trebuie s\u0103 \u0219tii ca \u00eencep\u0103tor \u00een content marketing</STRONG>!</P>\n</DIV>\n</DIV>\n</DIV>\n</DIV>\n</DIV>\n</DIV>\n<P>\u00a0</P>\n<H2><STRONG>\u00centreb\u0103ri frecvente<BR></STRONG></H2>\n<P>\u00a0</P>\n<P><STRONG>Ce trebuie s\u0103 am la mine?</STRONG></P>\n<P>Cartea de identitate sau alt document care dovede\u0219te c\u0103 e\u0219ti tu, laptopul, o agend\u0103 \u0219i un instrument de scris, biletul printat sau num\u0103rul rezerv\u0103rii.<BR></P>\n<P>\u00a0</P>\n<P><STRONG>Cum v\u0103 pot contacta pentru alte informa\u021bii?</STRONG></P>\n<P>Scrie-ne la contact@schoolofcontent.net sau sun\u0103 la 0745-149763 (Andreea). <BR></P>\n<P>\u00a0</P>\n<P><STRONG>Pot transfera biletul altei persoane?</STRONG></P>\n<P>Doar dac\u0103 este coleg/-\u0103 cu tine \u0219i lucra\u021bi la aceea\u0219i companie, \u00eens\u0103 \u00een situa\u021bia asta trebuie ca biletul s\u0103 fi fost pl\u0103tit de c\u0103tre companie. <BR></P>\n<P>\u00a0</P>\n<P><STRONG>Pot s\u0103 modific datele rezerv\u0103rii?</STRONG></P>\n<P>Po\u021bi modifica numele participantului \u00een condi\u021biile de la punctul anterior (bilet achitat de companie). Alte modific\u0103ri nu sunt posibile. <BR></P>\n<P>\u00a0</P>\n<P><STRONG>Trebuie s\u0103 am biletul printat?</STRONG></P>\n<P>Cum dore\u0219ti. Pentru noi conteaz\u0103 doar s\u0103 ai num\u0103rul rezerv\u0103rii, \u00een orice format (print / telefon / email / memorie excelent\u0103 :) ). <BR></P>\n<P>\u00a0</P>\n<P><STRONG>Care este politica de returnare?</STRONG></P>\n<P>Poti anula \u00eenscrierea p\u00e2n\u0103 la 13 iulie inclusiv f\u0103r\u0103 a fi taxat, \u00eens\u0103 dup\u0103 data de 13 iulie vom re\u021bine o tax\u0103 de 50% din valoarea biletului. \u0218tim c\u0103 nu e pl\u0103cut pentru tine, dar odat\u0103 ce rezerv\u0103m un loc pentru participarea ta, trebuie s\u0103 ne asigur\u0103m c\u0103 putem s\u0103-l \u0219i achit\u0103m. Ne-am bucura a\u0219adar s\u0103 nu fim pu\u0219i \u00een situa\u021bia de a anula nicio rezervare!<BR></P>\n<P>\u00a0</P>\n<P><STRONG>Numele de pe bilet nu se potrive\u0219te cu cel din cartea de identitate. M\u0103 primi\u021bi?</STRONG></P>\n<P>Uau, nu \u0219tim ce-ai \u00eencurcat dar te primim doar dac\u0103 ne po\u021bi dovedi c\u0103 e\u0219ti coleg cu persoana pe care vrei s\u0103 o \u00eenlocuie\u0219ti. Pentru asta trebuie s\u0103 ai la tine datele companiei (denumire, CIF / CUI), \u0219i s\u0103 \u0219tii numele colegului \u0219i num\u0103rul rezerv\u0103rii.<BR></P>\n<P><BR></P>\n<P><STRONG>Pot cump\u0103ra mai multe bilete?<BR></STRONG></P>\n<P>Ne dorim s\u0103 d\u0103m \u0219ansa c\u00e2t mai multor companii s\u0103-\u0219i trimit\u0103 reprezentan\u021bii la curs, prin urmare am limitat num\u0103rul la 2 bilete / companie. Dac\u0103 faci parte dintr-un grup mai mare, te rug\u0103m s\u0103 ne contactezi la contact@schoolofcontent.net, pentru a discuta despre un eventual training la sediul companiei tale.<STRONG></STRONG></P>",
-                "text": "Vino al\u0103turi de noi pe 23 iulie 2016, \u00een Ia\u0219i, pentru un Curs intensiv de CONTENT MARKETING pentru \u00eencep\u0103tori.\u00a0\n\n\n\nProvocarea\nMediul online este unul extrem de dinamic, \u00een fiecare an fiind create sute de siteuri noi, \u00een cele mai variate ni\u0219e. Provocarea nu mai este s\u0103-\u021bi \u201efaci un site\u201d, ci s\u0103 \u0219tii unde \u0219i cum s\u0103-l promovezi astfel \u00eenc\u00e2t s\u0103 ajungi la publicul t\u0103u \u021bint\u0103 \u0219i s\u0103-l determini s\u0103 ac\u021bioneze \u00een folosul t\u0103u.\n\n\n\nCui ne adres\u0103m\nContent marketerilor care lucreaz\u0103 ca freelanceri sau \u00een cadrul unui departament online, celor care de\u021bin un site personal \u0219i vor s\u0103 \u00eenve\u021be cum s\u0103-l promoveze, companiilor IT \u0219i non-IT care doresc s\u0103-\u0219i \u00eembun\u0103t\u0103\u021beasc\u0103 prezen\u021ba online, celor care doresc o carier\u0103 \u00een marketing online.\n\nLa finalul cursului vei \u0219ti s\u0103:\n\n\n\u00a0stabile\u0219ti scopul \u0219i etapele planului de content marketing\n\n\nidentifici canalele cele mai potrivite pentru promovare\n\n\ndetermini publicul \u021bint\u0103 \u0219i nevoile lui\n\n\nrealizezi un calendar de con\u021binut pentru blog \u0219i social media\n\n\nidentifici cele mai relevante subiecte pentru siteul t\u0103u\n\n\nidentifici oportunit\u0103\u021bi pentru backlinkuri\n\n\nalegi cele mai potrivite tipuri de con\u021binut \u00een func\u021bie de p\u00e2lnia de v\u00e2nz\u0103ri\n\n\nstabile\u0219ti metrici pentru m\u0103surarea rezultatelor\n\n\n\n\n\nStructura cursului\n\n\n\n\n\n\n\n\n1. Introducere \u00een content marketing\nCe \u00eenseamn\u0103 marketing de con\u021binut \u0219i ce abilit\u0103\u021bi trebuie s\u0103 aib\u0103 un content marketer.\n\n\n\n\n\n\n2. Definirea obiectivelor \u0219i a publicului \u021bint\u0103\nDe ce facem content marketing \u0219i cui ne adres\u0103m? Definirea conceptelor de buyer persona \u0219i customer journey.\n\n\n\n\n\n\n3. Cuvinte cheie \u0219i tipuri de con\u021binut\nCe \u0219i cum scriem pentru a fi g\u0103si\u021bi de publicul \u021bint\u0103? Definirea conceptelor head- \u0219i long-tail keywords. Tipuri de con\u021binut.\n\n\n\n\n\n\n\n\n4. Canale \u0219i solu\u021bii de promovare\nAm creat con\u021binut pentru un site, unde \u0219i cum \u00eel distribuim? Prezentare platforme social media \u0219i definirea conceptului de blogger outreach.\n\n\n\n\n\n\n5. Planul de content marketing\nOrganizarea activit\u0103\u021bilor \u0219i realizarea calendarului de con\u021binut. Definirea conceptelor de backlink, on-site \u0219i off-site SEO.\n\n\n\n\n\n\n6. Tool-uri de automatizare \u0219i analiz\u0103\nCe instrumente folosim pentru a automatiza procesul de distribu\u021bie a con\u021binutului? Cum m\u0103sur\u0103m rezultatele, \u0219i ce metrici urm\u0103rim?\n\n\n\nDe ce s\u0103 vii la curs?\nContent is king. C\u00e2t timp vor exista siteuri web, va fi nevoie de con\u021binut \u0219i implicit de oameni care s\u0103 creeze con\u021binutul \u0219i s\u0103-l promoveze. Cursul nostru te ajut\u0103 s\u0103 te familiarizezi cu no\u021biunile de baz\u0103 de content marketing, s\u0103 alegi tipurile potrivite de con\u021binut pentru siteul t\u0103u \u0219i s\u0103 schi\u021bezi un plan de content marketing pentru compania ta.\nTe a\u0219tept\u0103m al\u0103turi de noi la un curs practic, \u00een timpul c\u0103ruia vei aplica no\u021biunile teoretice pe propriul site sau blog.\n\u00a0\nTimp de 8 ore, vei \u00eenv\u0103\u021ba:\n\ns\u0103 faci auditul siteului t\u0103u\ns\u0103 identifici cuvintele cheie cele mai potrivite pentru a genera trafic organic\ns\u0103 structurezi siteul \u0219i articolele de blog astfel \u00eenc\u00e2t s\u0103 \u00eencurajezi conversiile\ns\u0103 scrii con\u021binut care vinde\ns\u0103 realizezi un landing page pentru cre\u0219terea listei de abona\u021bi\ns\u0103 planifici emailurile de marketing pe baza planului de con\u021binut\ns\u0103-\u021bi optimizezi siteul \u0219i cum s\u0103 identifici oportunit\u0103\u021bi pentru construirea de backlinkuri\n\n\n\n\n\nOric\u00e2t de mult\u0103 teorie ai \u0219ti, ai nevoie s\u0103 aplici practic no\u021biunile \u00eenv\u0103\u021bate.\nTrainerul care te va \u00eendruma la acest curs practic\u0103 de peste 8 ani no\u021biunile \u0219i strategiile predate, a\u0219adar vei avea ocazia s\u0103 \u00eenve\u021bi din experien\u021ba sa, s\u0103 pui \u00eentreb\u0103ri \u0219i s\u0103 treci prin toate etapele anterior men\u021bionate f\u0103r\u0103 teama c\u0103 vei face vreun pas gre\u0219it.\nLa finalul cursului vei primi o diplom\u0103 din partea School of Content, \u00eens\u0103 mai important este c\u0103 vei \u00eenv\u0103\u021ba \u00een doar 8 ore de curs tot ce trebuie s\u0103 \u0219tii ca \u00eencep\u0103tor \u00een content marketing!\n\n\n\n\n\n\n\u00a0\n\u00centreb\u0103ri frecvente\n\u00a0\nCe trebuie s\u0103 am la mine?\nCartea de identitate sau alt document care dovede\u0219te c\u0103 e\u0219ti tu, laptopul, o agend\u0103 \u0219i un instrument de scris, biletul printat sau num\u0103rul rezerv\u0103rii.\n\u00a0\nCum v\u0103 pot contacta pentru alte informa\u021bii?\nScrie-ne la contact@schoolofcontent.net sau sun\u0103 la 0745-149763 (Andreea). \n\u00a0\nPot transfera biletul altei persoane?\nDoar dac\u0103 este coleg/-\u0103 cu tine \u0219i lucra\u021bi la aceea\u0219i companie, \u00eens\u0103 \u00een situa\u021bia asta trebuie ca biletul s\u0103 fi fost pl\u0103tit de c\u0103tre companie. \n\u00a0\nPot s\u0103 modific datele rezerv\u0103rii?\nPo\u021bi modifica numele participantului \u00een condi\u021biile de la punctul anterior (bilet achitat de companie). Alte modific\u0103ri nu sunt posibile. \n\u00a0\nTrebuie s\u0103 am biletul printat?\nCum dore\u0219ti. Pentru noi conteaz\u0103 doar s\u0103 ai num\u0103rul rezerv\u0103rii, \u00een orice format (print / telefon / email / memorie excelent\u0103 :) ). \n\u00a0\nCare este politica de returnare?\nPoti anula \u00eenscrierea p\u00e2n\u0103 la 13 iulie inclusiv f\u0103r\u0103 a fi taxat, \u00eens\u0103 dup\u0103 data de 13 iulie vom re\u021bine o tax\u0103 de 50% din valoarea biletului. \u0218tim c\u0103 nu e pl\u0103cut pentru tine, dar odat\u0103 ce rezerv\u0103m un loc pentru participarea ta, trebuie s\u0103 ne asigur\u0103m c\u0103 putem s\u0103-l \u0219i achit\u0103m. Ne-am bucura a\u0219adar s\u0103 nu fim pu\u0219i \u00een situa\u021bia de a anula nicio rezervare!\n\u00a0\nNumele de pe bilet nu se potrive\u0219te cu cel din cartea de identitate. M\u0103 primi\u021bi?\nUau, nu \u0219tim ce-ai \u00eencurcat dar te primim doar dac\u0103 ne po\u021bi dovedi c\u0103 e\u0219ti coleg cu persoana pe care vrei s\u0103 o \u00eenlocuie\u0219ti. Pentru asta trebuie s\u0103 ai la tine datele companiei (denumire, CIF / CUI), \u0219i s\u0103 \u0219tii numele colegului \u0219i num\u0103rul rezerv\u0103rii.\n\nPot cump\u0103ra mai multe bilete?\nNe dorim s\u0103 d\u0103m \u0219ansa c\u00e2t mai multor companii s\u0103-\u0219i trimit\u0103 reprezentan\u021bii la curs, prin urmare am limitat num\u0103rul la 2 bilete / companie. Dac\u0103 faci parte dintr-un grup mai mare, te rug\u0103m s\u0103 ne contactezi la contact@schoolofcontent.net, pentru a discuta despre un eventual training la sediul companiei tale."
+                "html": "<P>\u00cen luna August, <A HREF=\"http://community.itcamp.ro\" TARGET=\"_blank\" REL=\"nofollow\">ITCamp </A>organizeaz\u0103 un nou eveniment pentru profesioni\u0219tii IT din Cluj-Napoca. Evenimentul urmeaz\u0103 s\u0103 aib\u0103 loc pe data de 18 August, \u00een cl\u0103rirea Evozone.<BR>Participarea la eveniment este gratuit\u0103. Mul\u021bumim sponsorilor pentru sustinere (<A HREF=\"https://www.evozon.com/\" TARGET=\"_blank\" REL=\"nofollow\">Evozone </A>\u0219i <A HREF=\"http://www.recognos.com\" TARGET=\"_blank\" REL=\"nofollow\">Recognos</A>).</P>\r\n<P><SPAN STYLE=\"text-decoration: underline;\">Program:</SPAN><BR>17:45 - 18:00 - Registration (coffee and beverages)<BR>18:00 - 19:00 - .NET Security (Radu Vunvulea)<BR>19:00 - 19:30 - Break (coffee and beverages)<BR>19:30 - 20:30 - Actor based concurrency with Elixir (Adrian Magdas)<BR>20:30 - 21:00 - Networking (coffee and beverages)</P>\r\n<P><SPAN STYLE=\"text-decoration: underline;\">Descrierea sesiunilor:</SPAN><BR><STRONG>.NET Security (Radu Vunvulea)</STRONG><BR>When is the last time when you pushed an update to .NET framework in a production environment? Did you defined an updated process of .NET framework for production environments? Is the support team aware about what can happen if a security update is not pushed to the machines? <BR>In this session we will take a look on some security problems that .NET framework has and what can happen if we don't take security into account. We will take a look on different versions of .NET (including .NET Core). Best practives related to this topic will be covered and debated.</P>\r\n<P><STRONG>Actor based concurrency with Elixir</STRONG><BR>Because of increased demand for interconnected systems(IOT, SAAS) we need new improved ways of handling reliable (soft)real-time systems. One battle-tested approach is based on the Actor Model pioneered by Erlang and brought to the masses by Elixir.<BR>Topics that will be covered:<BR> - short introduction to functional programming principles with examples in Elixir<BR> - actor model concurrency: why is it needed, advantages &amp; disadvantages<BR> - OTP patterns for handling agents: GenServer &amp; Supervisor</P>\r\n<P><SPAN><SPAN STYLE=\"text-decoration: underline;\">Sponsori</SPAN>:</SPAN></P>\r\n<P><A HREF=\"https://www.evozon.com/\" TARGET=\"_blank\" REL=\"nofollow\"><SPAN><IMG ALT=\"Evozone\" SRC=\"https://www.evozon.com/wp-content/uploads/2015/12/logo-evozon.png\"></SPAN></IMG></A></P>\r\n<P><A HREF=\"http://www.recognos.com\" TARGET=\"_blank\" REL=\"nofollow\"><IMG ALT=\"Recognos\" SRC=\"https://media.licdn.com/media/AAEAAQAAAAAAAAhZAAAAJGYwMWViOGViLTZkNzUtNDBiNy1iYzRhLTcwYThjZWRiYzIyZA.png\" HEIGHT=\"143\" WIDTH=\"420\"></IMG></A></P>\r\n<P><BR></P>",
+                "text": "\u00cen luna August, ITCamp organizeaz\u0103 un nou eveniment pentru profesioni\u0219tii IT din Cluj-Napoca. Evenimentul urmeaz\u0103 s\u0103 aib\u0103 loc pe data de 18 August, \u00een cl\u0103rirea Evozone.Participarea la eveniment este gratuit\u0103. Mul\u021bumim sponsorilor pentru sustinere (Evozone \u0219i Recognos).\r\nProgram:17:45 - 18:00 - Registration (coffee and beverages)18:00 - 19:00 - .NET Security (Radu Vunvulea)19:00 - 19:30 - Break (coffee and beverages)19:30 - 20:30 - Actor based concurrency with Elixir (Adrian Magdas)20:30 - 21:00 - Networking (coffee and beverages)\r\nDescrierea sesiunilor:.NET Security (Radu Vunvulea)When is the last time when you pushed an update to .NET framework in a production environment? Did you defined an updated process of .NET framework for production environments? Is the support team aware about what can happen if a security update is not pushed to the machines? In this session we will take a look on some security problems that .NET framework has and what can happen if we don't take security into account. We will take a look on different versions of .NET (including .NET Core). Best practives related to this topic will be covered and debated.\r\nActor based concurrency with ElixirBecause of increased demand for interconnected systems(IOT, SAAS) we need new improved ways of handling reliable (soft)real-time systems. One battle-tested approach is based on the Actor Model pioneered by Erlang and brought to the masses by Elixir.Topics that will be covered: - short introduction to functional programming principles with examples in Elixir - actor model concurrency: why is it needed, advantages & disadvantages - OTP patterns for handling agents: GenServer & Supervisor\r\nSponsori:\r\n\r\n\r\n"
             },
             "end": {
-                "local": "2016-07-23T19:00:00",
+                "local": "2016-08-18T21:00:00",
                 "timezone": "Europe/Bucharest",
-                "utc": "2016-07-23T16:00:00Z"
+                "utc": "2016-08-18T18:00:00Z"
             },
-            "format_id": "9",
+            "format_id": "1",
             "hide_end_date": false,
             "hide_start_date": false,
-            "id": "26371412605",
+            "id": "26739325041",
             "is_locked": false,
             "is_reserved_seating": false,
             "is_series": false,
@@ -182,32 +135,32 @@
             "locale": "en_US",
             "logo": {
                 "aspect_ratio": "2",
-                "edge_color": "#2aa3da",
+                "edge_color": "#b1b1b1",
                 "edge_color_set": true,
-                "id": "22245056",
-                "url": "https://img.evbuc.com/http%3A%2F%2Fcdn.evbuc.com%2Fimages%2F22245056%2F180274238637%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C0%2C9000%2C4500&s=42e916678fc8dfe63d55b6c9a25b2388"
+                "id": "22748598",
+                "url": "https://img.evbuc.com/http%3A%2F%2Fcdn.evbuc.com%2Fimages%2F22748598%2F22339745178%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C164%2C2048%2C1024&s=89d895edd03b1f08058f2b6b178ae38b"
             },
-            "logo_id": "22245056",
+            "logo_id": "22748598",
             "name": {
-                "html": "Curs Content Marketing pentru \u00eencep\u0103tori - School of Content",
-                "text": "Curs Content Marketing pentru \u00eencep\u0103tori - School of Content"
+                "html": "ITCamp de var\u0103 \u00een Cluj-Napoca",
+                "text": "ITCamp de var\u0103 \u00een Cluj-Napoca"
             },
             "online_event": false,
-            "organizer_id": "10949312400",
+            "organizer_id": "2670928534",
             "privacy_setting": "unlocked",
-            "resource_uri": "https://www.eventbriteapi.com/v3/events/26371412605/",
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/26739325041/",
             "shareable": true,
             "start": {
-                "local": "2016-07-23T09:00:00",
+                "local": "2016-08-18T17:45:00",
                 "timezone": "Europe/Bucharest",
-                "utc": "2016-07-23T06:00:00Z"
+                "utc": "2016-08-18T14:45:00Z"
             },
-            "status": "started",
-            "subcategory_id": "1007",
-            "tx_time_limit": 900,
-            "url": "http://www.eventbrite.com/e/curs-content-marketing-pentru-incepatori-school-of-content-tickets-26371412605",
-            "vanity_url": "http://curs-content-marketing-incepatori.eventbrite.com",
-            "venue_id": "15889602"
+            "status": "live",
+            "subcategory_id": "2002",
+            "tx_time_limit": 480,
+            "url": "http://www.eventbrite.com/e/itcamp-de-vara-in-cluj-napoca-tickets-26739325041",
+            "vanity_url": "http://itcamp-community-2016-08.eventbrite.com",
+            "venue_id": "16087738"
         },
         {
             "capacity": 40,
@@ -318,7 +271,7 @@
         {
             "capacity": 120,
             "category_id": "101",
-            "changed": "2016-07-01T15:47:29Z",
+            "changed": "2016-07-26T14:36:30Z",
             "created": "2016-05-30T13:46:11Z",
             "currency": "EUR",
             "description": {
@@ -518,7 +471,7 @@
         {
             "capacity": 5900,
             "category_id": "102",
-            "changed": "2016-07-21T13:39:56Z",
+            "changed": "2016-07-27T08:26:58Z",
             "created": "2016-05-23T11:37:51Z",
             "currency": "EUR",
             "description": {
@@ -573,10 +526,10 @@
     "orgs": {
         "2300226659": {
             "description": {
-                "html": "<P><SPAN>Techstars is a global ecosystem that empowers entrepreneurs to bring new technologies to market wherever they choose to live. With dozens of mentorship-driven accelerator programs and thousands of community programs worldwide, Techstars exists to support the world\u2019s most promising entrepreneurs throughout their lifelong journey, from inspiration to IPO. Techstars provides access to tens of thousands of community leaders, founders, mentors, investors, and corporate partners, allowing entrepreneurs to accelerate the pace of innovation and do more faster. Techstars supports every stage of the entrepreneurial journey \u2013 from early stage grassroots community development to more formal opportunities that provide education, experience, acceleration, funding, and beyond. Techstars Startup Programs\u00a0include <A HREF=\"http://startupweekend.org/\" TARGET=\"_blank\">Startup Weekend</A>, <A HREF=\"https://www.startupdigest.com/\" TARGET=\"_blank\">Startup Digest</A>, <A HREF=\"http://www.startupnext.co/\" TARGET=\"_blank\">Startup Next</A>, and <A HREF=\"http://startupweek.co/\" TARGET=\"_blank\">Startup Week</A>.</SPAN>\u00a0</P>\r\n<P><SPAN>\u00a0</SPAN></P>",
+                "html": "<P><SPAN STYLE=\"font-size: 14.6667px; font-family: Arial; vertical-align: baseline; white-space: pre-wrap; background-color: transparent;\">Techstars is a global ecosystem that empowers entrepreneurs to bring new technologies to market wherever they choose to live. With dozens of mentorship-driven accelerator programs and thousands of community programs worldwide, Techstars exists to support the world\u2019s most promising entrepreneurs throughout their lifelong journey, from inspiration to IPO. Techstars provides access to tens of thousands of community leaders, founders, mentors, investors, and corporate partners, allowing entrepreneurs to accelerate the pace of innovation and do more faster. Techstars supports every stage of the entrepreneurial journey \u2013 from early stage grassroots community development to more formal opportunities that provide education, experience, acceleration, funding, and beyond. Techstars Startup Programs\u00a0include <A HREF=\"http://startupweekend.org/\">Startup Weekend</A>, <A HREF=\"https://www.startupdigest.com/\">Startup Digest</A>, <A HREF=\"http://www.startupnext.co/\">Startup Next</A>, and <A HREF=\"http://startupweek.co/\">Startup Week</A>.</SPAN>\u00a0</P>\r\n<P><SPAN STYLE=\"font-size: 14.6667px; font-family: Arial; vertical-align: baseline; white-space: pre-wrap; background-color: transparent;\">\u00a0</SPAN></P>",
                 "text": "Techstars is a global ecosystem that empowers entrepreneurs to bring new technologies to market wherever they choose to live. With dozens of mentorship-driven accelerator programs and thousands of community programs worldwide, Techstars exists to support the world\u2019s most promising entrepreneurs throughout their lifelong journey, from inspiration to IPO. Techstars provides access to tens of thousands of community leaders, founders, mentors, investors, and corporate partners, allowing entrepreneurs to accelerate the pace of innovation and do more faster. Techstars supports every stage of the entrepreneurial journey \u2013 from early stage grassroots community development to more formal opportunities that provide education, experience, acceleration, funding, and beyond. Techstars Startup Programs\u00a0include Startup Weekend, Startup Digest, Startup Next, and Startup Week.\u00a0\r\n\u00a0"
             },
-            "facebook": "swboulder16",
+            "facebook": "StartupWeekend",
             "id": "2300226659",
             "logo": {
                 "aspect_ratio": null,
@@ -591,9 +544,10 @@
             },
             "name": "Techstars Startup Programs",
             "resource_uri": "https://www.eventbriteapi.com/v3/organizers/2300226659/",
-            "twitter": "swboulder",
+            "twitter": "startupweekend",
             "url": "http://www.eventbrite.com/o/techstars-startup-programs-2300226659",
-            "vanity_url": "http://techstars_startup_programs.eventbrite.com"
+            "vanity_url": "http://techstars_startup_programs.eventbrite.com",
+            "website": "http://techstars.com"
         },
         "2491303902": {
             "description": {
@@ -619,6 +573,30 @@
             "url": "http://www.eventbrite.com/o/itcamp-2491303902",
             "vanity_url": "http://ITCampCommunity.eventbrite.com",
             "website": "http://community.itcamp.ro/"
+        },
+        "2670928534": {
+            "description": {
+                "html": "<P>Organizers of the ITCamp.ro conference and other community meetings.</P>",
+                "text": "Organizers of the ITCamp.ro conference and other community meetings."
+            },
+            "facebook": "ITCamp.ro",
+            "id": "2670928534",
+            "logo": {
+                "aspect_ratio": null,
+                "edge_color": null,
+                "edge_color_set": null,
+                "id": "13787799",
+                "url": "https://cdn.evbuc.com/images/13787799/22339745178/2/logo.png"
+            },
+            "long_description": {
+                "html": "<P STYLE=\"font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; line-height: 23.8px; box-sizing: border-box; margin: 0px; padding: 0px 0px 1em; border: 0px; outline: 0px; vertical-align: baseline; color: #666666; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;\"><STRONG STYLE=\"box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Comunitatea ITCamp</STRONG>\u00a0s-a concentrat de-a lungul timpului pe organizarea evenimente pentru comunit\u0103\u021bile IT din \u021bar\u0103. Pe l\u00e2ng\u0103\u00a0<STRONG STYLE=\"box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">conferin\u021ba ITCamp</STRONG>\u00a0(<A STYLE=\"box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; color: #2ea3f2; text-decoration: none; background: transparent;\" HREF=\"http://www.itcamp.ro/\" TARGET=\"_blank\">www.itcamp.ro</A>) care adun\u0103 anual sute de pasiona\u021bi IT \u00een Cluj-Napoca, \u00een ultimii ani s-au mai organizat numeroase alte evenimente \u00een mai multe loca\u021bii din \u021bar\u0103 (Bucure\u0219ti, Cluj-Napoca, Timi\u0219oara, Oradea, Bra\u0219ov, Sibiu, Tg. Mure\u0219 etc.)</P>\r\n<P STYLE=\"font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; line-height: 23.8px; box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; color: #666666; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;\">Printre persoanele care s-au implicat de-a lungul timpului \u00een evenimentele comunit\u0103\u021bii \u00eei reg\u0103sim pe:\u00a0Adrian Stoian (<A STYLE=\"box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; color: #2ea3f2; text-decoration: none; background: transparent;\" HREF=\"http://www.adrianstoian.com/\" TARGET=\"_blank\">blog</A>),\u00a0Alex Mang (<A STYLE=\"box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; color: #2ea3f2; text-decoration: none; background: transparent;\" HREF=\"http://alexmang.ro/\" TARGET=\"_blank\">blog</A>),\u00a0Ciprian Jichici (<A STYLE=\"box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; color: #2ea3f2; text-decoration: none; background: transparent;\" HREF=\"http://www.genisoft.eu/blogs/ciprianjichici\" TARGET=\"_blank\">blog</A>),\u00a0Cosmin T\u0103taru (<A STYLE=\"box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; color: #2ea3f2; text-decoration: none; background: transparent;\" HREF=\"http://www.windowsfaralimite.ro/\" TARGET=\"_blank\">blog</A>), Cristian V\u0103lean,\u00a0Florin Loghiade (<A STYLE=\"box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; color: #2ea3f2; text-decoration: none; background: transparent;\" HREF=\"http://www.florinloghiade.ro/\" TARGET=\"_blank\">blog</A>),\u00a0Mihai T\u0103t\u0103ran,\u00a0Radu Vunvulea (<A STYLE=\"box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; color: #2ea3f2; text-decoration: none; background: transparent;\" HREF=\"http://vunvulearadu.blogspot.com/\" TARGET=\"_blank\">blog</A>),\u00a0R\u0103zvan Rusu (<A STYLE=\"box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; color: #2ea3f2; text-decoration: none; background: transparent;\" HREF=\"http://blog.ecko.ro/author/razvan-rusu/\" TARGET=\"_blank\">blog</A>),\u00a0Silviu Niculi\u021b\u0103,\u00a0Tudor Damian.</P>",
+                "text": "Comunitatea ITCamp\u00a0s-a concentrat de-a lungul timpului pe organizarea evenimente pentru comunit\u0103\u021bile IT din \u021bar\u0103. Pe l\u00e2ng\u0103\u00a0conferin\u021ba ITCamp\u00a0(www.itcamp.ro) care adun\u0103 anual sute de pasiona\u021bi IT \u00een Cluj-Napoca, \u00een ultimii ani s-au mai organizat numeroase alte evenimente \u00een mai multe loca\u021bii din \u021bar\u0103 (Bucure\u0219ti, Cluj-Napoca, Timi\u0219oara, Oradea, Bra\u0219ov, Sibiu, Tg. Mure\u0219 etc.)\r\nPrintre persoanele care s-au implicat de-a lungul timpului \u00een evenimentele comunit\u0103\u021bii \u00eei reg\u0103sim pe:\u00a0Adrian Stoian (blog),\u00a0Alex Mang (blog),\u00a0Ciprian Jichici (blog),\u00a0Cosmin T\u0103taru (blog), Cristian V\u0103lean,\u00a0Florin Loghiade (blog),\u00a0Mihai T\u0103t\u0103ran,\u00a0Radu Vunvulea (blog),\u00a0R\u0103zvan Rusu (blog),\u00a0Silviu Niculi\u021b\u0103,\u00a0Tudor Damian."
+            },
+            "name": "ITCamp Community",
+            "resource_uri": "https://www.eventbriteapi.com/v3/organizers/2670928534/",
+            "twitter": "itcampro",
+            "url": "http://www.eventbrite.com/o/itcamp-community-2670928534",
+            "vanity_url": "http://itcampro.eventbrite.com"
         },
         "2761218168": {
             "description": {
@@ -1156,25 +1134,6 @@
             "name": "Evozon Systems",
             "resource_uri": "https://www.eventbriteapi.com/v3/venues/15819072/"
         },
-        "15889602": {
-            "address": {
-                "address_1": "27 Strada Grigore Ureche",
-                "address_2": null,
-                "city": "Ia\u0219i",
-                "country": "RO",
-                "latitude": "47.1590542",
-                "localized_address_display": "27 Strada Grigore Ureche, 700023 Ia\u0219i",
-                "localized_area_display": "Ia\u0219i",
-                "longitude": "27.588952800000015",
-                "postal_code": "700023",
-                "region": "IS"
-            },
-            "id": "15889602",
-            "latitude": "47.1590542",
-            "longitude": "27.588952800000015",
-            "name": "Ramada Ia\u0219i City Center",
-            "resource_uri": "https://www.eventbriteapi.com/v3/venues/15889602/"
-        },
         "16075534": {
             "address": {
                 "address_1": "129 Observatorului Street",
@@ -1212,6 +1171,25 @@
             "longitude": "24.554485",
             "name": "InnoWork",
             "resource_uri": "https://www.eventbriteapi.com/v3/venues/16075932/"
+        },
+        "16087738": {
+            "address": {
+                "address_1": "Calea Mo\u021bilor 62",
+                "address_2": null,
+                "city": "Cluj-Napoca",
+                "country": "RO",
+                "latitude": "46.765982",
+                "localized_address_display": "Calea Mo\u021bilor 62, 400370 Cluj-Napoca",
+                "localized_area_display": "Cluj-Napoca",
+                "longitude": "23.57892800000002",
+                "postal_code": "400370",
+                "region": "Romania"
+            },
+            "id": "16087738",
+            "latitude": "46.765982",
+            "longitude": "23.57892800000002",
+            "name": "Evozone",
+            "resource_uri": "https://www.eventbriteapi.com/v3/venues/16087738/"
         }
     }
 }
