@@ -55,7 +55,16 @@ def populateFromMeetups(meetups, events, locations, organizations):
                     lat=venue['lat'],
                     lon=venue['lon'],
                     name=venue['name'],
+                    event_ids=dict(past=[], future=[]),
                 )
+
+    for group in meetups['groups'].values():
+        organizations['mtup-grp-%s' % group['id']] = dict(
+            name=group['name'],
+            description=group['description'],
+            link=group['link'],
+            event_ids=dict(past=[], future=[]),
+        )
 
 
 def sortedEvents(events):
@@ -111,6 +120,25 @@ for event in events:
         '/eveniment/%s/%s-%s.html' % (event['time'].strftime('%Y/%m'), event['event_id'],
         slugify(event['name']))
     )
+
+for location_id, location in locations.items():
+    location['url'] = '/locatie/%s' % slugify('%s-%s' % (location_id, location['name']))
+
+for org_id, org in organizations.items():
+    org['url'] = '/organizatie/%s' % slugify('%s-%s' % (org_id, org['name']))
+
+
+now = datetime.datetime.now(tz=_LOCAL_TZ)
+for event in events:
+    past = event['time'] < now
+    if event['venue_id'] is not None:
+        # some events have yet to decide their venue
+        locations[event['venue_id']]['event_ids']['past' if past else 'future'].append(
+            event['event_id'])
+    organizations[event['organizer_id']]['event_ids']['past' if past else 'future'].append(
+        event['event_id'])
+
+# TODO: sort future events in chronological order and past events in reverse chronological order
 
 template_loader = jinja2.Environment(
     loader=jinja2.FileSystemLoader('templates'), extensions=['jinja2.ext.autoescape'],
