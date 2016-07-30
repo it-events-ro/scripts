@@ -67,6 +67,7 @@ excluded_organizers = {
   11054013211, # http://www.eventbrite.co.uk/o/first-people-solutions-aviation-11054013211
   10867523860, # http://www.eventbrite.com/o/igloo-media-10867523860
   11063098365, # http://www.eventbrite.co.uk/o/glas-expert-11063098365
+  8348933279, # http://www.eventbrite.com/o/parentis-8348933279
 }
 
 # TODO: make somehow API calls return historical events also

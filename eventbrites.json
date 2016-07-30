@@ -55,60 +55,6 @@
             "venue_id": "9386975"
         },
         {
-            "capacity": 22,
-            "category_id": "102",
-            "changed": "2016-07-27T07:32:26Z",
-            "created": "2016-07-22T12:06:02Z",
-            "currency": "EUR",
-            "description": {
-                "html": "<P><STRONG>Event access based only on registration.</STRONG></P>\n<P><A HREF=\"https://www.linkedin.com/in/csabapeter\" TARGET=\"_blank\" REL=\"nofollow\"><SPAN>Csaba Peter</SPAN></A><SPAN> leads a team of full stack engineers working with technologies like NodeJS, ReactJS, ES6, PHP to bring the internal customer strategy to life. Beside his work Csaba is passionate about cyber security, computer forensics, penetration testing and in the security of embedded devices.</SPAN></P>\n<P><STRONG>Join us on Thursday, 28 July2016, @InnoWork to learn more about Lateral thinking, embedded devices, security.</STRONG></P>\n<P CLASS=\"p1\"><STRONG>Duration: 45 min</STRONG></P>\n<P CLASS=\"p1\"><STRONG>Q&A: 30 min</STRONG></P>\n<P><SPAN><EM>16 Seats available. FREE ACCESS based on registration only.</EM><BR></SPAN></P>\n<HR>\n<P><STRONG>Event organised in partnership with Startup Lab.</STRONG> The Start-up Lab is a real movement for students and young researchers interested in learning and exchanging ideas about entrepreneurship. \u00a0</P>\n<P><SPAN><STRONG>InnoWork</STRONG>: WORK. CONNECT. CREATE. </SPAN><SPAN>InnoWork is an affordable and inspiring shared office environment for creatives, startups, and freelancers in Mures. Members will enjoy ample lighting and comfortable work stations with fast internet, printing and mailing services. InnoWork promotes collaboration and partnerships among its members, supporting and nurturing a healthy economy of small businesses and independent contractors in Targu Mures. We believe that if we work together, we will grow together.</SPAN></P>\n<P><SPAN><BR></SPAN></P>",
-                "text": "Event access based only on registration.\nCsaba Peter leads a team of full stack engineers working with technologies like NodeJS, ReactJS, ES6, PHP to bring the internal customer strategy to life. Beside his work Csaba is passionate about cyber security, computer forensics, penetration testing and in the security of embedded devices.\nJoin us on Thursday, 28 July2016, @InnoWork to learn more about Lateral thinking, embedded devices, security.\nDuration: 45 min\nQ&A: 30 min\n16 Seats available. FREE ACCESS based on registration only.\n\nEvent organised in partnership with Startup Lab. The Start-up Lab is a real movement for students and young researchers interested in learning and exchanging ideas about entrepreneurship. \u00a0\nInnoWork: WORK. CONNECT. CREATE. InnoWork is an affordable and inspiring shared office environment for creatives, startups, and freelancers in Mures. Members will enjoy ample lighting and comfortable work stations with fast internet, printing and mailing services. InnoWork promotes collaboration and partnerships among its members, supporting and nurturing a healthy economy of small businesses and independent contractors in Targu Mures. We believe that if we work together, we will grow together.\n"
-            },
-            "end": {
-                "local": "2016-07-28T20:00:00",
-                "timezone": "Europe/Bucharest",
-                "utc": "2016-07-28T17:00:00Z"
-            },
-            "format_id": "2",
-            "hide_end_date": false,
-            "hide_start_date": false,
-            "id": "26720775559",
-            "is_locked": false,
-            "is_reserved_seating": false,
-            "is_series": false,
-            "is_series_parent": false,
-            "listed": true,
-            "locale": "en_US",
-            "logo": {
-                "aspect_ratio": "2",
-                "edge_color": null,
-                "edge_color_set": true,
-                "id": "22720168",
-                "url": "https://img.evbuc.com/http%3A%2F%2Fcdn.evbuc.com%2Fimages%2F22720168%2F131185095281%2F1%2Foriginal.jpg?h=200&w=450&rect=470%2C0%2C1182%2C591&s=8b39b95808951d6fcf2656e013e6193d"
-            },
-            "logo_id": "22720168",
-            "name": {
-                "html": "Ethical IP camera hacking and protecting with Csaba Peter",
-                "text": "Ethical IP camera hacking and protecting with Csaba Peter"
-            },
-            "online_event": false,
-            "organizer_id": "7802438407",
-            "privacy_setting": "unlocked",
-            "resource_uri": "https://www.eventbriteapi.com/v3/events/26720775559/",
-            "shareable": true,
-            "start": {
-                "local": "2016-07-28T18:30:00",
-                "timezone": "Europe/Bucharest",
-                "utc": "2016-07-28T15:30:00Z"
-            },
-            "status": "live",
-            "subcategory_id": "2004",
-            "tx_time_limit": 480,
-            "url": "http://www.eventbrite.com/e/ethical-ip-camera-hacking-and-protecting-with-csaba-peter-tickets-26720775559",
-            "vanity_url": "http://csabapeter.eventbrite.com",
-            "venue_id": "16075932"
-        },
-        {
             "capacity": 500,
             "category_id": "102",
             "changed": "2016-07-25T14:17:41Z",
@@ -377,7 +323,7 @@
         {
             "capacity": 40,
             "category_id": "101",
-            "changed": "2015-12-17T14:51:49Z",
+            "changed": "2016-07-29T06:24:44Z",
             "created": "2015-12-17T14:50:27Z",
             "currency": "EUR",
             "description": {
@@ -399,8 +345,14 @@
             "is_series_parent": false,
             "listed": true,
             "locale": "en_US",
-            "logo": null,
-            "logo_id": null,
+            "logo": {
+                "aspect_ratio": "2",
+                "edge_color": "#a8a2a3",
+                "edge_color_set": true,
+                "id": "22882500",
+                "url": "https://img.evbuc.com/http%3A%2F%2Fcdn.evbuc.com%2Fimages%2F22882500%2F107502523659%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C0%2C2160%2C1080&s=0c52cae6dd4ecf46a3f52a59fd9dced1"
+            },
+            "logo_id": "22882500",
             "name": {
                 "html": "Certified ScrumMaster (CSM) Training",
                 "text": "Certified ScrumMaster (CSM) Training"
@@ -424,7 +376,7 @@
         {
             "capacity": 40,
             "category_id": "101",
-            "changed": "2015-12-17T14:54:01Z",
+            "changed": "2016-07-29T06:24:49Z",
             "created": "2015-12-17T14:52:53Z",
             "currency": "EUR",
             "description": {
@@ -446,8 +398,14 @@
             "is_series_parent": false,
             "listed": true,
             "locale": "en_US",
-            "logo": null,
-            "logo_id": null,
+            "logo": {
+                "aspect_ratio": "2",
+                "edge_color": "#a8a2a3",
+                "edge_color_set": true,
+                "id": "22882510",
+                "url": "https://img.evbuc.com/http%3A%2F%2Fcdn.evbuc.com%2Fimages%2F22882510%2F107502523659%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C0%2C2160%2C1080&s=c3d36303ae54463f4a9c6f29d3c77cb1"
+            },
+            "logo_id": "22882510",
             "name": {
                 "html": "Certified Scrum Product Owner (CSPO) Training",
                 "text": "Certified Scrum Product Owner (CSPO) Training"
@@ -471,7 +429,7 @@
         {
             "capacity": 5900,
             "category_id": "102",
-            "changed": "2016-07-28T06:33:48Z",
+            "changed": "2016-07-29T19:54:50Z",
             "created": "2016-05-23T11:37:51Z",
             "currency": "EUR",
             "description": {
@@ -526,10 +484,10 @@
     "orgs": {
         "2300226659": {
             "description": {
-                "html": "<P><SPAN STYLE=\"font-size: 14.6667px; font-family: Arial; vertical-align: baseline; white-space: pre-wrap; background-color: transparent;\">Techstars is a global ecosystem that empowers entrepreneurs to bring new technologies to market wherever they choose to live. With dozens of mentorship-driven accelerator programs and thousands of community programs worldwide, Techstars exists to support the world\u2019s most promising entrepreneurs throughout their lifelong journey, from inspiration to IPO. Techstars provides access to tens of thousands of community leaders, founders, mentors, investors, and corporate partners, allowing entrepreneurs to accelerate the pace of innovation and do more faster. Techstars supports every stage of the entrepreneurial journey \u2013 from early stage grassroots community development to more formal opportunities that provide education, experience, acceleration, funding, and beyond. Techstars Startup Programs\u00a0include <A HREF=\"http://startupweekend.org/\">Startup Weekend</A>, <A HREF=\"https://www.startupdigest.com/\">Startup Digest</A>, <A HREF=\"http://www.startupnext.co/\">Startup Next</A>, and <A HREF=\"http://startupweek.co/\">Startup Week</A>.</SPAN>\u00a0</P>\r\n<P><SPAN STYLE=\"font-size: 14.6667px; font-family: Arial; vertical-align: baseline; white-space: pre-wrap; background-color: transparent;\">\u00a0</SPAN></P>",
+                "html": "<P><SPAN>Techstars is a global ecosystem that empowers entrepreneurs to bring new technologies to market wherever they choose to live. With dozens of mentorship-driven accelerator programs and thousands of community programs worldwide, Techstars exists to support the world\u2019s most promising entrepreneurs throughout their lifelong journey, from inspiration to IPO. Techstars provides access to tens of thousands of community leaders, founders, mentors, investors, and corporate partners, allowing entrepreneurs to accelerate the pace of innovation and do more faster. Techstars supports every stage of the entrepreneurial journey \u2013 from early stage grassroots community development to more formal opportunities that provide education, experience, acceleration, funding, and beyond. Techstars Startup Programs\u00a0include <A HREF=\"http://startupweekend.org/\" TARGET=\"_blank\">Startup Weekend</A>, <A HREF=\"https://www.startupdigest.com/\" TARGET=\"_blank\">Startup Digest</A>, <A HREF=\"http://www.startupnext.co/\" TARGET=\"_blank\">Startup Next</A>, and <A HREF=\"http://startupweek.co/\" TARGET=\"_blank\">Startup Week</A>.</SPAN>\u00a0</P>\r\n<P><SPAN>\u00a0</SPAN></P>",
                 "text": "Techstars is a global ecosystem that empowers entrepreneurs to bring new technologies to market wherever they choose to live. With dozens of mentorship-driven accelerator programs and thousands of community programs worldwide, Techstars exists to support the world\u2019s most promising entrepreneurs throughout their lifelong journey, from inspiration to IPO. Techstars provides access to tens of thousands of community leaders, founders, mentors, investors, and corporate partners, allowing entrepreneurs to accelerate the pace of innovation and do more faster. Techstars supports every stage of the entrepreneurial journey \u2013 from early stage grassroots community development to more formal opportunities that provide education, experience, acceleration, funding, and beyond. Techstars Startup Programs\u00a0include Startup Weekend, Startup Digest, Startup Next, and Startup Week.\u00a0\r\n\u00a0"
             },
-            "facebook": "StartupWeekend",
+            "facebook": "startupweavignon",
             "id": "2300226659",
             "logo": {
                 "aspect_ratio": null,
@@ -544,7 +502,7 @@
             },
             "name": "Techstars Startup Programs",
             "resource_uri": "https://www.eventbriteapi.com/v3/organizers/2300226659/",
-            "twitter": "startupweekend",
+            "twitter": "swavn",
             "url": "http://www.eventbrite.com/o/techstars-startup-programs-2300226659",
             "vanity_url": "http://techstars_startup_programs.eventbrite.com",
             "website": "http://techstars.com"
@@ -1152,25 +1110,6 @@
             "longitude": "23.576522999999952",
             "name": "Golden Tulip Ana Dome",
             "resource_uri": "https://www.eventbriteapi.com/v3/venues/16075534/"
-        },
-        "16075932": {
-            "address": {
-                "address_1": null,
-                "address_2": null,
-                "city": "T\u00e2rgu Mure\u0219",
-                "country": "RO",
-                "latitude": "46.534811",
-                "localized_address_display": "T\u00e2rgu Mure\u0219",
-                "localized_area_display": "T\u00e2rgu Mure\u0219",
-                "longitude": "24.554485",
-                "postal_code": null,
-                "region": null
-            },
-            "id": "16075932",
-            "latitude": "46.534811",
-            "longitude": "24.554485",
-            "name": "InnoWork",
-            "resource_uri": "https://www.eventbriteapi.com/v3/venues/16075932/"
         },
         "16087738": {
             "address": {
