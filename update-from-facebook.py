@@ -33,7 +33,7 @@ def _getOrgAndEvents(like):
   fb['events'] += events
 
   fb['orgs'][fb_id] = utils.facebookApi(
-    '%s?fields=about,birthday,cover,description' % fb_id, paginate=False) 
+    '%s?fields=name,birthday,cover,description' % fb_id, paginate=False) 
 utils.repeat(likes, 'Getting info for %s', _getOrgAndEvents)
 
 with open('facebooks.json', 'w') as f:

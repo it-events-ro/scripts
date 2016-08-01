@@ -5,3 +5,5 @@ Babel==2.3.4
 pytz==2016.4
 beautifulsoup4==4.4.1
 html5lib==0.9999999
+python-dateutil==2.5.3
+

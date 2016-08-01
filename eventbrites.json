@@ -109,57 +109,51 @@
             "venue_id": "16087738"
         },
         {
-            "capacity": 40,
-            "category_id": "102",
-            "changed": "2016-07-23T07:36:39Z",
-            "created": "2016-06-23T10:55:33Z",
-            "currency": "EUR",
+            "capacity": 120,
+            "category_id": "101",
+            "changed": "2016-07-31T12:39:14Z",
+            "created": "2016-07-31T12:38:24Z",
+            "currency": "USD",
             "description": {
-                "html": "<P><SPAN><SPAN>The helloJS Academy aims at bringing interesting and valuable topics in the limelight for JavaScript developers, teaching and learning from one another to grow both as individuals and as a community. The first edition of the helloJS Academy will be held on the</SPAN><SPAN> 23th of July</SPAN><SPAN> with a brief follow up on the </SPAN><SPAN>30th of July</SPAN><SPAN>. </SPAN></SPAN></P>\n<P><SPAN>The Thorin training will be held by </SPAN><A HREF=\"https://www.linkedin.com/in/adrian-bunta-595a1164\" TARGET=\"_blank\" REL=\"nofollow\"><SPAN>Adrian Bunta</SPAN></A><SPAN>, Thorin.js creator and Node mastermind. During the training you will be able to take notes while watching live coding. The training itself will be a mixture of module presentation and a live build for a small single page app that you will be able to explore and work on after the training. The follow up on the 30th of July will handle code review for the work everybody did on the app. The training will be interactive, with a Q&A section after each part.</SPAN></P>\n<P>Read more about Thorin.js <A HREF=\"https://blog.hellojs.org/what-is-thorin-d56e7a337147#.akranadb4\" TARGET=\"_blank\" REL=\"nofollow\">here</A>!</P>\n<P><EM>Requirements:</EM></P>\n<P><SPAN>Prerequisite knowledge: minimum 1 year Node.js experience, Redis, Basic SQL\u00a0and database knowledge will also help</SPAN></P>\n<P><SPAN>Materials: pen, paper, laptop, tablet, anything you can take notes with</SPAN></P>\n<P><SPAN>If you bring a Laptop please have Node 4.x installed, MySQL\u00a0and Redis</SPAN></P>\n<P><SPAN>Hint:</SPAN><SPAN> Forming teams during the presentation will help app development</SPAN></P>\n<P><EM>Schedule:</EM></P>\n<P><STRONG>\u00a023th of July</STRONG></P>\n<P><SPAN>10:00 Project setup. Introducing the Thorin modules.</SPAN></P>\n<P><SPAN>11:15 Section Q&A</SPAN></P>\n<P><SPAN>11:30 30 minute break</SPAN></P>\n<P><SPAN>12:00 Modules presentation + live session part I</SPAN></P>\n<P><SPAN>13:15 Section Q&A</SPAN></P>\n<P><SPAN>13:30 Lunch + socializing</SPAN></P>\n<P><SPAN>15:00 Modules presentation + live session part II</SPAN></P>\n<P><SPAN>16:15 Section Q&A</SPAN></P>\n<P><SPAN>16:30 30 minute break</SPAN></P>\n<P><SPAN>17:00 Modules presentation + live session part III</SPAN></P>\n<P><SPAN>18:30 Final Q&A and conclusion</SPAN></P>\n<P><SPAN>19:00 Social time (and beer)</SPAN></P>\n<P><STRONG>\u00a030th July</STRONG></P>\n<P><SPAN>10:00 - 13:00 \u00a0Short App presentation (teams or individually)</SPAN></P>",
-                "text": "The helloJS Academy aims at bringing interesting and valuable topics in the limelight for JavaScript developers, teaching and learning from one another to grow both as individuals and as a community. The first edition of the helloJS Academy will be held on the 23th of July with a brief follow up on the 30th of July. \nThe Thorin training will be held by Adrian Bunta, Thorin.js creator and Node mastermind. During the training you will be able to take notes while watching live coding. The training itself will be a mixture of module presentation and a live build for a small single page app that you will be able to explore and work on after the training. The follow up on the 30th of July will handle code review for the work everybody did on the app. The training will be interactive, with a Q&A section after each part.\nRead more about Thorin.js here!\nRequirements:\nPrerequisite knowledge: minimum 1 year Node.js experience, Redis, Basic SQL\u00a0and database knowledge will also help\nMaterials: pen, paper, laptop, tablet, anything you can take notes with\nIf you bring a Laptop please have Node 4.x installed, MySQL\u00a0and Redis\nHint: Forming teams during the presentation will help app development\nSchedule:\n\u00a023th of July\n10:00 Project setup. Introducing the Thorin modules.\n11:15 Section Q&A\n11:30 30 minute break\n12:00 Modules presentation + live session part I\n13:15 Section Q&A\n13:30 Lunch + socializing\n15:00 Modules presentation + live session part II\n16:15 Section Q&A\n16:30 30 minute break\n17:00 Modules presentation + live session part III\n18:30 Final Q&A and conclusion\n19:00 Social time (and beer)\n\u00a030th July\n10:00 - 13:00 \u00a0Short App presentation (teams or individually)"
+                "html": "<P><SPAN>Join us on Thursday, 11 August, 6.30 pm at TechHub Bucharest to learn from some of the best startup builders currently in Romania how you should shape your team in order to build an aspiring business. RSVP</SPAN><SPAN>\u00a0</SPAN><SPAN>to save one of the limited places available, for Edition #2 in the #goglobal with Google series.</SPAN></P>\n<P><SPAN>We\u2019re eager to welcome important experts, as part of a panel which is going to share some valuable information:</SPAN></P>\n<UL>\n<LI>\n<P><SPAN>Irina Bucurenciu</SPAN><SPAN>, Head of Marketing of 123ContactForm;</SPAN></P>\n</LI>\n<LI>\n<P><SPAN>Robert Knapp</SPAN><SPAN>, Managing Director of Cyberghost;</SPAN></P>\n</LI>\n<LI>\n<P><SPAN>George Lemnaru</SPAN><SPAN>, Founder of Green Horse Games;</SPAN></P>\n</LI>\n<LI>\n<P><SPAN>Valentin Radu</SPAN><SPAN>, Founder and CEO of Marketizator.</SPAN></P>\n</LI>\n</UL>\n<P><SPAN></SPAN><STRONG>Event agenda</STRONG></P>\n<UL>\n<LI>\n<P><SPAN>6:30 - 7:00pm Participants arrival</SPAN></P>\n</LI>\n<LI>\n<P><SPAN>7:00 - 7:45 #goglobal with Google: Panel on How to Build a Startup Team</SPAN></P>\n</LI>\n<LI>\n<P><SPAN>7:45 - 8:15 Q&A</SPAN></P>\n</LI>\n<LI>\n<P><SPAN>8:15 - 9:30 Networking</SPAN></P>\n</LI>\n</UL>\n<P><SPAN><BR></SPAN></P>",
+                "text": "Join us on Thursday, 11 August, 6.30 pm at TechHub Bucharest to learn from some of the best startup builders currently in Romania how you should shape your team in order to build an aspiring business. RSVP\u00a0to save one of the limited places available, for Edition #2 in the #goglobal with Google series.\nWe\u2019re eager to welcome important experts, as part of a panel which is going to share some valuable information:\n\n\nIrina Bucurenciu, Head of Marketing of 123ContactForm;\n\n\nRobert Knapp, Managing Director of Cyberghost;\n\n\nGeorge Lemnaru, Founder of Green Horse Games;\n\n\nValentin Radu, Founder and CEO of Marketizator.\n\n\nEvent agenda\n\n\n6:30 - 7:00pm Participants arrival\n\n\n7:00 - 7:45 #goglobal with Google: Panel on How to Build a Startup Team\n\n\n7:45 - 8:15 Q&A\n\n\n8:15 - 9:30 Networking\n\n\n"
             },
             "end": {
-                "local": "2016-07-30T13:00:00",
+                "local": "2016-08-11T21:30:00",
                 "timezone": "Europe/Bucharest",
-                "utc": "2016-07-30T10:00:00Z"
+                "utc": "2016-08-11T18:30:00Z"
             },
-            "format_id": "9",
+            "format_id": "10",
             "hide_end_date": false,
             "hide_start_date": false,
-            "id": "26220582468",
+            "id": "26863276784",
             "is_locked": false,
             "is_reserved_seating": false,
             "is_series": false,
             "is_series_parent": false,
             "listed": true,
             "locale": "en_US",
-            "logo": {
-                "aspect_ratio": "2",
-                "edge_color": null,
-                "edge_color_set": true,
-                "id": "22214913",
-                "url": "https://img.evbuc.com/http%3A%2F%2Fcdn.evbuc.com%2Fimages%2F22214913%2F179582383315%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C0%2C8998%2C4499&s=6695c8f6a3e36b683944521b2b10acd5"
-            },
-            "logo_id": "22214913",
+            "logo": null,
+            "logo_id": null,
             "name": {
-                "html": "helloJS Academy: Thorin Training",
-                "text": "helloJS Academy: Thorin Training"
+                "html": "How to Create a Startup Team (and Conquer the World)",
+                "text": "How to Create a Startup Team (and Conquer the World)"
             },
             "online_event": false,
-            "organizer_id": "9377817403",
+            "organizer_id": "5340605367",
             "privacy_setting": "unlocked",
-            "resource_uri": "https://www.eventbriteapi.com/v3/events/26220582468/",
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/26863276784/",
             "shareable": true,
             "start": {
-                "local": "2016-07-23T10:00:00",
+                "local": "2016-08-11T18:30:00",
                 "timezone": "Europe/Bucharest",
-                "utc": "2016-07-23T07:00:00Z"
+                "utc": "2016-08-11T15:30:00Z"
             },
-            "status": "started",
-            "subcategory_id": "2004",
-            "tx_time_limit": 3540,
-            "url": "http://www.eventbrite.com/e/hellojs-academy-thorin-training-tickets-26220582468",
-            "venue_id": "15819072"
+            "status": "live",
+            "subcategory_id": "1001",
+            "tx_time_limit": 480,
+            "url": "http://www.eventbrite.com/e/how-to-create-a-startup-team-and-conquer-the-world-tickets-26863276784",
+            "venue_id": "10847348"
         },
         {
             "capacity": 150,
@@ -487,7 +481,7 @@
                 "html": "<P><SPAN>Techstars is a global ecosystem that empowers entrepreneurs to bring new technologies to market wherever they choose to live. With dozens of mentorship-driven accelerator programs and thousands of community programs worldwide, Techstars exists to support the world\u2019s most promising entrepreneurs throughout their lifelong journey, from inspiration to IPO. Techstars provides access to tens of thousands of community leaders, founders, mentors, investors, and corporate partners, allowing entrepreneurs to accelerate the pace of innovation and do more faster. Techstars supports every stage of the entrepreneurial journey \u2013 from early stage grassroots community development to more formal opportunities that provide education, experience, acceleration, funding, and beyond. Techstars Startup Programs\u00a0include <A HREF=\"http://startupweekend.org/\" TARGET=\"_blank\">Startup Weekend</A>, <A HREF=\"https://www.startupdigest.com/\" TARGET=\"_blank\">Startup Digest</A>, <A HREF=\"http://www.startupnext.co/\" TARGET=\"_blank\">Startup Next</A>, and <A HREF=\"http://startupweek.co/\" TARGET=\"_blank\">Startup Week</A>.</SPAN>\u00a0</P>\r\n<P><SPAN>\u00a0</SPAN></P>",
                 "text": "Techstars is a global ecosystem that empowers entrepreneurs to bring new technologies to market wherever they choose to live. With dozens of mentorship-driven accelerator programs and thousands of community programs worldwide, Techstars exists to support the world\u2019s most promising entrepreneurs throughout their lifelong journey, from inspiration to IPO. Techstars provides access to tens of thousands of community leaders, founders, mentors, investors, and corporate partners, allowing entrepreneurs to accelerate the pace of innovation and do more faster. Techstars supports every stage of the entrepreneurial journey \u2013 from early stage grassroots community development to more formal opportunities that provide education, experience, acceleration, funding, and beyond. Techstars Startup Programs\u00a0include Startup Weekend, Startup Digest, Startup Next, and Startup Week.\u00a0\r\n\u00a0"
             },
-            "facebook": "startupweavignon",
+            "facebook": "StartupWeekendPachuca",
             "id": "2300226659",
             "logo": {
                 "aspect_ratio": null,
@@ -502,7 +496,7 @@
             },
             "name": "Techstars Startup Programs",
             "resource_uri": "https://www.eventbriteapi.com/v3/organizers/2300226659/",
-            "twitter": "swavn",
+            "twitter": "StartupHidalgo",
             "url": "http://www.eventbrite.com/o/techstars-startup-programs-2300226659",
             "vanity_url": "http://techstars_startup_programs.eventbrite.com",
             "website": "http://techstars.com"
@@ -741,6 +735,23 @@
             "url": "http://www.eventbrite.com/o/clujhub-4662547959",
             "vanity_url": "http://clujhub.eventbrite.com",
             "website": "http://clujhub.ro"
+        },
+        "5340605367": {
+            "description": {
+                "html": "<P>TechHub Bucharest is the co-working space and meeting place for the Bucharest tech community and it helps startups get better faster by providing them access to mentorship & networking opportunities, high quality events & valuable connections to the global tech scene. All these beyond the creative office space available for its resident members.</P>",
+                "text": "TechHub Bucharest is the co-working space and meeting place for the Bucharest tech community and it helps startups get better faster by providing them access to mentorship & networking opportunities, high quality events & valuable connections to the global tech scene. All these beyond the creative office space available for its resident members."
+            },
+            "facebook": "TechHub.Bucharest",
+            "id": "5340605367",
+            "logo": null,
+            "long_description": {
+                "html": null,
+                "text": null
+            },
+            "name": "TechHub Bucharest ",
+            "resource_uri": "https://www.eventbriteapi.com/v3/organizers/5340605367/",
+            "twitter": "TechHubBuc",
+            "url": "http://www.eventbrite.com/o/techhub-bucharest-5340605367"
         },
         "5899601137": {
             "description": {
@@ -1016,6 +1027,25 @@
             "name": " Asteri",
             "resource_uri": "https://www.eventbriteapi.com/v3/venues/9386975/"
         },
+        "10847348": {
+            "address": {
+                "address_1": "39-41 Strada Nicolae Filipescu",
+                "address_2": null,
+                "city": "Bucure\u0219ti",
+                "country": "RO",
+                "latitude": "44.439188",
+                "localized_address_display": "39-41 Strada Nicolae Filipescu, 020961 Bucure\u0219ti",
+                "localized_area_display": "Bucure\u0219ti",
+                "longitude": "26.102131999999983",
+                "postal_code": "020961",
+                "region": "Municipiul Bucure\u0219ti"
+            },
+            "id": "10847348",
+            "latitude": "44.439188",
+            "longitude": "26.102131999999983",
+            "name": "TechHub Bucharest",
+            "resource_uri": "https://www.eventbriteapi.com/v3/venues/10847348/"
+        },
         "12305436": {
             "address": {
                 "address_1": null,
@@ -1072,25 +1102,6 @@
             "longitude": "26.09748669999999",
             "name": "Hotel Novotel Bucharest City Centre",
             "resource_uri": "https://www.eventbriteapi.com/v3/venues/15808431/"
-        },
-        "15819072": {
-            "address": {
-                "address_1": "62 Calea Mo\u021bilor",
-                "address_2": null,
-                "city": "Cluj-Napoca",
-                "country": "RO",
-                "latitude": "46.76671",
-                "localized_address_display": "62 Calea Mo\u021bilor, 400370 Cluj-Napoca",
-                "localized_area_display": "Cluj-Napoca",
-                "longitude": "23.578584999999975",
-                "postal_code": "400370",
-                "region": "CJ"
-            },
-            "id": "15819072",
-            "latitude": "46.76671",
-            "longitude": "23.578584999999975",
-            "name": "Evozon Systems",
-            "resource_uri": "https://www.eventbriteapi.com/v3/venues/15819072/"
         },
         "16075534": {
             "address": {
