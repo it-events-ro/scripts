@@ -130,6 +130,8 @@ def populateFromFacebook(events, locations, organizations):
     with open('facebooks.json', 'r') as f:
         facebooks = json.loads(f.read())
 
+    existing_event_urls = {e['link'] for e in events.values()}
+
     for event in facebooks['events']:
         venue_id = 'fb-vne-%s' % event['place']['id']
 
@@ -144,10 +146,15 @@ def populateFromFacebook(events, locations, organizations):
             # event can be shared by multiple pages
             continue
 
+        link = event.get('ticket_uri') or 'https://www.facebook.com/events/%s' % event['id']
+        if link in existing_event_urls:
+            print ('Skipping already known event: %s' % link)
+            continue
+
         events[event_id] = dict(
             name=event['name'],
             description=event.get('description'),
-            link='https://www.facebook.com/events/%s' % event['id'],
+            link=link,
             venue_id=venue_id,
             organizer_id = 'fb-org-%s' % event['org_id'],
             time=start_time,

@@ -21,7 +21,9 @@ fb = dict(events=[], orgs={})
 def _getOrgAndEvents(like):
   fb_id = like['id']
 
-  events = utils.facebookApi('%s/events?since=2010-11-01T00:00:00' % fb_id, paginate=True)
+  events = utils.facebookApi(
+    '%s/events?fields=description,name,start_time,end_time,ticket_uri,place,id&'
+    'since=2010-11-01T00:00:00' % fb_id, paginate=True)
   events = [
     e for e in events
     if _getFromNestedDict(e, 'place', 'location', 'country') == 'Romania'
