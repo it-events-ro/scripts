@@ -30,6 +30,7 @@ included_organizers = {
   8270334915, # http://www.eventbrite.co.uk/o/msg-systems-romania-8270334915
   2670928534, # http://www.eventbrite.com/o/itcamp-community-2670928534
   5340605367, # http://www.eventbrite.com/o/techhub-bucharest-5340605367
+  8042013777, # http://www.eventbrite.com/o/owasp-foundation-8042013777
 }
 
 excluded_organizers = {

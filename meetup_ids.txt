@@ -5,6 +5,7 @@ Blue-Wire-Software
 BucharestJS
 BucharestTech
 Business-Analysts-Cluj
+Bucharest-Startup-Founder-101
 bv-tech
 Cluj-DevOps
 Cluj-Javascripters
@@ -26,8 +27,10 @@ DOTNET-Cluj
 Drupal-Cluj
 eat-pray-tech
 E-Commerce-Romania
+Freelance-Community-Cluj
 GameDEV-Iasi-Meetup
 HackDays
+hello-js
 Infrastructure-Automation-Meetups
 IS-DevOps-Meetup
 ITCamp-Community
@@ -43,12 +46,14 @@ Papers-We-Love-Iasi
 PHP-Cluj
 PHP-Community-Timisoara
 PMI-Romania-Cluj-Napoca-Project-Management-Meetup-Group
+ProductTank-Bucharest
 PyTim-Meetup
 romanian-lean-startup-cell
 ROPUG-Meetup-Progress-Users-Group-Romania
 RoPython-Timisoara
 StartupGrindClujNapoca
 Startup-Grind-Romania
+Softbinator-Romanian-IT-Community
 Tabara-de-Testare-Cluj
 Tabara-de-Testare-Iasi
 Tabara-de-Testare-Timisoara

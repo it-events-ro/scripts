@@ -57,12 +57,12 @@
         {
             "capacity": 500,
             "category_id": "102",
-            "changed": "2016-07-25T14:17:41Z",
+            "changed": "2016-08-01T15:25:21Z",
             "created": "2016-07-24T08:35:33Z",
             "currency": "USD",
             "description": {
-                "html": "<P>\u00cen luna August, <A HREF=\"http://community.itcamp.ro\" TARGET=\"_blank\" REL=\"nofollow\">ITCamp </A>organizeaz\u0103 un nou eveniment pentru profesioni\u0219tii IT din Cluj-Napoca. Evenimentul urmeaz\u0103 s\u0103 aib\u0103 loc pe data de 18 August, \u00een cl\u0103rirea Evozone.<BR>Participarea la eveniment este gratuit\u0103. Mul\u021bumim sponsorilor pentru sustinere (<A HREF=\"https://www.evozon.com/\" TARGET=\"_blank\" REL=\"nofollow\">Evozone </A>\u0219i <A HREF=\"http://www.recognos.com\" TARGET=\"_blank\" REL=\"nofollow\">Recognos</A>).</P>\r\n<P><SPAN STYLE=\"text-decoration: underline;\">Program:</SPAN><BR>17:45 - 18:00 - Registration (coffee and beverages)<BR>18:00 - 19:00 - .NET Security (Radu Vunvulea)<BR>19:00 - 19:30 - Break (coffee and beverages)<BR>19:30 - 20:30 - Actor based concurrency with Elixir (Adrian Magdas)<BR>20:30 - 21:00 - Networking (coffee and beverages)</P>\r\n<P><SPAN STYLE=\"text-decoration: underline;\">Descrierea sesiunilor:</SPAN><BR><STRONG>.NET Security (Radu Vunvulea)</STRONG><BR>When is the last time when you pushed an update to .NET framework in a production environment? Did you defined an updated process of .NET framework for production environments? Is the support team aware about what can happen if a security update is not pushed to the machines? <BR>In this session we will take a look on some security problems that .NET framework has and what can happen if we don't take security into account. We will take a look on different versions of .NET (including .NET Core). Best practives related to this topic will be covered and debated.</P>\r\n<P><STRONG>Actor based concurrency with Elixir</STRONG><BR>Because of increased demand for interconnected systems(IOT, SAAS) we need new improved ways of handling reliable (soft)real-time systems. One battle-tested approach is based on the Actor Model pioneered by Erlang and brought to the masses by Elixir.<BR>Topics that will be covered:<BR> - short introduction to functional programming principles with examples in Elixir<BR> - actor model concurrency: why is it needed, advantages &amp; disadvantages<BR> - OTP patterns for handling agents: GenServer &amp; Supervisor</P>\r\n<P><SPAN><SPAN STYLE=\"text-decoration: underline;\">Sponsori</SPAN>:</SPAN></P>\r\n<P><A HREF=\"https://www.evozon.com/\" TARGET=\"_blank\" REL=\"nofollow\"><SPAN><IMG ALT=\"Evozone\" SRC=\"https://www.evozon.com/wp-content/uploads/2015/12/logo-evozon.png\"></SPAN></IMG></A></P>\r\n<P><A HREF=\"http://www.recognos.com\" TARGET=\"_blank\" REL=\"nofollow\"><IMG ALT=\"Recognos\" SRC=\"https://media.licdn.com/media/AAEAAQAAAAAAAAhZAAAAJGYwMWViOGViLTZkNzUtNDBiNy1iYzRhLTcwYThjZWRiYzIyZA.png\" HEIGHT=\"143\" WIDTH=\"420\"></IMG></A></P>\r\n<P><BR></P>",
-                "text": "\u00cen luna August, ITCamp organizeaz\u0103 un nou eveniment pentru profesioni\u0219tii IT din Cluj-Napoca. Evenimentul urmeaz\u0103 s\u0103 aib\u0103 loc pe data de 18 August, \u00een cl\u0103rirea Evozone.Participarea la eveniment este gratuit\u0103. Mul\u021bumim sponsorilor pentru sustinere (Evozone \u0219i Recognos).\r\nProgram:17:45 - 18:00 - Registration (coffee and beverages)18:00 - 19:00 - .NET Security (Radu Vunvulea)19:00 - 19:30 - Break (coffee and beverages)19:30 - 20:30 - Actor based concurrency with Elixir (Adrian Magdas)20:30 - 21:00 - Networking (coffee and beverages)\r\nDescrierea sesiunilor:.NET Security (Radu Vunvulea)When is the last time when you pushed an update to .NET framework in a production environment? Did you defined an updated process of .NET framework for production environments? Is the support team aware about what can happen if a security update is not pushed to the machines? In this session we will take a look on some security problems that .NET framework has and what can happen if we don't take security into account. We will take a look on different versions of .NET (including .NET Core). Best practives related to this topic will be covered and debated.\r\nActor based concurrency with ElixirBecause of increased demand for interconnected systems(IOT, SAAS) we need new improved ways of handling reliable (soft)real-time systems. One battle-tested approach is based on the Actor Model pioneered by Erlang and brought to the masses by Elixir.Topics that will be covered: - short introduction to functional programming principles with examples in Elixir - actor model concurrency: why is it needed, advantages & disadvantages - OTP patterns for handling agents: GenServer & Supervisor\r\nSponsori:\r\n\r\n\r\n"
+                "html": "<P>\u00cen luna August, <A HREF=\"http://community.itcamp.ro\" TARGET=\"_blank\" REL=\"nofollow\">ITCamp </A>organizeaz\u0103 un nou eveniment pentru profesioni\u0219tii IT din Cluj-Napoca. Evenimentul urmeaz\u0103 s\u0103 aib\u0103 loc pe data de 18 August, \u00een cl\u0103rirea Evozon.<BR>Participarea la eveniment este gratuit\u0103. Mul\u021bumim sponsorilor pentru sustinere (<A HREF=\"https://www.evozon.com/\" TARGET=\"_blank\" REL=\"nofollow\">Evozon\u00a0</A>\u0219i <A HREF=\"http://www.recognos.com\" TARGET=\"_blank\" REL=\"nofollow\">Recognos</A>).</P>\r\n<P><SPAN STYLE=\"text-decoration: underline;\">Program:</SPAN><BR>17:45 - 18:00 - Registration (coffee and beverages)<BR>18:00 - 19:00 - .NET Security (Radu Vunvulea)<BR>19:00 - 19:30 - Break (coffee and beverages)<BR>19:30 - 20:30 - Actor based concurrency with Elixir (Adrian Magdas)<BR>20:30 - 21:00 - Networking (coffee and beverages)</P>\r\n<P><SPAN STYLE=\"text-decoration: underline;\">Descrierea sesiunilor:</SPAN><BR><STRONG>.NET Security (Radu Vunvulea)</STRONG><BR>When is the last time when you pushed an update to .NET framework in a production environment? Did you defined an updated process of .NET framework for production environments? Is the support team aware about what can happen if a security update is not pushed to the machines? <BR>In this session we will take a look on some security problems that .NET framework has and what can happen if we don't take security into account. We will take a look on different versions of .NET (including .NET Core). Best practives related to this topic will be covered and debated.</P>\r\n<P><STRONG>Actor based concurrency with Elixir</STRONG><BR>Because of increased demand for interconnected systems(IOT, SAAS) we need new improved ways of handling reliable (soft)real-time systems. One battle-tested approach is based on the Actor Model pioneered by Erlang and brought to the masses by Elixir.<BR>Topics that will be covered:<BR> - short introduction to functional programming principles with examples in Elixir<BR> - actor model concurrency: why is it needed, advantages &amp; disadvantages<BR> - OTP patterns for handling agents: GenServer &amp; Supervisor</P>\r\n<P><SPAN><SPAN STYLE=\"text-decoration: underline;\">Sponsori</SPAN>:</SPAN></P>\r\n<P><A HREF=\"https://www.evozon.com/\" TARGET=\"_blank\" REL=\"nofollow\"><SPAN><IMG ALT=\"Evozone\" SRC=\"https://www.evozon.com/wp-content/uploads/2015/12/logo-evozon.png\"></SPAN></IMG></A></P>\r\n<P><A HREF=\"http://www.recognos.com\" TARGET=\"_blank\" REL=\"nofollow\"><IMG ALT=\"Recognos\" SRC=\"https://media.licdn.com/media/AAEAAQAAAAAAAAhZAAAAJGYwMWViOGViLTZkNzUtNDBiNy1iYzRhLTcwYThjZWRiYzIyZA.png\" HEIGHT=\"143\" WIDTH=\"420\"></IMG></A></P>\r\n<P><BR></P>",
+                "text": "\u00cen luna August, ITCamp organizeaz\u0103 un nou eveniment pentru profesioni\u0219tii IT din Cluj-Napoca. Evenimentul urmeaz\u0103 s\u0103 aib\u0103 loc pe data de 18 August, \u00een cl\u0103rirea Evozon.Participarea la eveniment este gratuit\u0103. Mul\u021bumim sponsorilor pentru sustinere (Evozon\u00a0\u0219i Recognos).\r\nProgram:17:45 - 18:00 - Registration (coffee and beverages)18:00 - 19:00 - .NET Security (Radu Vunvulea)19:00 - 19:30 - Break (coffee and beverages)19:30 - 20:30 - Actor based concurrency with Elixir (Adrian Magdas)20:30 - 21:00 - Networking (coffee and beverages)\r\nDescrierea sesiunilor:.NET Security (Radu Vunvulea)When is the last time when you pushed an update to .NET framework in a production environment? Did you defined an updated process of .NET framework for production environments? Is the support team aware about what can happen if a security update is not pushed to the machines? In this session we will take a look on some security problems that .NET framework has and what can happen if we don't take security into account. We will take a look on different versions of .NET (including .NET Core). Best practives related to this topic will be covered and debated.\r\nActor based concurrency with ElixirBecause of increased demand for interconnected systems(IOT, SAAS) we need new improved ways of handling reliable (soft)real-time systems. One battle-tested approach is based on the Actor Model pioneered by Erlang and brought to the masses by Elixir.Topics that will be covered: - short introduction to functional programming principles with examples in Elixir - actor model concurrency: why is it needed, advantages & disadvantages - OTP patterns for handling agents: GenServer & Supervisor\r\nSponsori:\r\n\r\n\r\n"
             },
             "end": {
                 "local": "2016-08-18T21:00:00",
@@ -207,6 +207,59 @@
             "tx_time_limit": 480,
             "url": "http://www.eventbrite.co.uk/e/it-conference-on-sap-technologies-4th-edition-tickets-26717776589",
             "venue_id": "16075534"
+        },
+        {
+            "capacity": 1038,
+            "category_id": "199",
+            "changed": "2016-08-01T18:54:22Z",
+            "created": "2016-08-01T18:13:22Z",
+            "currency": "EUR",
+            "description": {
+                "html": "<P><STRONG><IMG ALT=\"\" SRC=\"https://cdn.evbuc.com/eventlogos/150404698/bug2.png\" HEIGHT=\"17\" WIDTH=\"18\">\u00a0Join OWASP AppSec Bucharest 2016 - the only application security event in Bucharest!</STRONG></P>\r\n<P>The application security conference will take place on 6th of October 2016 at Sheraton Bucharest Hotel. Everyone is free to participate in OWASP and all our materials are available under a free and open software license.</P>\r\n<P>Our objective is to raise awareness about application security and to bring high-quality security content provided by renowned professionals in the European region.\u00a0<BR></P>\r\n<P><STRONG STYLE=\"font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 20.8px;\"><IMG ALT=\"\" SRC=\"https://cdn.evbuc.com/eventlogos/150404698/bug2.png\" HEIGHT=\"17\" WIDTH=\"18\">\u00a0</STRONG><STRONG>Who Should Attend?</STRONG></P>\r\n<UL>\r\n<LI>Application Developers</LI>\r\n<LI>Application Testers and Quality Assurance</LI>\r\n<LI>Application Project Management and Staff</LI>\r\n<LI>Chief Information Officers, Chief Information Security Officers, Chief Technology Officers, Deputies, Associates and Staff</LI>\r\n<LI>Chief Financial Officers, Auditors, and Staff Responsible for IT Security Oversight and Compliance</LI>\r\n<LI>Security Managers and Staff</LI>\r\n<LI>Executives, Managers, and Staff Responsible for IT Security Governance</LI>\r\n<LI>IT Professionals interested in improving IT Security</LI>\r\n<LI>Anyone interested in learning about or promoting Web Application Security</LI>\r\n</UL>\r\n<P><STRONG STYLE=\"font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 20.8px;\"><IMG ALT=\"\" SRC=\"https://cdn.evbuc.com/eventlogos/150404698/bug2.png\" HEIGHT=\"17\" WIDTH=\"18\">\u00a0Great talks and trainings! </STRONG></P>\r\n<P>Check the <A HREF=\"https://www.owasp.org/index.php/OWASP_Bucharest_AppSec_Conference_2016\" TARGET=\"_blank\" REL=\"nofollow\">event page</A> for the updated agenda.</P>\r\n<P>See you there!</P>",
+                "text": "\u00a0Join OWASP AppSec Bucharest 2016 - the only application security event in Bucharest!\r\nThe application security conference will take place on 6th of October 2016 at Sheraton Bucharest Hotel. Everyone is free to participate in OWASP and all our materials are available under a free and open software license.\r\nOur objective is to raise awareness about application security and to bring high-quality security content provided by renowned professionals in the European region.\u00a0\r\n\u00a0Who Should Attend?\r\n\r\nApplication Developers\r\nApplication Testers and Quality Assurance\r\nApplication Project Management and Staff\r\nChief Information Officers, Chief Information Security Officers, Chief Technology Officers, Deputies, Associates and Staff\r\nChief Financial Officers, Auditors, and Staff Responsible for IT Security Oversight and Compliance\r\nSecurity Managers and Staff\r\nExecutives, Managers, and Staff Responsible for IT Security Governance\r\nIT Professionals interested in improving IT Security\r\nAnyone interested in learning about or promoting Web Application Security\r\n\r\n\u00a0Great talks and trainings! \r\nCheck the event page for the updated agenda.\r\nSee you there!"
+            },
+            "end": {
+                "local": "2016-10-06T16:30:00",
+                "timezone": "Europe/Bucharest",
+                "utc": "2016-10-06T13:30:00Z"
+            },
+            "format_id": "1",
+            "hide_end_date": false,
+            "hide_start_date": false,
+            "id": "26882929566",
+            "is_locked": false,
+            "is_reserved_seating": false,
+            "is_series": false,
+            "is_series_parent": false,
+            "listed": true,
+            "locale": "en_US",
+            "logo": {
+                "aspect_ratio": "2",
+                "edge_color": null,
+                "edge_color_set": true,
+                "id": "22943491",
+                "url": "https://img.evbuc.com/http%3A%2F%2Fcdn.evbuc.com%2Fimages%2F22943491%2F151457530886%2F1%2Foriginal.jpg?h=200&w=450&rect=329%2C163%2C1582%2C791&s=cff1128db39559a3b49db5de7e12e450"
+            },
+            "logo_id": "22943491",
+            "name": {
+                "html": "OWASP Bucharest AppSec Conference 2016",
+                "text": "OWASP Bucharest AppSec Conference 2016"
+            },
+            "online_event": false,
+            "organizer_id": "8042013777",
+            "privacy_setting": "unlocked",
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/26882929566/",
+            "shareable": true,
+            "start": {
+                "local": "2016-10-06T08:30:00",
+                "timezone": "Europe/Bucharest",
+                "utc": "2016-10-06T05:30:00Z"
+            },
+            "status": "live",
+            "subcategory_id": null,
+            "tx_time_limit": 900,
+            "url": "http://www.eventbrite.com/e/owasp-bucharest-appsec-conference-2016-tickets-26882929566",
+            "venue_id": "16162799"
         },
         {
             "capacity": 120,
@@ -481,7 +534,7 @@
                 "html": "<P><SPAN>Techstars is a global ecosystem that empowers entrepreneurs to bring new technologies to market wherever they choose to live. With dozens of mentorship-driven accelerator programs and thousands of community programs worldwide, Techstars exists to support the world\u2019s most promising entrepreneurs throughout their lifelong journey, from inspiration to IPO. Techstars provides access to tens of thousands of community leaders, founders, mentors, investors, and corporate partners, allowing entrepreneurs to accelerate the pace of innovation and do more faster. Techstars supports every stage of the entrepreneurial journey \u2013 from early stage grassroots community development to more formal opportunities that provide education, experience, acceleration, funding, and beyond. Techstars Startup Programs\u00a0include <A HREF=\"http://startupweekend.org/\" TARGET=\"_blank\">Startup Weekend</A>, <A HREF=\"https://www.startupdigest.com/\" TARGET=\"_blank\">Startup Digest</A>, <A HREF=\"http://www.startupnext.co/\" TARGET=\"_blank\">Startup Next</A>, and <A HREF=\"http://startupweek.co/\" TARGET=\"_blank\">Startup Week</A>.</SPAN>\u00a0</P>\r\n<P><SPAN>\u00a0</SPAN></P>",
                 "text": "Techstars is a global ecosystem that empowers entrepreneurs to bring new technologies to market wherever they choose to live. With dozens of mentorship-driven accelerator programs and thousands of community programs worldwide, Techstars exists to support the world\u2019s most promising entrepreneurs throughout their lifelong journey, from inspiration to IPO. Techstars provides access to tens of thousands of community leaders, founders, mentors, investors, and corporate partners, allowing entrepreneurs to accelerate the pace of innovation and do more faster. Techstars supports every stage of the entrepreneurial journey \u2013 from early stage grassroots community development to more formal opportunities that provide education, experience, acceleration, funding, and beyond. Techstars Startup Programs\u00a0include Startup Weekend, Startup Digest, Startup Next, and Startup Week.\u00a0\r\n\u00a0"
             },
-            "facebook": "StartupWeekendPachuca",
+            "facebook": "swboulder16",
             "id": "2300226659",
             "logo": {
                 "aspect_ratio": null,
@@ -496,7 +549,7 @@
             },
             "name": "Techstars Startup Programs",
             "resource_uri": "https://www.eventbriteapi.com/v3/organizers/2300226659/",
-            "twitter": "StartupHidalgo",
+            "twitter": "swboulder",
             "url": "http://www.eventbrite.com/o/techstars-startup-programs-2300226659",
             "vanity_url": "http://techstars_startup_programs.eventbrite.com",
             "website": "http://techstars.com"
@@ -890,6 +943,24 @@
             "twitter": "@innoworkmures",
             "url": "http://www.eventbrite.com/o/innodrive-7802438407"
         },
+        "8042013777": {
+            "description": {
+                "html": "<P><SPAN><SPAN>The Open Web Application Security Project (OWASP) is a </SPAN><A HREF=\"http://www.irs.gov/Charities-&-Non-Profits/Charitable-Organizations/Exemption-Requirements-Section-501(c)(3)-Organizations\" TARGET=\"_blank\"><SPAN>501(c)(3)</SPAN></A><SPAN> worldwide not-for-profit charitable organization focused on improving the security of software. Our mission is to make software security </SPAN><A HREF=\"https://www.owasp.org/index.php/Category:OWASP_Video\" TARGET=\"_blank\"><SPAN>visible,</SPAN></A><SPAN> so that </SPAN><A HREF=\"https://www.owasp.org/index.php/Industry:Citations\" TARGET=\"_blank\"><SPAN>individuals and organizations</SPAN></A><SPAN> worldwide can make informed decisions about true software security risks.</SPAN></SPAN></P>\r\n<DIV><SPAN><BR></SPAN></DIV>",
+                "text": "The Open Web Application Security Project (OWASP) is a 501(c)(3) worldwide not-for-profit charitable organization focused on improving the security of software. Our mission is to make software security visible, so that individuals and organizations worldwide can make informed decisions about true software security risks.\r\n"
+            },
+            "facebook": "owaspromania",
+            "id": "8042013777",
+            "logo": null,
+            "long_description": {
+                "html": null,
+                "text": null
+            },
+            "name": "OWASP Foundation",
+            "resource_uri": "https://www.eventbriteapi.com/v3/organizers/8042013777/",
+            "twitter": "@OWASPRomania",
+            "url": "http://www.eventbrite.com/o/owasp-foundation-8042013777",
+            "vanity_url": "http://appseccali2017.eventbrite.com"
+        },
         "8270334915": {
             "description": {
                 "html": null,
@@ -1140,6 +1211,25 @@
             "longitude": "23.57892800000002",
             "name": "Evozone",
             "resource_uri": "https://www.eventbriteapi.com/v3/venues/16087738/"
+        },
+        "16162799": {
+            "address": {
+                "address_1": "5 Calea Doroban\u021bi",
+                "address_2": null,
+                "city": "Bucure\u0219ti",
+                "country": "RO",
+                "latitude": "44.4469227",
+                "localized_address_display": "5 Calea Doroban\u021bi, Bucure\u0219ti",
+                "localized_area_display": "Bucure\u0219ti",
+                "longitude": "26.09944619999999",
+                "postal_code": null,
+                "region": "Municipiul Bucure\u0219ti"
+            },
+            "id": "16162799",
+            "latitude": "44.4469227",
+            "longitude": "26.09944619999999",
+            "name": "Calea Doroban\u021bi 5",
+            "resource_uri": "https://www.eventbriteapi.com/v3/venues/16162799/"
         }
     }
 }
