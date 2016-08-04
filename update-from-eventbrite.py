@@ -31,6 +31,7 @@ included_organizers = {
   2670928534, # http://www.eventbrite.com/o/itcamp-community-2670928534
   5340605367, # http://www.eventbrite.com/o/techhub-bucharest-5340605367
   8042013777, # http://www.eventbrite.com/o/owasp-foundation-8042013777
+  11097508562, # http://www.eventbrite.com/o/robertino-vasilescu-si-bogdan-socol-ambasadori-prestashop-11097508562
 }
 
 excluded_organizers = {

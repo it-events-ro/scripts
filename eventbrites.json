@@ -109,9 +109,9 @@
             "venue_id": "16087738"
         },
         {
-            "capacity": 120,
+            "capacity": 200,
             "category_id": "101",
-            "changed": "2016-07-31T12:39:14Z",
+            "changed": "2016-08-03T11:29:12Z",
             "created": "2016-07-31T12:38:24Z",
             "currency": "USD",
             "description": {
@@ -263,13 +263,66 @@
         },
         {
             "capacity": 120,
+            "category_id": "102",
+            "changed": "2016-08-03T18:16:43Z",
+            "created": "2016-08-03T18:08:56Z",
+            "currency": "USD",
+            "description": {
+                "html": "<P>Robertino Vasilescu si Bogdan Socol va invita la a doua intalnire Prestashop din acest an!</P>\n<P>Vom avea probabil o scurta prezentare a apropiatei lansari Prestashop 1.7.0.0 urmata de o sesiune de discutii libere si socializare.</P>\n<P>Aceasta sesiune este principalul scop al intalnirii.</P>\n<P>Ne propunem sa discutam\u00a0atat metodele de imbunatatire a vitezei unui website Prestashop cat si orice alte subiecte de interes pentru fiecare din participanti.</P>\n<P>In acest scop asteptam cat mai repede de la voi:</P>\n<P>- o confirmare a intentiei de a participa, pentru a putea aproxima spatiul necesar;</P>\n<P>- propuneri despre subiectele pe care ar trebui sa le discutam;</P>\n<P>- orice intrebari referitoare la functionarea platformei, la care ati dori raspuns.</P>\n<P>Toate cele bune,</P>\n<P>Prestashop, Robert si Bogdan</P>\n<P>:-)</P>\n<P><BR></P>\n<P>P.S. Ca de obicei, sucurile si cafeaua sunt oferite de Prestashop.</P>\n<P>Imagine oferita de <A TARGET=\"_blank\" TITLE=\"onefocuspoint.wordpress.com\" REL=\"nofollow\">h<SPAN>ttps://onefocuspoint.wordpress.com</SPAN></A></P>",
+                "text": "Robertino Vasilescu si Bogdan Socol va invita la a doua intalnire Prestashop din acest an!\nVom avea probabil o scurta prezentare a apropiatei lansari Prestashop 1.7.0.0 urmata de o sesiune de discutii libere si socializare.\nAceasta sesiune este principalul scop al intalnirii.\nNe propunem sa discutam\u00a0atat metodele de imbunatatire a vitezei unui website Prestashop cat si orice alte subiecte de interes pentru fiecare din participanti.\nIn acest scop asteptam cat mai repede de la voi:\n- o confirmare a intentiei de a participa, pentru a putea aproxima spatiul necesar;\n- propuneri despre subiectele pe care ar trebui sa le discutam;\n- orice intrebari referitoare la functionarea platformei, la care ati dori raspuns.\nToate cele bune,\nPrestashop, Robert si Bogdan\n:-)\n\nP.S. Ca de obicei, sucurile si cafeaua sunt oferite de Prestashop.\nImagine oferita de https://onefocuspoint.wordpress.com"
+            },
+            "end": {
+                "local": "2016-09-30T21:00:00",
+                "timezone": "Europe/Bucharest",
+                "utc": "2016-09-30T18:00:00Z"
+            },
+            "format_id": "10",
+            "hide_end_date": false,
+            "hide_start_date": false,
+            "id": "26929451715",
+            "is_locked": false,
+            "is_reserved_seating": false,
+            "is_series": false,
+            "is_series_parent": false,
+            "listed": true,
+            "locale": "en_US",
+            "logo": {
+                "aspect_ratio": "2",
+                "edge_color": "#27140f",
+                "edge_color_set": true,
+                "id": "23011184",
+                "url": "https://img.evbuc.com/http%3A%2F%2Fcdn.evbuc.com%2Fimages%2F23011184%2F170036973923%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C125%2C2742%2C1371&s=a9d0aadac7f7f9741e786e0e6a7f8805"
+            },
+            "logo_id": "23011184",
+            "name": {
+                "html": "Intalnire grup Prestashop Romania",
+                "text": "Intalnire grup Prestashop Romania"
+            },
+            "online_event": false,
+            "organizer_id": "11097508562",
+            "privacy_setting": "unlocked",
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/26929451715/",
+            "shareable": true,
+            "start": {
+                "local": "2016-09-30T18:00:00",
+                "timezone": "Europe/Bucharest",
+                "utc": "2016-09-30T15:00:00Z"
+            },
+            "status": "live",
+            "subcategory_id": "2004",
+            "tx_time_limit": 480,
+            "url": "http://www.eventbrite.com/e/intalnire-grup-prestashop-romania-tickets-26929451715",
+            "venue_id": "16190174"
+        },
+        {
+            "capacity": 120,
             "category_id": "101",
-            "changed": "2016-07-26T14:36:30Z",
+            "changed": "2016-08-03T10:36:11Z",
             "created": "2016-05-30T13:46:11Z",
             "currency": "EUR",
             "description": {
-                "html": "<P><IMG SRC=\"https://cdn.evbuc.com/eventlogos/106086209/bba2016comingsoonv2crop.gif\"></P>\n<H3><SPAN CLASS=\"text_large\">Welcome to Balkan Business Analysis Conference!</SPAN><SPAN>\u00a0</SPAN><BR><BR></H3>\n<P CLASS=\"text_regular\">Balkan Business Analysis Conference has been established with the goal to advance profession by providing an opportunity for regional IIBA Chapter members as well as wider audience from businesses and government to share experiences and know-how in the field of Business Analysis.</P>\n<H3 CLASS=\"text_regular\">Registration process</H3>\n<P>Since this event is organized by several countries, each country has allocated a specific number of tickets. Please register to the ticket asigned to your country. If your country is not listed (e.g. Romania, Bulgaria, Serbia, Slovenia, or Republic of Moldova) please choose\u00a0<EM>Conference ticket for other countries.</EM></P>\n<P CLASS=\"text_regular\"><EM>More details coming soon...</EM></P>\n<P CLASS=\"text_regular\"><BR></P>\n<P CLASS=\"text_regular\"><BR></P>\n<P CLASS=\"text_regular\"><IMG SRC=\"https://cdn.evbuc.com/eventlogos/106086209/faqpng.png\"></P>\n<H2 CLASS=\"text_regular\"><SPAN>Frequently asked questions</SPAN></H2>\n<P><BR></P>\n<H3>Questions regarding the registration process</H3>\n<P><BR></P>\n<H4>Which ticket should I buy?</H4>\n<P>Please choose a ticket allocated to your country:\u00a0<SPAN>Romania, Bulgaria, Serbia, Slovenia, or Republic of Moldova.\u00a0<SPAN>If your country is not listed, please choose\u00a0</SPAN><SPAN></SPAN><EM>Conference ticket for other countries.</EM></SPAN></P>\n<P><BR></P>\n<H4>Are group registrations allowed?</H4>\n<P>Yes. You can register up to 10 participants as a group.</P>\n<P><BR></P>\n<H4>Can I pay online?</H4>\n<P>Yes. You can pay online for your registration by using your paypal account or credit/debit card.</P>\n<P><BR></P>\n<H4>Is there an early bird discount?</H4>\n<P>Yes. Early bird discount is\u00a0<SPAN>\u20ac10 and expires at August 31, 2016.</SPAN></P>\n<P><BR></P>\n<H4><SPAN>Is there a discount for IIBA Chapter Members?</SPAN></H4>\n<P><SPAN>There is a\u00a0<SPAN>\u20ac10 discount for local chapters members.\u00a0</SPAN></SPAN></P>\n<P><BR></P>\n<H4><SPAN><SPAN>I am IIBA member with no affiliation to local chapter. Will I have a discount?</SPAN></SPAN></H4>\n<P><SPAN><SPAN>No. Only local chpater members will have\u00a0<SPAN>\u20ac10 discount.</SPAN></SPAN></SPAN></P>\n<P><BR></P>\n<H4><SPAN><SPAN>How can I use my chapter membership discount?</SPAN></SPAN></H4>\n<P><SPAN><SPAN>Enter your IIBA ID in the promotion area and press apply button.</SPAN></SPAN></P>\n<P><BR></P>\n<H3><SPAN>Questions regarding tickets</SPAN></H3>\n<P><BR></P>\n<H4><STRONG>Where can I contact the organizer with any questions?</STRONG></H4>\n<P>Yes. You can contact the organizer using \"Contact\" button bellow.</P>\n<P>\u00a0</P>\n<H4><STRONG>Is my registration/ticket transferrable?</STRONG></H4>\n<P>You can change the attendee name inside your eventbrite ticket.</P>\n<P>\u00a0</P>\n<H4><STRONG>Can I update my registration information?</STRONG></H4>\n<P>Yes. You can update your registration information inside your eventbrite ticket.</P>\n<P><BR></P>\n<H4><STRONG>The name on the registration/ticket doesn't match the attendee. Is that okay?</STRONG></H4>\n<P>Please update the name of the attendee to match the registration ticket. You can do so inside eventbrite ticket.</P>\n<P>\u00a0</P>\n<H4><STRONG>Do I have to bring my printed ticket to the event?</STRONG></H4>\n<P>Yes. The acces to the conference is done based on registration tickets.</P>\n<P><BR></P>\n<H4>Can I cancel my registration?</H4>\n<P>Yes. You can cancel your registration and you ticket fee will be refunded.</P>\n<P><SPAN>\u00a0</SPAN></P>\n<H3>Questions regarding location</H3>\n<P><BR></P>\n<H4><STRONG>What is the location of the conference?</STRONG></H4>\n<P>Conference will take place at\u00a0Hotel Novotel Bucharest City Centre located at Calea Victoriei 37B Sector 1, Bucharest 010061, Romania.</P>\n<P>GPS :N 44\u00b0 26' 13.19'' E 26\u00b0 5' 50.99''</P>\n<P><A TARGET=\"_blank\" HREF=\"http://www.accorhotels.com/gb/hotel-5558-novotel-bucharest-city-centre/location.shtml#\" REL=\"nofollow\"><IMG SRC=\"https://cdn.evbuc.com/eventlogos/106086209/novotel.jpg\"></IMG></A></P>\n<P>\u00a0</P>\n<H4><STRONG>How can I reach the location by car?</STRONG></H4>\n<P>Take route 1 south to Bucharest. Take Soseaua Ploiesti south, then Kiseleff through Piata Arcul de Triumf. Continue on Calea Victoriei until you reach Piata Revolutiei where you will see the National Museum of Art on your right. Once there you will see the Novotel Bucharest further along Calea Victoriei on the right hand side.<BR></P>\n<P>\u00a0</P>\n<H4><STRONG>How can I reach the location by public transport?</STRONG></H4>\n<P>You can reach the location by the following public transport:</P>\n<UL>\n<LI><SPAN>Underground station: line M2, station Universitate</SPAN></LI>\n<LI><SPAN>Bus: lines\u00a0</SPAN><SPAN>69, 90, 137, station Cismigiu Parc</SPAN></LI>\n<LI><SPAN>Tramway: lines\u00a0</SPAN><SPAN>21, 5, 16, station Sf. Gheorghe</SPAN></LI>\n</UL>\n<P>\u00a0</P>",
-                "text": "\nWelcome to Balkan Business Analysis Conference!\u00a0\nBalkan Business Analysis Conference has been established with the goal to advance profession by providing an opportunity for regional IIBA Chapter members as well as wider audience from businesses and government to share experiences and know-how in the field of Business Analysis.\nRegistration process\nSince this event is organized by several countries, each country has allocated a specific number of tickets. Please register to the ticket asigned to your country. If your country is not listed (e.g. Romania, Bulgaria, Serbia, Slovenia, or Republic of Moldova) please choose\u00a0Conference ticket for other countries.\nMore details coming soon...\n\n\n\nFrequently asked questions\n\nQuestions regarding the registration process\n\nWhich ticket should I buy?\nPlease choose a ticket allocated to your country:\u00a0Romania, Bulgaria, Serbia, Slovenia, or Republic of Moldova.\u00a0If your country is not listed, please choose\u00a0Conference ticket for other countries.\n\nAre group registrations allowed?\nYes. You can register up to 10 participants as a group.\n\nCan I pay online?\nYes. You can pay online for your registration by using your paypal account or credit/debit card.\n\nIs there an early bird discount?\nYes. Early bird discount is\u00a0\u20ac10 and expires at August 31, 2016.\n\nIs there a discount for IIBA Chapter Members?\nThere is a\u00a0\u20ac10 discount for local chapters members.\u00a0\n\nI am IIBA member with no affiliation to local chapter. Will I have a discount?\nNo. Only local chpater members will have\u00a0\u20ac10 discount.\n\nHow can I use my chapter membership discount?\nEnter your IIBA ID in the promotion area and press apply button.\n\nQuestions regarding tickets\n\nWhere can I contact the organizer with any questions?\nYes. You can contact the organizer using \"Contact\" button bellow.\n\u00a0\nIs my registration/ticket transferrable?\nYou can change the attendee name inside your eventbrite ticket.\n\u00a0\nCan I update my registration information?\nYes. You can update your registration information inside your eventbrite ticket.\n\nThe name on the registration/ticket doesn't match the attendee. Is that okay?\nPlease update the name of the attendee to match the registration ticket. You can do so inside eventbrite ticket.\n\u00a0\nDo I have to bring my printed ticket to the event?\nYes. The acces to the conference is done based on registration tickets.\n\nCan I cancel my registration?\nYes. You can cancel your registration and you ticket fee will be refunded.\n\u00a0\nQuestions regarding location\n\nWhat is the location of the conference?\nConference will take place at\u00a0Hotel Novotel Bucharest City Centre located at Calea Victoriei 37B Sector 1, Bucharest 010061, Romania.\nGPS :N 44\u00b0 26' 13.19'' E 26\u00b0 5' 50.99''\n\n\u00a0\nHow can I reach the location by car?\nTake route 1 south to Bucharest. Take Soseaua Ploiesti south, then Kiseleff through Piata Arcul de Triumf. Continue on Calea Victoriei until you reach Piata Revolutiei where you will see the National Museum of Art on your right. Once there you will see the Novotel Bucharest further along Calea Victoriei on the right hand side.\n\u00a0\nHow can I reach the location by public transport?\nYou can reach the location by the following public transport:\n\nUnderground station: line M2, station Universitate\nBus: lines\u00a069, 90, 137, station Cismigiu Parc\nTramway: lines\u00a021, 5, 16, station Sf. Gheorghe\n\n\u00a0"
+                "html": "<P><IMG SRC=\"https://cdn.evbuc.com/eventlogos/106086209/bba2016comingsoonv2crop.gif\"></P>\n<H3><SPAN CLASS=\"text_large\">Welcome to BALKAN Business Analysis Conference!</SPAN><SPAN>\u00a0</SPAN><BR><BR></H3>\n<P CLASS=\"text_regular\">Balkan Business Analysis Conference has been established with the goal to advance profession by providing an opportunity for regional IIBA Chapter members as well as wider audience from businesses and government to share experiences and know-how in the field of Business Analysis.</P>\n<P CLASS=\"rtecenter\"><SPAN>Main conference topic for this year is: \"</SPAN><STRONG>Business Analysis Perspectives\"</STRONG></P>\n<P CLASS=\"text_regular\">If you have an interesting topic to share with your fellow colleagues regarding business analysis topic, we would be happy to have you as a speaker.\u00a0BALKAN Business Analysis 2016 Conference (BBA2016)\u00a0is open for presentation submissions. <A HREF=\"https://romania.iiba.org/news/bba2016-call-speakers\" TARGET=\"_blank\" REL=\"nofollow\">Click here to access speakers application form.</A></P>\n<P CLASS=\"text_regular\"><BR></P>\n<H3 CLASS=\"text_regular\">Registration process</H3>\n<P>Since this event is organized by several countries, each country has allocated a specific number of tickets. Please register to the ticket asigned to your country. If your country is not listed (e.g. Romania, Bulgaria, Serbia, Slovenia, or Republic of Moldova) please choose\u00a0<EM>Conference ticket for other countries.</EM></P>\n<P CLASS=\"text_regular\"><EM>More details coming soon...</EM></P>\n<P CLASS=\"text_regular\"><BR></P>\n<P CLASS=\"text_regular\"><BR></P>\n<P CLASS=\"text_regular\"><IMG SRC=\"https://cdn.evbuc.com/eventlogos/106086209/faqpng.png\"></P>\n<H2 CLASS=\"text_regular\"><SPAN>Frequently asked questions</SPAN></H2>\n<P><BR></P>\n<H3>Questions regarding the registration process</H3>\n<P><BR></P>\n<H4>Which ticket should I buy?</H4>\n<P>Please choose a ticket allocated to your country:\u00a0<SPAN>Romania, Bulgaria, Serbia, Slovenia, or Republic of Moldova.\u00a0<SPAN>If your country is not listed, please choose\u00a0</SPAN><SPAN></SPAN><EM>Conference ticket for other countries.</EM></SPAN></P>\n<P><BR></P>\n<H4>Are group registrations allowed?</H4>\n<P>Yes. You can register up to 10 participants as a group.</P>\n<P><BR></P>\n<H4>Can I pay online?</H4>\n<P>Yes. You can pay online for your registration by using your paypal account or credit/debit card.</P>\n<P><BR></P>\n<H4>Is there an early bird discount?</H4>\n<P>Yes. Early bird discount is\u00a0<SPAN>\u20ac10 and expires at August 31, 2016.</SPAN></P>\n<P><BR></P>\n<H4><SPAN>Is there a discount for IIBA Chapter Members?</SPAN></H4>\n<P><SPAN>There is a\u00a0<SPAN>\u20ac10 discount for local chapters members.\u00a0</SPAN></SPAN></P>\n<P><BR></P>\n<H4><SPAN><SPAN>I am IIBA member with no affiliation to local chapter. Will I have a discount?</SPAN></SPAN></H4>\n<P><SPAN><SPAN>No. Only local chpater members will have\u00a0<SPAN>\u20ac10 discount.</SPAN></SPAN></SPAN></P>\n<P><BR></P>\n<H4><SPAN><SPAN>How can I use my chapter membership discount?</SPAN></SPAN></H4>\n<P><SPAN><SPAN>Enter your IIBA ID in the promotion area and press apply button.</SPAN></SPAN></P>\n<P><BR></P>\n<H3><SPAN>Questions regarding tickets</SPAN></H3>\n<P><BR></P>\n<H4><STRONG>Where can I contact the organizer with any questions?</STRONG></H4>\n<P>Yes. You can contact the organizer using \"Contact\" button bellow.</P>\n<P>\u00a0</P>\n<H4><STRONG>Is my registration/ticket transferrable?</STRONG></H4>\n<P>You can change the attendee name inside your eventbrite ticket.</P>\n<P>\u00a0</P>\n<H4><STRONG>Can I update my registration information?</STRONG></H4>\n<P>Yes. You can update your registration information inside your eventbrite ticket.</P>\n<P><BR></P>\n<H4><STRONG>The name on the registration/ticket doesn't match the attendee. Is that okay?</STRONG></H4>\n<P>Please update the name of the attendee to match the registration ticket. You can do so inside eventbrite ticket.</P>\n<P>\u00a0</P>\n<H4><STRONG>Do I have to bring my printed ticket to the event?</STRONG></H4>\n<P>Yes. The acces to the conference is done based on registration tickets.</P>\n<P><BR></P>\n<H4>Can I cancel my registration?</H4>\n<P>Yes. You can cancel your registration and you ticket fee will be refunded.</P>\n<P><SPAN>\u00a0</SPAN></P>\n<H3>Questions regarding location</H3>\n<P><BR></P>\n<H4><STRONG>What is the location of the conference?</STRONG></H4>\n<P>Conference will take place at\u00a0Hotel Novotel Bucharest City Centre located at Calea Victoriei 37B Sector 1, Bucharest 010061, Romania.</P>\n<P>GPS :N 44\u00b0 26' 13.19'' E 26\u00b0 5' 50.99''</P>\n<P><A HREF=\"http://www.accorhotels.com/gb/hotel-5558-novotel-bucharest-city-centre/location.shtml#\" TARGET=\"_blank\" REL=\"nofollow\"><IMG SRC=\"https://cdn.evbuc.com/eventlogos/106086209/novotel.jpg\"></IMG></A></P>\n<P>\u00a0</P>\n<H4><STRONG>How can I reach the location by car?</STRONG></H4>\n<P>Take route 1 south to Bucharest. Take Soseaua Ploiesti south, then Kiseleff through Piata Arcul de Triumf. Continue on Calea Victoriei until you reach Piata Revolutiei where you will see the National Museum of Art on your right. Once there you will see the Novotel Bucharest further along Calea Victoriei on the right hand side.<BR></P>\n<P>\u00a0</P>\n<H4><STRONG>How can I reach the location by public transport?</STRONG></H4>\n<P>You can reach the location by the following public transport:</P>\n<UL>\n<LI><SPAN>Underground station: line M2, station Universitate</SPAN></LI>\n<LI><SPAN>Bus: lines\u00a0</SPAN><SPAN>69, 90, 137, station Cismigiu Parc</SPAN></LI>\n<LI><SPAN>Tramway: lines\u00a0</SPAN><SPAN>21, 5, 16, station Sf. Gheorghe</SPAN></LI>\n</UL>\n<P>\u00a0</P>",
+                "text": "\nWelcome to BALKAN Business Analysis Conference!\u00a0\nBalkan Business Analysis Conference has been established with the goal to advance profession by providing an opportunity for regional IIBA Chapter members as well as wider audience from businesses and government to share experiences and know-how in the field of Business Analysis.\nMain conference topic for this year is: \"Business Analysis Perspectives\"\nIf you have an interesting topic to share with your fellow colleagues regarding business analysis topic, we would be happy to have you as a speaker.\u00a0BALKAN Business Analysis 2016 Conference (BBA2016)\u00a0is open for presentation submissions. Click here to access speakers application form.\n\nRegistration process\nSince this event is organized by several countries, each country has allocated a specific number of tickets. Please register to the ticket asigned to your country. If your country is not listed (e.g. Romania, Bulgaria, Serbia, Slovenia, or Republic of Moldova) please choose\u00a0Conference ticket for other countries.\nMore details coming soon...\n\n\n\nFrequently asked questions\n\nQuestions regarding the registration process\n\nWhich ticket should I buy?\nPlease choose a ticket allocated to your country:\u00a0Romania, Bulgaria, Serbia, Slovenia, or Republic of Moldova.\u00a0If your country is not listed, please choose\u00a0Conference ticket for other countries.\n\nAre group registrations allowed?\nYes. You can register up to 10 participants as a group.\n\nCan I pay online?\nYes. You can pay online for your registration by using your paypal account or credit/debit card.\n\nIs there an early bird discount?\nYes. Early bird discount is\u00a0\u20ac10 and expires at August 31, 2016.\n\nIs there a discount for IIBA Chapter Members?\nThere is a\u00a0\u20ac10 discount for local chapters members.\u00a0\n\nI am IIBA member with no affiliation to local chapter. Will I have a discount?\nNo. Only local chpater members will have\u00a0\u20ac10 discount.\n\nHow can I use my chapter membership discount?\nEnter your IIBA ID in the promotion area and press apply button.\n\nQuestions regarding tickets\n\nWhere can I contact the organizer with any questions?\nYes. You can contact the organizer using \"Contact\" button bellow.\n\u00a0\nIs my registration/ticket transferrable?\nYou can change the attendee name inside your eventbrite ticket.\n\u00a0\nCan I update my registration information?\nYes. You can update your registration information inside your eventbrite ticket.\n\nThe name on the registration/ticket doesn't match the attendee. Is that okay?\nPlease update the name of the attendee to match the registration ticket. You can do so inside eventbrite ticket.\n\u00a0\nDo I have to bring my printed ticket to the event?\nYes. The acces to the conference is done based on registration tickets.\n\nCan I cancel my registration?\nYes. You can cancel your registration and you ticket fee will be refunded.\n\u00a0\nQuestions regarding location\n\nWhat is the location of the conference?\nConference will take place at\u00a0Hotel Novotel Bucharest City Centre located at Calea Victoriei 37B Sector 1, Bucharest 010061, Romania.\nGPS :N 44\u00b0 26' 13.19'' E 26\u00b0 5' 50.99''\n\n\u00a0\nHow can I reach the location by car?\nTake route 1 south to Bucharest. Take Soseaua Ploiesti south, then Kiseleff through Piata Arcul de Triumf. Continue on Calea Victoriei until you reach Piata Revolutiei where you will see the National Museum of Art on your right. Once there you will see the Novotel Bucharest further along Calea Victoriei on the right hand side.\n\u00a0\nHow can I reach the location by public transport?\nYou can reach the location by the following public transport:\n\nUnderground station: line M2, station Universitate\nBus: lines\u00a069, 90, 137, station Cismigiu Parc\nTramway: lines\u00a021, 5, 16, station Sf. Gheorghe\n\n\u00a0"
             },
             "end": {
                 "local": "2016-10-08T14:00:00",
@@ -317,7 +370,7 @@
         {
             "capacity": 120,
             "category_id": "102",
-            "changed": "2016-06-29T13:57:10Z",
+            "changed": "2016-08-03T13:48:41Z",
             "created": "2016-05-09T21:14:21Z",
             "currency": "USD",
             "description": {
@@ -474,9 +527,62 @@
             "venue_id": "12305436"
         },
         {
+            "capacity": 40,
+            "category_id": "101",
+            "changed": "2016-08-03T14:13:35Z",
+            "created": "2016-08-03T14:13:32Z",
+            "currency": "EUR",
+            "description": {
+                "html": "<H2>Objective</H2>\n<P>The course provides an introduction to Scrum but diving to advanced topics. The training material is approved by Scrum Alliance (SA REP).</P>\n<H2>Target Audience</H2>\n<P>The Scrum Master role is the focus of the course, but the course is suitable for managers, who would like to see whether Scrum is a good fit for their organization, for those who would like to start using agile, for those who are using it, but would like to deepen their understanding, for business analysts, product managers, line managers and potential team members as well.</P>\n<H2>Content</H2>\n<P>The material is divided into modules. During each module, the trainer will guide you through lectures and exercises that help you connect the material to your existing experience, learn new concepts and experience these concepts through practice. Questions are welcome at any time.</P>\n<P><STRONG>Day 1:</STRONG><BR></P>\n<UL>\n<LI><SPAN>Agile Introduction</SPAN></LI>\n<LI><SPAN>Scrum overview</SPAN></LI>\n<LI><SPAN>Exercise to experience common sense in agile</SPAN></LI>\n<LI><SPAN>Roles, responsibilities</SPAN></LI>\n<LI><SPAN>Meetings, environment</SPAN></LI>\n<LI><SPAN>Artifacts, documents</SPAN></LI>\n<LI><SPAN>Product backlog, Sprint backlog</SPAN></LI>\n</UL>\n<P><STRONG>Day 2:</STRONG><BR></P>\n<OL>\n<LI><SPAN>Sprint planning, running, review, retrospective</SPAN></LI>\n<LI><SPAN>Estimation</SPAN></LI>\n<LI><SPAN>Velocity</SPAN></LI>\n<LI><SPAN>Product Backlog Refinement (previously called Backlog grooming)</SPAN></LI>\n<LI><SPAN>Release planning</SPAN></LI>\n<LI><SPAN>Different burndown charts</SPAN></LI>\n<LI><SPAN>Scrum of Scrums</SPAN></LI>\n<LI><SPAN>Scrum simulation</SPAN></LI>\n<LI><SPAN>Areas of application, scaling</SPAN></LI>\n<LI><SPAN>Distributed projects</SPAN></LI>\n<LI><SPAN>Common pitfalls</SPAN></LI>\n<LI><SPAN>Questions and Answers</SPAN></LI>\n</OL>\n<P><STRONG>Misc.</STRONG></P>\n<UL>\n<LI><SPAN>Duration: 2 Days</SPAN></LI>\n<LI><SPAN>Handout (English) will be provided for the participants.</SPAN></LI>\n<LI><SPAN>Welcome coffee, lunch, and other coffee breaks included in the price.</SPAN></LI>\n<LI><SPAN>PMP certified participants are eligible to 1 PDU point per training hours as defined in the PMP Handbook on page 42, Category B.</SPAN></LI>\n</UL>",
+                "text": "Objective\nThe course provides an introduction to Scrum but diving to advanced topics. The training material is approved by Scrum Alliance (SA REP).\nTarget Audience\nThe Scrum Master role is the focus of the course, but the course is suitable for managers, who would like to see whether Scrum is a good fit for their organization, for those who would like to start using agile, for those who are using it, but would like to deepen their understanding, for business analysts, product managers, line managers and potential team members as well.\nContent\nThe material is divided into modules. During each module, the trainer will guide you through lectures and exercises that help you connect the material to your existing experience, learn new concepts and experience these concepts through practice. Questions are welcome at any time.\nDay 1:\n\nAgile Introduction\nScrum overview\nExercise to experience common sense in agile\nRoles, responsibilities\nMeetings, environment\nArtifacts, documents\nProduct backlog, Sprint backlog\n\nDay 2:\n\nSprint planning, running, review, retrospective\nEstimation\nVelocity\nProduct Backlog Refinement (previously called Backlog grooming)\nRelease planning\nDifferent burndown charts\nScrum of Scrums\nScrum simulation\nAreas of application, scaling\nDistributed projects\nCommon pitfalls\nQuestions and Answers\n\nMisc.\n\nDuration: 2 Days\nHandout (English) will be provided for the participants.\nWelcome coffee, lunch, and other coffee breaks included in the price.\nPMP certified participants are eligible to 1 PDU point per training hours as defined in the PMP Handbook on page 42, Category B.\n"
+            },
+            "end": {
+                "local": "2016-11-23T17:00:00",
+                "timezone": "Europe/Bucharest",
+                "utc": "2016-11-23T15:00:00Z"
+            },
+            "format_id": "9",
+            "hide_end_date": false,
+            "hide_start_date": false,
+            "id": "26922578156",
+            "is_locked": false,
+            "is_reserved_seating": false,
+            "is_series": false,
+            "is_series_parent": false,
+            "listed": true,
+            "locale": "en_US",
+            "logo": {
+                "aspect_ratio": "2",
+                "edge_color": "#a8a2a3",
+                "edge_color_set": true,
+                "id": "23002345",
+                "url": "https://img.evbuc.com/http%3A%2F%2Fcdn.evbuc.com%2Fimages%2F23002345%2F107502523659%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C0%2C2160%2C1080&s=b131b5322e2ca0ef2c8a33e08b7bd404"
+            },
+            "logo_id": "23002345",
+            "name": {
+                "html": "Scrum Training",
+                "text": "Scrum Training"
+            },
+            "online_event": false,
+            "organizer_id": "6886785391",
+            "privacy_setting": "unlocked",
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/26922578156/",
+            "shareable": true,
+            "start": {
+                "local": "2016-11-22T09:00:00",
+                "timezone": "Europe/Bucharest",
+                "utc": "2016-11-22T07:00:00Z"
+            },
+            "status": "live",
+            "subcategory_id": null,
+            "tx_time_limit": 480,
+            "url": "http://www.eventbrite.com/e/scrum-training-tickets-26922578156",
+            "venue_id": "16186351"
+        },
+        {
             "capacity": 5900,
             "category_id": "102",
-            "changed": "2016-07-29T19:54:50Z",
+            "changed": "2016-08-03T07:44:45Z",
             "created": "2016-05-23T11:37:51Z",
             "currency": "EUR",
             "description": {
@@ -534,7 +640,7 @@
                 "html": "<P><SPAN>Techstars is a global ecosystem that empowers entrepreneurs to bring new technologies to market wherever they choose to live. With dozens of mentorship-driven accelerator programs and thousands of community programs worldwide, Techstars exists to support the world\u2019s most promising entrepreneurs throughout their lifelong journey, from inspiration to IPO. Techstars provides access to tens of thousands of community leaders, founders, mentors, investors, and corporate partners, allowing entrepreneurs to accelerate the pace of innovation and do more faster. Techstars supports every stage of the entrepreneurial journey \u2013 from early stage grassroots community development to more formal opportunities that provide education, experience, acceleration, funding, and beyond. Techstars Startup Programs\u00a0include <A HREF=\"http://startupweekend.org/\" TARGET=\"_blank\">Startup Weekend</A>, <A HREF=\"https://www.startupdigest.com/\" TARGET=\"_blank\">Startup Digest</A>, <A HREF=\"http://www.startupnext.co/\" TARGET=\"_blank\">Startup Next</A>, and <A HREF=\"http://startupweek.co/\" TARGET=\"_blank\">Startup Week</A>.</SPAN>\u00a0</P>\r\n<P><SPAN>\u00a0</SPAN></P>",
                 "text": "Techstars is a global ecosystem that empowers entrepreneurs to bring new technologies to market wherever they choose to live. With dozens of mentorship-driven accelerator programs and thousands of community programs worldwide, Techstars exists to support the world\u2019s most promising entrepreneurs throughout their lifelong journey, from inspiration to IPO. Techstars provides access to tens of thousands of community leaders, founders, mentors, investors, and corporate partners, allowing entrepreneurs to accelerate the pace of innovation and do more faster. Techstars supports every stage of the entrepreneurial journey \u2013 from early stage grassroots community development to more formal opportunities that provide education, experience, acceleration, funding, and beyond. Techstars Startup Programs\u00a0include Startup Weekend, Startup Digest, Startup Next, and Startup Week.\u00a0\r\n\u00a0"
             },
-            "facebook": "swboulder16",
+            "facebook": "SWLiege",
             "id": "2300226659",
             "logo": {
                 "aspect_ratio": null,
@@ -1057,6 +1163,21 @@
             "name": "Sinaptiq EDU",
             "resource_uri": "https://www.eventbriteapi.com/v3/organizers/10963965257/",
             "url": "http://www.eventbrite.com/o/sinaptiq-edu-10963965257"
+        },
+        "11097508562": {
+            "description": {
+                "html": null,
+                "text": null
+            },
+            "id": "11097508562",
+            "logo": null,
+            "long_description": {
+                "html": null,
+                "text": null
+            },
+            "name": "Robertino Vasilescu si Bogdan Socol, Ambasadori Prestashop",
+            "resource_uri": "https://www.eventbriteapi.com/v3/organizers/11097508562/",
+            "url": "http://www.eventbrite.com/o/robertino-vasilescu-si-bogdan-socol-ambasadori-prestashop-11097508562"
         }
     },
     "venues": {
@@ -1230,6 +1351,44 @@
             "longitude": "26.09944619999999",
             "name": "Calea Doroban\u021bi 5",
             "resource_uri": "https://www.eventbriteapi.com/v3/venues/16162799/"
+        },
+        "16186351": {
+            "address": {
+                "address_1": null,
+                "address_2": null,
+                "city": "Cluj-Napoca",
+                "country": "RO",
+                "latitude": "46.7712101",
+                "localized_address_display": "Cluj-Napoca",
+                "localized_area_display": "Cluj-Napoca",
+                "longitude": "23.623635299999933",
+                "postal_code": null,
+                "region": "CJ"
+            },
+            "id": "16186351",
+            "latitude": "46.7712101",
+            "longitude": "23.623635299999933",
+            "name": "Cluj-Napoca",
+            "resource_uri": "https://www.eventbriteapi.com/v3/venues/16186351/"
+        },
+        "16190174": {
+            "address": {
+                "address_1": "99 Bulevardul Dacia",
+                "address_2": null,
+                "city": "Bucure\u0219ti",
+                "country": "RO",
+                "latitude": "44.4462488",
+                "localized_address_display": "99 Bulevardul Dacia, Bucure\u0219ti",
+                "localized_area_display": "Bucure\u0219ti",
+                "longitude": "26.10811560000002",
+                "postal_code": null,
+                "region": "Municipiul Bucure\u0219ti"
+            },
+            "id": "16190174",
+            "latitude": "44.4462488",
+            "longitude": "26.10811560000002",
+            "name": "Connect Hub",
+            "resource_uri": "https://www.eventbriteapi.com/v3/venues/16190174/"
         }
     }
 }

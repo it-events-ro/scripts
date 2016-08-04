@@ -3,9 +3,9 @@ angularjs-cluj
 Big-Data-Timisoara-Romania
 Blue-Wire-Software
 BucharestJS
+Bucharest-Startup-Founder-101
 BucharestTech
 Business-Analysts-Cluj
-Bucharest-Startup-Founder-101
 bv-tech
 Cluj-DevOps
 Cluj-Javascripters
@@ -51,9 +51,9 @@ PyTim-Meetup
 romanian-lean-startup-cell
 ROPUG-Meetup-Progress-Users-Group-Romania
 RoPython-Timisoara
+Softbinator-Romanian-IT-Community
 StartupGrindClujNapoca
 Startup-Grind-Romania
-Softbinator-Romanian-IT-Community
 Tabara-de-Testare-Cluj
 Tabara-de-Testare-Iasi
 Tabara-de-Testare-Timisoara
@@ -75,6 +75,7 @@ Timisoara-Ruby-Development-Community
 Timisoara-Ruby-on-Rails-Community
 Timisoara-UX-UI-Group
 TiMoDev
+Transylvania-Java-User-Group
 Unity3DRomania
 UXUICluj
 Women-Who-Code-Cluj-Napoca
