@@ -5,6 +5,7 @@ Blue-Wire-Software
 BucharestJS
 Bucharest-Startup-Founder-101
 BucharestTech
+Bucharest-Virtual-Reality-Meetup
 Business-Analysts-Cluj
 bv-tech
 Cluj-DevOps
