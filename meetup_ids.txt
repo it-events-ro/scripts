@@ -53,6 +53,7 @@ romanian-lean-startup-cell
 ROPUG-Meetup-Progress-Users-Group-Romania
 RoPython-Timisoara
 Softbinator-Romanian-IT-Community
+SQL-Cluj
 StartupGrindClujNapoca
 Startup-Grind-Romania
 Tabara-de-Testare-Cluj
