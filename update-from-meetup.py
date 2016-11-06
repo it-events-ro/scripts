@@ -20,7 +20,7 @@ meetup_data = {
 
 def _getEvents(meetup_id):
   data = utils.meetupApi(
-    '%s/events?&page=%d&status=past,upcoming' % (meetup_id, NO_EVENTS_TO_FETCH))
+    '%s/events?&page=%d&status=upcoming' % (meetup_id, NO_EVENTS_TO_FETCH)) #past,upcoming
   if not isinstance(data, list):
     print('!!! Unexpected shape of response for %s:\n%s' % (meetup_id, data))
     return

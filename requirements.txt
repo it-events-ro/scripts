@@ -7,4 +7,4 @@ beautifulsoup4==4.4.1
 html5lib==0.9999999
 python-dateutil==2.5.3
 geopy==1.11.0
-
+pyquery==1.2.13
