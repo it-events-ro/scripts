@@ -6,7 +6,9 @@ aws-ro
 Big-Data-Timisoara-Romania
 Blue-Wire-Software
 Bucharest-A-D-C-E-S-Meetup
+Bucharest-Big-Data-Meetup
 Bucharest-Deep-Learning
+Bucharest-DevOps-Meetup
 BucharestJS
 Bucharest-Mobile-Development-Meetup
 Bucharest-Startup-Founder-101
