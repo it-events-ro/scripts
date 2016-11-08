@@ -9,6 +9,9 @@ from pyquery import PyQuery as pq
 now = datetime.datetime.now()
 week_delta = int(sys.argv[1])
 now += datetime.timedelta(days=week_delta * 7)
+# TODO: shorten the dates if start/end month/year are the same
+# ie: Din 7 pana 13 noiembrie 2016
+# instead of: Din 7 noiembrie 2016 până 13 noiembrie 2016
 week_start = (now - datetime.timedelta(days=now.weekday())).date()
 week_end = week_start + datetime.timedelta(days=6)
 
