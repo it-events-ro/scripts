@@ -3,6 +3,7 @@ Agile-Connexions-Romania
 AngularJS-Bucharest
 angularjs-cluj
 aws-ro
+AWS-Romania
 Big-Data-Timisoara-Romania
 Blue-Wire-Software
 Bucharest-A-D-C-E-S-Meetup
