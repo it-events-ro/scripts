@@ -17,7 +17,6 @@ BucharestTech
 Bucharest-Virtual-Reality-Meetup
 Business-Analysts-Cluj
 bv-tech
-Chisinau-JavaScript-Meetup
 Cluj-DevOps
 Cluj-fp
 Cluj-Javascripters

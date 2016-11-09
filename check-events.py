@@ -19,6 +19,7 @@ with open('meetup_ids.txt') as f:
 with open('meetups.json') as f:
     meetups = json.loads(f.read())
 
+# TODO: clean up old events
 
 meetup_data = {
   'events': {},
@@ -76,13 +77,19 @@ def print_meetup(data):
     print ()
 
 
+next_month = datetime.datetime.now() + datetime.timedelta(days=1)
+next_month = next_month.replace(tzinfo=_LOCAL_TZ)
+
 for organizer in meetup_data['events']:
     for event in meetup_data['events'][organizer]:
         if event.get('status') != 'upcoming':
             continue
         organizer_info = meetup_data['groups'][event['group']['urlname']]
         key = 'meetup-%s-%s' % (organizer, event['id'])
-        event_time = datetime.datetime.fromtimestamp(event['time'] / 1000, _LOCAL_TZ).isoformat()
+        event_time = datetime.datetime.fromtimestamp(event['time'] / 1000, _LOCAL_TZ)
+        if event['name'] in {'Code and beer', 'Agile Talks #X', 'Coding Dojo', 'Code & Beer Cluj', 'studiu de caz despre smartcontracts @Vertical Open Connect Blockchain'} and event_time >= next_month:
+            continue
+        event_time = event_time.isoformat()
         end_time = event.get('duriation')
         if end_time:
             end_time = event_time + datetime.timedelta(seconds=end_time / 1000)
