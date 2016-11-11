@@ -11,7 +11,7 @@
     "meetup-Agile-Connexions-Romania-235083292": {
         "description": "<p>We are pleased to announce the following event in conjunction with Endava &amp; IIBA Romania.</p> <p><br/><b>IMPORTANT INFORMATION:</b></p> <p><b>For security purposes you MUST register <a href=\"https://www.eventbrite.com/e/making-your-user-stories-ready-to-get-to-done-registration-29073499620\">here</a> on the IIBA eventbrite site to confirm your attendance on this event.</b></p> <p>One of the most challenging and trouble-prone aspects of agile product development is discovering the right product requirements to deliver at the right time, for the right customer. Many teams rely on user stories to discover and define agile product requirements. In reality user stories often lead to a confusing array of struggles and puzzles, such as bloated backlogs, ineffective or inconsistent planning, and erratic Sprint flow. This thrashing is <b><i>not </i></b>how user stories are intended to work!</p> <p><br/>Join EBG\u2019s Ellen Gottesdiener in this fast-paced introduction of a common sense, tested approach to user stories. With a laser-like focus on delivering value, you follow a story as it\u2019s sliced across the 7 Product Dimensions. You learn how the Structured Conversation framework enables you to quickly explore, evaluate, and confirm stories. See how making your user stories \u201cready\u201d is the key for incremental delivery of your \u201cDone\u201d product. \u00a0</p> <p><b>Event structure</b>: Presentation, Q&amp;A and Networking<br/>This event is valuable for all members of agile discovery and delivery teams including: Business Analysts, Requirements Engineers, Scrum Masters, Agile project advisors.</p> <p>About the Speaker</p> <p>Ellen is a pioneer in the use of collaborative practices for product discovery, emphasizing the convergence of agile + requirements + product\u00a0management. She helps product and development communities produce valuable outcomes and happy teams. Ellen is coauthor with Mary Gorman of\u00a0<a href=\"http://discovertodeliver.com/\"><i>Discover to Deliver: Agile Product Planning and Analysis</i></a>\u00a0&amp; two additional acclaimed books on collaboration &amp; software requirements. She is Chief Product Owner of EBG Consulting, which helps organizations amplify discovery to accelerate delivery.\u00a0<a href=\"https://twitter.com/ellengott\">@ellengott</a>\u00a0</p> <p><img src=\"https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/1/5/a/a/600_455405546.jpeg\" /></p> <p><b>Host: </b>Endava (<a href=\"http://www.endava.com/\">www.endava.com</a>)\u00a0<a href=\"https://twitter.com/endava\">@endava</a></p> <p><br/><img src=\"http://photos4.meetupstatic.com/photos/event/6/5/4/0/600_455725920.jpeg\" /></p> <p><b>Sponsor:</b> Learning Connexions (<a href=\"http://www.learningconnexions.com/\">www.learningconnexions.com</a>)\u00a0\u00a0<a href=\"https://twitter.com/lconnexions\">@lconnexions</a>\u00a0</p> <p><br/><img src=\"http://photos3.meetupstatic.com/photos/event/6/5/0/7/600_455725863.jpeg\" /></p> <p><b>Sponsor:</b> IIBA Romania Chapter (<a href=\"http://romania.iiba.org/\">romania.iiba.org</a>)\u00a0<a href=\"https://twitter.com/IIBA\">@IIBA</a></p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/6/5/4/9/600_455725929.jpeg\" /></p> <p><b>IMPORTANT INFORMATION:</b></p> <p><b>For security purposes you MUST register <a href=\"https://www.eventbrite.com/e/making-your-user-stories-ready-to-get-to-done-registration-29073499620\">here</a> on the IIBA eventbrite site to confirm your attendance on this event.</b></p> ",
         "end_time": null,
-        "link": "http://www.meetup.com/Agile-Connexions-Romania/events/235083292/",
+        "link": "https://www.meetup.com/Agile-Connexions-Romania/events/235083292/",
         "organizer": "Agile Connexions - Romania",
         "start_time": "2016-11-17T18:30:00+02:00",
         "title": "Making Your User Stories \u201cReady\u201d to Get to \u201cDone\u201d with Ellen Gottesdiener",
@@ -38,7 +38,7 @@
     "meetup-Bucharest-A-D-C-E-S-Meetup-234409961": {
         "description": "<p>1. Ovidiu Diaconescu, Charging Real $Money$ Every Month\u00a0</p> <p>- How to be fully PCI DSS 3 compliant with Braintree Payments gateway.\u00a0</p> <p>- Azure AspNetCore App that processes Credit Cards and Paypal\u00a0</p> <p>- WebHooks for monthly validations.</p> <p>\n\n\n2. Andrei Rinea,\u00a0ASP.NET Core on OS X and Linux using an IDE</p> <p>During this talk we will have a short introduction to developing and running ASP.NET Core on OS X and Linux using an IDE. ASP.NET Core not only runs on other OSs but productive development can now be achieved on these. Together with the participants we will walk through the main steps of creating and running a web application.</p> ",
         "end_time": null,
-        "link": "http://www.meetup.com/Bucharest-A-D-C-E-S-Meetup/events/234409961/",
+        "link": "https://www.meetup.com/Bucharest-A-D-C-E-S-Meetup/events/234409961/",
         "organizer": "Bucharest A.D.C.E.S. Meetup",
         "start_time": "2016-12-13T19:00:00+02:00",
         "title": "BrainTree Payments and ASP.NET Core on OS X and Linux using an IDE",
@@ -47,7 +47,7 @@
     "meetup-Bucharest-A-D-C-E-S-Meetup-235066724": {
         "description": "<p>1. Hosting Web Applications in the Azure App Service - deployment, scaling, monitoring, and more\u00a0</p> <p>Prezentator: Julian Atanasoae, Azure App Service Support Engineer @ Microsoft</p> <p>Descriere:</p> <p>Build web apps that scale Code in your favorite language and IDE \u2013 .NET, NodeJS, PHP, Python, or Java \u2013 to build web apps and APIs faster than ever. Be more agile with continuous integration using Visual Studio Team Services or GitHub and with live-site debugging. Easily scale applications on-demand with high availability.</p> <p>\n\n2. Audit/History in EF / Sql Server<br/>Prezentator: Andrei Ignat, <a href=\"http://serviciipeweb.ro/iafblog/\" class=\"linkified\">http://serviciipeweb.ro/iafblog/</a><br/>Descriere:<br/>Vom prezenta cum se poate obtine o tabela de istoric in SQL Server. Vom incepe cu ADO.NET, vom trece la EF, apoi trigger pe tabele si , in sfirsit, cele 2 solutii SQL Server: Change Data Capture si Temporal Tables</p> ",
         "end_time": null,
-        "link": "http://www.meetup.com/Bucharest-A-D-C-E-S-Meetup/events/235066724/",
+        "link": "https://www.meetup.com/Bucharest-A-D-C-E-S-Meetup/events/235066724/",
         "organizer": "Bucharest A.D.C.E.S. Meetup",
         "start_time": "2017-01-09T19:00:00+02:00",
         "title": "Hosting Web App in the Azure App Service + Audit/History in EF / Sql Server",
@@ -65,7 +65,7 @@
     "meetup-Bucharest-Deep-Learning-235438515": {
         "description": "<p>\u2022\u00a0During this talk we shall present an overview of Differentiable\u00a0Neural Computers (DNC), the current state-of-the-art neural network architectures employed to learn algorithms in a supervised manner.</p> <p>\u2022\u00a0In addition to discussing the actual paper, we shall give an introduction in terms of the general problem the architecture tries to solve, and the previous neural-network based solutions through which the issue has been tackled.</p> <p><i>Main Reading Materials:</i></p> <p>\u2022\u00a0\u00a0<a href=\"http://www.nature.com/nature/journal/v538/n7626/full/nature20101.html\"><a href=\"http://www.nature.com/nature/journal/v538/n7626/full/nature20101.html\" class=\"linkified\">http://www.nature.com/nature/journal/v538/n7626/full/nature20101.html</a></a></p> <p><br/>\u2022 \u00a0<a href=\"https://deepmind.com/blog/differentiable-neural-computers/\"><a href=\"https://deepmind.com/blog/differentiable-neural-computers/\" class=\"linkified\">https://deepmind.com/blog/differentiable-neural-computers/</a></a></p> <p><i>Introductory Materials:</i></p> <p><br/>\u2022 Neural Turing Machines -\u00a0<a href=\"https://arxiv.org/abs/1410.5401\"><a href=\"https://arxiv.org/abs/1410.5401\" class=\"linkified\">https://arxiv.org/abs/1410.5401</a></a></p> <p><br/>\u2022 Long Short-Term Memory Tutorial -\u00a0<a href=\"http://colah.github.io/posts/2015-08-Understanding-LSTMs/\"><a href=\"http://colah.github.io/posts/2015-08-Understanding-LSTMs/\" class=\"linkified\">http://colah.github.io/posts/2015-08-Understanding-LSTMs/</a></a></p> <p><b>Speaker</b>: Adrian-Mihai Iosif</p> ",
         "end_time": null,
-        "link": "http://www.meetup.com/Bucharest-Deep-Learning/events/235438515/",
+        "link": "https://www.meetup.com/Bucharest-Deep-Learning/events/235438515/",
         "organizer": "Bucharest Deep Learning",
         "start_time": "2016-11-21T18:30:00+02:00",
         "title": "Differentiable Neural Computers",
@@ -74,7 +74,7 @@
     "meetup-Bucharest-Mobile-Development-Meetup-235345971": {
         "description": "<p>Hey all, \u00a0<br/>We're glad to announce a new Mobile Developers Meetup, on November 16th 2016! \u00a0</p> <p>Join us for two presentations at the Deutsche Bank headquarters, the sponsor of the event.</p> <p>Drinks and snacks included.</p> <p>1. <b>UI/UX evolution on Mobile Platforms</b></p> <p>An overview of the UI/UX design evolution for iOS and Android. Insights on maximizing the usability of a smaller screen size and current design trends.</p> <p>Our guest speakers, Mihai Betej and Vlad Voinescu, work as Mobile Developers at Deutsche Bank.</p> <p>---</p> <p>2. <b>Kotlin island \u2026 for Android</b></p> <p>Known as the \u201cSwift\u201d of Android, Kotlin is a new programming language which is 100% compatible with JAVA and it\u2019s libraries while sitting on top of the JVM. It\u2019s modern syntax, native support for Lambdas / closures, safety (by reducing the well known NPE\u2019s) and concise structure make it ideal for Android development. Forget about writing entire \u201cfor each\u201d loops with the help of list iterators, learn about companion objects and lazily assigned variable values alongside class extensions, named parameters and default parameter values at the next meetup.</p> <p>Our guest speaker for this session is Cornel Balaban, Mobile Engineering Manager at Avira Romania.</p> <p>See you there, \u00a0<br/>The Mobile Academy team</p> <p>---</p> <p>Agenda: \u00a0<br/>18:45 - 19:15 Registration &amp; networking \u00a0<br/>19:15 - 20:00 Mihai Betej and Vlad Voinescu, Deutsche Bank<br/>20:00 - 20:45 Cornel Balaban, Avira Romania<br/>20:45 - 21:30 Networking</p> ",
         "end_time": null,
-        "link": "http://www.meetup.com/Bucharest-Mobile-Development-Meetup/events/235345971/",
+        "link": "https://www.meetup.com/Bucharest-Mobile-Development-Meetup/events/235345971/",
         "organizer": "Bucharest Mobile Development Group",
         "start_time": "2016-11-16T18:45:00+02:00",
         "title": "Mobile Dev Meetup: Kotlin for Android; UI/UX evolution of mobile apps.",
@@ -101,7 +101,7 @@
     "meetup-Cluj-Javascripters-235249430": {
         "description": "<p>Hello clujsers,</p> <p>On the 19th of November, our community will be involved in organizing the JavaScript track at Codecamp, one of the largest IT conferences in Romania. That being said, this is a call to all members of our community to join the event.\u00a0</p> <p>You can consult the event schedule here\u00a0<a href=\"http://cluj.codecamp.ro/\"><a href=\"http://cluj.codecamp.ro/\" class=\"linkified\">http://cluj.codecamp.ro/</a></a>\u00a0and also use the website to register at the event (it's free).</p> <p>If you plan on coming or you already have your tickets, please also rsvp to this event, as we would like to get an estimate of how many javascripters we will actually have there.</p> <p>See you all there!</p> ",
         "end_time": null,
-        "link": "http://www.meetup.com/Cluj-Javascripters/events/235249430/",
+        "link": "https://www.meetup.com/Cluj-Javascripters/events/235249430/",
         "organizer": "Cluj JavaScripters",
         "start_time": "2016-11-19T08:30:00+02:00",
         "title": "Codecamp Cluj",
@@ -119,7 +119,7 @@
     "meetup-Cluj-Mobile-Developers-235325544": {
         "description": "<p>Dragi Mobile Developers,\u00a0</p> <p>\u00cen calitate de membri ai comunit\u0103\u021bii Tech Academy, v\u0103 invit\u0103m s\u0103 participa\u021bi gratuit la <a href=\"http://techfest.ro/festival-events/transylvania-megahack/\">Transylvania MegaHack</a>, eveniment cu care debuteaz\u0103 festivalul tehnologic <a href=\"http://techfest.ro/\">Cluj TechFest</a> vineri, pe 11 noiembrie.\u00a0</p> <p>MegaHack din cadrul TechFest este un eveniment dedicat programatorilor \u0219i echipelor de programatori care vor r\u0103spunde unor provoc\u0103ri lansate de diverse companii, provoc\u0103ri reale cu care acestea se confrunt\u0103 \u0219i pentru care caut\u0103 cele mai bune solu\u021bii. Alege-\u021bi provocarea, \u00eenscrie-\u021bi echipa \u0219i pute\u021bi c\u00e2\u0219tiga unul dintre premiile care au o valoare total\u0103 de 10,000 EUR.\u00a0</p> <p>Pentru c\u0103 faci parte din comunitatea TechAcademy beneficiezi de \u00eenscriere gratuit\u0103.\u00a0</p> <p>Folose\u0219te codul <b>TECHACADEMYFRIENDS</b> \u0219i \u00eenscrie-te acum: <a href=\"http://techfest.ro/register-for-access/\" class=\"linkified\">http://techfest.ro/register-for-access/</a>\u00a0</p> <p><a href=\"https://www.brd.ro/en\">BRD \u2013 Groupe Soci\u00e9t\u00e9 G\u00e9n\u00e9rale</a>, <a href=\"http://www.pitechplus.com/\">PITECH+PLUS</a> &amp; <a href=\"https://www.parkingplus.ro/\">PARKING+PLUS</a>, Prim\u0103riile Municipiilor Cluj-Napoca \u0219i Alba Iulia, <a href=\"http://www.lifeishard.ro/\">Life is Hard</a> &amp; <a href=\"http://www.eokey.ro/\">eOKEY.ro</a> \u021bi-au preg\u0103tit provoc\u0103ri \u0219i premii senza\u021bionale din domeniile Digital Banking \u0219i Smart City. Detalii despre ele, formularul de \u00eenregistrare dar \u0219i despre restul challenge-urilor g\u0103se\u0219ti pe pagina Transylvania MegaHack.</p> <p>_____________________________________________________________________\u00a0</p> <p><b>AGENDA:\u00a0</b></p> <p><b>Ziua 1, vineri, 11 noiembrie</b></p> <p>16:00 - 17:00 - \u00cenregistrarea participan\u021bilor</p> <p>17:00 - 18:00 - Indroducere / Cuv\u00e2nt \u00eenainte al d-lui primar Emil Boc / Prezentarea partenerilor</p> <p>18:00 - 18:20- Programul evenimentului / Briefing-ul challenge-urilor / Formarea echipelor</p> <p>18:20-18:30 / Preg\u0103ti\u021bi s\u0103 \u00eencepem? \u201cEngage!\u201d</p> <p>18:30 - 20:00 - Hacking</p> <p>20:00 - 21:00 - Pauz\u0103 de pizza (din partea casei)</p> <p>No sleep required. Sleep is overrated anyway.</p> <p><b>Ziua 2, s\u00e2mb\u0103t\u0103, 12 noiembrie</b></p> <p>09:00 - 10:00 - Cafea \u0219i snaks-uri (din partea casei)</p> <p>10:00 - 18:00 - Mai mult hacking</p> <p>Echipele pot lua pauz\u0103 de mas\u0103 oric\u00e2nd doresc (masa de pr\u00e2nz nu este inclus\u0103 dar v\u0103 oferim vouchere de reduceri la Food Court)</p> <p>18:00 - 19:00 - Pauz\u0103 de pizza (din partea casei)</p> <p>Sleep is for the weak and weaklings don\u2019t make it through the Long Winter!</p> <p><b>Ziua 3, duminic\u0103, 13 noiembrie</b></p> <p>09:00 - 10:00 - Cafea \u0219i snaks-uri (din partea casei)</p> <p>10:00 - 14:00 - \u0218i mai mult hacking</p> <p>Echipele pot lua pauz\u0103 de mas\u0103 oric\u00e2nd doresc (masa de pr\u00e2nz nu este inclus\u0103 dar v\u0103 oferim vouchere de reduceri la Food Court) 15:00 - 17:15 - Pauz\u0103</p> <p>17:15 - 19:00 - Sesiune de pitching</p> <p>19:00 - 19:30 - Festivitatea de premiere</p> <p>_____________________________________________________________________</p> <p>\u00censcrie-te GRATUIT acum: <a href=\"http://techfest.ro/register-for-access/\" class=\"linkified\">http://techfest.ro/register-for-access/</a></p> <p>Competi\u021biile de tip hackathon presupun \u00eencercarea lucrurilor noi, experimentare \u0219i testarea de noi solu\u021bii.<br/>Te a\u0219tept\u0103m!</p> ",
         "end_time": null,
-        "link": "http://www.meetup.com/Cluj-Mobile-Developers/events/235325544/",
+        "link": "https://www.meetup.com/Cluj-Mobile-Developers/events/235325544/",
         "organizer": "Cluj Mobile Developers",
         "start_time": "2016-11-11T16:00:00+02:00",
         "title": "Transylvania MegaHack @Cluj TechFest",
@@ -137,16 +137,16 @@
     "meetup-Cluj-Napoca-WordPress-Meetup-234779784": {
         "description": "<p>Salut!</p> <p>\u00een 12 Noiembrie e a doua zi global\u0103 de traducere a WordPress-ului.</p> <p><a href=\"https://wptranslationday.org/\"><a href=\"https://wptranslationday.org/\" class=\"linkified\">https://wptranslationday.org/</a></a></p> <p>Cu aceast\u0103 ocazie vom organiza un workshop de traducere \u0219i aici \u00een Cluj.\u00a0</p> <p><br/>V\u0103 a\u0219tept\u0103m cu laptopurile, s\u00e2mb\u0103t\u0103 12 Noiembrie, de la ora 11, la sediul Forward.\u00a0</p> <p>\n\n\n<a href=\"https://ro.wordpress.org/2016/11/02/vino-alaturi-de-noi-la-wordpress-translation-day-2/\"><a href=\"https://ro.wordpress.org/2016/11/02/vino-alaturi-de-noi-la-wordpress-translation-day-2/\" class=\"linkified\">https://ro.wordpress.org/2016/11/02/vino-alaturi-de-noi-la-wordpress-translation-day-2/</a></a></p> <p><br/>Resurse utile:</p> <p>Getting Started Guide:\u00a0<a href=\"https://make.wordpress.org/polyglots/handbook/about/get-involved/first-steps/\"><a href=\"https://make.wordpress.org/polyglots/handbook/about/get-involved/first-steps/\" class=\"linkified\">https://make.wordpress.org/polyglots/handbook/about/get-involved/first-steps/</a></a></p> <p><br/><a href=\"https://ro.wordpress.org/localizare#glos\">&lt;/a&gt;</p> <p>Ghid de stil:\u00a0&lt;a href=\"https://ro.wordpress.org/localizare#reg_stil\"&gt;<a href=\"https://ro.wordpress.org/localizare#reg_stil\" class=\"linkified\">https://ro.wordpress.org/localizare#reg_stil</a></a></p> <p>Resurse suplimentare:\u00a0<a href=\"https://ro.wordpress.org/localizare#res_sup\"><a href=\"https://ro.wordpress.org/localizare#res_sup\" class=\"linkified\">https://ro.wordpress.org/localizare#res_sup</a></a></p> <p>\u00a0Slack:\u00a0<a href=\"https://wpromania.slack.com/messages/poligloti/\"><a href=\"https://wpromania.slack.com/messages/poligloti/\" class=\"linkified\">https://wpromania.slack.com/messages/poligloti/</a></a></p> ",
         "end_time": null,
-        "link": "http://www.meetup.com/Cluj-Napoca-WordPress-Meetup/events/234779784/",
+        "link": "https://www.meetup.com/Cluj-Napoca-WordPress-Meetup/events/234779784/",
         "organizer": "Cluj-Napoca WordPress Meetup",
         "start_time": "2016-11-12T11:00:00+02:00",
         "title": "WordPress Translation Day",
         "venue": null
     },
     "meetup-Cluj-Software-Developers-234989832": {
-        "description": "<p><img src=\"http://photos1.meetupstatic.com/photos/event/7/e/3/2/600_455252306.jpeg\" /></p> <p>On 15th\u00a0of November we will host\u00a0<b>Technology Open Days</b>\u00a0in our office, under the <b>TechFest</b> umbrella. It will be a whole day of talks and workshops.</p> <p>14:00-17:00\u00a0</p> <p><b>Behavior-Driven Development Automation Framework with Selenium and \u00a0SpecFlow in C#</b></p> <p>Behavior-Driven Development (BDD) is a software development process that emerged from Test-Driven Development (TDD). Behavior-Driven Development combines the general techniques and principles of TDD with ideas from Domain-Driven Design and Object-Oriented Analysis and Design (OOAD) to provide software development and management teams with shared tools and a shared process to collaborate on software development.\u00a0</p> <p><b>Presenter: </b>Sebastian Silaghi, Senior Software Developer Engineer in Test</p> <p>With a strong background in the software quality assurance domain, Sebastian prides himself on a \u2018can do\u2019 attitude, always ensuring the highest of standards and is driven by results. A great interest in automation testing, he continuously challenges himself to improve the automation process and identify the best solutions.</p> <p><br/><b>Summary:</b></p> <p><br/>In this workshop you can explore options how to improve testing efficiency by looking at UI automation from a different angle by analysing and understanding the UI concepts used in the application, matching them to domain model elements and build an automation solution that focuses on these.</p> <p>The workshop is based on hands-on exercises and discussions, where we automate different parts of a web application, with Selenium WebDriver and SpecFlow.</p> <p>Through the exercises we try to find answers to questions like:</p> <p>Where to start in the testing process? What to test and what not to test? How much to test in one go? What to call the tests? How to understand why a test fails?</p> <p>\u00b7\u00a0\u00a0What is beyond page object pattern?</p> <p>\u00b7\u00a0\u00a0What are the UI concepts and why are they important?</p> <p>\u00b7\u00a0\u00a0How can you express web automation with domain model terms?</p> <p>\u00b7\u00a0\u00a0How can such test fit into a BDD-DDD process?</p> <p>\u00b7\u00a0\u00a0How can you address asynchronous issues?</p> <p>\u00b7\u00a0\u00a0Is it possible to do test-first with web UI automation?</p> <p>\u00b7\u00a0\u00a0What other benefits can be given to us by such a test system?</p> <p><b>Requirements:</b></p> <p>The presentation and the coding examples will use .NET, SpecFlow and the .NET implementation of Selenium.</p> <p>You will need at least basic knowledge of C# and a bit of Selenium WebDriver experience.</p> <p>Bring your enthusiasm and good disposition \u2013 all else is provided :)</p> <p>The participation is free of charge.</p> <p><br/>Seats are limited! Register now at adriana.fratean@veinteractive.com\u00a0</p> ",
+        "description": "<p><img src=\"http://photos1.meetupstatic.com/photos/event/7/e/3/2/600_455252306.jpeg\" /></p> <p>On 15th\u00a0of November we will host\u00a0<b>Technology Open Days</b>\u00a0in our office, under the <b>TechFest</b> umbrella. It will be a whole day of talks and workshops.</p> <p>14:00-17:00\u00a0</p> <p><b>Behavior-Driven Development Automation Framework with Selenium and \u00a0SpecFlow in C#</b></p> <p>Behavior-Driven Development (BDD) is a software development process that emerged from Test-Driven Development (TDD). Behavior-Driven Development combines the general techniques and principles of TDD with ideas from Domain-Driven Design and Object-Oriented Analysis and Design (OOAD) to provide software development and management teams with shared tools and a shared process to collaborate on software development.\u00a0</p> <p><b>Presenter: </b>Sebastian Silaghi, Senior Software Developer Engineer in Test</p> <p>With a strong background in the software quality assurance domain, Sebastian prides himself on a \u2018can do\u2019 attitude, always ensuring the highest of standards and is driven by results. A great interest in automation testing, he continuously challenges himself to improve the automation process and identify the best solutions.</p> <p><br/><b>Summary:</b></p> <p><br/>In this workshop you can explore options how to improve testing efficiency by looking at UI automation from a different angle by analysing and understanding the UI concepts used in the application, matching them to domain model elements and build an automation solution that focuses on these.</p> <p>The workshop is based on hands-on exercises and discussions, where we automate different parts of a web application, with Selenium WebDriver and SpecFlow.</p> <p>Through the exercises we try to find answers to questions like:</p> <p>Where to start in the testing process? What to test and what not to test? How much to test in one go? What to call the tests? How to understand why a test fails?</p> <p>\u00b7\u00a0\u00a0What is beyond page object pattern?</p> <p>\u00b7\u00a0\u00a0What are the UI concepts and why are they important?</p> <p>\u00b7\u00a0\u00a0How can you express web automation with domain model terms?</p> <p>\u00b7\u00a0\u00a0How can such test fit into a BDD-DDD process?</p> <p>\u00b7\u00a0\u00a0How can you address asynchronous issues?</p> <p>\u00b7\u00a0\u00a0Is it possible to do test-first with web UI automation?</p> <p>\u00b7\u00a0\u00a0What other benefits can be given to us by such a test system?</p> <p><b>Requirements:</b></p> <p>The presentation and the coding examples will use .NET, SpecFlow and the .NET implementation of Selenium.</p> <p>You will need at least basic knowledge of C# and a bit of Selenium WebDriver experience.</p> <p>Bring your enthusiasm and good disposition \u2013 all else is provided :)</p> <p>The participation is free of charge.</p> <p><br/>Seats are limited! Register now at adriana.fratean@veinteractive.com\u00a0</p> <p><b>If you haven't sent your contact details (phone+ email address) to Adriana, your seat was not reserved but you can be added on a waiting list.</b></p> ",
         "end_time": null,
-        "link": "http://www.meetup.com/Cluj-Software-Developers/events/234989832/",
+        "link": "https://www.meetup.com/Cluj-Software-Developers/events/234989832/",
         "organizer": "Cluj Software Developers",
         "start_time": "2016-11-15T14:00:00+02:00",
         "title": "BDD Automation Testing Workshop",
@@ -155,7 +155,7 @@
     "meetup-Cluj-Software-Developers-235127234": {
         "description": "<p><img src=\"http://photos3.meetupstatic.com/photos/event/d/e/5/5/600_455456917.jpeg\" /></p> <p>On 15th\u00a0of November we will host\u00a0Technology Open Days\u00a0in our office, under the\u00a0TechFest\u00a0umbrella. It will be a whole day of talks and workshops. The first part of the day will be dedicated to IT students.</p> <p><br/>9:30 - 13:00</p> <p><b>Workshop</b></p> <p><i>Summary</i></p> <p><i>We are preparing a workshop </i><i>focused on describing software systems through the use of diagrams.\u00a0</i><i>We will focus on their representation, importance and meaningfulness. We will offer you the opportunity to improve your skills in this area. Be ready to involve yourself in catchy exercises!</i></p> <p><b>Moderators: Doru Ciceu, Radu Badiu, Marius Tisa &amp; Florentina Suciu</b></p> <p><b>The journey of a junior: Why? When? How?</b></p> <p>Summary</p> <p><i>We all had or will have the pretty scary-but-still-exciting moment when will pass from the easy-breezy life of a student to the 8 hour employee status. I don't have all the answers on how to do it 'like a boss' but you'll get to hear how I did it :)</i></p> <p><b>Presenter: Corina Godja, Software Developer</b></p> <p>Corina is a one year newbie in the .NET mystical land, trying to decipher it in Ve. Outgoing and childish,\u00a0will blush as soon as she'll start talking, but bear with her or laugh with her about it. Eager to learn and evolve in the tech field in order to exceed her newbie status.</p> <p><b>Coding in school vs coding in real life</b></p> <p><i>Summary:</i></p> <p><i>Things are different in real life when it comes to software development\u2026but not in a bad way. In school, your project requirements are pretty simple, straightforward and sound something like \u201cjust make it work!\u201d. In real life, this is not so simple. The requirements change, the teams change, even the end results change. I want to tell you what the software development job really means with all its ups and downs and to give you some insights regarding the processes, the quality standards and how the things are done in a software company. </i></p> <p><b>Presenter: Ioan Sut, Scrum Master &amp; Software Developer</b></p> <p>Ioan is a Scrum Master and .NET Developer at VeInteractive; currently working on various .NET projects using the latest technologies on the market. He believes expanding your knowledge every day is incredibly beneficial; both professionally and personally. Ioan is keen to share what he has learnt as a software developer and scrum master in order to help others improve their performance in their day to day work and to offer a different vision of software craftsmanship.</p> ",
         "end_time": null,
-        "link": "http://www.meetup.com/Cluj-Software-Developers/events/235127234/",
+        "link": "https://www.meetup.com/Cluj-Software-Developers/events/235127234/",
         "organizer": "Cluj Software Developers",
         "start_time": "2016-11-15T09:30:00+02:00",
         "title": "Workshop & Talks for IT Students",
@@ -164,7 +164,7 @@
     "meetup-Cluj-Software-Developers-235417820": {
         "description": "<p><img src=\"http://photos3.meetupstatic.com/photos/event/c/3/e/f/600_455870159.jpeg\" /></p> <p>We are pleased to announce you that on 15th of November, Ve Interactive will host Today Software Magazine launch.</p> <p>The event will open with a technical talk of one of the best professionals in Big data Domain.</p> <p><b>The 10 mistakes we\u2019ve done on the path to create our big data platform</b></p> <p><br/><b>Presenter: Cyrille Vincey, Chief Data Officer, Ve Interactive</b></p> <p>Cyrille is Chief Data Officer at Ve, where his primary mission is to create new business models and revenue streams out of the billions of data points collected by Ve every day. Cyrille and his scientific team designed and implemented a data management platform (DMP) now fueling all lines of business with exclusive user and market insights, at unprecedented scale. Prior to Ve, Cyrille was the founder and CEO of qunb, a data science company, sold to Ve Interactive in 2014.</p> ",
         "end_time": null,
-        "link": "http://www.meetup.com/Cluj-Software-Developers/events/235417820/",
+        "link": "https://www.meetup.com/Cluj-Software-Developers/events/235417820/",
         "organizer": "Cluj Software Developers",
         "start_time": "2016-11-15T17:45:00+02:00",
         "title": "November TSM launch_Big data Tech Talk - Cyrille Vincey",
@@ -173,7 +173,7 @@
     "meetup-Cluj-Tech-Meetup-235326466": {
         "description": "<p>Dragi membri ai comunit\u0103\u021bii Cluj Tech meetup,\u00a0</p> <p>\u00cen calitate de membri ai comunit\u0103\u021bii Tech Academy, v\u0103 invit\u0103m s\u0103 participa\u021bi gratuit la <a href=\"http://techfest.ro/festival-events/transylvania-megahack/\">Transylvania MegaHack</a>, eveniment cu care debuteaz\u0103 festivalul tehnologic <a href=\"http://techfest.ro/\">Cluj TechFest</a> vineri, pe 11 noiembrie.\u00a0</p> <p>MegaHack din cadrul TechFest este un eveniment dedicat programatorilor \u0219i echipelor de programatori care vor r\u0103spunde unor provoc\u0103ri lansate de diverse companii, provoc\u0103ri reale cu care acestea se confrunt\u0103 \u0219i pentru care caut\u0103 cele mai bune solu\u021bii.\u00a0</p> <p>Alege-\u021bi provocarea, \u00eenscrie-\u021bi echipa \u0219i pute\u021bi c\u00e2\u0219tiga unul dintre premiile care au o valoare total\u0103 de 10,000 EUR. Pentru c\u0103 faci parte din comunitatea TechAcademy beneficiezi de \u00eenscriere gratuit\u0103.\u00a0</p> <p>Folose\u0219te codul <b>TECHACADEMYFRIENDS</b> \u0219i \u00eenscrie-te acum: <a href=\"http://techfest.ro/register-for-access/\" class=\"linkified\">http://techfest.ro/register-for-access/</a>\u00a0</p> <p>Companii \u0219i institu\u021bii publice au preg\u0103tit challengeuri din cele mai diverse domenii: datathon, Digital Banking, Smart City, Front-End, testing hackathon, Gaming, IoT &amp; Embedded, e-commerce, e-gov. Detalii despre ele, formularul de \u00eenregistrare dar \u0219i despre restul challenge-urilor g\u0103se\u0219ti pe pagina Transylvania MegaHack.</p> <p>_____________________________________________________________________\u00a0</p> <p><b>AGENDA:\u00a0</b></p> <p><b>Ziua 1, vineri, 11 noiembrie</b></p> <p>16:00 - 17:00 - \u00cenregistrarea participan\u021bilor</p> <p>17:00 - 18:00 - Indroducere / Cuv\u00e2nt \u00eenainte al d-lui primar Emil Boc / Prezentarea partenerilor</p> <p>18:00 - 18:20- Programul evenimentului / Briefing-ul challenge-urilor / Formarea echipelor</p> <p>18:20-18:30 / Preg\u0103ti\u021bi s\u0103 \u00eencepem? \u201cEngage!\u201d</p> <p>18:30 - 20:00 - Hacking</p> <p>20:00 - 21:00 - Pauz\u0103 de pizza (din partea casei)</p> <p>No sleep required. Sleep is overrated anyway.</p> <p><b>Ziua 2, s\u00e2mb\u0103t\u0103, 12 noiembrie</b></p> <p>09:00 - 10:00 - Cafea \u0219i snaks-uri (din partea casei)</p> <p>10:00 - 18:00 - Mai mult hacking</p> <p>Echipele pot lua pauz\u0103 de mas\u0103 oric\u00e2nd doresc (masa de pr\u00e2nz nu este inclus\u0103 dar v\u0103 oferim vouchere de reduceri la Food Court)</p> <p>18:00 - 19:00 - Pauz\u0103 de pizza (din partea casei)</p> <p>Sleep is for the weak and weaklings don\u2019t make it through the Long Winter!</p> <p><b>Ziua 3, duminic\u0103, 13 noiembrie</b></p> <p>09:00 - 10:00 - Cafea \u0219i snaks-uri (din partea casei)</p> <p>10:00 - 14:00 - \u0218i mai mult hacking</p> <p>Echipele pot lua pauz\u0103 de mas\u0103 oric\u00e2nd doresc (masa de pr\u00e2nz nu este inclus\u0103 dar v\u0103 oferim vouchere de reduceri la Food Court) 15:00 - 17:15 - Pauz\u0103</p> <p>17:15 - 19:00 - Sesiune de pitching</p> <p>19:00 - 19:30 - Festivitatea de premiere</p> <p>_____________________________________________________________________</p> <p>\u00censcrie-te GRATUIT acum: <a href=\"http://techfest.ro/register-for-access/\" class=\"linkified\">http://techfest.ro/register-for-access/</a></p> <p>Competi\u021biile de tip hackathon presupun \u00eencercarea lucrurilor noi, experimentare \u0219i testarea de noi solu\u021bii.<br/>Te a\u0219tept\u0103m!</p> ",
         "end_time": null,
-        "link": "http://www.meetup.com/Cluj-Tech-Meetup/events/235326466/",
+        "link": "https://www.meetup.com/Cluj-Tech-Meetup/events/235326466/",
         "organizer": "Cluj Tech Meetup",
         "start_time": "2016-11-11T16:00:00+02:00",
         "title": "Transylvania MegaHack @Cluj TechFest",
@@ -182,7 +182,7 @@
     "meetup-Cluj-WEB-Developers-235321636": {
         "description": "<p>Dragi WebDevs,</p> <p><br/>\u00cen calitate de membri ai comunit\u0103\u021bii Tech Academy, v\u0103 invit\u0103m s\u0103 participa\u021bi <b>gratuit</b> la <a href=\"http://techfest.ro/events/transylvania-megahack/\">Transylvania MegaHack</a>, eveniment cu care debuteaz\u0103 festivalul tehnologic <a href=\"http://techfest.ro/\">Cluj TechFest</a>\u00a0vineri, pe 11 noiembrie.\u00a0</p> <p>MegaHack din cadrul TechFest este un eveniment dedicat programatorilor \u0219i echipelor de programatori care vor r\u0103spunde unor provoc\u0103ri lansate de diverse companii, provoc\u0103ri reale cu care acestea se confrunt\u0103 \u0219i pentru care caut\u0103 cele mai bune solu\u021bii.\u00a0</p> <p>Alege\u021bi-v\u0103 provocarea, \u00eenscrie\u021bi-v\u0103 echipa \u0219i pute\u021bi c\u00e2\u0219tiga unul dintre premiile\u00a0care au o valoare total\u0103 de 10,000 EUR.</p> <p><br/>Pentru c\u0103 face\u021bi parte din comunitatea TechAcademy beneficia\u021bi de \u00eenscriere gratuit\u0103.\u00a0</p> <p>Folosi\u021bi codul\u00a0<b>TECHACADEMYFRIENDS</b>\u00a0\u0219i \u00eenscrie\u021bi-v\u0103 acum:\u00a0<a href=\"http://techfest.ro/register-for-access/\"><a href=\"http://techfest.ro/register-for-access/\" class=\"linkified\">http://techfest.ro/register-for-access/</a></a></p> <p><a href=\"https://www.eximtur.ro/\">Agen\u021bia de Turism EXIMTUR</a> v\u0103 provoac\u0103 s\u0103 programa\u021bi un Customer Service Chatbot. Detalii despre acest Front-end challenge, formularul de \u00eenregistrare dar \u0219i despre restul provoc\u0103rilor g\u0103si\u021bi pe pagina\u00a0<a href=\"http://techfest.ro/events/transylvania-megahack/\">Transylvania MegaHack</a>.</p> <p>----------------------------------------------------------------------------</p> <p><b>AGENDA:\u00a0</b></p> <p><br/><b>Ziua 1, vineri, 11 noiembrie</b></p> <p>16:00 - 17:00 - \u00cenregistrarea participan\u021bilor</p> <p>17:00 - 18:00 - Indroducere / Cuv\u00e2nt \u00eenainte al d-lui primar Emil Boc / Prezentarea partenerilor</p> <p>18:00 - 18:20- Programul evenimentului / Briefing-ul challenge-urilor / Formarea echipelor</p> <p>18:20-18:30 / Preg\u0103ti\u021bi s\u0103 \u00eencepem? \u201cEngage!\u201d</p> <p>18:30 - 20:00 - Hacking</p> <p>20:00 - 21:00 - Pauz\u0103 de pizza (din partea casei)</p> <p>No sleep required. Sleep is overrated anyway.</p> <p><b>Ziua 2, s\u00e2mb\u0103t\u0103, 12 noiembrie</b></p> <p>09:00 - 10:00 - Cafea \u0219i snaks-uri (din partea casei)</p> <p>10:00 - 18:00 - Mai mult hacking</p> <p>Echipele pot lua pauz\u0103 de mas\u0103 oric\u00e2nd doresc (masa de pr\u00e2nz nu este inclus\u0103 dar v\u0103 oferim vouchere de reduceri la Food Court)</p> <p>18:00 - 19:00 - Pauz\u0103 de pizza (din partea casei)</p> <p>Sleep is for the weak and weaklings don\u2019t make it through the Long Winter!</p> <p><b>Ziua 3, duminic\u0103, 13 noiembrie</b></p> <p>09:00 - 10:00 -\u00a0Cafea \u0219i snaks-uri (din partea casei)</p> <p>10:00 - 14:00 - \u0218i mai mult hacking</p> <p>Echipele pot lua pauz\u0103 de mas\u0103 oric\u00e2nd doresc (masa de pr\u00e2nz nu este inclus\u0103 dar v\u0103 oferim vouchere de reduceri la Food Court)\u00a0</p> <p>15:00 - 17:15 - Pauz\u0103</p> <p>17:15 - 19:00 - Sesiune de pitching</p> <p>19:00 - 19:30 - Festivitatea de premiere</p> <p>----------------------------------------------------------------------------</p> <p><br/>\u00censcrie\u021bi-v\u0103 \u00a0acum GRATUIT:\u00a0</p> <p><a href=\"http://techfest.ro/register-for-access/\"><a href=\"http://techfest.ro/register-for-access/\" class=\"linkified\">http://techfest.ro/register-for-access/</a></a></p> <p>\u00a0Competi\u021biile de tip hackathon presupun \u00eencercarea lucrurilor noi, experimentare \u0219i testarea de noi solu\u021bii. \u00a0</p> <p>V\u0103 a\u0219tept\u0103m cu drag!</p> ",
         "end_time": null,
-        "link": "http://www.meetup.com/Cluj-WEB-Developers/events/235321636/",
+        "link": "https://www.meetup.com/Cluj-WEB-Developers/events/235321636/",
         "organizer": "Cluj WEB Developers",
         "start_time": "2016-11-11T16:00:00+02:00",
         "title": "Transylvania MegaHack @ClujTechFest",
@@ -191,7 +191,7 @@
     "meetup-Cluj-fp-234852040": {
         "description": "<p>Programul intalnirii:<br/>6:30-7:00 sosirea participantilor + pizza din partea Ullink<br/>7:00 - 8:00 - Alexandru Gherega - (peek @Clojure)</p> <p>Inventat in 2007 si noua ani mai tarziu, Clojure se remarca ca fiind o tehnologie de actualitate.</p> <p>Acceptat in familia limbajelor functionale utilizate in proiecte industriale active si complexe \u2013 o familie nu foarte numeroasa \u2013 este de dorit sa mentinem o perspectiva congruenta intre filozofia abordata si Clojure ca si tehnologie de dezvoltare in mediul industrial.</p> <p>In cadrul prezentarii vom acoperi o parte din nucleul tehnologie Clojure \u2013 i.e. \u201cways of Clojure\u201d, principalele diferente fata de alte limbaje Lisp, cele mai importante structuri de date. Vom parcurge de asemenea cateva elemente mai avansate precum metodele de evaluare, multimetode, ierarhii si generarea claselor. In ultima parte a prezentarii new vom apropia de cateva din cele mai comune pattern-uri de design Clojure, API-uri pentru Web, severul REPL \u2013 o componenta esentiala pentru a reduce timpul petrecut intre implementarea unei idei si rezultatul net al acesteia (similar variantei scurte a Scrisorii a III-a: Tu esti Mircea? Nu! - simplu dar eficient). In finalul prezentarii vom acoperi cateva din povestile de succes care utilizeaza Clojure si, in cazul in care continuumul spatiu-time va rataci un dumicat de energie, ne vom satisface curiozitatea cu niste mostre de codare in Clojure.</p> <p>Speram ca la final sa acomodati o alta unealta la lista de compulsii privind cresterea abilitatilor din sfera programarii functionale.</p> <p>Mai multe detalii despre Alex gasiti pe linkedin <a href=\"https://ro.linkedin.com/in/alexandru-gherega-73340719\" class=\"linkified\">https://ro.linkedin.com/in/alexandru-gherega-73340719</a></p> ",
         "end_time": null,
-        "link": "http://www.meetup.com/Cluj-fp/events/234852040/",
+        "link": "https://www.meetup.com/Cluj-fp/events/234852040/",
         "organizer": "Cluj.fp",
         "start_time": "2016-11-16T18:30:00+02:00",
         "title": "(peek @Clojure)",
@@ -200,7 +200,7 @@
     "meetup-Cluj-fp-235150131": {
         "description": "<p>Programul intalnirii:<br/>6:30-7:00 sosirea participantilor + pizza din partea Ullink<br/>7:00 - 8:00 - Mihai Andrei - Imutabilitatea din perspectiva programarii stiintifice</p> <p>Mihai are in spate o experienta mixta de proiecte de cercetare si comerciale. In ultima vreme a dezvoltat simulari numerice pentru neuroscience. A folosit si apreciaza limbajele functionale dar considera ca limbaje cum ar fi C sau Prolog isi au locul lor.</p> <p>Prezentarea isi propune sa discute ideea de imutabilitate atat in mediul ei natural, programarea functionala, cat si departe de el in limbaje foarte mutabile cum ar fi C. Problema performantei va fi adresata discutand despre structuri de date persistente.</p> <p>Programarea cu valori imutabile generaza programe mai simple. Multe stari invalide devin imposibile. Multe proceduri devin functii pure. In programarea functionala valorile imutabile sunt esentiale, fac parte din definitia termenului.</p> <p>Mutabilele isi au rolul lor insa starile se schimba in timp iar unele manipulari low level de structuri sunt obligatoriu mutabile.</p> <p>Singurul dezavantaj major al imutabilelor, performanta, este ameliorata de structuri de date speciale. Numite \"persistent data structures\" acestea permit copierea ieftina a unei valori. Vom exemplifica implementarea unor asemenea structuri.</p> ",
         "end_time": null,
-        "link": "http://www.meetup.com/Cluj-fp/events/235150131/",
+        "link": "https://www.meetup.com/Cluj-fp/events/235150131/",
         "organizer": "Cluj.fp",
         "start_time": "2016-12-07T18:30:00+02:00",
         "title": "Imutabilitatea din perspectiva programarii stiintifice",
@@ -209,7 +209,7 @@
     "meetup-DOTNET-Cluj-235324909": {
         "description": "<p>Dragi .NET Developers,</p> <p>\u00cen calitate de membri ai comunit\u0103\u021bii Tech Academy, v\u0103 invit\u0103m s\u0103 participa\u021bi gratuit la <a href=\"http://techfest.ro/festival-events/transylvania-megahack/\">Transylvania MegaHack</a>, eveniment cu care debuteaz\u0103 festivalul tehnologic <a href=\"http://techfest.ro/\">Cluj TechFest</a> vineri, pe 11 noiembrie.\u00a0</p> <p>MegaHack din cadrul TechFest este un eveniment dedicat programatorilor \u0219i echipelor de programatori care vor r\u0103spunde unor provoc\u0103ri lansate de diverse companii, provoc\u0103ri reale cu care acestea se confrunt\u0103 \u0219i pentru care caut\u0103 cele mai bune solu\u021bii. Alege-\u021bi provocarea, \u00eenscrie-\u021bi echipa \u0219i pute\u021bi c\u00e2\u0219tiga unul dintre premiile care au o valoare total\u0103 de 10,000 EUR.\u00a0</p> <p>Pentru c\u0103 faci parte din comunitatea TechAcademy beneficiezi de \u00eenscriere gratuit\u0103.\u00a0</p> <p>Folose\u0219te codul <b>TECHACADEMYFRIENDS</b> \u0219i \u00eenscrie-te gratuit acum: <a href=\"http://techfest.ro/register-for-access/\" class=\"linkified\">http://techfest.ro/register-for-access/</a>\u00a0</p> <p>Detalii despre domenii \u0219i provoc\u0103ri \u0219i formularul de \u00eenregistrare g\u0103se\u0219ti pe pagina Transylvania MegaHack.</p> <p>_____________________________________________________________________</p> <p><b>AGENDA:\u00a0</b></p> <p><b>Ziua 1, vineri, 11 noiembrie</b></p> <p>16:00 - 17:00 - \u00cenregistrarea participan\u021bilor</p> <p>17:00 - 18:00 - Indroducere / Cuv\u00e2nt \u00eenainte al d-lui primar Emil Boc / Prezentarea partenerilor</p> <p>18:00 - 18:20- Programul evenimentului / Briefing-ul challenge-urilor / Formarea echipelor</p> <p>18:20-18:30 / Preg\u0103ti\u021bi s\u0103 \u00eencepem? \u201cEngage!\u201d</p> <p>18:30 - 20:00 - Hacking</p> <p>20:00 - 21:00 - Pauz\u0103 de pizza (din partea casei)</p> <p>No sleep required. Sleep is overrated anyway.</p> <p><b>Ziua 2, s\u00e2mb\u0103t\u0103, 12 noiembrie</b></p> <p>09:00 - 10:00 - Cafea \u0219i snaks-uri (din partea casei)</p> <p>10:00 - 18:00 - Mai mult hacking</p> <p>Echipele pot lua pauz\u0103 de mas\u0103 oric\u00e2nd doresc (masa de pr\u00e2nz nu este inclus\u0103 dar v\u0103 oferim vouchere de reduceri la Food Court)</p> <p>18:00 - 19:00 - Pauz\u0103 de pizza (din partea casei)</p> <p>Sleep is for the weak and weaklings don\u2019t make it through the Long Winter!</p> <p><b>Ziua 3, duminic\u0103, 13 noiembrie</b></p> <p>09:00 - 10:00 - Cafea \u0219i snaks-uri (din partea casei)</p> <p>10:00 - 14:00 - \u0218i mai mult hacking</p> <p>Echipele pot lua pauz\u0103 de mas\u0103 oric\u00e2nd doresc (masa de pr\u00e2nz nu este inclus\u0103 dar v\u0103 oferim vouchere de reduceri la Food Court) 15:00 - 17:15 - Pauz\u0103</p> <p>17:15 - 19:00 - Sesiune de pitching</p> <p>19:00 - 19:30 - Festivitatea de premiere</p> <p>_____________________________________________________________________</p> <p>\u00censcrie-te GRATUIT acum: <a href=\"http://techfest.ro/register-for-access/\" class=\"linkified\">http://techfest.ro/register-for-access/</a></p> <p>Competi\u021biile de tip hackathon presupun \u00eencercarea lucrurilor noi, experimentare \u0219i testarea de noi solu\u021bii.<br/>Te a\u0219tept\u0103m!</p> ",
         "end_time": null,
-        "link": "http://www.meetup.com/DOTNET-Cluj/events/235324909/",
+        "link": "https://www.meetup.com/DOTNET-Cluj/events/235324909/",
         "organizer": ".NET Cluj",
         "start_time": "2016-11-11T16:00:00+02:00",
         "title": "Transylvania MegaHack @Cluj TechFest",
@@ -218,7 +218,7 @@
     "meetup-DevOps-Cluj-Community-235327157": {
         "description": "<p>Dragi membri ai comunit\u0103\u021bii DevOps,\u00a0</p> <p>\u00cen calitate de membri ai comunit\u0103\u021bii Tech Academy, v\u0103 invit\u0103m s\u0103 participa\u021bi gratuit la <a href=\"http://techfest.ro/festival-events/transylvania-megahack/\">Transylvania MegaHack</a>, eveniment cu care debuteaz\u0103 festivalul tehnologic <a href=\"http://techfest.ro/\">Cluj TechFest</a> vineri, pe 11 noiembrie.\u00a0</p> <p>MegaHack din cadrul TechFest este un eveniment dedicat programatorilor \u0219i echipelor de programatori care vor r\u0103spunde unor provoc\u0103ri lansate de diverse companii, provoc\u0103ri reale cu care acestea se confrunt\u0103 \u0219i pentru care caut\u0103 cele mai bune solu\u021bii.\u00a0</p> <p>Alege-\u021bi provocarea, \u00eenscrie-\u021bi echipa \u0219i pute\u021bi c\u00e2\u0219tiga unul dintre premiile care au o valoare total\u0103 de 10,000 EUR. Pentru c\u0103 faci parte din comunitatea TechAcademy beneficiezi de \u00eenscriere gratuit\u0103.\u00a0</p> <p>Folose\u0219te codul <b>TECHACADEMYFRIENDS</b> \u0219i \u00eenscrie-te acum: <a href=\"http://techfest.ro/register-for-access/\" class=\"linkified\">http://techfest.ro/register-for-access/</a>\u00a0</p> <p>Companii \u0219i institu\u021bii publice au preg\u0103tit challengeuri din cele mai diverse domenii: datathon, Digital Banking, Smart City, Front-End, testing hackathon, Gaming, IoT &amp; Embedded, e-commerce, e-gov.\u00a0</p> <p>Detalii despre ele, formularul de \u00eenregistrare dar \u0219i despre restul challenge-urilor g\u0103se\u0219ti pe pagina <a href=\"http://techfest.ro/festival-events/transylvania-megahack/\">Transylvania MegaHack.</a></p> <p>_____________________________________________________________________\u00a0</p> <p><b>AGENDA:\u00a0</b></p> <p><b>Ziua 1, vineri, 11 noiembrie</b></p> <p>16:00 - 17:00 - \u00cenregistrarea participan\u021bilor</p> <p>17:00 - 18:00 - Indroducere / Cuv\u00e2nt \u00eenainte al d-lui primar Emil Boc / Prezentarea partenerilor</p> <p>18:00 - 18:20- Programul evenimentului / Briefing-ul challenge-urilor / Formarea echipelor</p> <p>18:20-18:30 / Preg\u0103ti\u021bi s\u0103 \u00eencepem? \u201cEngage!\u201d</p> <p>18:30 - 20:00 - Hacking</p> <p>20:00 - 21:00 - Pauz\u0103 de pizza (din partea casei)</p> <p>No sleep required. Sleep is overrated anyway.</p> <p><b>Ziua 2, s\u00e2mb\u0103t\u0103, 12 noiembrie</b></p> <p>09:00 - 10:00 - Cafea \u0219i snaks-uri (din partea casei)</p> <p>10:00 - 18:00 - Mai mult hacking</p> <p>Echipele pot lua pauz\u0103 de mas\u0103 oric\u00e2nd doresc (masa de pr\u00e2nz nu este inclus\u0103 dar v\u0103 oferim vouchere de reduceri la Food Court)</p> <p>18:00 - 19:00 - Pauz\u0103 de pizza (din partea casei)</p> <p>Sleep is for the weak and weaklings don\u2019t make it through the Long Winter!</p> <p><b>Ziua 3, duminic\u0103, 13 noiembrie</b></p> <p>09:00 - 10:00 - Cafea \u0219i snaks-uri (din partea casei)</p> <p>10:00 - 14:00 - \u0218i mai mult hacking</p> <p>Echipele pot lua pauz\u0103 de mas\u0103 oric\u00e2nd doresc (masa de pr\u00e2nz nu este inclus\u0103 dar v\u0103 oferim vouchere de reduceri la Food Court) 15:00 - 17:15 - Pauz\u0103</p> <p>17:15 - 19:00 - Sesiune de pitching</p> <p>19:00 - 19:30 - Festivitatea de premiere</p> <p>_____________________________________________________________________</p> <p>\u00censcrie-te GRATUIT acum: <a href=\"http://techfest.ro/register-for-access/\" class=\"linkified\">http://techfest.ro/register-for-access/</a></p> <p>Competi\u021biile de tip hackathon presupun \u00eencercarea lucrurilor noi, experimentare \u0219i testarea de noi solu\u021bii.<br/>Te a\u0219tept\u0103m!</p> ",
         "end_time": null,
-        "link": "http://www.meetup.com/DevOps-Cluj-Community/events/235327157/",
+        "link": "https://www.meetup.com/DevOps-Cluj-Community/events/235327157/",
         "organizer": "DevOps Cluj Community",
         "start_time": "2016-11-11T16:00:00+02:00",
         "title": "Transylvania MegaHack @Cluj TechFest",
@@ -227,7 +227,7 @@
     "meetup-Docker-Cluj-Napoca-234825726": {
         "description": "<p><b>Join us for our local edition of the Docker Global Mentor Week!</b></p> <p>Docker Global Mentor Week is your opportunity to #learndocker. Right now, Docker is working on self paced online labs that will be available through LearnDot. One lab will be for beginners and one lab will be for intermediate users. Docker mentors will be on hand at this event to help you as you work through the self paced materials.</p> <p>Are you an advanced user? We strongly encourage Docker users of all skill levels to attend! We need a network of mentors who understand the Docker platform to answer any questions that newcomers may have.\u00a0<a href=\"https://community.docker.com/registrations/groups/6947\">Click here</a>\u00a0to sign up as a mentor.</p> <p><b>Agenda:\u00a0</b><br/>5:15pm to 7:30pm<br/>5:00 - Doors Open<br/>5:15 - Welcome message, presentation of Docker &amp; snacks<br/>5:30 to 7:30 - Select and work through self-paced lab<br/>7:30 - Socializing!</p> <p>As we get closer to the event, we will share more information including materials on how to prepare for the training.</p> ",
         "end_time": null,
-        "link": "http://www.meetup.com/Docker-Cluj-Napoca/events/234825726/",
+        "link": "https://www.meetup.com/Docker-Cluj-Napoca/events/234825726/",
         "organizer": "Docker Cluj-Napoca",
         "start_time": "2016-11-15T17:00:00+02:00",
         "title": "Docker Global Mentor Week",
@@ -236,7 +236,7 @@
     "meetup-Drupal-Cluj-qjgbzjyvqbcb": {
         "description": "<p>Ne intalnim, discutam si aflam mai multe despre Drupal. :)</p> <p>Adaugati in comentarii \"oferte / cereri\" de prezentari.</p> ",
         "end_time": null,
-        "link": "http://www.meetup.com/Drupal-Cluj/events/235199367/",
+        "link": "https://www.meetup.com/Drupal-Cluj/events/235199367/",
         "organizer": "Drupal Cluj",
         "start_time": "2016-12-08T19:00:00+02:00",
         "title": "Drupal Cluj Meetup",
@@ -245,7 +245,7 @@
     "meetup-Drupal-Cluj-qjgbzjywcbhb": {
         "description": "<p>Ne intalnim, discutam si aflam mai multe despre Drupal. :)</p> <p>Adaugati in comentarii \"oferte / cereri\" de prezentari.</p> ",
         "end_time": null,
-        "link": "http://www.meetup.com/Drupal-Cluj/events/qjgbzjywcbhb/",
+        "link": "https://www.meetup.com/Drupal-Cluj/events/qjgbzjywcbhb/",
         "organizer": "Drupal Cluj",
         "start_time": "2017-01-05T20:00:00+02:00",
         "title": "Drupal Cluj Meetup",
@@ -254,7 +254,7 @@
     "meetup-Drupal-Cluj-qjgbzjywdbdb": {
         "description": "<p>Ne intalnim, discutam si aflam mai multe despre Drupal. :)</p> <p>Adaugati in comentarii \"oferte / cereri\" de prezentari.</p> ",
         "end_time": null,
-        "link": "http://www.meetup.com/Drupal-Cluj/events/qjgbzjywdbdb/",
+        "link": "https://www.meetup.com/Drupal-Cluj/events/qjgbzjywdbdb/",
         "organizer": "Drupal Cluj",
         "start_time": "2017-02-02T20:00:00+02:00",
         "title": "Drupal Cluj Meetup",
@@ -263,7 +263,7 @@
     "meetup-Drupal-Cluj-qjgbzjywfbdb": {
         "description": "<p>Ne intalnim, discutam si aflam mai multe despre Drupal. :)</p> <p>Adaugati in comentarii \"oferte / cereri\" de prezentari.</p> ",
         "end_time": null,
-        "link": "http://www.meetup.com/Drupal-Cluj/events/qjgbzjywfbdb/",
+        "link": "https://www.meetup.com/Drupal-Cluj/events/qjgbzjywfbdb/",
         "organizer": "Drupal Cluj",
         "start_time": "2017-03-02T20:00:00+02:00",
         "title": "Drupal Cluj Meetup",
@@ -272,7 +272,7 @@
     "meetup-Drupal-Cluj-qjgbzjywgbjb": {
         "description": "<p>Ne intalnim, discutam si aflam mai multe despre Drupal. :)</p> <p>Adaugati in comentarii \"oferte / cereri\" de prezentari.</p> ",
         "end_time": null,
-        "link": "http://www.meetup.com/Drupal-Cluj/events/qjgbzjywgbjb/",
+        "link": "https://www.meetup.com/Drupal-Cluj/events/qjgbzjywgbjb/",
         "organizer": "Drupal Cluj",
         "start_time": "2017-04-06T20:00:00+03:00",
         "title": "Drupal Cluj Meetup",
@@ -281,7 +281,7 @@
     "meetup-Drupal-Cluj-qjgbzjywhbgb": {
         "description": "<p>Ne intalnim, discutam si aflam mai multe despre Drupal. :)</p> <p>Adaugati in comentarii \"oferte / cereri\" de prezentari.</p> ",
         "end_time": null,
-        "link": "http://www.meetup.com/Drupal-Cluj/events/qjgbzjywhbgb/",
+        "link": "https://www.meetup.com/Drupal-Cluj/events/qjgbzjywhbgb/",
         "organizer": "Drupal Cluj",
         "start_time": "2017-05-04T20:00:00+03:00",
         "title": "Drupal Cluj Meetup",
@@ -290,7 +290,7 @@
     "meetup-Drupal-Cluj-qjgbzjywjbcb": {
         "description": "<p>Ne intalnim, discutam si aflam mai multe despre Drupal. :)</p> <p>Adaugati in comentarii \"oferte / cereri\" de prezentari.</p> ",
         "end_time": null,
-        "link": "http://www.meetup.com/Drupal-Cluj/events/233424265/",
+        "link": "https://www.meetup.com/Drupal-Cluj/events/233424265/",
         "organizer": "Drupal Cluj",
         "start_time": "2017-06-01T20:00:00+03:00",
         "title": "Drupal Cluj Meetup",
@@ -299,7 +299,7 @@
     "meetup-Drupal-Cluj-qjgbzjywkbjb": {
         "description": "<p>Ne intalnim, discutam si aflam mai multe despre Drupal. :)</p> <p>Adaugati in comentarii \"oferte / cereri\" de prezentari.</p> ",
         "end_time": null,
-        "link": "http://www.meetup.com/Drupal-Cluj/events/qjgbzjywkbjb/",
+        "link": "https://www.meetup.com/Drupal-Cluj/events/qjgbzjywkbjb/",
         "organizer": "Drupal Cluj",
         "start_time": "2017-07-06T20:00:00+03:00",
         "title": "Drupal Cluj Meetup",
@@ -308,7 +308,7 @@
     "meetup-Drupal-Cluj-qjgbzjywlbfb": {
         "description": "<p>Ne intalnim, discutam si aflam mai multe despre Drupal. :)</p> <p>Adaugati in comentarii \"oferte / cereri\" de prezentari.</p> ",
         "end_time": null,
-        "link": "http://www.meetup.com/Drupal-Cluj/events/qjgbzjywlbfb/",
+        "link": "https://www.meetup.com/Drupal-Cluj/events/qjgbzjywlbfb/",
         "organizer": "Drupal Cluj",
         "start_time": "2017-08-03T20:00:00+03:00",
         "title": "Drupal Cluj Meetup",
@@ -317,7 +317,7 @@
     "meetup-Drupal-Cluj-qjgbzjywmbkb": {
         "description": "<p>Ne intalnim, discutam si aflam mai multe despre Drupal. :)</p> <p>Adaugati in comentarii \"oferte / cereri\" de prezentari.</p> ",
         "end_time": null,
-        "link": "http://www.meetup.com/Drupal-Cluj/events/qjgbzjywmbkb/",
+        "link": "https://www.meetup.com/Drupal-Cluj/events/qjgbzjywmbkb/",
         "organizer": "Drupal Cluj",
         "start_time": "2017-09-07T20:00:00+03:00",
         "title": "Drupal Cluj Meetup",
@@ -326,7 +326,7 @@
     "meetup-Drupal-Cluj-qjgbzjywnbhb": {
         "description": "<p>Ne intalnim, discutam si aflam mai multe despre Drupal. :)</p> <p>Adaugati in comentarii \"oferte / cereri\" de prezentari.</p> ",
         "end_time": null,
-        "link": "http://www.meetup.com/Drupal-Cluj/events/qjgbzjywnbhb/",
+        "link": "https://www.meetup.com/Drupal-Cluj/events/qjgbzjywnbhb/",
         "organizer": "Drupal Cluj",
         "start_time": "2017-10-05T20:00:00+03:00",
         "title": "Drupal Cluj Meetup",
@@ -335,7 +335,7 @@
     "meetup-Drupal-Cluj-qjgbzjywpbdb": {
         "description": "<p>Ne intalnim, discutam si aflam mai multe despre Drupal. :)</p> <p>Adaugati in comentarii \"oferte / cereri\" de prezentari.</p> ",
         "end_time": null,
-        "link": "http://www.meetup.com/Drupal-Cluj/events/qjgbzjywpbdb/",
+        "link": "https://www.meetup.com/Drupal-Cluj/events/qjgbzjywpbdb/",
         "organizer": "Drupal Cluj",
         "start_time": "2017-11-02T20:00:00+02:00",
         "title": "Drupal Cluj Meetup",
@@ -344,7 +344,7 @@
     "meetup-Embedded-IoT-Forum-235324506": {
         "description": "<p>Dragi Techies,\u00a0</p> <p>\u00cen calitate de membri ai comunit\u0103\u021bii Tech Academy, v\u0103 invit\u0103m s\u0103 participa\u021bi <b>gratuit</b> la <a href=\"http://techfest.ro/festival-events/transylvania-megahack/\">Transylvania MegaHack</a>, eveniment cu care debuteaz\u0103 festivalul tehnologic <a href=\"http://techfest.ro/\">Cluj TechFest</a> vineri, pe 11 noiembrie.\u00a0</p> <p>MegaHack din cadrul TechFest este un eveniment dedicat programatorilor \u0219i echipelor de programatori care vor r\u0103spunde unor provoc\u0103ri lansate de diverse companii, provoc\u0103ri reale cu care acestea se confrunt\u0103 \u0219i pentru care caut\u0103 cele mai bune solu\u021bii.\u00a0</p> <p>Alege-\u021bi provocarea, \u00eenscrie-\u021bi echipa \u0219i pute\u021bi c\u00e2\u0219tiga unul dintre premiile care au o valoare total\u0103 de 10,000 EUR. Pentru c\u0103 faci parte din comunitatea TechAcademy beneficiezi de \u00eenscriere gratuit\u0103.\u00a0</p> <p>Folose\u0219te codul <b>TECHACADEMYFRIENDS</b> \u0219i \u00eenscrie-te acum: <a href=\"http://techfest.ro/register-for-access/\" class=\"linkified\">http://techfest.ro/register-for-access/</a>\u00a0</p> <p><a href=\"http://www.cds.ro/\">CDS</a>, <a href=\"http://www.onyxbeacon.com/\">Onyx Beacon</a>, Braintronix, Security4Things \u0219i <a href=\"https://www.vectorwatch.com/\">Vector Watch</a> au preg\u0103tit provoc\u0103ri pentru tine. Detalii despre ele, formularul de \u00eenregistrare dar \u0219i despre restul challenge-urilor g\u0103se\u0219ti pe pagina <a href=\"http://techfest.ro/festival-events/transylvania-megahack/\">Transylvania MegaHack</a>.</p> <p>_____________________________________________________________________</p> <p><br/><b>AGENDA:\u00a0</b></p> <p><b>Ziua 1, vineri, 11 noiembrie</b></p> <p>16:00 - 17:00 - \u00cenregistrarea participan\u021bilor</p> <p>17:00 - 18:00 - Indroducere / Cuv\u00e2nt \u00eenainte al d-lui primar Emil Boc / Prezentarea partenerilor</p> <p>18:00 - 18:20- Programul evenimentului / Briefing-ul challenge-urilor / Formarea echipelor</p> <p>18:20-18:30 / Preg\u0103ti\u021bi s\u0103 \u00eencepem? \u201cEngage!\u201d</p> <p>18:30 - 20:00 - Hacking</p> <p>20:00 - 21:00 - Pauz\u0103 de pizza (din partea casei)</p> <p>No sleep required. Sleep is overrated anyway.</p> <p><b>Ziua 2, s\u00e2mb\u0103t\u0103, 12 noiembrie</b></p> <p>09:00 - 10:00 - Cafea \u0219i snaks-uri (din partea casei)</p> <p>10:00 - 18:00 - Mai mult hacking</p> <p>Echipele pot lua pauz\u0103 de mas\u0103 oric\u00e2nd doresc (masa de pr\u00e2nz nu este inclus\u0103 dar v\u0103 oferim vouchere de reduceri la Food Court)</p> <p>18:00 - 19:00 - Pauz\u0103 de pizza (din partea casei)</p> <p>Sleep is for the weak and weaklings don\u2019t make it through the Long Winter!</p> <p><b>Ziua 3, duminic\u0103, 13 noiembrie</b></p> <p>09:00 - 10:00 - Cafea \u0219i snaks-uri (din partea casei)</p> <p>10:00 - 14:00 - \u0218i mai mult hacking</p> <p>Echipele pot lua pauz\u0103 de mas\u0103 oric\u00e2nd doresc (masa de pr\u00e2nz nu este inclus\u0103 dar v\u0103 oferim vouchere de reduceri la Food Court) 15:00 - 17:15 - Pauz\u0103</p> <p>17:15 - 19:00 - Sesiune de pitching</p> <p>19:00 - 19:30 - Festivitatea de premiere</p> <p>_____________________________________________________________________</p> <p>\u00censcrie-te GRATUIT acum: <a href=\"http://techfest.ro/register-for-access/\" class=\"linkified\">http://techfest.ro/register-for-access/</a></p> <p>Competi\u021biile de tip hackathon presupun \u00eencercarea lucrurilor noi, experimentare \u0219i testarea de noi solu\u021bii.<br/>Te a\u0219tept\u0103m!</p> ",
         "end_time": null,
-        "link": "http://www.meetup.com/Embedded-IoT-Forum/events/235324506/",
+        "link": "https://www.meetup.com/Embedded-IoT-Forum/events/235324506/",
         "organizer": "Embedded & IoT Forum",
         "start_time": "2016-11-11T16:00:00+02:00",
         "title": "Transylvania MegaHack @ClujTechFest",
@@ -380,7 +380,7 @@
     "meetup-Game-Lab-Cluj-235325237": {
         "description": "<p>Dragi Game Devs,</p> <p>\u00cen calitate de membri ai comunit\u0103\u021bii Tech Academy, v\u0103 invit\u0103m s\u0103 participa\u021bi gratuit la\u00a0<a href=\"http://techfest.ro/festival-events/transylvania-megahack/\">Transylvania MegaHack</a>, eveniment cu care debuteaz\u0103 festivalul tehnologic\u00a0<a href=\"http://techfest.ro/\">Cluj TechFest</a>\u00a0vineri, pe 11 noiembrie.\u00a0</p> <p>MegaHack din cadrul TechFest este un eveniment dedicat programatorilor \u0219i echipelor de programatori care vor r\u0103spunde unor provoc\u0103ri lansate de diverse companii, provoc\u0103ri reale cu care acestea se confrunt\u0103 \u0219i pentru care caut\u0103 cele mai bune solu\u021bii. Alege-\u021bi provocarea, \u00eenscrie-\u021bi echipa \u0219i pute\u021bi c\u00e2\u0219tiga unul dintre premiile care au o valoare total\u0103 de 10,000 EUR.\u00a0</p> <p>Pentru c\u0103 faci parte din comunitatea TechAcademy beneficiezi de \u00eenscriere gratuit\u0103.\u00a0</p> <p>Folose\u0219te codul\u00a0<b>TECHACADEMYFRIENDS</b>\u00a0\u0219i \u00eenscrie-te gratuit acum:\u00a0<a href=\"http://techfest.ro/register-for-access/\"><a href=\"http://techfest.ro/register-for-access/\" class=\"linkified\">http://techfest.ro/register-for-access/</a></a>\u00a0</p> <p><a href=\"http://www.gameloft.com/?sk\">Gameloft</a> v\u0103 provoac\u0103 la un Game Jam, indiferent de nivelul de experien\u021b\u0103. Detalii despre provocare \u0219i formularul de \u00eenregistrare g\u0103se\u0219ti pe pagina <a href=\"http://techfest.ro/festival-events/transylvania-megahack/\">Transylvania MegaHack</a>.</p> <p>_____________________________________________________________________</p> <p><b>AGENDA:\u00a0</b></p> <p><b>Ziua 1, vineri, 11 noiembrie</b></p> <p>16:00 - 17:00 - \u00cenregistrarea participan\u021bilor</p> <p>17:00 - 18:00 - Indroducere / Cuv\u00e2nt \u00eenainte al d-lui primar Emil Boc / Prezentarea partenerilor</p> <p>18:00 - 18:20- Programul evenimentului / Briefing-ul challenge-urilor / Formarea echipelor</p> <p>18:20-18:30 / Preg\u0103ti\u021bi s\u0103 \u00eencepem? \u201cEngage!\u201d</p> <p>18:30 - 20:00 - Hacking</p> <p>20:00 - 21:00 - Pauz\u0103 de pizza (din partea casei)</p> <p>No sleep required. Sleep is overrated anyway.</p> <p><b>Ziua 2, s\u00e2mb\u0103t\u0103, 12 noiembrie</b></p> <p>09:00 - 10:00 - Cafea \u0219i snaks-uri (din partea casei)</p> <p>10:00 - 18:00 - Mai mult hacking</p> <p>Echipele pot lua pauz\u0103 de mas\u0103 oric\u00e2nd doresc (masa de pr\u00e2nz nu este inclus\u0103 dar v\u0103 oferim vouchere de reduceri la Food Court)</p> <p>18:00 - 19:00 - Pauz\u0103 de pizza (din partea casei)</p> <p>Sleep is for the weak and weaklings don\u2019t make it through the Long Winter!</p> <p><b>Ziua 3, duminic\u0103, 13 noiembrie</b></p> <p>09:00 - 10:00 - Cafea \u0219i snaks-uri (din partea casei)</p> <p>10:00 - 14:00 - \u0218i mai mult hacking</p> <p>Echipele pot lua pauz\u0103 de mas\u0103 oric\u00e2nd doresc (masa de pr\u00e2nz nu este inclus\u0103 dar v\u0103 oferim vouchere de reduceri la Food Court) 15:00 - 17:15 - Pauz\u0103</p> <p>17:15 - 19:00 - Sesiune de pitching</p> <p>19:00 - 19:30 - Festivitatea de premiere</p> <p>_____________________________________________________________________</p> <p>\u00censcrie-te GRATUIT acum:\u00a0<a href=\"http://techfest.ro/register-for-access/\"><a href=\"http://techfest.ro/register-for-access/\" class=\"linkified\">http://techfest.ro/register-for-access/</a></a></p> <p>Competi\u021biile de tip hackathon presupun \u00eencercarea lucrurilor noi, experimentare \u0219i testarea de noi solu\u021bii.\u00a0</p> <p>\n\nTe a\u0219tept\u0103m!</p> ",
         "end_time": null,
-        "link": "http://www.meetup.com/Game-Lab-Cluj/events/235325237/",
+        "link": "https://www.meetup.com/Game-Lab-Cluj/events/235325237/",
         "organizer": "Game Lab Cluj",
         "start_time": "2016-11-11T16:00:00+02:00",
         "title": "Transylvania MegaHack @Cluj TechFest",
@@ -389,7 +389,7 @@
     "meetup-IS-DevOps-Meetup-235172923": {
         "description": "<p>Speaker: Liviu Costea</p> <p>We'll talk about Ansible, which prides itself with complete IT automation. This is the second talk in our stream of dev operation tools presentations, and we'll see\u00a0where it's good to use Ansible, and its inner workings.\u00a0</p> ",
         "end_time": null,
-        "link": "http://www.meetup.com/IS-DevOps-Meetup/events/235172923/",
+        "link": "https://www.meetup.com/IS-DevOps-Meetup/events/235172923/",
         "organizer": "Iasi DevOps Meetup",
         "start_time": "2016-11-22T19:00:00+02:00",
         "title": "IT automation with Ansible",
@@ -398,7 +398,7 @@
     "meetup-Java-Day-Cluj-Napoca-234290695": {
         "description": "<p><img src=\"http://photos3.meetupstatic.com/photos/event/9/c/3/8/600_454359992.jpeg\" /></p> <p><b>Eoin Woods,\u00a0CTO at Endava</b>,\u00a0is speaker at Software Architecture Day Iasi!\u00a0</p> <p>Eoin will sustain on\u00a0<b>November 22</b>,\u00a0a full day workshop about\u00a0<b>Timeless Skills for the Modern Software Architect</b>.</p> <p>He is a widely published author in both the research and industrial communities, and is co-author of the book\u00a0\u201cSoftware Systems Architecture\u201c.\u00a0He involves actively as\u00a0conference speaker and\u00a0member of the London Software Engineering Community.\u00a0His main technical interests are software architecture, distributed systems and computer security.</p> <p><br/><b>TOPICS:</b></p> <p>\u2022\u00a0Using Architecture Principles to unify design thinking across different levels of abstraction;</p> <p>\u2022\u00a0Different approaches to architectural description from informal sketches, to formal graphical models, and the various options between these extremes;</p> <p>\u2022\u00a0The fundamentals of getting systems from development to production, which underpin approaches such as DevOps;</p> <p>\u2022\u00a0Assessing software architectures using methods like ATAM, TARA and informal approaches;</p> <p>\u2022\u00a0Dealing with legacy systems and supporting the teams responsible for them.</p> <p><br/>You can find more information here: <a href=\"http://www.iasi.softwarearchitectureday.com\">www.iasi.softwarearchitectureday.com</a>\u00a0</p> <p>Software Architecture Day is an unique event, designed for technical team leads, architects, engineering directors, and project managers who influence innovation in their teams.</p> ",
         "end_time": null,
-        "link": "http://www.meetup.com/softwarearchitects/events/234290695/",
+        "link": "https://www.meetup.com/softwarearchitects/events/234290695/",
         "organizer": "Software Architecture Day",
         "start_time": "2016-11-22T09:00:00+02:00",
         "title": "Software Architecture Day  Ia\u0219i",
@@ -407,7 +407,7 @@
     "meetup-Java-Day-Cluj-Napoca-234438309": {
         "description": "<p><img src=\"http://photos4.meetupstatic.com/photos/event/c/0/1/600_454563073.jpeg\" /></p> <p><b>Richard Warburton</b> - Independent Software Developer, Book Author si Technical Trainer, is speaker on <b>November 18 </b>at <b>Java Day Cluj-Napoca</b>. He will support a hands-on workshop about <b>Advanced Java 8.</b></p> <p><b>Topics:</b></p> <p>\u00b7\u00a0 <b>Data Parallelism</b></p> <p>\u00b7\u00a0 <b>Testing and Debugging Lambdas</b></p> <p>\u00b7\u00a0 <b>Default and static methods on interfaces</b></p> <p>\u00b7\u00a0 <b>Enhanced Design with Lambdas</b></p> <p>\u00b7\u00a0 <b>Date &amp; Time in Java 8</b></p> <p>\u00b7\u00a0 <b>The Optional data type</b></p> <p>\u00b7\u00a0 <b>CompletableFuture</b></p> <p><b>Richard</b> is an empirical technologist and solver of deep-dive technical problems and works independently as a Software Engineer and Trainer.</p> <p>\u00a0He has written the book on Java 8 Lambdas for O\u2019Reilly and he is a leader in the London Java Community. Richard is also a well known conference speaker, having talked at Devoxx, Javazone, JavaOne, JAX London, JEEConf, Codemotion Rome, and many more others. He obtained a PhD in Computer Science from The University of Warwick.</p> <p>You can find more details here: <b><a href=\"http://www.javaday.ro\">www.javaday.ro</a></b></p> <p><b>Register at bianca.adriana@liberoevents.ro.\u00a0</b></p> <p><b>Java Day</b> is an unique event, designed for technical team leads, architects, engineering directors, and project managers who influence innovation in their teams, and takes place every year in Cluj-Napoca, Timisoara, Iasi and Bucharest.</p> ",
         "end_time": null,
-        "link": "http://www.meetup.com/softwarearchitects/events/234438309/",
+        "link": "https://www.meetup.com/softwarearchitects/events/234438309/",
         "organizer": "Software Architecture Day",
         "start_time": "2016-11-18T09:00:00+02:00",
         "title": "Java Day Cluj-Napoca: Advanced Java 8 w. Richard Warburton",
@@ -416,7 +416,7 @@
     "meetup-JavaDayRO-235079869": {
         "description": "<p><b>Richard Warburton </b>- Independent Software Developer, Book Author and Technical Trainer, is speaker on November 18 at Java Day Cluj-Napoca. He will support a hands-on workshop about Advanced Java 8.</p> <p><img src=\"https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/d/7/600_455400215.jpeg\" /></p> <p>\n\n\n<b>Topics:</b></p> <p>\u00b7 Data Parallelism</p> <p>\u00b7 Testing and Debugging Lambdas</p> <p>\u00b7 Default and static methods on interfaces</p> <p>\u00b7 Enhanced Design with Lambdas</p> <p>\u00b7 Date &amp; Time in Java 8</p> <p>\u00b7 The Optional data type</p> <p>\u00b7 CompletableFuture</p> <p>\n\n\nRichard is an empirical technologist and solver of deep-dive technical problems and works independently as a Software Engineer and Trainer.</p> <p><br/><b> He has written the book on Java 8 Lambdas for O\u2019Reilly</b> and he is a leader in the London Java Community. Richard is also a well known conference speaker, having talked at Devoxx, Javazone, JavaOne, JAX London, JEEConf, Codemotion Rome, and many more others. He obtained a PhD in Computer Science from The University of Warwick.</p> <p>You can find more details here: <a href=\"http://www.javaday.ro\">www.javaday.ro</a></p> <p>Register at [masked].\u00a0</p> <p>Java Day is an unique event, designed for technical team leads, architects, engineering directors, and project managers who influence innovation in their teams, and takes place every year in Cluj-Napoca, Timisoara, Iasi and Bucharest.</p> ",
         "end_time": null,
-        "link": "http://www.meetup.com/JavaDayRO/events/235079869/",
+        "link": "https://www.meetup.com/JavaDayRO/events/235079869/",
         "organizer": "Java Day",
         "start_time": "2016-11-18T08:45:00+02:00",
         "title": "Java Day Cluj-Napoca: Advanced Java 8 w. Richard Warburton",
@@ -425,7 +425,7 @@
     "meetup-JavaDayRO-235080254": {
         "description": "<p>Its a very exciting time. Some of the best ideas from functional programming are migrating their way into Java 8. This means easier to read, more flexible code that scales to multicore. This one day workshop is a hands-on lab session comprising slides, live coding and exercises which covers many important Java 8 topics. Java 8 is the latest release for Java that contains new atributtes, enhancements and bug fixes to improve efficiency to develop and run Java programs.<br/>This one day masterclass is a hands-on lab session comprising slides, live coding and exercises which covers many important Java 8 topics.<br/>LAMBDA EXPRESSIONS</p> <p>BEHAVIOUR PARAMETERISATION<br/>LAMBDA METHOD<br/>REFERENCES<br/>STREAMS</p> <p>COLLECTION PROCESSING STREAM<br/>OPERATIONS AND PATTERNS<br/>STREAM OPTIMIZATION<br/>COLLECTORS</p> <p>COLLECTION OPERATIONS<br/>ARITHMETIC COLLECTORS<br/>ADVANCED QUERIES<br/>Requirements: Participants will need to bring their laptops with Java 8 set up and a suitable IDE to go through the practicals!</p> ",
         "end_time": null,
-        "link": "http://www.meetup.com/JavaDayRO/events/235080254/",
+        "link": "https://www.meetup.com/JavaDayRO/events/235080254/",
         "organizer": "Java Day",
         "start_time": "2016-11-28T09:00:00+02:00",
         "title": "Java 8 in action with Raoul \u2013 Gabriel Urma. The masterclass for Java Developers",
@@ -434,16 +434,16 @@
     "meetup-OWASP-Cluj-Napoca-Security-Meetup-235350059": {
         "description": "<p><img src=\"http://photos4.meetupstatic.com/photos/event/b/d/a/6/600_455748550.jpeg\" /></p> <p>This meetup will feature 2 parallel tracks, one for security enthusiasts that want to extend their knowledge on Pentesting a mobile application and one for managers and others such professionals who want to learn how important integrating security into their software development process is and how it can benefit their business.<br/>So, feel free to tell your colleagues about this event and bring them with you if you\u2019d like.</p> <p>This event is powered by Evozon.</p> <p>When you RSVP please choose the track you will attend:\u00a0<a href=\"http://bit.ly/2elo63B\" class=\"linkified\">http://bit.ly/2elo63B</a>\u00a0</p> ",
         "end_time": null,
-        "link": "http://www.meetup.com/OWASP-Cluj-Napoca-Security-Meetup/events/235350059/",
+        "link": "https://www.meetup.com/OWASP-Cluj-Napoca-Security-Meetup/events/235350059/",
         "organizer": "OWASP Cluj-Napoca Security Meetup",
         "start_time": "2016-11-24T18:00:00+02:00",
         "title": "OWASP Cluj #11 members meeting",
         "venue": "Evozon Systems: Calea Mo\u021bilor 62, 400370, Cluj-Napoca"
     },
     "meetup-PMI-Romania-Cluj-Napoca-Project-Management-Meetup-Group-235436606": {
-        "description": "<p>PMI Romania Chapter has the pleasure of inviting you to a new Meetup in Cluj, on November 14th 2016 as part of Cluj Technology Festival (<a href=\"http://techfest.ro\" class=\"linkified\">http://techfest.ro</a>) and hosted by Endava.</p> <p>\n\n\nMeeting Topic: Scaling Agile for Complex Projects</p> <p><br/>Agenda:</p> <p>18:15 \u2013 18:45 \u00a0 Registration / Snacks / Networking</p> <p>18:45 \u2013 19:15 \u00a0 Performance management in Agile Environments \u2013 Trends and Ideas + Q&amp;A \u2013 Razvan Voica,\u200b Managing Partner at Scoala Informala de IT</p> <p>19:15 \u2013 19:30 \u00a0Snacks / Networking</p> <p>19:30 \u2013 20:00 \u00a0 Scaling Agile for Complex Projects\u2013 \u00a0Cristina Has, Product Manager at Wolters Kluwer Financial</p> <p>20:00 - 20:30 \u00a0Open discussion on Agile - Moderated by Cristina Has,\u00a0Product Manager at Wolters Kluwer Financial</p> <p>\n\n\nSpeakers:</p> <p>- Razvan Voica: 17 years of experience in IT with a strong HR background. Specialist in Leadership Development, Coaching, IT Recruitment, Organisational Development</p> <p>- Cristina Has, PMP \u2013 over 6 years\u2019 experience managing products, projects, programs and portfolios</p> <p><br/>Please register <a href=\"https://www.eventbrite.com/e/pmi-meetup-in-cluj-scaling-agile-part-of-cluj-techfest-hosted-by-endava-tickets-29247179100\">here</a> (only confirmed registrations will be considered).</p> <p><br/>Looking forward to having you with us!</p> ",
+        "description": "<p>PMI Romania Chapter has the pleasure of inviting you to a new Meetup in Cluj, on November 14th 2016 as part of Cluj Technology Festival (<a href=\"http://techfest.ro\" class=\"linkified\">http://techfest.ro</a>) and hosted by Endava.</p> <p>\n\n\nMeeting Topic: Scaling Agile for Complex Projects</p> <p><br/>Agenda:</p> <p>18:15 \u2013 18:45 \u00a0 Registration / Snacks / Networking</p> <p>18:45 \u2013 19:15 \u00a0 Performance management in Agile Environments \u2013 Trends and Ideas + Q&amp;A \u2013 Razvan Voica,\u200b Managing Partner at Scoala Informala de IT</p> <p>19:15 \u2013 19:30 \u00a0Snacks / Networking</p> <p>19:30 \u2013 20:00 \u00a0 Scaling Agile for Complex Projects\u2013 \u00a0Cristina Has, Product Manager at Wolters Kluwer Financial</p> <p>20:00 - 20:30 \u00a0Open discussion on Agile - Moderated by Cristina Has,\u00a0Product Manager at Wolters Kluwer Financial</p> <p>\n\n\nSpeakers:</p> <p>- Razvan Voica: 17 years of experience in IT with a strong HR background. Specialist in Leadership Development, Coaching, IT Recruitment, Organisational Development</p> <p>- Cristina Has, PMP \u2013 over 6 years\u2019 experience managing products, projects, programs and portfolios</p> <p><br/>Please register <a href=\"https://www.eventbrite.com/e/pmi-meetup-in-cluj-scaling-agile-part-of-cluj-techfest-hosted-by-endava-tickets-29247179100\">here on Eventbrite</a>\u00a0(only confirmed registrations will be considered).</p> <p><br/>Looking forward to having you with us!</p> ",
         "end_time": null,
-        "link": "http://www.meetup.com/PMI-Romania-Cluj-Napoca-Project-Management-Meetup-Group/events/235436606/",
+        "link": "https://www.meetup.com/PMI-Romania-Cluj-Napoca-Project-Management-Meetup-Group/events/235436606/",
         "organizer": "PMI Romania: Cluj Branch",
         "start_time": "2016-11-14T18:15:00+02:00",
         "title": "PMI Meetup in Cluj, \"Scaling Agile\" - hosted by Endava, Part of Cluj TechFest",
@@ -452,7 +452,7 @@
     "meetup-Product-Camp-Bucharest-Meetup-234351237": {
         "description": "<p>Hello Product Campers,</p> <p>This is the invitation to our Product Camp Bucharest - November Edition.</p> <p><b>Tudor Marciu</b> will talk about \"<b><i>Less talk, more chat - A Guide to Making Customer Chat into Your Most Efficient Employee</i></b>\".</p> <p><i>\"In this presentation we have a look at Customer Support strategies for both startups and larger organizations, with a focus on chat. We talk about improving customer satisfaction, engagement and efficiency by leveraging the transactional nature of chat and some specialized tools.\"</i></p> ",
         "end_time": null,
-        "link": "http://www.meetup.com/Product-Camp-Bucharest-Meetup/events/234351237/",
+        "link": "https://www.meetup.com/Product-Camp-Bucharest-Meetup/events/234351237/",
         "organizer": "Product Camp Bucharest Meetup",
         "start_time": "2016-11-14T18:45:00+02:00",
         "title": "Product Camp Bucharest - November Edition \"Less Talk, More Chat\" by Tudor Marciu",
@@ -461,7 +461,7 @@
     "meetup-Tabara-de-Testare-Cluj-234636758": {
         "description": "<p>Hello everyone,</p> <p>This meetup will be held as part of\u00a0<a href=\"http://cluj.codecamp.ro/\">Codecamp Cluj-Napoca</a>. For attending this workshop, you need to <a href=\"http://cluj.codecamp.ro/#register\">register</a> for the conference and RSVP this meetup as there are limited seats.\u00a0</p> <p><br/><b>Here's what you will learn:</b></p> <p>Application tours are very useful in testing, but not many try them out. They definitely should be on your \u201cto learn\u201d list. We propose you a workshop with hands-on touring exercises. You will learn a few possible tours and try them out by yourselves. Then, we\u2019ll do a debrief to discuss what you\u2019ve learned, what the challenges are and how you can apply it in your projects.</p> <p>You will learn how to do an application tour, which is a handy testing technique. Remember, <b>tours are testing in learning mode</b>, so you will be testing to learn.</p> <p><b>What you will need:</b></p> <p>Please bring a laptop or any device with <a href=\"https://slack.com/\">Slack</a> installed on it and an open mind :)</p> ",
         "end_time": null,
-        "link": "http://www.meetup.com/Tabara-de-Testare-Cluj/events/234636758/",
+        "link": "https://www.meetup.com/Tabara-de-Testare-Cluj/events/234636758/",
         "organizer": "Tabara de Testare Cluj",
         "start_time": "2016-11-19T10:00:00+02:00",
         "title": "Testing Tours - Exploratory Learning @Codecamp Cluj",
@@ -470,7 +470,7 @@
     "meetup-Tabara-de-Testare-Timisoara-mktmflyvqbtb": {
         "description": "<p>\u00a0Revenim cu detalii in curand :)</p> <p>===========================================</p> <p>Mai jos e lista cu propunerile pe urmatorul an:</p> <p>- Training SQL - Nivel Mediu (recapitulare nivel Basic, la inceput)</p> <p>- Time and Risk Management</p> <p>- Comunicare - colegi, dev/tester</p> <p>* Biblioteca cu informatii utile:</p> <p>- certificari, carti, linkuri (recomandare:\u00a0<a href=\"http://testhuddle.com/\" class=\"linkified\">http://testhuddle.com/</a>)</p> <p>- Technical movie nights: Pluralsight, Coursera</p> <p>- UFT (QTP), Selenium WebDriver, TFS, SoapUI (basic training)</p> <p>* Co-interesare: traininguri, conferinte, certificari</p> <p>- Prezentari si workshop-uri \"Eu am mai facut si vreau sa ajut\"</p> <p>- Prezentation Skills (Moderator Surpriza)</p> <p>- .Net, Java, Html, CSS, Notiuni de OOP, etc - Basic -&gt; Intermediate</p> <p>- Prezentari cu traineri certificati</p> <p>- Add fun stuff</p> <p>-\u00a0Database performance testing</p> <p>-\u00a0implementarea unor design patterns in testarea automata (in afara de Page Objects)</p> <p>-\u00a0Cum tot mai multi lucreaza in Agile, poate ar fi interesanta prezentarea unui mediu de continuos integration (principii, cum se lucreaza cu el si ce se poate face) din perspectiva testarii.\u00a0- Done - la editia aniversara de 3 ani.</p> ",
         "end_time": null,
-        "link": "http://www.meetup.com/Tabara-de-Testare-Timisoara/events/234943878/",
+        "link": "https://www.meetup.com/Tabara-de-Testare-Timisoara/events/234943878/",
         "organizer": "Tabara de Testare Timisoara",
         "start_time": "2016-12-08T18:00:00+02:00",
         "title": "TM 51 TDT - Editie aniversara!!! Facem 5 anisori :)",
@@ -479,7 +479,7 @@
     "meetup-Tabara-de-Testare-Timisoara-mktmflywcbzb": {
         "description": "<p>\u00a0</p> <p>===========================================</p> <p>Mai jos e lista cu propunerile pe urmatorul an:</p> <p>- Training SQL - Nivel Mediu (recapitulare nivel Basic, la inceput)</p> <p>- Time and Risk Management</p> <p>- Comunicare - colegi, dev/tester</p> <p>* Biblioteca cu informatii utile:</p> <p>- certificari, carti, linkuri (recomandare:\u00a0<a href=\"http://testhuddle.com/\" class=\"linkified\">http://testhuddle.com/</a>)</p> <p>- Technical movie nights: Pluralsight, Coursera</p> <p>- UFT (QTP), Selenium WebDriver, TFS, SoapUI (basic training)</p> <p>* Co-interesare: traininguri, conferinte, certificari</p> <p>- Prezentari si workshop-uri \"Eu am mai facut si vreau sa ajut\"</p> <p>- Prezentation Skills (Moderator Surpriza)</p> <p>- .Net, Java, Html, CSS, Notiuni de OOP, etc - Basic -&gt; Intermediate</p> <p>- Prezentari cu traineri certificati</p> <p>- Add fun stuff</p> <p>-\u00a0Database performance testing</p> <p>-\u00a0implementarea unor design patterns in testarea automata (in afara de Page Objects)</p> <p>-\u00a0Cum tot mai multi lucreaza in Agile, poate ar fi interesanta prezentarea unui mediu de continuos integration (principii, cum se lucreaza cu el si ce se poate face) din perspectiva testarii.\u00a0- Done - la editia aniversara de 3 ani.</p> <p>\u00a0</p> ",
         "end_time": null,
-        "link": "http://www.meetup.com/Tabara-de-Testare-Timisoara/events/mktmflywcbzb/",
+        "link": "https://www.meetup.com/Tabara-de-Testare-Timisoara/events/mktmflywcbzb/",
         "organizer": "Tabara de Testare Timisoara",
         "start_time": "2017-01-19T18:30:00+02:00",
         "title": "Tabara de Testare Timisoara - Meetup #30",
@@ -488,7 +488,7 @@
     "meetup-Tabara-de-Testare-Timisoara-mktmflywdbvb": {
         "description": "<p>\u00a0</p> <p>===========================================</p> <p>Mai jos e lista cu propunerile pe urmatorul an:</p> <p>- Training SQL - Nivel Mediu (recapitulare nivel Basic, la inceput)</p> <p>- Time and Risk Management</p> <p>- Comunicare - colegi, dev/tester</p> <p>* Biblioteca cu informatii utile:</p> <p>- certificari, carti, linkuri (recomandare:\u00a0<a href=\"http://testhuddle.com/\" class=\"linkified\">http://testhuddle.com/</a>)</p> <p>- Technical movie nights: Pluralsight, Coursera</p> <p>- UFT (QTP), Selenium WebDriver, TFS, SoapUI (basic training)</p> <p>* Co-interesare: traininguri, conferinte, certificari</p> <p>- Prezentari si workshop-uri \"Eu am mai facut si vreau sa ajut\"</p> <p>- Prezentation Skills (Moderator Surpriza)</p> <p>- .Net, Java, Html, CSS, Notiuni de OOP, etc - Basic -&gt; Intermediate</p> <p>- Prezentari cu traineri certificati</p> <p>- Add fun stuff</p> <p>-\u00a0Database performance testing</p> <p>-\u00a0implementarea unor design patterns in testarea automata (in afara de Page Objects)</p> <p>-\u00a0Cum tot mai multi lucreaza in Agile, poate ar fi interesanta prezentarea unui mediu de continuos integration (principii, cum se lucreaza cu el si ce se poate face) din perspectiva testarii.\u00a0- Done - la editia aniversara de 3 ani.</p> <p>\u00a0</p> ",
         "end_time": null,
-        "link": "http://www.meetup.com/Tabara-de-Testare-Timisoara/events/mktmflywdbvb/",
+        "link": "https://www.meetup.com/Tabara-de-Testare-Timisoara/events/mktmflywdbvb/",
         "organizer": "Tabara de Testare Timisoara",
         "start_time": "2017-02-16T18:30:00+02:00",
         "title": "Tabara de Testare Timisoara - Meetup #30",
@@ -497,7 +497,7 @@
     "meetup-Tabara-de-Testare-Timisoara-mktmflywfbvb": {
         "description": "<p>\u00a0</p> <p>===========================================</p> <p>Mai jos e lista cu propunerile pe urmatorul an:</p> <p>- Training SQL - Nivel Mediu (recapitulare nivel Basic, la inceput)</p> <p>- Time and Risk Management</p> <p>- Comunicare - colegi, dev/tester</p> <p>* Biblioteca cu informatii utile:</p> <p>- certificari, carti, linkuri (recomandare:\u00a0<a href=\"http://testhuddle.com/\" class=\"linkified\">http://testhuddle.com/</a>)</p> <p>- Technical movie nights: Pluralsight, Coursera</p> <p>- UFT (QTP), Selenium WebDriver, TFS, SoapUI (basic training)</p> <p>* Co-interesare: traininguri, conferinte, certificari</p> <p>- Prezentari si workshop-uri \"Eu am mai facut si vreau sa ajut\"</p> <p>- Prezentation Skills (Moderator Surpriza)</p> <p>- .Net, Java, Html, CSS, Notiuni de OOP, etc - Basic -&gt; Intermediate</p> <p>- Prezentari cu traineri certificati</p> <p>- Add fun stuff</p> <p>-\u00a0Database performance testing</p> <p>-\u00a0implementarea unor design patterns in testarea automata (in afara de Page Objects)</p> <p>-\u00a0Cum tot mai multi lucreaza in Agile, poate ar fi interesanta prezentarea unui mediu de continuos integration (principii, cum se lucreaza cu el si ce se poate face) din perspectiva testarii.\u00a0- Done - la editia aniversara de 3 ani.</p> <p>\u00a0</p> ",
         "end_time": null,
-        "link": "http://www.meetup.com/Tabara-de-Testare-Timisoara/events/mktmflywfbvb/",
+        "link": "https://www.meetup.com/Tabara-de-Testare-Timisoara/events/mktmflywfbvb/",
         "organizer": "Tabara de Testare Timisoara",
         "start_time": "2017-03-16T18:30:00+02:00",
         "title": "Tabara de Testare Timisoara - Meetup #30",
@@ -506,7 +506,7 @@
     "meetup-Tabara-de-Testare-Timisoara-mktmflywgbbc": {
         "description": "<p>\u00a0</p> <p>===========================================</p> <p>Mai jos e lista cu propunerile pe urmatorul an:</p> <p>- Training SQL - Nivel Mediu (recapitulare nivel Basic, la inceput)</p> <p>- Time and Risk Management</p> <p>- Comunicare - colegi, dev/tester</p> <p>* Biblioteca cu informatii utile:</p> <p>- certificari, carti, linkuri (recomandare:\u00a0<a href=\"http://testhuddle.com/\" class=\"linkified\">http://testhuddle.com/</a>)</p> <p>- Technical movie nights: Pluralsight, Coursera</p> <p>- UFT (QTP), Selenium WebDriver, TFS, SoapUI (basic training)</p> <p>* Co-interesare: traininguri, conferinte, certificari</p> <p>- Prezentari si workshop-uri \"Eu am mai facut si vreau sa ajut\"</p> <p>- Prezentation Skills (Moderator Surpriza)</p> <p>- .Net, Java, Html, CSS, Notiuni de OOP, etc - Basic -&gt; Intermediate</p> <p>- Prezentari cu traineri certificati</p> <p>- Add fun stuff</p> <p>-\u00a0Database performance testing</p> <p>-\u00a0implementarea unor design patterns in testarea automata (in afara de Page Objects)</p> <p>-\u00a0Cum tot mai multi lucreaza in Agile, poate ar fi interesanta prezentarea unui mediu de continuos integration (principii, cum se lucreaza cu el si ce se poate face) din perspectiva testarii.\u00a0- Done - la editia aniversara de 3 ani.</p> <p>\u00a0</p> ",
         "end_time": null,
-        "link": "http://www.meetup.com/Tabara-de-Testare-Timisoara/events/mktmflywgbbc/",
+        "link": "https://www.meetup.com/Tabara-de-Testare-Timisoara/events/mktmflywgbbc/",
         "organizer": "Tabara de Testare Timisoara",
         "start_time": "2017-04-20T18:30:00+03:00",
         "title": "Tabara de Testare Timisoara - Meetup #30",
@@ -515,7 +515,7 @@
     "meetup-Tabara-de-Testare-Timisoara-mktmflywhbxb": {
         "description": "<p>\u00a0</p> <p>===========================================</p> <p>Mai jos e lista cu propunerile pe urmatorul an:</p> <p>- Training SQL - Nivel Mediu (recapitulare nivel Basic, la inceput)</p> <p>- Time and Risk Management</p> <p>- Comunicare - colegi, dev/tester</p> <p>* Biblioteca cu informatii utile:</p> <p>- certificari, carti, linkuri (recomandare:\u00a0<a href=\"http://testhuddle.com/\" class=\"linkified\">http://testhuddle.com/</a>)</p> <p>- Technical movie nights: Pluralsight, Coursera</p> <p>- UFT (QTP), Selenium WebDriver, TFS, SoapUI (basic training)</p> <p>* Co-interesare: traininguri, conferinte, certificari</p> <p>- Prezentari si workshop-uri \"Eu am mai facut si vreau sa ajut\"</p> <p>- Prezentation Skills (Moderator Surpriza)</p> <p>- .Net, Java, Html, CSS, Notiuni de OOP, etc - Basic -&gt; Intermediate</p> <p>- Prezentari cu traineri certificati</p> <p>- Add fun stuff</p> <p>-\u00a0Database performance testing</p> <p>-\u00a0implementarea unor design patterns in testarea automata (in afara de Page Objects)</p> <p>-\u00a0Cum tot mai multi lucreaza in Agile, poate ar fi interesanta prezentarea unui mediu de continuos integration (principii, cum se lucreaza cu el si ce se poate face) din perspectiva testarii.\u00a0- Done - la editia aniversara de 3 ani.</p> <p>\u00a0</p> ",
         "end_time": null,
-        "link": "http://www.meetup.com/Tabara-de-Testare-Timisoara/events/mktmflywhbxb/",
+        "link": "https://www.meetup.com/Tabara-de-Testare-Timisoara/events/mktmflywhbxb/",
         "organizer": "Tabara de Testare Timisoara",
         "start_time": "2017-05-18T18:30:00+03:00",
         "title": "Tabara de Testare Timisoara - Meetup #30",
@@ -524,7 +524,7 @@
     "meetup-Tabara-de-Testare-Timisoara-mktmflywjbtb": {
         "description": "<p>\u00a0</p> <p>===========================================</p> <p>Mai jos e lista cu propunerile pe urmatorul an:</p> <p>- Training SQL - Nivel Mediu (recapitulare nivel Basic, la inceput)</p> <p>- Time and Risk Management</p> <p>- Comunicare - colegi, dev/tester</p> <p>* Biblioteca cu informatii utile:</p> <p>- certificari, carti, linkuri (recomandare:\u00a0<a href=\"http://testhuddle.com/\" class=\"linkified\">http://testhuddle.com/</a>)</p> <p>- Technical movie nights: Pluralsight, Coursera</p> <p>- UFT (QTP), Selenium WebDriver, TFS, SoapUI (basic training)</p> <p>* Co-interesare: traininguri, conferinte, certificari</p> <p>- Prezentari si workshop-uri \"Eu am mai facut si vreau sa ajut\"</p> <p>- Prezentation Skills (Moderator Surpriza)</p> <p>- .Net, Java, Html, CSS, Notiuni de OOP, etc - Basic -&gt; Intermediate</p> <p>- Prezentari cu traineri certificati</p> <p>- Add fun stuff</p> <p>-\u00a0Database performance testing</p> <p>-\u00a0implementarea unor design patterns in testarea automata (in afara de Page Objects)</p> <p>-\u00a0Cum tot mai multi lucreaza in Agile, poate ar fi interesanta prezentarea unui mediu de continuos integration (principii, cum se lucreaza cu el si ce se poate face) din perspectiva testarii.\u00a0- Done - la editia aniversara de 3 ani.</p> <p>\u00a0</p> ",
         "end_time": null,
-        "link": "http://www.meetup.com/Tabara-de-Testare-Timisoara/events/mktmflywjbtb/",
+        "link": "https://www.meetup.com/Tabara-de-Testare-Timisoara/events/mktmflywjbtb/",
         "organizer": "Tabara de Testare Timisoara",
         "start_time": "2017-06-15T18:30:00+03:00",
         "title": "Tabara de Testare Timisoara - Meetup #30",
@@ -533,7 +533,7 @@
     "meetup-Tabara-de-Testare-Timisoara-mktmflywkbbc": {
         "description": "<p>\u00a0</p> <p>===========================================</p> <p>Mai jos e lista cu propunerile pe urmatorul an:</p> <p>- Training SQL - Nivel Mediu (recapitulare nivel Basic, la inceput)</p> <p>- Time and Risk Management</p> <p>- Comunicare - colegi, dev/tester</p> <p>* Biblioteca cu informatii utile:</p> <p>- certificari, carti, linkuri (recomandare:\u00a0<a href=\"http://testhuddle.com/\" class=\"linkified\">http://testhuddle.com/</a>)</p> <p>- Technical movie nights: Pluralsight, Coursera</p> <p>- UFT (QTP), Selenium WebDriver, TFS, SoapUI (basic training)</p> <p>* Co-interesare: traininguri, conferinte, certificari</p> <p>- Prezentari si workshop-uri \"Eu am mai facut si vreau sa ajut\"</p> <p>- Prezentation Skills (Moderator Surpriza)</p> <p>- .Net, Java, Html, CSS, Notiuni de OOP, etc - Basic -&gt; Intermediate</p> <p>- Prezentari cu traineri certificati</p> <p>- Add fun stuff</p> <p>-\u00a0Database performance testing</p> <p>-\u00a0implementarea unor design patterns in testarea automata (in afara de Page Objects)</p> <p>-\u00a0Cum tot mai multi lucreaza in Agile, poate ar fi interesanta prezentarea unui mediu de continuos integration (principii, cum se lucreaza cu el si ce se poate face) din perspectiva testarii.\u00a0- Done - la editia aniversara de 3 ani.</p> <p>\u00a0</p> ",
         "end_time": null,
-        "link": "http://www.meetup.com/Tabara-de-Testare-Timisoara/events/mktmflywkbbc/",
+        "link": "https://www.meetup.com/Tabara-de-Testare-Timisoara/events/mktmflywkbbc/",
         "organizer": "Tabara de Testare Timisoara",
         "start_time": "2017-07-20T18:30:00+03:00",
         "title": "Tabara de Testare Timisoara - Meetup #30",
@@ -542,7 +542,7 @@
     "meetup-Tabara-de-Testare-Timisoara-mktmflywlbwb": {
         "description": "<p>\u00a0</p> <p>===========================================</p> <p>Mai jos e lista cu propunerile pe urmatorul an:</p> <p>- Training SQL - Nivel Mediu (recapitulare nivel Basic, la inceput)</p> <p>- Time and Risk Management</p> <p>- Comunicare - colegi, dev/tester</p> <p>* Biblioteca cu informatii utile:</p> <p>- certificari, carti, linkuri (recomandare:\u00a0<a href=\"http://testhuddle.com/\" class=\"linkified\">http://testhuddle.com/</a>)</p> <p>- Technical movie nights: Pluralsight, Coursera</p> <p>- UFT (QTP), Selenium WebDriver, TFS, SoapUI (basic training)</p> <p>* Co-interesare: traininguri, conferinte, certificari</p> <p>- Prezentari si workshop-uri \"Eu am mai facut si vreau sa ajut\"</p> <p>- Prezentation Skills (Moderator Surpriza)</p> <p>- .Net, Java, Html, CSS, Notiuni de OOP, etc - Basic -&gt; Intermediate</p> <p>- Prezentari cu traineri certificati</p> <p>- Add fun stuff</p> <p>-\u00a0Database performance testing</p> <p>-\u00a0implementarea unor design patterns in testarea automata (in afara de Page Objects)</p> <p>-\u00a0Cum tot mai multi lucreaza in Agile, poate ar fi interesanta prezentarea unui mediu de continuos integration (principii, cum se lucreaza cu el si ce se poate face) din perspectiva testarii.\u00a0- Done - la editia aniversara de 3 ani.</p> <p>\u00a0</p> ",
         "end_time": null,
-        "link": "http://www.meetup.com/Tabara-de-Testare-Timisoara/events/mktmflywlbwb/",
+        "link": "https://www.meetup.com/Tabara-de-Testare-Timisoara/events/mktmflywlbwb/",
         "organizer": "Tabara de Testare Timisoara",
         "start_time": "2017-08-17T18:30:00+03:00",
         "title": "Tabara de Testare Timisoara - Meetup #30",
@@ -551,7 +551,7 @@
     "meetup-Tabara-de-Testare-Timisoara-mktmflywmbcc": {
         "description": "<p>\u00a0</p> <p>===========================================</p> <p>Mai jos e lista cu propunerile pe urmatorul an:</p> <p>- Training SQL - Nivel Mediu (recapitulare nivel Basic, la inceput)</p> <p>- Time and Risk Management</p> <p>- Comunicare - colegi, dev/tester</p> <p>* Biblioteca cu informatii utile:</p> <p>- certificari, carti, linkuri (recomandare:\u00a0<a href=\"http://testhuddle.com/\" class=\"linkified\">http://testhuddle.com/</a>)</p> <p>- Technical movie nights: Pluralsight, Coursera</p> <p>- UFT (QTP), Selenium WebDriver, TFS, SoapUI (basic training)</p> <p>* Co-interesare: traininguri, conferinte, certificari</p> <p>- Prezentari si workshop-uri \"Eu am mai facut si vreau sa ajut\"</p> <p>- Prezentation Skills (Moderator Surpriza)</p> <p>- .Net, Java, Html, CSS, Notiuni de OOP, etc - Basic -&gt; Intermediate</p> <p>- Prezentari cu traineri certificati</p> <p>- Add fun stuff</p> <p>-\u00a0Database performance testing</p> <p>-\u00a0implementarea unor design patterns in testarea automata (in afara de Page Objects)</p> <p>-\u00a0Cum tot mai multi lucreaza in Agile, poate ar fi interesanta prezentarea unui mediu de continuos integration (principii, cum se lucreaza cu el si ce se poate face) din perspectiva testarii.\u00a0- Done - la editia aniversara de 3 ani.</p> <p>\u00a0</p> ",
         "end_time": null,
-        "link": "http://www.meetup.com/Tabara-de-Testare-Timisoara/events/mktmflywmbcc/",
+        "link": "https://www.meetup.com/Tabara-de-Testare-Timisoara/events/mktmflywmbcc/",
         "organizer": "Tabara de Testare Timisoara",
         "start_time": "2017-09-21T18:30:00+03:00",
         "title": "Tabara de Testare Timisoara - Meetup #30",
@@ -560,7 +560,7 @@
     "meetup-Tabara-de-Testare-Timisoara-mktmflywnbzb": {
         "description": "<p>\u00a0</p> <p>===========================================</p> <p>Mai jos e lista cu propunerile pe urmatorul an:</p> <p>- Training SQL - Nivel Mediu (recapitulare nivel Basic, la inceput)</p> <p>- Time and Risk Management</p> <p>- Comunicare - colegi, dev/tester</p> <p>* Biblioteca cu informatii utile:</p> <p>- certificari, carti, linkuri (recomandare:\u00a0<a href=\"http://testhuddle.com/\" class=\"linkified\">http://testhuddle.com/</a>)</p> <p>- Technical movie nights: Pluralsight, Coursera</p> <p>- UFT (QTP), Selenium WebDriver, TFS, SoapUI (basic training)</p> <p>* Co-interesare: traininguri, conferinte, certificari</p> <p>- Prezentari si workshop-uri \"Eu am mai facut si vreau sa ajut\"</p> <p>- Prezentation Skills (Moderator Surpriza)</p> <p>- .Net, Java, Html, CSS, Notiuni de OOP, etc - Basic -&gt; Intermediate</p> <p>- Prezentari cu traineri certificati</p> <p>- Add fun stuff</p> <p>-\u00a0Database performance testing</p> <p>-\u00a0implementarea unor design patterns in testarea automata (in afara de Page Objects)</p> <p>-\u00a0Cum tot mai multi lucreaza in Agile, poate ar fi interesanta prezentarea unui mediu de continuos integration (principii, cum se lucreaza cu el si ce se poate face) din perspectiva testarii.\u00a0- Done - la editia aniversara de 3 ani.</p> <p>\u00a0</p> ",
         "end_time": null,
-        "link": "http://www.meetup.com/Tabara-de-Testare-Timisoara/events/mktmflywnbzb/",
+        "link": "https://www.meetup.com/Tabara-de-Testare-Timisoara/events/mktmflywnbzb/",
         "organizer": "Tabara de Testare Timisoara",
         "start_time": "2017-10-19T18:30:00+03:00",
         "title": "Tabara de Testare Timisoara - Meetup #30",
@@ -569,7 +569,7 @@
     "meetup-Tech-Makers-Designers-235324506": {
         "description": "<p>Dragi Techies,\u00a0</p> <p>\u00cen calitate de membri ai comunit\u0103\u021bii Tech Academy, v\u0103 invit\u0103m s\u0103 participa\u021bi <b>gratuit</b> la <a href=\"http://techfest.ro/festival-events/transylvania-megahack/\">Transylvania MegaHack</a>, eveniment cu care debuteaz\u0103 festivalul tehnologic <a href=\"http://techfest.ro/\">Cluj TechFest</a> vineri, pe 11 noiembrie.\u00a0</p> <p>MegaHack din cadrul TechFest este un eveniment dedicat programatorilor \u0219i echipelor de programatori care vor r\u0103spunde unor provoc\u0103ri lansate de diverse companii, provoc\u0103ri reale cu care acestea se confrunt\u0103 \u0219i pentru care caut\u0103 cele mai bune solu\u021bii.\u00a0</p> <p>Alege-\u021bi provocarea, \u00eenscrie-\u021bi echipa \u0219i pute\u021bi c\u00e2\u0219tiga unul dintre premiile care au o valoare total\u0103 de 10,000 EUR. Pentru c\u0103 faci parte din comunitatea TechAcademy beneficiezi de \u00eenscriere gratuit\u0103.\u00a0</p> <p>Folose\u0219te codul <b>TECHACADEMYFRIENDS</b> \u0219i \u00eenscrie-te acum: <a href=\"http://techfest.ro/register-for-access/\" class=\"linkified\">http://techfest.ro/register-for-access/</a>\u00a0</p> <p><a href=\"http://www.cds.ro/\">CDS</a>, <a href=\"http://www.onyxbeacon.com/\">Onyx Beacon</a>, Braintronix, Security4Things \u0219i <a href=\"https://www.vectorwatch.com/\">Vector Watch</a> au preg\u0103tit provoc\u0103ri pentru tine. Detalii despre ele, formularul de \u00eenregistrare dar \u0219i despre restul challenge-urilor g\u0103se\u0219ti pe pagina <a href=\"http://techfest.ro/festival-events/transylvania-megahack/\">Transylvania MegaHack</a>.</p> <p>_____________________________________________________________________</p> <p><br/><b>AGENDA:\u00a0</b></p> <p><b>Ziua 1, vineri, 11 noiembrie</b></p> <p>16:00 - 17:00 - \u00cenregistrarea participan\u021bilor</p> <p>17:00 - 18:00 - Indroducere / Cuv\u00e2nt \u00eenainte al d-lui primar Emil Boc / Prezentarea partenerilor</p> <p>18:00 - 18:20- Programul evenimentului / Briefing-ul challenge-urilor / Formarea echipelor</p> <p>18:20-18:30 / Preg\u0103ti\u021bi s\u0103 \u00eencepem? \u201cEngage!\u201d</p> <p>18:30 - 20:00 - Hacking</p> <p>20:00 - 21:00 - Pauz\u0103 de pizza (din partea casei)</p> <p>No sleep required. Sleep is overrated anyway.</p> <p><b>Ziua 2, s\u00e2mb\u0103t\u0103, 12 noiembrie</b></p> <p>09:00 - 10:00 - Cafea \u0219i snaks-uri (din partea casei)</p> <p>10:00 - 18:00 - Mai mult hacking</p> <p>Echipele pot lua pauz\u0103 de mas\u0103 oric\u00e2nd doresc (masa de pr\u00e2nz nu este inclus\u0103 dar v\u0103 oferim vouchere de reduceri la Food Court)</p> <p>18:00 - 19:00 - Pauz\u0103 de pizza (din partea casei)</p> <p>Sleep is for the weak and weaklings don\u2019t make it through the Long Winter!</p> <p><b>Ziua 3, duminic\u0103, 13 noiembrie</b></p> <p>09:00 - 10:00 - Cafea \u0219i snaks-uri (din partea casei)</p> <p>10:00 - 14:00 - \u0218i mai mult hacking</p> <p>Echipele pot lua pauz\u0103 de mas\u0103 oric\u00e2nd doresc (masa de pr\u00e2nz nu este inclus\u0103 dar v\u0103 oferim vouchere de reduceri la Food Court) 15:00 - 17:15 - Pauz\u0103</p> <p>17:15 - 19:00 - Sesiune de pitching</p> <p>19:00 - 19:30 - Festivitatea de premiere</p> <p>_____________________________________________________________________</p> <p>\u00censcrie-te GRATUIT acum: <a href=\"http://techfest.ro/register-for-access/\" class=\"linkified\">http://techfest.ro/register-for-access/</a></p> <p>Competi\u021biile de tip hackathon presupun \u00eencercarea lucrurilor noi, experimentare \u0219i testarea de noi solu\u021bii.<br/>Te a\u0219tept\u0103m!</p> ",
         "end_time": null,
-        "link": "http://www.meetup.com/Embedded-IoT-Forum/events/235324506/",
+        "link": "https://www.meetup.com/Embedded-IoT-Forum/events/235324506/",
         "organizer": "Embedded & IoT Forum",
         "start_time": "2016-11-11T16:00:00+02:00",
         "title": "Transylvania MegaHack @ClujTechFest",
@@ -578,7 +578,7 @@
     "meetup-The-Bucharest-Agile-Software-Meetup-Group-228204649": {
         "description": "<p><i>Welcome to our newest Meetup within Agile Works community!\u00a0</i></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/2/3/f/b/600_455649211.jpeg\" /> <b>Scrum&amp;Wine</b> is a wine tasting &amp; networking event dedicated for the <b>Scrum Masters, Agile Coaches, Technical Leads and Developers out there.</b>\u00a0</p> <p><br/>We gather <b>to have a relaxing time, where we mix business and pleasure, to share experiences and stories, all of this accompanied by a glass of wine.\u00a0</b></p> <p><b>Topics proposed</b> for discussion are <b>leadership, mentoring, , coaching, agile stories, feedback and people growth.\u00a0</b></p> <p>First edition will take place on the <b>16th November (Wednesday), starting with 19:00. </b>The location is <b>Marvin Winebar</b>, see map here: <a href=\"https://goo.gl/maps/9mg3ZGeMCvJ2\"><a href=\"https://goo.gl/maps/9mg3ZGeMCvJ2\" class=\"linkified\">https://goo.gl/maps/9mg3ZGeMCvJ2</a></a> .\u00a0</p> <p>The <b>maximum number</b> of participants is <b>20 participants </b>due to selected venue. <b>Each participant will be responsible for paying for their own beverage.\u00a0</b></p> <p><b>IMPORTANT:</b> as soon as you know you can no longer attend the meeting please change your RSVP to NO immediately. Consider this gesture a sign of respect towards other members of this group who might want to attend in your place.</p> <p>Make sure you install Vivino - <a href=\"https://www.vivino.com/app/\" class=\"linkified\">https://www.vivino.com/app/</a></p> ",
         "end_time": null,
-        "link": "http://www.meetup.com/The-Bucharest-Agile-Software-Meetup-Group/events/228204649/",
+        "link": "https://www.meetup.com/The-Bucharest-Agile-Software-Meetup-Group/events/228204649/",
         "organizer": "The Bucharest Agile Software Meetup Group",
         "start_time": "2016-11-16T19:00:00+02:00",
         "title": "Scrum & Wine",
@@ -650,7 +650,7 @@
     "meetup-The-Human-Side-Group-Iasi-235427323": {
         "description": "<p>Entrepreneurship has become a hot topic nowadays and everyone seems to want a piece of it. Programs that sustain and accelerate startups, angel investors, crowdfunding websites and millions of articles and gurus that want to teach you how to grow your business stand witness to this madness.</p> <p>It's obvious that startups play a very important role in the world's economy. Even though many of them fail within their first year, the ones that survive create opportunities for innovation,\u00a0economical and social welfare and provide educational environments that nurture future companies who will shape and revolutionize industries.</p> <p>There is no surprise that our country falls behind other european countries, but I've always asked myself how is Iasi treating its entrepreneurs ? How many do we have here ? What are the\u00a0biggest problems they are facing ?And the most important question, who can I ask for guidance if I want to start a business?</p> <p>Let's talk about the problems that we can solve, so we can create a more friendly environment for startups.</p> <p>If you have someone in mind who started a business and you want to be present, just let me know and I'll do my best to get him or her.</p> ",
         "end_time": null,
-        "link": "http://www.meetup.com/The-Human-Side-Group-Iasi/events/235427323/",
+        "link": "https://www.meetup.com/The-Human-Side-Group-Iasi/events/235427323/",
         "organizer": "The Human Side Group Iasi",
         "start_time": "2016-11-18T18:30:00+02:00",
         "title": "Entrepreneurship in Iasi",
@@ -659,7 +659,7 @@
     "meetup-The-Timisoara-Agile-Software-Meetup-Group-qbkxlfyvqbjb": {
         "description": "<p>The program for this meetup will be published in the week preceding the event.</p> ",
         "end_time": null,
-        "link": "http://www.meetup.com/The-Timisoara-Agile-Software-Meetup-Group/events/234114983/",
+        "link": "https://www.meetup.com/The-Timisoara-Agile-Software-Meetup-Group/events/234114983/",
         "organizer": "The Timisoara Agile Software Meetup Group",
         "start_time": "2016-12-06T18:30:00+02:00",
         "title": "Timisoara Agile Software Meetup",
@@ -668,7 +668,7 @@
     "meetup-The-Timisoara-Agile-Software-Meetup-Group-qbkxlfywcbfb": {
         "description": "<p>The program for this meetup will be published in the week preceding the event.</p> ",
         "end_time": null,
-        "link": "http://www.meetup.com/The-Timisoara-Agile-Software-Meetup-Group/events/qbkxlfywcbfb/",
+        "link": "https://www.meetup.com/The-Timisoara-Agile-Software-Meetup-Group/events/qbkxlfywcbfb/",
         "organizer": "The Timisoara Agile Software Meetup Group",
         "start_time": "2017-01-03T18:30:00+02:00",
         "title": "Timisoara Agile Software Meetup",
@@ -677,7 +677,7 @@
     "meetup-The-Timisoara-Agile-Software-Meetup-Group-qbkxlfywdbkb": {
         "description": "<p>The program for this meetup will be published in the week preceding the event.</p> ",
         "end_time": null,
-        "link": "http://www.meetup.com/The-Timisoara-Agile-Software-Meetup-Group/events/qbkxlfywdbkb/",
+        "link": "https://www.meetup.com/The-Timisoara-Agile-Software-Meetup-Group/events/qbkxlfywdbkb/",
         "organizer": "The Timisoara Agile Software Meetup Group",
         "start_time": "2017-02-07T18:30:00+02:00",
         "title": "Timisoara Agile Software Meetup",
@@ -686,7 +686,7 @@
     "meetup-The-Timisoara-Agile-Software-Meetup-Group-qbkxlfywfbkb": {
         "description": "<p>The program for this meetup will be published in the week preceding the event.</p> ",
         "end_time": null,
-        "link": "http://www.meetup.com/The-Timisoara-Agile-Software-Meetup-Group/events/qbkxlfywfbkb/",
+        "link": "https://www.meetup.com/The-Timisoara-Agile-Software-Meetup-Group/events/qbkxlfywfbkb/",
         "organizer": "The Timisoara Agile Software Meetup Group",
         "start_time": "2017-03-07T18:30:00+02:00",
         "title": "Timisoara Agile Software Meetup",
@@ -695,7 +695,7 @@
     "meetup-The-Timisoara-Agile-Software-Meetup-Group-qbkxlfywgbgb": {
         "description": "<p>The program for this meetup will be published in the week preceding the event.</p> ",
         "end_time": null,
-        "link": "http://www.meetup.com/The-Timisoara-Agile-Software-Meetup-Group/events/qbkxlfywgbgb/",
+        "link": "https://www.meetup.com/The-Timisoara-Agile-Software-Meetup-Group/events/qbkxlfywgbgb/",
         "organizer": "The Timisoara Agile Software Meetup Group",
         "start_time": "2017-04-04T18:30:00+03:00",
         "title": "Timisoara Agile Software Meetup",
@@ -704,7 +704,7 @@
     "meetup-The-Timisoara-Agile-Software-Meetup-Group-qbkxlfywhbdb": {
         "description": "<p>The program for this meetup will be published in the week preceding the event.</p> ",
         "end_time": null,
-        "link": "http://www.meetup.com/The-Timisoara-Agile-Software-Meetup-Group/events/qbkxlfywhbdb/",
+        "link": "https://www.meetup.com/The-Timisoara-Agile-Software-Meetup-Group/events/qbkxlfywhbdb/",
         "organizer": "The Timisoara Agile Software Meetup Group",
         "start_time": "2017-05-02T18:30:00+03:00",
         "title": "Timisoara Agile Software Meetup",
@@ -713,7 +713,7 @@
     "meetup-The-Timisoara-Agile-Software-Meetup-Group-qbkxlfywjbjb": {
         "description": "<p>The program for this meetup will be published in the week preceding the event.</p> ",
         "end_time": null,
-        "link": "http://www.meetup.com/The-Timisoara-Agile-Software-Meetup-Group/events/qbkxlfywjbjb/",
+        "link": "https://www.meetup.com/The-Timisoara-Agile-Software-Meetup-Group/events/qbkxlfywjbjb/",
         "organizer": "The Timisoara Agile Software Meetup Group",
         "start_time": "2017-06-06T18:30:00+03:00",
         "title": "Timisoara Agile Software Meetup",
@@ -722,7 +722,7 @@
     "meetup-The-Timisoara-Agile-Software-Meetup-Group-qbkxlfywkbgb": {
         "description": "<p>The program for this meetup will be published in the week preceding the event.</p> ",
         "end_time": null,
-        "link": "http://www.meetup.com/The-Timisoara-Agile-Software-Meetup-Group/events/qbkxlfywkbgb/",
+        "link": "https://www.meetup.com/The-Timisoara-Agile-Software-Meetup-Group/events/qbkxlfywkbgb/",
         "organizer": "The Timisoara Agile Software Meetup Group",
         "start_time": "2017-07-04T18:30:00+03:00",
         "title": "Timisoara Agile Software Meetup",
@@ -731,7 +731,7 @@
     "meetup-The-Timisoara-Agile-Software-Meetup-Group-qbkxlfywlbcb": {
         "description": "<p>The program for this meetup will be published in the week preceding the event.</p> ",
         "end_time": null,
-        "link": "http://www.meetup.com/The-Timisoara-Agile-Software-Meetup-Group/events/qbkxlfywlbcb/",
+        "link": "https://www.meetup.com/The-Timisoara-Agile-Software-Meetup-Group/events/qbkxlfywlbcb/",
         "organizer": "The Timisoara Agile Software Meetup Group",
         "start_time": "2017-08-01T18:30:00+03:00",
         "title": "Timisoara Agile Software Meetup",
@@ -740,7 +740,7 @@
     "meetup-The-Timisoara-Agile-Software-Meetup-Group-qbkxlfywmbhb": {
         "description": "<p>The program for this meetup will be published in the week preceding the event.</p> ",
         "end_time": null,
-        "link": "http://www.meetup.com/The-Timisoara-Agile-Software-Meetup-Group/events/qbkxlfywmbhb/",
+        "link": "https://www.meetup.com/The-Timisoara-Agile-Software-Meetup-Group/events/qbkxlfywmbhb/",
         "organizer": "The Timisoara Agile Software Meetup Group",
         "start_time": "2017-09-05T18:30:00+03:00",
         "title": "Timisoara Agile Software Meetup",
@@ -749,7 +749,7 @@
     "meetup-The-Timisoara-Agile-Software-Meetup-Group-qbkxlfywnbfb": {
         "description": "<p>The program for this meetup will be published in the week preceding the event.</p> ",
         "end_time": null,
-        "link": "http://www.meetup.com/The-Timisoara-Agile-Software-Meetup-Group/events/qbkxlfywnbfb/",
+        "link": "https://www.meetup.com/The-Timisoara-Agile-Software-Meetup-Group/events/qbkxlfywnbfb/",
         "organizer": "The Timisoara Agile Software Meetup Group",
         "start_time": "2017-10-03T18:30:00+03:00",
         "title": "Timisoara Agile Software Meetup",
@@ -758,16 +758,25 @@
     "meetup-The-Timisoara-Agile-Software-Meetup-Group-qbkxlfywpbkb": {
         "description": "<p>The program for this meetup will be published in the week preceding the event.</p> ",
         "end_time": null,
-        "link": "http://www.meetup.com/The-Timisoara-Agile-Software-Meetup-Group/events/qbkxlfywpbkb/",
+        "link": "https://www.meetup.com/The-Timisoara-Agile-Software-Meetup-Group/events/qbkxlfywpbkb/",
         "organizer": "The Timisoara Agile Software Meetup Group",
         "start_time": "2017-11-07T18:30:00+02:00",
         "title": "Timisoara Agile Software Meetup",
         "venue": "Startup Hub: 10th, C Brediceanu St., D Building, Ground Floor, Timisoara"
     },
+    "meetup-Transylvania-Java-User-Group-235459042": {
+        "description": "<p><img src=\"https://www.stormacq.com/wp-content/uploads/2010/06/logo_transylvaniajug.gif\" /></p> <p><b>Meeting #58 - Java 8 Lambda Puzzlers</b></p> <p>\n\n<b>Abstract:</b></p> <p>After working with lambdas in Java 8 for a couple of years, we have found some interesting edge cases and features of lambdas.\u00a0</p> <p>What are some of the consequences\u00a0of Type Inference?How to work with checked Exceptions and lambdas?What is the difference between capturing and non-capturing lambdas, and how doe this impact\u00a0performance and serialization?What are some of the gotchas\u00a0of sharing lambdas across a distributed system?</p> <p>\n\n<b>About the speaker:</b></p> <p>Peter Lawrey has a popular blog \u201cVanilla Java\u201d which gets 120K page views per months, is 3rd on StackOverflow.com for [Java] and 2nd for [concurrency], and is lead developer of the OpenHFT project which includes support for off heap memory, thread pinning and low latency persistence and IPC (as low as 100 nano-seconds)</p> <p>He \u00a0likes to inspire developers to improve the craftsmanship of their solutions, engineer their systems for simplicity and performance, and enjoy their work more by being creative and innovative.\u00a0</p> <p><br/><b>Agenda</b></p> <p>18:30 - 19:00 reception</p> <p>19:00 ~ 20:00 presentation</p> <p>20:00 - 20:30 Q&amp;A followed by networking</p> <p>\n\n\n<b>Event sponsored by Accesa &amp; Today Software Magazine\u00a0</b></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/8/e/7/2/600_455916466.jpeg\" /></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/8/e/8/2/600_455916482.jpeg\" /></p> ",
+        "end_time": null,
+        "link": "https://www.meetup.com/Transylvania-Java-User-Group/events/235459042/",
+        "organizer": "Transylvania Java User Group",
+        "start_time": "2016-11-14T18:30:00+02:00",
+        "title": "meeting #58 with  Peter Lawrey  on \"java 8 lambda puzzlers\"",
+        "venue": "hotel Opera Plaza - sala Cristal: Strada General Traian Mo\u0219oiu, Cluj-Napoca"
+    },
     "meetup-angularjs-cluj-234890739": {
         "description": "<p>In this Meetup we are going to have a look at what Xamarin Forms has to offer to build cross platform mobile applications.</p> <p>In the first part we will start with an intro about Xamarin, what are its benefits and drawbacks and in the second part we will do a demo where we will deploy and debug an application written in C# on iOS and Android.</p> <p><b>Difficulty: Beginner</b></p> <p><b>Duration: About 1h 30m</b></p> ",
         "end_time": null,
-        "link": "http://www.meetup.com/fullstack-cluj/events/234890739/",
+        "link": "https://www.meetup.com/fullstack-cluj/events/234890739/",
         "organizer": "FullStack Cluj",
         "start_time": "2016-11-15T19:00:00+02:00",
         "title": "Getting Started with Developing Cross-Platform Apps with Xamarin Forms",
@@ -776,7 +785,7 @@
     "meetup-angularjs-cluj-235435286": {
         "description": "<p>At this meetup we will focus on building an API in Golang with RethinkDb.</p> <p>We will walk though the basic syntax of any Golang application, then move to more practical subjects like:</p> <p>- Web frameworks</p> <p>- Working with a database</p> <p>- Organising your code</p> <p>- Building an API</p> <p>- IDEs</p> <p>The meetup will have an open format so that everyone can contribute, but it will focus on a code already written in Golang.</p> <p><b>Difficulty: Beginner</b></p> <p><b>Duration: around 1 hour</b></p> ",
         "end_time": null,
-        "link": "http://www.meetup.com/fullstack-cluj/events/235435286/",
+        "link": "https://www.meetup.com/fullstack-cluj/events/235435286/",
         "organizer": "FullStack Cluj",
         "start_time": "2016-11-29T19:00:00+02:00",
         "title": "Building an API with Golang and Rethinkdb",
@@ -785,16 +794,16 @@
     "meetup-aws-ro-235173121": {
         "description": null,
         "end_time": null,
-        "link": "http://www.meetup.com/aws-ro/events/235173121/",
+        "link": "https://www.meetup.com/aws-ro/events/235173121/",
         "organizer": "IASI AWS User Group",
         "start_time": "2016-11-24T18:15:00+02:00",
         "title": "Review the architecture of an email marketing app",
         "venue": null
     },
     "meetup-eat-pray-tech-235414307": {
-        "description": "<p><b>Despre eat/pray/tech</b></p> <p>Suntem \u00eenconjura\u021bi de tehnologie, ne hr\u0103nim cu ea \u0219i, \u00een consecin\u021b\u0103, ne influen\u021beaz\u0103 modul \u00een care g\u00e2ndim \u0219i tr\u0103im.</p> <p><br/>La <a href=\"http://www.eatpraytech.ro\">eat/pray/tech</a> dorim s\u0103 ne \u00eent\u00e2lnim \u0219i s\u0103 ne \u00eempingem g\u00e2ndurile dincolo de limit\u0103rile acesteia. Vrem s\u0103 c\u0103ut\u0103m r\u0103spunsuri acolo unde 1+1 nu d\u0103 \u00eentotdeauna 2.</p> <p>Ne fr\u0103m\u00e2nt\u0103m cu \u00eentreb\u0103rile importante \u0219i dificile ale vie\u021bii, \u00eendrept\u00e2ndu-ne ochii, inima \u0219i mintea spre Dumnezeu.</p> <p>Nu \u00een ultimul r\u00e2nd, ne \u00eent\u00e2lnim ca s\u0103 ne cunoa\u0219tem mai bine, s\u0103 lu\u0103m micul dejun \u00eempreun\u0103 \u0219i, bine\u00een\u021beles, \u0219i prima doz\u0103 de cafein\u0103 a zilei.</p> <p><br/><b><br/></b></p> <p><b>Unde?</b></p> <p><a href=\"http://www.hugorestaurants.ro/\">HUGO Restaurants</a>, cladirea The Office, Bulevardul 21 Decembrie 1989 nr. 77.</p> <p><b><br/></b></p> <p><b>Cost</b></p> <p>Taxa este de 20 RON \u0219i se va achita la loca\u021bie, numerar. Aceasta reprezint\u0103 contravaloarea unui bogat mic dejun, cu suc \u0219i cafea.</p> <p>\n\n<b>Social Media</b></p> <p>O s\u0103 comunic\u0103m pe Facebook, Twitter si Instagram folosind <a href=\"http://tgb.io/eatpraytech/327740\">#EatPrayTech</a>.</p> ",
+        "description": "<p><img src=\"http://photos1.meetupstatic.com/photos/event/a/1/7/6/600_455921334.jpeg\" /></p> <p>Suntem \u00eenconjura\u021bi de tehnologie, ne hr\u0103nim cu ea \u0219i, \u00een consecin\u021b\u0103, ne influen\u021beaz\u0103 modul \u00een care g\u00e2ndim \u0219i tr\u0103im.\u00a0</p> <p><br/>La <a href=\"http://www.eatpraytech.ro\">eat/pray/tech</a> dorim s\u0103 ne \u00eent\u00e2lnim \u0219i s\u0103 ne \u00eempingem g\u00e2ndurile dincolo de limit\u0103rile acesteia. Vrem s\u0103 c\u0103ut\u0103m r\u0103spunsuri acolo unde 1+1 nu d\u0103 \u00eentotdeauna 2.</p> <p>Ne fr\u0103m\u00e2nt\u0103m cu \u00eentreb\u0103rile importante \u0219i dificile ale vie\u021bii, \u00eendrept\u00e2ndu-ne ochii, inima \u0219i mintea spre Dumnezeu.</p> <p>Nu \u00een ultimul r\u00e2nd, ne \u00eent\u00e2lnim ca s\u0103 ne cunoa\u0219tem mai bine, s\u0103 lu\u0103m micul dejun \u00eempreun\u0103 \u0219i, bine\u00een\u021beles, \u0219i prima doz\u0103 de cafein\u0103 a zilei.</p> <p><br/><b><br/></b></p> <p><b>Unde?</b></p> <p><a href=\"http://www.hugorestaurants.ro/\">HUGO Restaurants</a>, cladirea The Office, Bulevardul 21 Decembrie 1989 nr. 77.</p> <p><b><br/></b></p> <p><b>Cost</b></p> <p>Taxa este de 20 RON \u0219i se va achita la loca\u021bie, numerar. Aceasta reprezint\u0103 contravaloarea unui bogat mic dejun, cu suc \u0219i cafea.</p> <p>\n\n<b>Social Media</b></p> <p>O s\u0103 comunic\u0103m pe Facebook, Twitter si Instagram folosind <a href=\"http://tgb.io/eatpraytech/327740\">#EatPrayTech</a>.</p> ",
         "end_time": null,
-        "link": "http://www.meetup.com/eat-pray-tech/events/235414307/",
+        "link": "https://www.meetup.com/eat-pray-tech/events/235414307/",
         "organizer": "/eat/pray/tech",
         "start_time": "2016-11-21T08:30:00+02:00",
         "title": "eat/pray/tech #6",
@@ -803,7 +812,7 @@
     "meetup-fullstack-cluj-234890739": {
         "description": "<p>In this Meetup we are going to have a look at what Xamarin Forms has to offer to build cross platform mobile applications.</p> <p>In the first part we will start with an intro about Xamarin, what are its benefits and drawbacks and in the second part we will do a demo where we will deploy and debug an application written in C# on iOS and Android.</p> <p><b>Difficulty: Beginner</b></p> <p><b>Duration: About 1h 30m</b></p> ",
         "end_time": null,
-        "link": "http://www.meetup.com/fullstack-cluj/events/234890739/",
+        "link": "https://www.meetup.com/fullstack-cluj/events/234890739/",
         "organizer": "FullStack Cluj",
         "start_time": "2016-11-15T19:00:00+02:00",
         "title": "Getting Started with Developing Cross-Platform Apps with Xamarin Forms",
@@ -812,25 +821,25 @@
     "meetup-fullstack-cluj-235435286": {
         "description": "<p>At this meetup we will focus on building an API in Golang with RethinkDb.</p> <p>We will walk though the basic syntax of any Golang application, then move to more practical subjects like:</p> <p>- Web frameworks</p> <p>- Working with a database</p> <p>- Organising your code</p> <p>- Building an API</p> <p>- IDEs</p> <p>The meetup will have an open format so that everyone can contribute, but it will focus on a code already written in Golang.</p> <p><b>Difficulty: Beginner</b></p> <p><b>Duration: around 1 hour</b></p> ",
         "end_time": null,
-        "link": "http://www.meetup.com/fullstack-cluj/events/235435286/",
+        "link": "https://www.meetup.com/fullstack-cluj/events/235435286/",
         "organizer": "FullStack Cluj",
         "start_time": "2016-11-29T19:00:00+02:00",
         "title": "Building an API with Golang and Rethinkdb",
         "venue": "Around 25: Nicolae Cristea 25, Cluj-Napoca"
     },
     "meetup-the-javascript-timisoara-group-235124721": {
-        "description": "<p>Welcome to the third JavaScript workshop, organized by\u00a0<a href=\"http://timjs.ro/\">tim.js</a>.</p> <p>This workshop focuses on various ways to organize your code, each with it's own pros &amp; cons. We will cover fundamental ES5 concepts, while also touching some new features added since ES6.</p> <p>\n\n\n<b>CONTENT</b></p> <p>- Spaghetti Code<br/>- Object Literals<br/>- Module Pattern<br/>- Revealing Module Pattern<br/>- ES6 Modules</p> <p>&lt;a href=\"https://github.com/andreipfeiffer/timjs-workshop-02-javascript-mechanics/blob/master/README.md#what-you-need\"&gt;&lt;/a&gt;<br/><b>WHO IS IT FOR?</b></p> <p><br/>\u2022 <b>Intermediate &amp; Advanced JavaScript developers</b>\u00a0familiar with functions, arrays, objects, scope &amp; context</p> <p><br/><b>WHAT YOU NEED?</b></p> <p>- laptop with power-plug<br/>- code editor<i><br/></i>- Node.JS 6.0+</p> <p><br/><b>HOW TO ATTEND?</b></p> <p>To attend this workshop, please\u00a0RSVP this event.<br/>There are only 18 seats available that will be filled on a first-come, first-served basis.</p> <p>A deposit of 40 EUR is required, which will cover all expenses, including a breakfast croissant, lunch (vegetarian is also available) &amp; beverages (coffee, juice, water).\u00a0</p> <p><b>DISCOUNT</b><br/>If you have attended both previous workshops (Citizens &amp; Mechanics), you have a 25% discount, meaning that you should deposit 30 EUR instead.</p> ",
+        "description": "<p>Welcome to the third JavaScript workshop, organized by\u00a0<a href=\"http://timjs.ro/\">tim.js</a>.</p> <p>This workshop focuses on various ways to organize your code, each with it's own pros &amp; cons. We will cover fundamental ES5 concepts, while also touching some new features added since ES6.</p> <p>\n\n\n<b>CONTENT</b></p> <p>- Spaghetti Code<br/>- Object Literals<br/>- Module Pattern<br/>- Revealing Module Pattern<br/>-\u00a0Module systems &amp; loaders<br/>- ES6 Modules</p> <p>&lt;a href=\"https://github.com/andreipfeiffer/timjs-workshop-02-javascript-mechanics/blob/master/README.md#what-you-need\"&gt;&lt;/a&gt;<br/><b>WHO IS IT FOR?</b></p> <p><br/>\u2022 <b>Intermediate &amp; Advanced JavaScript developers</b>\u00a0familiar with functions, arrays, objects, scope &amp; context</p> <p><br/><b>WHAT YOU NEED?</b></p> <p>- laptop with power-plug<br/>- code editor<i><br/></i>- Node.JS 6.0+</p> <p><br/><b>HOW TO ATTEND?</b></p> <p>To attend this workshop, please\u00a0RSVP this event.<br/>There are only 18 seats available that will be filled on a first-come, first-served basis.</p> <p>A deposit of 40 EUR is required, which will cover all expenses, including a breakfast croissant, lunch (vegetarian is also available) &amp; beverages (coffee, juice, water).\u00a0</p> <p><b>DISCOUNT</b><br/>If you have attended both previous workshops (Citizens &amp; Mechanics), you have a 25% discount, meaning that you should deposit 30 EUR instead.</p> ",
         "end_time": null,
-        "link": "http://www.meetup.com/tim-js/events/235124721/",
+        "link": "https://www.meetup.com/tim-js/events/235124721/",
         "organizer": "tim.js",
         "start_time": "2016-11-19T11:00:00+02:00",
         "title": "tim.js workshop: JavaScript Neighborhoods",
         "venue": "Alt Club: Victor Vlad Delamarina 1, Timisoara"
     },
     "meetup-the-javascript-timisoara-group-235391497": {
-        "description": "<p>Welcome to the third JavaScript workshop, organized by\u00a0<a href=\"http://timjs.ro/\">tim.js</a>.</p> <p>This workshop focuses on various ways to organize your code, each with it's own pros &amp; cons. We will cover fundamental ES5 concepts, while also touching some new features added since ES6.</p> <p>\n\n\n<b>CONTENT</b></p> <p>- Spaghetti Code<br/>- Object Literals<br/>- Module Pattern<br/>- Revealing Module Pattern<br/>- ES6 Modules</p> <p>&lt;a href=\"https://github.com/andreipfeiffer/timjs-workshop-02-javascript-mechanics/blob/master/README.md#what-you-need\"&gt;&lt;/a&gt;<br/><b>WHO IS IT FOR?</b></p> <p><br/>\u2022 <b>Intermediate &amp; Advanced JavaScript developers</b>\u00a0familiar with functions, arrays, objects, scope &amp; context</p> <p><br/><b>WHAT YOU NEED?</b></p> <p>- laptop with power-plug<br/>- code editor<i><br/></i>- Node.JS 6.0+</p> <p><br/><b>HOW TO ATTEND?</b></p> <p>To attend this workshop, please\u00a0RSVP this event.<br/>There are only 18 seats available that will be filled on a first-come, first-served basis.</p> <p>A deposit of 40 EUR is required, which will cover all expenses, including a breakfast croissant, lunch (vegetarian is also available) &amp; beverages (coffee, juice, water).\u00a0</p> <p><b>DISCOUNT</b><br/>If you have attended both previous workshops (Citizens &amp; Mechanics), you have a 25% discount, meaning that you should deposit 30 EUR instead.</p> ",
+        "description": "<p>Welcome to the third JavaScript workshop, organized by\u00a0<a href=\"http://timjs.ro/\">tim.js</a>.</p> <p>This workshop focuses on various ways to organize your code, each with it's own pros &amp; cons. We will cover fundamental ES5 concepts, while also touching some new features added since ES6.</p> <p>\n\n\n<b>CONTENT</b></p> <p>- Spaghetti Code<br/>- Object Literals<br/>- Module Pattern<br/>- Revealing Module Pattern<br/>-\u00a0Module systems &amp; loaders<br/>- ES6 Modules</p> <p>&lt;a href=\"https://github.com/andreipfeiffer/timjs-workshop-02-javascript-mechanics/blob/master/README.md#what-you-need\"&gt;&lt;/a&gt;<br/><b>WHO IS IT FOR?</b></p> <p><br/>\u2022 <b>Intermediate &amp; Advanced JavaScript developers</b>\u00a0familiar with functions, arrays, objects, scope &amp; context</p> <p><br/><b>WHAT YOU NEED?</b></p> <p>- laptop with power-plug<br/>- code editor<i><br/></i>- Node.JS 6.0+</p> <p><br/><b>HOW TO ATTEND?</b></p> <p>To attend this workshop, please\u00a0RSVP this event.<br/>There are only 18 seats available that will be filled on a first-come, first-served basis.</p> <p>A deposit of 40 EUR is required, which will cover all expenses, including a breakfast croissant, lunch (vegetarian is also available) &amp; beverages (coffee, juice, water).\u00a0</p> <p><b>DISCOUNT</b><br/>If you have attended both previous workshops (Citizens &amp; Mechanics), you have a 25% discount, meaning that you should deposit 30 EUR instead.</p> ",
         "end_time": null,
-        "link": "http://www.meetup.com/tim-js/events/235391497/",
+        "link": "https://www.meetup.com/tim-js/events/235391497/",
         "organizer": "tim.js",
         "start_time": "2016-11-12T11:00:00+02:00",
         "title": "tim.js workshop: JavaScript Neighborhoods",
