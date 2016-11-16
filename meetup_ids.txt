@@ -76,6 +76,7 @@ Openstack-Bucharest
 OWASP-Cluj-Napoca-Security-Meetup
 papers-we-love-bucharest
 Papers-We-Love-Iasi
+PHPBrasov
 PHP-Cluj
 PMI-Romania-Cluj-Napoca-Project-Management-Meetup-Group
 Product-Camp-Bucharest-Meetup
