@@ -38,6 +38,8 @@ Comunitatea-Hatch-Bucuresti
 Constanța-Web-Developers
 DevOps-Cluj-Community
 Devoxx4Kidsro
+devsunitedtm
+Docker-Brasov
 Docker-Cluj
 Docker-Cluj-Napoca
 DOTNET-Cluj
@@ -76,6 +78,7 @@ Openstack-Bucharest
 OWASP-Cluj-Napoca-Security-Meetup
 papers-we-love-bucharest
 Papers-We-Love-Iasi
+PentaBAR-Cluj-Tech-Meetup-by-Pentalog
 PHPBrasov
 PHP-Cluj
 PMI-Romania-Cluj-Napoca-Project-Management-Meetup-Group
@@ -104,6 +107,7 @@ the-javascript-timisoara-group
 The-Startup-Lab
 The-Targu-Mures-Agile-Software-Meetup-Group
 The-Timisoara-Agile-Software-Meetup-Group
+Timisoara-Automotive-Technology-Meetup
 Timisoara-Google-Developers-Group
 TIMISOARA-IT-STARTUP-GENERATOR
 Timisoara-Java-User-Group
