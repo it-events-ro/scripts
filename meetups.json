@@ -278,6 +278,15 @@
         "title": "Transylvania MegaHack @Cluj TechFest",
         "venue": "Iulius Mall - Spa\u021biul expozi\u021bional nivel -1: Str. Al. V. Voevod nr. 53-55, Cluj-Napoca"
     },
+    "meetup-Devoxx4Kidsro-235689626": {
+        "description": "<p>Doua noi ateliere:</p> <p>1. Programare Minecraft in Python -pentru copii cu varstele intre 10 si 12 ani</p> <p>2. Programarea jocurilor in Unity - pentru copii cu varstele intre 13 si 16 ani</p> ",
+        "end_time": null,
+        "link": "https://www.meetup.com/Devoxx4Kidsro/events/235689626/",
+        "organizer": "Devoxx4Kids Romania",
+        "start_time": "2016-12-08T16:00:00+02:00",
+        "title": "Ateliere Devoxx4Kids",
+        "venue": "Liceul Teoretic N Balcescu: str. Constanta 6, Cluj-Napoca"
+    },
     "meetup-Docker-Brasov-234328811": {
         "description": "<p>FULL OVERVIEW of DockerCon 2016\u00a0</p> <p>\n\n\n\n\n\n- [LINKS][Tracks][Slides][Repos]\u00a0</p> <p><br/><a href=\"https://github.com/docker/community/blob/master/Docker-Meetup-Content/DockerCon%202016.md\" class=\"linkified\">https://github.com/docker/community/blob/master/Docker-Meetup-Content/DockerCon%202016.md</a>\u00a0</p> <p>\n\n\n\n\n\n- do some labs\u00a0</p> <p>\n\n\n\n\n\n- with some luck we will also have live speaker lightning discussions from a Docker Captain / Trainer</p> ",
         "end_time": null,
@@ -434,7 +443,7 @@
     "meetup-FinTech-Camp-Community-Romania-kwdgfmyvpbcc": {
         "description": "<p><a href=\"https://www.facebook.com/events/189710191477639/\"><a href=\"https://www.facebook.com/events/189710191477639/\" class=\"linkified\">https://www.facebook.com/events/189710191477639/</a></a> un studiu de caz despre smart contracts in Ethereum @ Vertical Open Connect Blockchain.</p> <p>\n\n\nDupa prezentare avem partea de mastermind pentru cei care testeaza platforma Steemit. Iar dupa asta, networking.\u00a0</p> <p>O sa avem soft drinks si ceva crantanele, cat sa ne simtim bine.</p> <p>C\u00e2t e halatul?<br/>Dac\u0103 e\u0219ti rezident Connect Hub sau membru Connect Hub Online pentru tine este gratuit.\u00a0<br/>Dac\u0103 nu e\u0219ti membru Connect Hub, este 20 lei, bani care merg c\u0103tre cheltuielile logisitice.\u00a0</p> <p>Te a\u0219tept la Vertical Open Connect Blockchain,</p> <p>Contact organizator:</p> <p><br/>Dragos Roua\u00a0<br/><a href=\"http://l.facebook.com/l.php?u=http%3A%2F%2Fdragosroua.com%2F&amp;h=tAQHWtVJA&amp;enc=AZOvRu2aolWs-tp1L7O6StMgmx5HOpcL_-bIoymmRrHJEAsuNivyvOqnUyeoCKwFF0A&amp;s=1\"><a href=\"http://dragosroua.com/\" class=\"linkified\">http://dragosroua.com/</a></a><br/>dragos@connecthub.ro</p> ",
         "end_time": null,
-        "link": "http://www.meetup.com/FinTech-Camp-Community-Romania/events/235411022/",
+        "link": "https://www.meetup.com/FinTech-Camp-Community-Romania/events/235411022/",
         "organizer": "FinTech.Camp Community Romania",
         "start_time": "2016-11-21T18:00:00+02:00",
         "title": "studiu de caz despre smartcontracts @Vertical Open Connect Blockchain",
@@ -747,12 +756,12 @@
         "venue": "Finikia: Strada Franceza nr 13, Bucharest"
     },
     "meetup-The-Bucharest-Agile-Software-Meetup-Group-vnvvhlyvpbfc": {
-        "description": "<p>A <b>Coding Dojo</b> is a team practice format that accelerates knowledge transfer and sharing skills between team members. With an experienced facilitator, it is also a way of learning by applying various techniques.</p> <p><b>Objectives</b></p> <p>The following skills are typical candidates for improvement during a dojo:</p> <p>\u2022 Refactoring<br/>\u2022 Simple design<br/>\u2022 Clean code<br/>\u2022 Improving pair programming technique<br/>\u2022 How to safely modify code you don't understand (usually legacy code)<br/>\u2022 Learning a new programming language<br/>\u2022 Unit testing<br/>\u2022 Test driven development</p> <p>In addition, coding dojo can be used by a team as a collective and structured way of solving difficult or risky problems related to production, like fixing a bug or redesigning parts of the application.</p> <p><b>How it works?</b></p> <p>The basic format of a coding dojo:</p> <p>\u2022 All developers and the facilitator gather in a room.<br/>\u2022 The facilitator introduces the purpose and the format of the coding dojo.<br/>\u2022 One laptop with a functional development environment is connected to a projector.<br/>\u2022 Two developers pair program on the laptop. The others are in the room, watching the code changes.<br/>\u2022 Every 7 minutes, one developer leaves the laptop and the next one from the room takes his place.<br/>\u2022 After a specified period of time (usually around two hours), the dojo ends with a retrospective.</p> ",
+        "description": "<p>This time, we are going to use <b>Test Driven Development</b> to write a program to show that the <b>13th</b> day of the month falls more often on a <b>Friday</b> than any other day of the week.</p> <p><br/>---------------</p> <p>A <b>Coding Dojo</b> is a team practice format that accelerates knowledge transfer and sharing skills between team members. With an experienced facilitator, it is also a way of learning by applying various techniques.</p> <p><b>Objectives</b></p> <p>The following skills are typical candidates for improvement during a dojo:</p> <p>\u2022 Refactoring<br/>\u2022 Simple design<br/>\u2022 Clean code<br/>\u2022 Improving pair programming technique<br/>\u2022 How to safely modify code you don't understand (usually legacy code)<br/>\u2022 Learning a new programming language<br/>\u2022 Unit testing<br/>\u2022 Test driven development</p> <p>In addition, coding dojo can be used by a team as a collective and structured way of solving difficult or risky problems related to production, like fixing a bug or redesigning parts of the application.</p> <p><b>How it works?</b></p> <p>The basic format of a coding dojo:</p> <p>\u2022 All developers and the facilitator gather in a room.<br/>\u2022 The facilitator introduces the purpose and the format of the coding dojo.<br/>\u2022 One laptop with a functional development environment is connected to a projector.<br/>\u2022 Two developers pair program on the laptop. The others are in the room, watching the code changes.<br/>\u2022 Every 7 minutes, one developer leaves the laptop and the next one from the room takes his place.<br/>\u2022 After a specified period of time (usually around two hours), the dojo ends with a retrospective.</p> ",
         "end_time": null,
-        "link": "http://www.meetup.com/The-Bucharest-Agile-Software-Meetup-Group/events/235122208/",
+        "link": "https://www.meetup.com/The-Bucharest-Agile-Software-Meetup-Group/events/235122208/",
         "organizer": "The Bucharest Agile Software Meetup Group",
         "start_time": "2016-11-23T18:45:00+02:00",
-        "title": "Coding Dojo",
+        "title": "Coding Dojo: Friday 13th",
         "venue": "Mozaic Works : Blv. Carol I, Nr. 26, Et.1, Sector 3, Bucharest"
     },
     "meetup-The-Bucharest-Agile-Software-Meetup-Group-vqxzklyvpbmb": {
@@ -934,6 +943,15 @@
         "start_time": "2017-11-07T18:30:00+02:00",
         "title": "Timisoara Agile Software Meetup",
         "venue": "Startup Hub: 10th, C Brediceanu St., D Building, Ground Floor, Timisoara"
+    },
+    "meetup-TiMoDev-235710973": {
+        "description": "<p>Timisoara Mobile Development Group and the local <a href=\"https://www.meetup.com/Timisoara-Google-Developers-Group/\"><b>Google Developer Group</b></a> are jointly inviting city's tech passionates to an event that will close the year in force!</p> <p>We will focus on <b><a href=\"http://firebase.google.com\">Firebase</a></b>, the 15 tools kit supporting serverless architecture and significantly faster mobile (both iOS &amp; Android) and web development.</p> <p><img src=\"https://1.bp.blogspot.com/-YIfQT6q8ZM4/Vzyq5z1B8HI/AAAAAAAAAAc/UmWSSMLKtKgtH7CACElUp12zXkrPK5UoACLcB/s1600/image00.png\" /></p> <p>We'll get the community together for a less practiced event format: participants will experience a guided, hands-on coding experience crafted by Googlers for developers. Some communities run it with a talk. A speaker introducing Firebase tools (TBC) will followed with a 45-60 minutes codelab session, so make sure you'll bring your laptops!</p> <p>Participants will enter a (global) contest for winning a free ticket to <b><a href=\"https://www.zapaday.com/page/event/182155-5/Google-IO\">Google I/O 2017</a></b>!\u00a0</p> <p>If you will not be in Timisoara for that day, check on this map, maybe you can attend another Firebase event.</p> <p>Looking forward to share the Christmas tech magic with you!</p> <p>Radu Ticiu &amp; Silviu Vert</p> ",
+        "end_time": null,
+        "link": "https://www.meetup.com/TiMoDev/events/235710973/",
+        "organizer": "Timisoara Mobile Development Group",
+        "start_time": "2016-12-19T19:00:00+02:00",
+        "title": "TiMo & GDG Christmas Firebase Codelab",
+        "venue": "Timi\u0219oara Startup Hub: 10th, C. Brediceanu St., E Building, Timisoara, Timisoara"
     },
     "meetup-Timisoara-Automotive-Technology-Meetup-snvlglyvqbcb": {
         "description": "<p>Timisoara tech people, active in IT, Automotive, manufacturing, you are kindly invited to join this month's event of this new meetup.\u00a0</p> <p>The content of this event will be announced shortly.</p> ",
