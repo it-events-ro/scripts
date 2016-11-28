@@ -4,6 +4,7 @@ AngularJS-Bucharest
 angularjs-cluj
 aws-ro
 AWS-Romania
+Big-Data-Cluj-Napoca
 Big-Data-Timisoara-Romania
 Blue-Wire-Software
 Bucharest-A-D-C-E-S-Meetup
@@ -71,9 +72,11 @@ lean-startup-bucharest
 Meteor-Iasi
 Meteor-Romania
 Mobile-Growth-Bucharest
+MobOS-2017
 Mures-Web-Mobile-Development
 NetSquared-Bucharest
 Netsquared-Cluj-Napoca
+Node-js-Timisoara
 Openstack-Bucharest
 OWASP-Cluj-Napoca-Security-Meetup
 papers-we-love-bucharest
