@@ -4,6 +4,7 @@ import datetime
 import os
 import json
 
+import dateutil.parser
 import pytz
 
 import utils
@@ -19,7 +20,12 @@ with open('meetup_ids.txt') as f:
 with open('meetups.json') as f:
     meetups = json.loads(f.read())
 
-# TODO: clean up old events
+_LOCAL_TZ = pytz.timezone('Europe/Bucharest')
+_now = datetime.datetime.now().replace(tzinfo=_LOCAL_TZ)
+def _inTheFuture(t):
+    return dateutil.parser.parse(t) > _now
+
+meetups = {k: v for k, v in meetups.items() if _inTheFuture(v['start_time'])}
 
 meetup_data = {
   'events': {},
@@ -42,9 +48,6 @@ def _getGroupInfo(group_urlid):
 group_urlids = sorted(
   set(e['group']['urlname'] for events in meetup_data['events'].values() for e in events))
 utils.repeat(group_urlids, 'Getting group info for %s', _getGroupInfo)
-
-
-_LOCAL_TZ = pytz.timezone('Europe/Bucharest')
 
 
 def diff(existing_data, data):
