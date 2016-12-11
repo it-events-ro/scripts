@@ -119,6 +119,7 @@ Timisoara-Ruby-Development-Community
 Timisoara-Ruby-on-Rails-Community
 Timisoara-UX-UI-Group
 TiMoDev
+todaysoftmag
 TransylvaniaCloud
 Transylvania-Java-User-Group
 Unity3DRomania
