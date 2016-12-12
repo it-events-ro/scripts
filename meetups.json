@@ -341,6 +341,15 @@
         "title": "Tabara de Testare Timisoara - Meetup #30",
         "venue": "ARIES-TM Asociatia Romana pentru Industria Electronica si Software - Filiala Timisoara: Str. Paris, nr. 2A, Timisoara, Timisoara"
     },
+    "meetup-The-Bucharest-Agile-Software-Meetup-Group-vnvvhlyvqblc": {
+        "description": "<p>A <b>Coding Dojo</b> is a team practice format that accelerates knowledge transfer and sharing skills between team members. With an experienced facilitator, it is also a way of learning by applying various techniques.</p> <p><b>Objectives</b></p> <p>The following skills are typical candidates for improvement during a dojo:</p> <p>\u2022 Refactoring<br/>\u2022 Simple design<br/>\u2022 Clean code<br/>\u2022 Improving pair programming technique<br/>\u2022 How to safely modify code you don't understand (usually legacy code)<br/>\u2022 Learning a new programming language<br/>\u2022 Unit testing<br/>\u2022 Test driven development</p> <p>In addition, coding dojo can be used by a team as a collective and structured way of solving difficult or risky problems related to production, like fixing a bug or redesigning parts of the application.</p> <p><b>How it works?</b></p> <p>The basic format of a coding dojo:</p> <p>\u2022 All developers and the facilitator gather in a room.<br/>\u2022 The facilitator introduces the purpose and the format of the coding dojo.<br/>\u2022 One laptop with a functional development environment is connected to a projector.<br/>\u2022 Two developers pair program on the laptop. The others are in the room, watching the code changes.<br/>\u2022 Every 7 minutes, one developer leaves the laptop and the next one from the room takes his place.<br/>\u2022 After a specified period of time (usually around two hours), the dojo ends with a retrospective.</p> ",
+        "end_time": null,
+        "link": "https://www.meetup.com/The-Bucharest-Agile-Software-Meetup-Group/events/235781603/",
+        "organizer": "The Bucharest Agile Software Meetup Group",
+        "start_time": "2016-12-12T18:45:00+02:00",
+        "title": "Coding Dojo",
+        "venue": "Mozaic Works : Blv. Carol I, Nr. 26, Et.1, Sector 3, Bucharest"
+    },
     "meetup-The-Bucharest-Agile-Software-Meetup-Group-vqxzklywdblb": {
         "description": "<p>Hi,</p> <p>I invite you all to another Agile Talks event.</p> <p>Here are the speakers for this edition.</p> <p>First speaker is TBD</p> <p>Second speaker is TBD</p> <p>Agenda:</p> <p>18:45 - 19:00 Arriving, socializing<br/>19:00 - 19:10 Introduction<br/>19:10 - 19:40 TBD<br/>19:40 - 20:10 TBD<br/>20:10 - 20:20 Break<br/>20:20 - 21:10 Open Space - ask the speakers for more details or propose interesting topics<br/>21:10 - 21:20 Retrospective &amp; Closing</p> <p>See you on TBD!</p> ",
         "end_time": null,
