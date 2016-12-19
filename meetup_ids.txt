@@ -26,6 +26,7 @@ Cluj-Mobile-Developers
 Cluj-Napoca-Bitcoin-Meetup
 Cluj-Napoca-OpenStreetMap-Meetup
 Cluj-Napoca-Python-and-Big-Data
+Cluj-Napoca-Scrum-Software-Development
 Cluj-Napoca-WordPress-Meetup
 Cluj-NET-Community-Meetup
 Cluj-py
@@ -40,6 +41,7 @@ Constanța-Web-Developers
 DevOps-Cluj-Community
 Devoxx4Kidsro
 devsunitedtm
+DigitalOceanBucharest
 Docker-Brasov
 Docker-Cluj
 Docker-Cluj-Napoca
