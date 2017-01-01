@@ -35,6 +35,24 @@
         "title": "ASP.NET MVC 6 What's new & Dockerizing an ASP.NET Core application",
         "venue": null
     },
+    "meetup-Bucharest-Data-Science-Meetup-235907707": {
+        "description": "<p>This session will be an introductory talk on how to use Neo4J (\u00a0<a href=\"https://neo4j.com/\"><a href=\"https://neo4j.com/\" class=\"linkified\">https://neo4j.com/</a></a>\u00a0)\u00a0in its capacity as a graph analytics engine. The target audience is SQL developers.</p> <p>We'll start with an overview of Neo4J and its query language Cypher before moving on to a few worked examples where we'll build and query the same data set using first relational databases and then Neo4J.</p> <p>We'll also cover graph modeling, query optimization and show an example of procedures which were introduced in the 3.0 version of Neo4J.</p> <p><b>What is Neo4J?</b></p> <p>Here's a good summary by Emil Eifrem, creator of Neo4J:<br/>Most applications today handle data that is deeply associative, i.e. structured as graphs (networks). The most obvious example of this is social networking sites, but even tagging systems, content management systems and wikis deal with inherently hierarchical or graph-shaped data.<br/>This turns out to be a problem because it\u2019s difficult to deal with recursive data structures in traditional relational databases. In essence, each traversal along a link in a graph is a join, and joins are known to be very expensive. Furthermore, with user-driven content, it is difficult to pre-conceive the exact schema of the data that will be handled. Unfortunately, the relational model requires upfront schemas and makes it difficult to fit this more dynamic and ad-hoc data.<br/>A graph database uses nodes, relationships between nodes and key-value properties instead of tables to represent information. This model is typically substantially faster for associative data sets and uses a schema-less, bottoms-up model that is ideal for capturing ad-hoc and rapidly changing data.</p> ",
+        "end_time": null,
+        "link": "https://www.meetup.com/Bucharest-Data-Science-Meetup/events/235907707/",
+        "organizer": "Bucharest Data Science Meetup",
+        "start_time": "2017-01-24T19:00:00+02:00",
+        "title": "Introduction to Neo4J",
+        "venue": null
+    },
+    "meetup-Cluj-Napoca-WordPress-Meetup-236503052": {
+        "description": "<p>Hello everyone!</p> <p>On January 16th we're kicking off the year with an awesome workshop!\u00a0</p> <p>We\u2019ll be developing a WordPress Plugin that implements a Simple Image Slideshow.</p> <p>You will learn about:<br/>- setting up a WordPress plugin<br/>- creating Custom Post Types<br/>- implementing a shortcode<br/>- adding a button to\u00a0tinyMCE that inserts a shortcode into any post or page</p> <p>You are encouraged to bring your laptop! There will be coding :D</p> <p>Make sure you have your environment ready to run a local WordPress install.<br/><a href=\"https://codex.wordpress.org/Installing_WordPress#Installing_WordPress_on_your_own_Computer\"><a href=\"https://codex.wordpress.org/Installing_WordPress#Installing_WordPress_on_your_own_Computer\" class=\"linkified\">https://codex.wordpress.org/Installing_WordPress#Installing_WordPress_on_your_own_Computer</a><br/></a><a href=\"https://codex.wordpress.org/Installing_WordPress_Locally_on_Your_Mac_With_MAMP\"><a href=\"https://codex.wordpress.org/Installing_WordPress_Locally_on_Your_Mac_With_MAMP\" class=\"linkified\">https://codex.wordpress.org/Installing_WordPress_Locally_on_Your_Mac_With_MAMP</a><br/><a href=\"https://premium.wpmudev.org/blog/setting-up-xampp/\" class=\"linkified\">https://premium.wpmudev.org/blog/setting-up-xampp/</a></a></p> <p><br/>Looking forward to seeing you!</p> <p>Happy Holidays,\u00a0</p> <p>The Cluj Meetup Team</p> ",
+        "end_time": null,
+        "link": "https://www.meetup.com/Cluj-Napoca-WordPress-Meetup/events/236503052/",
+        "organizer": "Cluj-Napoca WordPress Meetup",
+        "start_time": "2017-01-16T18:30:00+02:00",
+        "title": "Workshop: Building a simple slideshow plugin ( beginner / intermediate )",
+        "venue": "The office of Forward Rom\u00e2nia: Str. N\u0103s\u0103ud 22, scara A, ap. 7, et. 1, Cluj-Napoca"
+    },
     "meetup-Cluj-fp-235901256": {
         "description": "<p>Programul intalnirii:<br/>6:30-7:00 sosirea participantilor + pizza din partea Ullink<br/>7:00 - 8:30 - L\u0151rinc Pap - Creating an effective persistent ArrayList alternative</p> <p>Globally propagating mutations hinder us from being able to reason about an application with only minimal knowledge of its surroundings, from stepping back in a debugger and replaying the whole sequence of operations, from creating simple performance benchmarks or tests, without being concerned with the overall state of the application at all times.</p> <p>Let\u2019s see how we could design for correcting many of these issues, by creating a data structure that has the same (or better!) space/time complexities than Java\u2019s beloved ArrayList does, and by providing a real-world example where it would shine with its simplicity.</p> <p>We will explore some of the design compromises we took when creating Javaslang\u2019s persistent Radix-Balanced Vector tree, and compare it to Scala and Clojure \u2013 feature and performance-wise.</p> ",
         "end_time": null,
@@ -45,13 +63,13 @@
         "venue": "Sediul Ullink: Str Victor Deleu nr 1, et 3 (intrarea dinspre Parcul Caragiale), cluj-napoca"
     },
     "meetup-Drupal-Cluj-qjgbzjywcbhb": {
-        "description": "<p>Ne intalnim, discutam si aflam mai multe despre Drupal. :)</p> <p>Adaugati in comentarii \"oferte / cereri\" de prezentari.</p> ",
+        "description": "<p>Ne intalnim, discutam si aflam mai multe despre Drupal. :)</p> <p>Cei de la AMPLEXOR vor prezenta ultimele lor proiecte(le) pe Drupal 8 bazate pe teme Bootstrap.</p> <p>Adaugati in comentarii \"oferte / cereri\" de prezentari.</p> ",
         "end_time": null,
-        "link": "https://www.meetup.com/Drupal-Cluj/events/qjgbzjywcbhb/",
+        "link": "https://www.meetup.com/Drupal-Cluj/events/236495113/",
         "organizer": "Drupal Cluj",
-        "start_time": "2017-01-05T20:00:00+02:00",
+        "start_time": "2017-01-19T19:00:00+02:00",
         "title": "Drupal Cluj Meetup",
-        "venue": "Cluj Hub: Cluj Hub, Strada Pite\u0219ti, Cluj-Napoca"
+        "venue": "AMPLEXOR: Str. Republicii, Nr 69, Cluj-Napoca"
     },
     "meetup-Drupal-Cluj-qjgbzjywdbdb": {
         "description": "<p>Ne intalnim, discutam si aflam mai multe despre Drupal. :)</p> <p>Adaugati in comentarii \"oferte / cereri\" de prezentari.</p> ",
@@ -160,6 +178,15 @@
         "start_time": "2017-02-16T09:00:00+02:00",
         "title": "MobOS Conference 4th Edition",
         "venue": "Grand Hotel Napoca: str. Octavian Goga nr.1, 400698, Cluj-Napoca"
+    },
+    "meetup-Mobile-Growth-Bucharest-236556894": {
+        "description": "<p>Come out for an awesome discussion about how to grow your mobile business and meet some cool people involved in apps.</p> <p>We'll kick off the evening with some beer, soft drinks, and pizza, and then hear lessons and best practices for app growth. We'll cover organic and paid user acquisition, retention and engagement strategies, tactics for push, in-app message and email, and their own war stories from the mobile trenches. Then we'll hang out for a little while longer to chat about all the cool things we just learned.</p> <p><b>The People</b>\u00a0(coming soon...)\u00a0</p> <p><b>The Plan\u00a0</b></p> <p>6.30pm\u00a0- Check-in and onsite registration\u00a0<br/>7.00pm\u00a0- Welcome and introductions\u00a0<br/>7.15 pm\u00a0- Mobile Growth Panel\u00a0<br/>7.45pm\u00a0- Q&amp;A from Audience\u00a0<br/>8.00pm\u00a0- Social Hour\u00a0</p> <p><i>Mobile Growth meetups are powered by\u00a0<a href=\"https://branch.io/?bmp=meetup\">Branch</a>.\u00a0</i></p> <p><b>The Sponsors\u00a0</b></p> <p><a href=\"https://branch.io/about/\">Branch</a>\u00a0provides free deep linking technology to mobile app developers and marketers. We're on a mission to help you grow your business through deep linking, and allow users to discover content inside mobile apps. Branch links drive app conversions, engagement, and retention on every marketing channel. Branch powers over 1.5 billion links a day for thousands of users across the world. Find out more about Branch and our\u00a0<a href=\"https://mobilegrowth.org/\">Mobile Growth Community</a>\u00a0online.\u00a0</p> ",
+        "end_time": null,
+        "link": "https://www.meetup.com/Mobile-Growth-Bucharest/events/236556894/",
+        "organizer": "Mobile Growth Bucharest",
+        "start_time": "2017-03-28T18:30:00+03:00",
+        "title": "Mobile Growth Bucharest: March Meetup",
+        "venue": null
     },
     "meetup-Mures-Web-Mobile-Development-236232348": {
         "description": "<p>Registration to the meetup is mandatory.\u00a0</p> <p>In order to have a more relaxed environment than the usual office environment we decided to privatize a part of\u00a0Cafe Frei.</p> <p>Two drinks offered for each participant.\u00a0</p> <p>Summary:\u00a0</p> <p>In this presentation we will cover the fundamentals and we will build and deploy a small exemple of an app for Android device through a live coding session followed by a Q&amp;A session.</p> <p>Schedule\u00a0</p> <p>18:30:\u00a0</p> <p>Welcome reception &amp;\u00a0short presentation of the purpose of this Meetup by\u00a0Laszlo SOOS (Business Development Manager at OneLogic.ro)\u00a0</p> <p>19:00:</p> <p>\"Hello AndDroids\" - Developing for Android 7.0\u00a0by Andr\u00e1s\u00a0Ferencz\u00a0(Mobile and Web Developer)</p> <p>\u2022\u00a0Fundamentals</p> <p>\u2022 Live coding</p> <p>\u2022\u00a0Q&amp;A</p> <p>20:00:</p> <p>Free talks and networking</p> ",
@@ -434,7 +461,7 @@
     "meetup-Timisoara-Automotive-Technology-Meetup-snvlglywcbhb": {
         "description": "<p>Timisoara tech people, active in IT, Automotive, manufacturing, you are kindly invited to join this month's event of this new meetup.\u00a0</p> <p>The content of this event will be announced shortly.</p> ",
         "end_time": null,
-        "link": "https://www.meetup.com/Timisoara-Automotive-Technology-Meetup/events/snvlglywcbhb/",
+        "link": "https://www.meetup.com/Timisoara-Automotive-Technology-Meetup/events/236550873/",
         "organizer": "Timisoara Automotive Technologies Meetup",
         "start_time": "2017-01-05T18:30:00+02:00",
         "title": "Timisoara Automotive Technology Meetup",
@@ -538,5 +565,14 @@
         "start_time": "2017-12-07T18:30:00+02:00",
         "title": "Timisoara Automotive Technology Meetup",
         "venue": "Startup Hub: 10th, C Brediceanu St., D Building, Ground Floor, Timisoara"
+    },
+    "meetup-eat-pray-tech-236497388": {
+        "description": "<p>Prima \u00eent\u00e2lnire din 2017, va fi pe 9 ianuarie.</p> ",
+        "end_time": null,
+        "link": "https://www.meetup.com/eatpraytech/events/236497388/",
+        "organizer": "/eat/pray/tech",
+        "start_time": "2017-01-09T08:30:00+02:00",
+        "title": "eat/pray/tech #8",
+        "venue": "restaurantul Hugo: The Office, Cluj-Napoca"
     }
 }

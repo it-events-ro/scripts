@@ -9,13 +9,18 @@ Big-Data-Timisoara-Romania
 Blue-Wire-Software
 Bucharest-A-D-C-E-S-Meetup
 Bucharest-Big-Data-Meetup
+Bucharest-Data-Science-Meetup
 Bucharest-Deep-Learning
 Bucharest-DevOps-Meetup
+Bucharest-Internet-and-Cloud-Computing-Meetup
+Bucharest-IoT-Meetup
+Bucharest-Java-User-Group
 BucharestJS
 Bucharest-Mobile-Development-Meetup
 Bucharest-Startup-Founder-101
 BucharestTech
 Bucharest-Virtual-Reality-Meetup
+Bucharest-Web-and-Mobile-Development-Meetup
 Business-Analysts-Cluj
 bv-tech
 Cluj-DevOps
@@ -43,6 +48,7 @@ Devoxx4Kidsro
 devsunitedtm
 DigitalOceanBucharest
 Docker-Brasov
+Docker-Bucharest
 Docker-Cluj
 Docker-Cluj-Napoca
 DOTNET-Cluj
