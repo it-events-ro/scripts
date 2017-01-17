@@ -29,6 +29,7 @@ Cluj-Javascripters
 Cluj-JS
 Cluj-Mobile-Developers
 Cluj-Napoca-Bitcoin-Meetup
+Cluj-Napoca-Linux-Meetup
 Cluj-Napoca-OpenStreetMap-Meetup
 Cluj-Napoca-Python-and-Big-Data
 Cluj-Napoca-Scrum-Software-Development
