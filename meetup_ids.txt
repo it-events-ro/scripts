@@ -101,6 +101,7 @@ Qt-Cluj
 romanian-lean-startup-cell
 RoPython-Timisoara
 RO-SQL
+Share-IT-Cluj-Meetup
 Softbinator-Romanian-IT-Community
 SQL-Cluj
 StartupGrindClujNapoca
