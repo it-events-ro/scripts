@@ -71,6 +71,7 @@ HackDays
 hello-js
 Iasi-JS
 Iasi-MongoDB-User-Group
+InfoSecTM
 Infrastructure-Automation-Meetups
 IS-DevOps-Meetup
 ITCamp-Community
@@ -78,6 +79,7 @@ Java-Day-Cluj-Napoca
 JavaDayRO
 JavaScript-Cluj
 lean-startup-bucharest
+Marketing-for-IT-Mk-4-IT
 Meteor-Iasi
 Meteor-Romania
 Mobile-Growth-Bucharest
