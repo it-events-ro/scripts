@@ -23,6 +23,7 @@ Bucharest-Virtual-Reality-Meetup
 Bucharest-Web-and-Mobile-Development-Meetup
 Business-Analysts-Cluj
 bv-tech
+Cluj-Data-Scientists
 Cluj-DevOps
 Cluj-fp
 Cluj-Javascripters
@@ -41,6 +42,7 @@ Cluj-Semantic-WEB
 Cluj-Software-Developers
 Cluj-Tech-Meetup
 Cluj-WEB-Developers
+clujytech
 CoFoundersLab-Cluj
 Comunitatea-Hatch-Bucuresti
 Constanța-Web-Developers
