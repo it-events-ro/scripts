@@ -8,15 +8,6 @@
         "title": "Big Data, Cluj",
         "venue": null
     },
-    "meetup-Bucharest-A-D-C-E-S-Meetup-235100350": {
-        "description": "<p>Prezentarea 1.SAP Hana Cloud Platform<br/>Prezentator : Radu Simen,<br/>Descriere:<br/>i. Microservices with Java/Spring and Hana<br/>ii. Front-end : Spring MVC si SAP UI5<br/>iii. IaaS in HCP (VMs or Docker)</p> <p>\n\n\n2.\u00a0Dockerizing an\u00a0<a href=\"http://asp.net/\">ASP.NET</a>\u00a0Core application and creating a CI/CD workflow with GitHub, Docker Hub, Docker Cloud and Microsoft Azure</p> <p>Descriere:</p> <p>In this session we will take a look at how to run ASP .NET Core apps inside Docker, then deploy it to a VM in Azure using Docker Cloud.<br/>We will also see how to create a fully automated CI/CD flow using GitHub, Visual Studio Team Services and Docker Hub.</p> <p>Prezentator: Radu Matei,\u00a0<a href=\"https://radu-matei.github.io/blog/\"><a href=\"https://radu-matei.github.io/blog/\" class=\"linkified\">https://radu-matei.github.io/blog/</a></a>\u00a0</p> ",
-        "end_time": null,
-        "link": "https://www.meetup.com/Bucharest-A-D-C-E-S-Meetup/events/235100350/",
-        "organizer": "Bucharest A.D.C.E.S. Meetup",
-        "start_time": "2017-02-07T19:00:00+02:00",
-        "title": "SAP Hana Cloud Platform & Dockerizing an ASP.NET Core application",
-        "venue": null
-    },
     "meetup-Bucharest-A-D-C-E-S-Meetup-235101183": {
         "description": "<p>1. ASP.NET MVC 6<br/>Prezentator: Andrei Ignat, <a href=\"http://msprogrammer.serviciipeweb.ro/\" class=\"linkified\">http://msprogrammer.serviciipeweb.ro/</a><br/>Descriere:<br/>Ce a aparut nou in MVC Core ( MVC 6 ) si poate fi folosit in practica: tagHelpers, ViewComponents, altele.\u00a0</p> <p>Prezentarea 2:\u00a0Build an Intelligent Bot to Interact with your Users</p> <p>Prezentator : Sorin Peste ,Microsoft,\u00a0<a href=\"https://github.com/neaorin/BotFrameworkDemo\"><a href=\"https://github.com/neaorin/BotFrameworkDemo\" class=\"linkified\">https://github.com/neaorin/BotFrameworkDemo</a></a></p> <p>Bots are all the rage these days. But if you need one that's capable to understand your users' natural language, so it can figure out what they WANT and not just what they say, then you're going to need some pretty strong AI behind it. Come to this session to find out how you can use Microsoft Bot Framework together with Language Understanding Intelligent Service (luis.ai) to build an intelligent bot for Skype, Slack, Facebook, SMS and more.</p> ",
         "end_time": null,
@@ -26,86 +17,86 @@
         "title": "ASP.NET MVC 6 What's new & Build an Intelligent Bot to Interact with your Users",
         "venue": null
     },
+    "meetup-Bucharest-A-D-C-E-S-Meetup-237069124": {
+        "description": "<p>Prezentarea 1:<br/>Asia Lindsay, <a href=\"https://www.linkedin.com/in/asialindsay\" class=\"linkified\">https://www.linkedin.com/in/asialindsay</a></p> <p>Title: How Freelancing and Remote Work is Changing the World<br/>Description:<br/>- How to break into freelancing<br/>- How freelancing and remote work can improve your life<br/>- What it's like being a digital nomad (hint- it's fun!)</p> <p>Prezentarea 2:\u00a0</p> <p>Andrei Ignat, <a href=\"http://msprogrammer.serviciipeweb.ro/\"><a href=\"http://msprogrammer.serviciipeweb.ro/\" class=\"linkified\">http://msprogrammer.serviciipeweb.ro/</a></a> ,\u00a0\u00a0<br/>SqlServer 2016 History tables<br/>1. History with StoredProcedures<br/>2. History with EF<br/>3. History with Change Data Capture<br/>4. History with Temporal tables</p> ",
+        "end_time": null,
+        "link": "https://www.meetup.com/Bucharest-A-D-C-E-S-Meetup/events/237069124/",
+        "organizer": "Bucharest A.D.C.E.S. Meetup",
+        "start_time": "2017-04-11T19:00:00+03:00",
+        "title": "Freelancing / Remote Work and SqlServer 2016 Temporal Tables",
+        "venue": null
+    },
     "meetup-Bucharest-Data-Science-Meetup-235907707": {
         "description": "<p>This session will be an introductory talk on how to use Neo4J (\u00a0<a href=\"https://neo4j.com/\"><a href=\"https://neo4j.com/\" class=\"linkified\">https://neo4j.com/</a></a>\u00a0)\u00a0in its capacity as a graph analytics engine. The target audience is SQL developers.</p> <p>We'll start with an overview of Neo4J and its query language Cypher before moving on to a few worked examples where we'll build and query the same data set using first relational databases and then Neo4J.</p> <p>We'll also cover graph modeling, query optimization and show an example of procedures which were introduced in the 3.0 version of Neo4J.</p> <p><b>What is Neo4J?</b></p> <p>Here's a good summary by Emil Eifrem, creator of Neo4J:<br/>Most applications today handle data that is deeply associative, i.e. structured as graphs (networks). The most obvious example of this is social networking sites, but even tagging systems, content management systems and wikis deal with inherently hierarchical or graph-shaped data.<br/>This turns out to be a problem because it\u2019s difficult to deal with recursive data structures in traditional relational databases. In essence, each traversal along a link in a graph is a join, and joins are known to be very expensive. Furthermore, with user-driven content, it is difficult to pre-conceive the exact schema of the data that will be handled. Unfortunately, the relational model requires upfront schemas and makes it difficult to fit this more dynamic and ad-hoc data.<br/>A graph database uses nodes, relationships between nodes and key-value properties instead of tables to represent information. This model is typically substantially faster for associative data sets and uses a schema-less, bottoms-up model that is ideal for capturing ad-hoc and rapidly changing data.</p> ",
         "end_time": null,
         "link": "https://www.meetup.com/Bucharest-Data-Science-Meetup/events/235907707/",
         "organizer": "Bucharest Data Science Meetup",
-        "start_time": "2017-02-07T19:00:00+02:00",
-        "title": "Introduction to Neo4J",
+        "start_time": "2017-04-11T19:00:00+03:00",
+        "title": "Presentation - Beginners - Introduction to Neo4J",
         "venue": null
     },
-    "meetup-Bucharest-Java-User-Group-236958402": {
-        "description": "<p><b>Target audience</b>: Java developers of intermediate level, familiar with the Java language and Java 8 streams.</p> <p><b>Speaker</b>: Bogdan Posa<br/>Bogdan is a passionate Java developer working at ING, having a working experience of 5 years. He has previously held another workshop at Bucharest Java User Group on the topic of MVC 1.0, an action-oriented web framework for\u00a0Java EE\u00a0(<a href=\"https://bjug.ro/hands-on-lab-mvc-1-0-with-java-ee-8/\" class=\"linkified\">https://bjug.ro/hands-on-lab-mvc-1-0-with-java-ee-8/</a>).</p> <p><b>Abstract</b>:<br/>During this 3 hour workshop, we are going to take a look at JSON-P 1.1 (<a href=\"https://json-processing-spec.java.net/\"><a href=\"https://json-processing-spec.java.net/\" class=\"linkified\">https://json-processing-spec.java.net/</a></a>) and some of its great new features.</p> <p><i>What is JSON-Processing API</i><br/>JSON-P is an API for parsing and writing JSON objects in Java using Object model API or Stream approach.</p> <p><i>What's new in JSON-P 1.1</i><br/>JSON-P 1.1 introduces a lot of new features like JSON Pointer (RFC6901), JSON Patch (RFC6902) and JSON Merge Patch (RFC7386). The JSON Patch will also have a big impact in developing REST APIs (JAX-RS spec is going to align to JSON-P API).</p> <p>JSON-P also takes advantages of the Java's stream operations using Lambda expressions, meaning that you can process an JSON object the same way you process a Java stream.</p> <p>During the hands-on lab sessions we are going to talk about the features introduced in JSON-P 1.1 and we will try use it to solve some real problems.</p> <p><b>Duration</b>: 3h</p> <p><b>Requirements</b>:\u00a0</p> <p>\u00a0 - Please bring a laptop with a working Java development environment. Be there at 10:30 (half an hour early) if you need help with setting up your development environment.<br/>\u00a0 - Java and Java 8 streams knowledge\u00a0</p> ",
+    "meetup-Bucharest-Deep-Learning-237454988": {
+        "description": "<p>Live streaming and talks from Tensorflow Dev Summit 2017.</p> <p><br/>Pentru cei interesati si de aspectele practice din Deep Learning, mai ales daca lucrati deja sau vreti sa lucrati in\u00a0<a href=\"https://www.tensorflow.org/\">TensorFlow</a>, pe 15 februarie are loc\u00a0<a href=\"https://events.withgoogle.com/tensorflow-dev-summit/\">Tensorflow\u00a0Dev Summit</a>\u00a0in Mountain View, CA.\u00a0</p> <p>Ne vedem si in Bucuresti, la Facultatea de Automatica si Calculatoare, pentru a urmari prezentarile si a discuta atat despre tehnologiile prezentate, dar si despre alte aspecte de machine learning.</p> <p>Evenimentul va dura pana la ora 24 (poate un pic mai tarziu daca exista participanti interesati), deci va asteptam oricand in acest interval.</p> ",
         "end_time": null,
-        "link": "https://www.meetup.com/Bucharest-Java-User-Group/events/236958402/",
-        "organizer": "Bucharest Java User Group",
-        "start_time": "2017-01-28T11:00:00+02:00",
-        "title": "Workshop - Intermediate - Java API for JSON Processing",
-        "venue": "EveryMatrix: Lipscani 102, Sf. Gheorghe square, Bucharest, 5th floor, Bucharest"
+        "link": "https://www.meetup.com/Bucharest-Deep-Learning/events/237454988/",
+        "organizer": "Bucharest Deep Learning",
+        "start_time": "2017-02-15T19:30:00+02:00",
+        "title": "TensorFlow Dev Summit 2017 - Extended Bucharest",
+        "venue": "Universitatea Politehnica din Bucuresti, Facultatea de Automatica si Calculatoare: 313 Splaiul Independentei, Bucharest"
     },
-    "meetup-BucharestJS-236895944": {
-        "description": "<p>2017 is here and so is January BucharestJS Meetup! Since this is the first meetup of the year, I\u2019d like to invite you all for a cozy get together with beer, mulled wine, tea and board games at <a href=\"https://www.hackcafe.ro/\">Hackcafe</a> (33 Dimitrie Onciul Street, Bucharest).\u00a0</p> <p>Our host will be Andreas Fruth who\u2019s going to tell us more about <a href=\"https://www.hackcafe.ro/\">Hackcafe</a> and how it can become our JS crib.</p> <p>We\u2019re going to talk about JS, open-source initiatives, plan the year ahead and \u2026 have a great time together! The meetup is limited to 50 persons only so make sure you RSVP as soon as possible.</p> ",
+    "meetup-BucharestJS-237215862": {
+        "description": "<p>The lineup for February is here and ...\u00a0IT IS AMAZING! See for yourself:<br/><b><br/></b></p> <p>\u2022\u00a0<b>The (Awesome) future of Web Apps</b>, by our special <i>in-person\u00a0</i>guest Jad Joubran\u00a0 (<a href=\"https://blog.jadjoubran.io\">&lt;/a&gt;&lt;a href=\"https://blog.jadjoubran.io\"&gt;<a href=\"https://blog.jadjoubran.io\" class=\"linkified\">https://blog.jadjoubran.io</a></a>)</p> <p><i>We will start by introducing Progressive Web Apps, explaining what are the main concepts behind it (such as Web App Manifest &amp; Service Worker). We will cover in depth how we can write service worker code to control the network and create resilient experiences. After introducing PWAs, we will explore relevant best practices. Last but not least, we will explore some modern Web APIs that will make building PWAs a much more robust experience.</i></p> <p><b>\u2022\u00a0Blockchain Revolution</b>, by Stefan Neagu -\u00a0Romania <a href=\"https://lisk.io/\">Lisk</a> Country Ambassador</p> <p>\u2022\u00a0<b>JavaScript Learning Experience</b>, by Eduard Budacu - Agile Coach, <a href=\"http://www.dovelopers.com/\">DOvelopers</a></p> <p>\n\n<i>A talk about the experiece of facilitating the web technologies lab at \"Cibernetica\", ASE and some thoughts about community involvement in 2017 to enhance learning in universities.</i></p> <p><i><br/></i>===========================================================</p> <p>Don't miss this one and feel free to invite 1-2 friends that might be interested in joining the meetup. Make sure to find us on Facebook (<a href=\"https://www.facebook.com/groups/BucharestJS\" class=\"linkified\">https://www.facebook.com/groups/BucharestJS</a>) and Twitter (<a href=\"http://www.twitter.com/bucharestjs\" class=\"linkified\">http://www.twitter.com/bucharestjs</a>).</p> ",
         "end_time": null,
-        "link": "https://www.meetup.com/BucharestJS/events/236895944/",
+        "link": "https://www.meetup.com/BucharestJS/events/237215862/",
         "organizer": "BucharestJS",
-        "start_time": "2017-01-31T19:00:00+02:00",
-        "title": "January BucharestJS Meetup",
-        "venue": "HackCafe: Strada Dimitrie Onciul 33, Bucure\u0219ti 024054, Bucharest"
+        "start_time": "2017-02-21T19:00:00+02:00",
+        "title": "February BucharestJS Meetup",
+        "venue": "TechHub Bucharest: 39-41 Nicolae Filipescu, Bucharest"
     },
-    "meetup-Cluj-Javascripters-236663587": {
-        "description": "<p>We're super excited to have a special guest invited all the way up from Timisoara for this meetup. It's also one of our first collaborations with sister groups from other cities. So let's all welcome Cassian and hear what he has to say about TypeScript :).</p> <p><br/><b>About the presentation:</b></p> <p>Supersets of JavaScript have come and gone. Is TypeScript different? This talk will walk you through the ups and downs of adopting TS across 3 different projects, all in 1 intense year. We\u2019ll start with a bit of a context, explaining why it gained momentum, talking about its strong points as well as its pitfalls. We will then look at some examples of using it in real projects. And in the end, we\u2019ll see why TS is a safety-net we should all benefit from\u2026 or should we? Come and find out!</p> <p><b>About the speaker:</b></p> <p>Cassian Lup is a Lead Developer with 3Pillar Global and a co-organizer of TIM.js (<a href=\"http://www.timjs.ro/\"><a href=\"http://www.timjs.ro/\" class=\"linkified\">http://www.timjs.ro/</a></a>). He has a passion for the web and tries to look at it with a creative, yet critical eye. He has a passion for all things JS, from trainings and workshops all the way to solving real-life problems with code. When not online, he loves hanging out with his wife and two kids.</p> <p>Looking forward to seeing you all!</p> <p>\n\n\n<b><br/></b></p> ",
+    "meetup-Cluj-Napoca-WordPress-Meetup-237577174": {
+        "description": "<p>Hello hello!</p> <p>On February 27th we're meeting up again.</p> <p>This meetup will be in the form of an open discussion / knowledge sharing, structured on 2 themes:</p> <p><b>1. How to choose a theme\u00a0</b></p> <p>We'll be discussing how we evaluate a theme, try to put together a list of useful suggestions for anyone looking to setup a new WordPress site.</p> <p><b>2. Our go-to Plugins</b></p> <p>We'll take turns discussing about the plugins we use most often. What do they do, what alternatives are there, who uses what.</p> <p>We've pushed back the date in hopes that we'll be able to find someone to give us a talk about developing themes for selling them on ThemeForest. Unfortunately we haven't managed to find anyone yet.\u00a0</p> <p><br/>So this is also an open call for all you theme developers out there - if you wanna give a talk in the Cluj Meetup, please contact us. (We can also, if you're unable to visit our wonderful city, do this online on skype , hangouts, or you name it).</p> <p>Looking forward to seeing you all!</p> ",
         "end_time": null,
-        "link": "https://www.meetup.com/Cluj-Javascripters/events/236663587/",
-        "organizer": "Cluj JavaScripters",
-        "start_time": "2017-01-25T18:30:00+02:00",
-        "title": "TypeScript: The Good Cop",
-        "venue": "3PG HQ: The Office Bulevardul 21 Decembrie 1989, nr. 77, Cluj-Napoca, corp B, et. 5, 3PillarGlobal, Cluj-Napoca"
+        "link": "https://www.meetup.com/Cluj-Napoca-WordPress-Meetup/events/237577174/",
+        "organizer": "Cluj-Napoca WordPress Meetup",
+        "start_time": "2017-02-27T18:30:00+02:00",
+        "title": "February Meetup",
+        "venue": "The office of Forward Rom\u00e2nia: Str. N\u0103s\u0103ud 22, scara A, ap. 7, et. 1, Cluj-Napoca"
+    },
+    "meetup-Cluj-WEB-Developers-237632838": {
+        "description": "<p><b>Fighting macro-corruption with microservices - theory, back-end, front-end, Docker and Kubernetes\u00a0</b></p> <p><br/><i>No longer does one app \u201crule them all\u201d</i></p> <p>From a user experience perspective, architectural styles have evolved to what we now might call \"pay by the drink\". Where we don\u2019t just offer a single monolithic platform, we offer a multidimensional approach where users can pick and choose the workflows and micro apps of their choice.</p> <p>A similar trend is also happening in software development, where microservices are now the mainstream approach for scalable systems architecture. Many software engineers are making the transition from monolithic architectures to microservice architectures. This approach has until most recently been limited to back-end services. As development is much more complicated when using microservices as building blocks for a frontend solutions, especially with the latest JS frameworks that promote a\u00a0monolithic approach to front-end architecture.</p> <p>We will give an overview of the theory of microservices \u2013 what they are and why you would use them. We will then delve into the dark arts of back-end development, explaining how you can construct a winning product with microservices whilst avoiding its pitfalls. We will also discuss methods of rolling your own Frontend app in a world of backend microservices and tackling the challenges of monolithic frontend apps when working with microservices as backend.<br/>\u00a0\nThe presentation will cover:</p> <p>\u2022 Background on what microservices are and why you would use them</p> <p>\u2022\u00a0A walk through of a backend application development and architecture using microservices to compare and contrast\u00a0 traditional architectural methodologies</p> <p>\u2022\u00a0A discuss on the ways of rolling your own frontend app in a world of backend microservices and ways of tackling challenges of having a monolithic frontend app working with microservices as backend</p> <p>\u2022 Finally, no discussion of microservices would be complete without touching on the integration of Docker and Kubernetes from a developer\u2019s perspective<br/>\u00a0</p> <p><b>Speakers:</b></p> <p><b>Oliver Butterfield (Platform Lead)</b> is <a href=\"https://complyadvantage.com/\">ComplyAdvantage\u2019</a>s primary driving towards adopting a microservice architecture. Oliver previously worked in the server hosting industry and as one of the first team members became the de facto DevOps Engineer in the early days of ComplyAdvantage. Fast forward three years and he's now overseeing development of our client-facing services, including the refactoring of the core application from a monolith to microservices. Oliver is currently excited by distributed computing and performance technologies, such as Kubernetes, AWS, NewRelic and Go.</p> <p><b>Persic Alexandru Cristian (Backend Lead)</b> studied computer science at \"Stefan cel Mare\" University, followed by a masters degree in software engineering (apparently 5 years of study was not good enough). At University he started working at an outsource company using Microsoft technologies and enjoyed each step from helping with JavaScript to implementing custom workflows in SharePoint. After 5 years he saw the light and moved to Python/Django, building a mobile advertising platform from the ground up. In 4 years he managed to gain plenty of experience in managing the implementation, deployment, and maintenance of a large scale web application. In 2016 Cristi made a daring move and joined <a href=\"https://complyadvantage.com/\">ComplyAdvantage</a> in the quest of finding once more the excitement of building a new and successful product, all the while fighting crime like any other regular superhero.<br/>\u00a0\n<b>Kun Andrei (FrontEnd Lead)</b> graduated from Technical University of Cluj-Napoca, studying Electronics, Telecommunications and Information Technology. Since then he's been working as a Web Developer on both backend and frontend, though finally focussing on the latter. He followed his passion for UI and the latest frontend technologies. After he gained experience with various corporations and outsourcing companies he was lured by the opportunities of a young and ambitious startup team where he could take ownership of his work and put his own mark on products. Joining <a href=\"https://complyadvantage.com/\">ComplyAdvantage</a> was the right step in this direction, he now takes care of the company's front-end apps.<br/>\u00a0\n<b>Andrew Smith (DevOps Lead)</b> studied Mathematics at Warwick University (UK). Graduating in 2012 with no idea what he wanted to do as a career, he fell into a Release Engineering Role at a London FinTech company. Three years later, in January 2016, he joined <a href=\"https://complyadvantage.com/\">ComplyAdvantage</a> as their first DevOps Engineer (a far more morally fulfilling role). He has implemented technology, infrastructure, and procedures to effectively and reliably go \"From Idea to Production\" (to quote GitLab) and to keep everything highly available once it's there. Outside of work, you'll most likely find him at the nearest venue playing loud music, performing culinary experimentation or creating fine works of art in MS Paint.</p> <p><b>Schedule:\u00a0</b></p> <p>18:00 - 18:15 - Arrival time. Come in, get\u00a0your name tag, have some snacks, pour yourself a\u00a0cup of coffee/tea and meet us!</p> <p>18:15 - 19:00 - presentation</p> <p>19:00 - 19:15 - Let's take a break, enjoy some refreshments and network some more!\u00a0Food and drink provided.</p> <p>19:15 - 20:00 - presentation continues</p> <p>20:00 - 20:15 - Conclusions</p> <p>___________________________________________\u00a0</p> <p>Why to attend?\u00a0</p> <p>\uf0b7 To learn as to what others are doing;\u00a0</p> <p>\uf0b7 To ask questions;\u00a0</p> <p>\uf0b7 To network;</p> <p>\uf0b7 To relax and have a chat;</p> <p>\uf0b7 To speak about your products and services;</p> <p>\uf0b7 To build or to retain old connections;</p> <p>__________________________________________ \u00a0</p> <p><br/>Registration here on Meetup is mandatory for this event!</p> ",
+        "end_time": null,
+        "link": "https://www.meetup.com/Cluj-WEB-Developers/events/237632838/",
+        "organizer": "Cluj WEB Developers",
+        "start_time": "2017-02-23T18:00:00+02:00",
+        "title": "Fighting macro-corruption with microservices - theory, backend, frontend, Docker",
+        "venue": "ClujHUB: str. Pitesti, nr.19, Cluj-Napoca"
     },
     "meetup-Cluj-fp-236791113": {
-        "description": "<p>Programul intalnirii:<br/>6:30 - 7:00 sosirea participantilor + pizza din partea Ullink<br/>7:00 - 8:30 - Denis Rosca - Generic Programming in Scala: Type Class Derivation</p> <p>Type class derivation is an advanced programming technique that facilitates<br/>safe processing of Scala's case classes and sealed traits in generic<br/>ways while decreasing code duplication and boilerplate.</p> <p>Traditionally, generic programs tasked with handling of arbitrary ADTs (e.g.<br/>serialization libraries) have made heavy use of runtime reflection APIs while<br/>sacrificing safety. Typically those libraries provide default instances for<br/>\"standard\" types and various ways of combining them. Library users must write<br/>instances for their own data types in terms of those. This is usually a time<br/>consuming and laborious process, but it is nevertheless completely<br/>mechanical, based entirely on the structure of the types involved. So wouldn't it be nice if we could persuade the Scala compiler to use the<br/>structure of those types and do the work for us? Building on [shapeless's](<a href=\"https://github.com/milessabin/shapeless/\" class=\"linkified\">https://github.com/milessabin/shapeless/</a>)<br/>core generic programming primitives and support for automatic type class<br/>derivation we can! In this talk we'll see how taking advantage of automatic derivation<br/>reduces boilerplate &amp; mechanical code. Along the way we'll discover the<br/>surprisingly simple underlying mechanism that allows us to do that.</p> ",
+        "description": "<p>Programul intalnirii:<br/>6:30 - 7:00 sosirea participantilor + pizza din partea Ullink<br/>7:00 - 8:30 - Denis Rosca - Generic Programming in Scala: Type Class Derivation</p> <p>Type class derivation is an advanced programming technique that facilitates safe processing of Scala's case classes and sealed traits in generic ways while decreasing code duplication and boilerplate.</p> <p>Traditionally, generic programs tasked with handling of arbitrary ADTs (e.g. serialization libraries) have made heavy use of runtime reflection APIs while sacrificing safety. Typically those libraries provide default instances for \"standard\" types and various ways of combining them. Library users must write instances for their own data types in terms of those.\u00a0</p> <p>This is usually a time consuming and laborious process, but it is nevertheless completely mechanical, based entirely on the structure of the types involved. So wouldn't it be nice if we could persuade the Scala compiler to use the structure of those types and do the work for us?\u00a0Building on [shapeless's](<a href=\"https://github.com/milessabin/shapeless/)\u00a0core\" class=\"linkified\">https://github.com/milessabin/shapeless/)\u00a0core</a> generic programming primitives and support for automatic type class derivation we can!</p> <p>In this talk we'll see how taking advantage of automatic derivation reduces boilerplate &amp; mechanical code. Along the way we'll discover the surprisingly simple underlying mechanism that allows us to do that.</p> ",
         "end_time": null,
         "link": "https://www.meetup.com/Cluj-fp/events/236791113/",
         "organizer": "Cluj.fp",
-        "start_time": "2017-02-01T18:30:00+02:00",
+        "start_time": "2017-02-15T18:30:00+02:00",
         "title": "Generic Programming in Scala: Type Class Derivation",
         "venue": "Sediul Ullink: Str Victor Deleu nr 1, et 3 (intrarea dinspre Parcul Caragiale), cluj-napoca"
     },
-    "meetup-Cluj-py-236771431": {
-        "description": "<p>Location: Corp. A, floor 1.</p> <p><br/>Schedule:</p> <p><b>6PM - Entry</b></p> <p>There will be pizza, courtesy of <a href=\"http://tss-yonder.com/\">Yonder</a>.</p> <p><br/><b>6:30 - What is OpenStack</b> (<a href=\"https://github.com/ctomoiaga\">Cristian Tomoiaga</a>)</p> <p>Ever wonder what <a href=\"http://www.openstack.org/\">OpenStack</a> is and how Python is used to build the largest open source cloud operating system ? Well, this presentation is for you! We will focus on the main building blocks of OpenStack, how everything is connected and why Python was the main programming language chosen.</p> <p><b>7:00 - Break</b></p> <p><b>7:15 - To C or not to C? Let nim anwser the question! </b>(<a href=\"https://github.com/BontaVlad\">Vlad Bonta</a>)</p> <p>Python is slow, we all know it! Let's talk about some quick workarounds and how can a cool thing as Nim help us speed things out.</p> <p><b>8:00 - Closing</b></p> ",
+    "meetup-Cluj-fp-237334914": {
+        "description": "<p>Programul intalnirii:<br/>6:30 - 7:00 sosirea participantilor + pizza din partea Ullink<br/>7:00 - 8:30 - Adrian Magdas - Pragmatic web functional programming using Elm</p> <p>* Short introduction to Elm language.<br/>* Deep dive into Elm Architecture and why you don't need components.<br/>* Quick code walkthrough into a real world project implemented using Elm and Elixir.</p> ",
         "end_time": null,
-        "link": "https://www.meetup.com/RoPython-Cluj/events/236771431/",
-        "organizer": "RoPython-Cluj",
-        "start_time": "2017-01-18T18:00:00+02:00",
-        "title": "What is OpenStack and Python extensions in Nim",
-        "venue": "Yonder: 77, 21 Decembrie 1989, The office, Cluj-Napoca"
+        "link": "https://www.meetup.com/Cluj-fp/events/237334914/",
+        "organizer": "Cluj.fp",
+        "start_time": "2017-03-22T18:30:00+02:00",
+        "title": "Pragmatic web functional programming using Elm",
+        "venue": "Sediul Ullink: Str Victor Deleu nr 1, et 3 (intrarea dinspre Parcul Caragiale), cluj-napoca"
     },
-    "meetup-DigitalOceanBucharest-236846517": {
-        "description": "<p><b>Join us for the second DigitalOcean meetup held in Bucharest.\u00a0</b></p> <p>We have a very <b>special guest</b> from <b>DigitalOcean</b>, <b>Hugo Corbucci</b>!\u00a0</p> <p>He will delight us with info about Continuous Deployment, Delivery and Integration !</p> <p><br/><b>Agenda:</b></p> <p>19:30\u201320:00 Participants arrival and pizza</p> <p>20:00\u201321:00\u00a0Continuous Delivery, Deployment and Integration with DigitalOcean;<br/>Speaker: Hugo Corbucci</p> <p>21:00-21:15 OpenSource Project Sharing - 3 projects [1]</p> <p>21:00\u201322:00 Application Security, Auditing and Monitoring\u00a0with HubbleStack;<br/>Speaker: Daniel Colceag</p> <p>[1]\u00a0OpenSource Project Sharing proposal form:\u00a0<a href=\"https://goo.gl/forms/ybInuUFzaTtakXQW2\" class=\"linkified\">https://goo.gl/forms/ybInuUFzaTtakXQW2</a></p> <p>Proposal submission deadline: SUBMISSION: 16th January 23:59.</p> <p><br/><b>About the speakers</b></p> <p><br/>Hugo Corbucci\u00a0</p> <p>\u00a0<a href=\"https://twitter.com/hugocorbucci?lang=en\">@hugocorbucci</a>\u00a0|\u00a0<a href=\"http://hugocorbucci.com/about.html\"><a href=\"http://hugocorbucci.com/about.html\" class=\"linkified\">http://hugocorbucci.com/about.html</a></a></p> <p>Software Engineer at DigitalOcean</p> <p>\n\n\nDaniel Colceag\u00a0</p> <p>\u00a0<a href=\"https://twitter.com/mdcolceag\">@mdcolceag\u00a0</a>|\u00a0<a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdaniel-colceag&amp;h=LAQEr7Ec0\"><a href=\"https://www.linkedin.com/in/daniel-colceag\" class=\"linkified\">https://www.linkedin.com/in/daniel-colceag</a></a></p> <p>NLP &amp; Machine Learning Engineer @ Oracle<br/>Full Stack Developer during free time<br/>AI MSc student @ UPB\u00a0</p> <p>\n\n\n\nWe\u2019d love your feedback!</p> <p>How can we make this meetup more valuable to you? Tell us what talks, demos, foods, drinks, etc. you\u2019d like to see at upcoming meetups \u2014<a href=\"http://do.co/bettermeetup\">\u00a0share your ideas in the Suggestion Box</a>. Anyone interested in giving a talk is welcome to<a href=\"http://do.co/meetuptalk\">\u00a0submit a talk proposal</a>. And if you\u2019d like to help co-organize/host future meetups,<a href=\"http://do.co/newmeetup\">\u00a0apply here</a>.</p> <p>Join the<a href=\"https://www.digitalocean.com/community\">\u00a0DigitalOcean Community</a>\u00a0to find all the resources you need to go from development to production, and please read our<a href=\"http://do.co/newmeetup\">\u00a0Events Code of Conduct</a>\u00a0before attending.</p> ",
+    "meetup-Cluj-fp-237335112": {
+        "description": "<p>Programul evenimentului:<br/>6:30-7:00 - Sosirea participantilor<br/>7:00-9:00 - Dojo</p> <p>Vom forma perechi, vom alege o problema si o vom rezolva intr-un limbaj functional. Pentru asta vom avea nevoie ca jumatate dintre noi sa vina cu un environment pregatit pentru limbajul preferat. Ca sa putem planifica mai exact va rog sa ne spuneti daca puteti veni sau nu cu laptop sau nu. Participantii vor fi acceptati in functie de cate laptopuri pregatite avem.</p> <p>Ca si in alte dati vom avea pizza din partea Ullink.</p> ",
         "end_time": null,
-        "link": "https://www.meetup.com/DigitalOceanBucharest/events/236846517/",
-        "organizer": "DigitalOcean Bucharest",
-        "start_time": "2017-01-17T19:30:00+02:00",
-        "title": "DigitalOcean Bucharest Meetup #2: deploy, secure, audit and monitor applications",
-        "venue": "Bucharest Tech Hub: 39-41 Nicolae Filipescu , Bucharest, Bucharest"
-    },
-    "meetup-Drupal-Cluj-qjgbzjywcbhb": {
-        "description": "<p>Ne intalnim, discutam si aflam mai multe despre Drupal. :)</p> <p>Cei de la AMPLEXOR vor prezenta ultimele lor proiecte(le) pe Drupal 8 bazate pe teme Bootstrap.</p> <p>Adaugati in comentarii \"oferte / cereri\" de prezentari.</p> ",
-        "end_time": null,
-        "link": "https://www.meetup.com/Drupal-Cluj/events/236495113/",
-        "organizer": "Drupal Cluj",
-        "start_time": "2017-01-19T19:00:00+02:00",
-        "title": "Drupal Cluj Meetup",
-        "venue": "AMPLEXOR: Str. Republicii, Nr 69, Cluj-Napoca"
-    },
-    "meetup-Drupal-Cluj-qjgbzjywdbdb": {
-        "description": "<p>Ne intalnim, discutam si aflam mai multe despre Drupal. :)</p> <p>Adaugati in comentarii \"oferte / cereri\" de prezentari.</p> ",
-        "end_time": null,
-        "link": "https://www.meetup.com/Drupal-Cluj/events/qjgbzjywdbdb/",
-        "organizer": "Drupal Cluj",
-        "start_time": "2017-02-02T20:00:00+02:00",
-        "title": "Drupal Cluj Meetup",
-        "venue": "Cluj Hub: Cluj Hub, Strada Pite\u0219ti, Cluj-Napoca"
+        "link": "https://www.meetup.com/Cluj-fp/events/237335112/",
+        "organizer": "Cluj.fp",
+        "start_time": "2017-02-22T18:30:00+02:00",
+        "title": "FP Coding dojo",
+        "venue": "Sediul Ullink: Str Victor Deleu nr 1, et 3 (intrarea dinspre Parcul Caragiale), cluj-napoca"
     },
     "meetup-Drupal-Cluj-qjgbzjywfbdb": {
         "description": "<p>Ne intalnim, discutam si aflam mai multe despre Drupal. :)</p> <p>Adaugati in comentarii \"oferte / cereri\" de prezentari.</p> ",
@@ -206,6 +197,24 @@
         "title": "Drupal Cluj Meetup",
         "venue": "Cluj Hub: Cluj Hub, Strada Pite\u0219ti, Cluj-Napoca"
     },
+    "meetup-Drupal-Cluj-qjgbzjyxdbcb": {
+        "description": "<p>Ne intalnim, discutam si aflam mai multe despre Drupal. :)</p> <p>Adaugati in comentarii \"oferte / cereri\" de prezentari.</p> ",
+        "end_time": null,
+        "link": "https://www.meetup.com/Drupal-Cluj/events/qjgbzjyxdbcb/",
+        "organizer": "Drupal Cluj",
+        "start_time": "2018-02-01T20:00:00+02:00",
+        "title": "Drupal Cluj Meetup",
+        "venue": "Cluj Hub: Cluj Hub, Strada Pite\u0219ti, Cluj-Napoca"
+    },
+    "meetup-Internet-of-Things-Timisoara-237335730": {
+        "description": "<p>For the first event of our meetup this year we are bringing in quite interesting presentations with both theoretical and practical stuff from two of the most involved IoT specialists in Timisoara.</p> <p><br/>Firstly, <a href=\"https://www.meetup.com/Internet-of-Things-Timisoara/members/185194277/\">Radu Motisan</a> will guide us through an engaging hands-on demonstration on modules and \u00a0technologies like <a href=\"http://www.nodemcu.com/index_en.html\">NodeMCU</a>, <a href=\"https://www.sparkfun.com/products/13736\">Teensy</a>, <a href=\"https://onion.io/\">Onion</a>, <a href=\"https://www.lora-alliance.org/For-Developers/LoRaWANDevelopers\">LoRAWAN</a>, he is recently involving in his well known uRADMonitor project.</p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/4/c/d/600_458161229.jpeg\" /></p> <p>Radu will deliver a quick programming demonstration to show to the audience how all the things mentioned before are orchestrated and will also present the most recent prototype of the uRADMonitor CITY version of his product.</p> <p><br/>For the second presentation, <a href=\"https://www.meetup.com/Internet-of-Things-Timisoara/members/13700493/\">Catalin Gheorghiu</a> will approach topics related to the usage of SQL database on IoT devices. Starting from the power the IoT devices feature currently, Catalin will demonstrate that it makes total sense to run SQL database engines on these devices.</p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/4/d/8/600_458161240.jpeg\" /></p> <p>Involving a real world scenario and real hardware, the presentation will explain how and what for SQL databases work within the field gateway concept, generating expected benefits and making best use of the features \u00a0and resources available.</p> ",
+        "end_time": null,
+        "link": "https://www.meetup.com/Internet-of-Things-Timisoara/events/237335730/",
+        "organizer": "Internet of Things Timisoara",
+        "start_time": "2017-02-13T18:15:00+02:00",
+        "title": "February Hands-on IoT Meetup",
+        "venue": "Timisoara Startup Hub: City Business Centre, D Building, Ground Floor, 10th, C. Brediceanu , Timisoara"
+    },
     "meetup-MobOS-2017-235835213": {
         "description": "<p>MobOS stands for Mobile Operating Systems and it represents the Community of Mobile Developers in Romania. Every year, we organize a conference to gather all mobile passionate, learn from international speaker and network with like minded peers.</p> <p>We are now getting things ready for the 4th edition of the conference during 16-17 February 2017, in Cluj Napoca. This will mark the peak of the event, making it the Biggest Conference on Mobile Technologies in Romania.</p> <p><b>Agenda is now available</b> - <a href=\"http://romobos.com/agenda-2\">check it out here</a>\u00a0\u00a0\u00a0</p> <p>And <a href=\"http://romobos.com/tickets\"><b>tickets are up for grabs</b></a> - be fast as usually the workshops run out very fast!\u00a0\u00a0</p> <p>And hope to see you soon at MobOS!</p> ",
         "end_time": null,
@@ -216,58 +225,40 @@
         "venue": "Grand Hotel Napoca: str. Octavian Goga nr.1, 400698, Cluj-Napoca"
     },
     "meetup-Mobile-Growth-Bucharest-236556894": {
-        "description": "<p>Come out for an awesome discussion about how to grow your mobile business and meet some cool people involved in apps.</p> <p>We'll kick off the evening with some beer, soft drinks, and pizza, and then hear lessons and best practices for app growth. We'll cover organic and paid user acquisition, retention and engagement strategies, tactics for push, in-app message and email, and their own war stories from the mobile trenches. Then we'll hang out for a little while longer to chat about all the cool things we just learned.</p> <p><b>The People</b>\u00a0(coming soon...)\u00a0</p> <p><b>The Plan\u00a0</b></p> <p>6.30pm\u00a0- Check-in and onsite registration\u00a0<br/>7.00pm\u00a0- Welcome and introductions\u00a0<br/>7.15 pm\u00a0- Mobile Growth Panel\u00a0<br/>7.45pm\u00a0- Q&amp;A from Audience\u00a0<br/>8.00pm\u00a0- Social Hour\u00a0</p> <p><i>Mobile Growth meetups are powered by\u00a0<a href=\"https://branch.io/?bmp=meetup\">Branch</a>.\u00a0</i></p> <p><b>The Sponsors\u00a0</b></p> <p><a href=\"https://branch.io/about/\">Branch</a>\u00a0provides free deep linking technology to mobile app developers and marketers. We're on a mission to help you grow your business through deep linking, and allow users to discover content inside mobile apps. Branch links drive app conversions, engagement, and retention on every marketing channel. Branch powers over 1.5 billion links a day for thousands of users across the world. Find out more about Branch and our\u00a0<a href=\"https://mobilegrowth.org/\">Mobile Growth Community</a>\u00a0online.\u00a0</p> ",
+        "description": "<p>Come out for an awesome discussion about how to grow your mobile business and meet some cool people involved in apps.</p> <p>We'll kick off the evening with some beer, soft drinks, and pizza, and then hear lessons and best practices for app growth. We'll cover organic and paid user acquisition, retention and engagement strategies, tactics for push, in-app message and email, and their own war stories from the mobile trenches. Then we'll hang out for a little while longer to chat about all the cool things we just learned.</p> <p><b>The People</b>\u00a0<br/><a href=\"https://ro.linkedin.com/in/filipalexandru\">Alex Filip</a>, General Manager, <a href=\"https://www.facebook.com/eventur.ro\">Eventur</a><br/><a href=\"https://fr.linkedin.com/in/andrei-tanascu-7583b033\">Andrei Tanascu</a>, ex-Head of Mobile Development,\u00a0<a href=\"https://www.guesttoguest.com/en/\">GuestToGuest</a><br/><a href=\"https://ro.linkedin.com/in/ddragomir\">Diana Dragomir</a>, Co-founder, <a href=\"https://www.mindtreatstudios.com/\">Mind Treat Studios</a><br/><a href=\"https://ro.linkedin.com/in/radumargarit\">Radu Margarit</a>, Freya Operations Manager, <a href=\"http://soft-tehnica.com/\">Soft Tehnica</a></p> <p><br/><b>The Plan\u00a0</b></p> <p>6.30pm\u00a0- Check-in and onsite registration\u00a0<br/>7.00pm\u00a0- Welcome and introductions\u00a0<br/>7.15 pm\u00a0- Mobile Growth Panel\u00a0<br/>7.45pm\u00a0- Q&amp;A from Audience\u00a0<br/>8.00pm\u00a0- Social Hour\u00a0</p> <p><i>Mobile Growth meetups are powered by\u00a0<a href=\"https://branch.io/?bmp=meetup\">Branch</a>.\u00a0</i></p> <p><b>The Sponsors\u00a0</b></p> <p><a href=\"https://branch.io/about/\">Branch</a>\u00a0provides free deep linking technology to mobile app developers and marketers. We're on a mission to help you grow your business through deep linking, and allow users to discover content inside mobile apps. Branch links drive app conversions, engagement, and retention on every marketing channel. Branch powers over 1.5 billion links a day for thousands of users across the world. Find out more about Branch and our\u00a0<a href=\"https://mobilegrowth.org/\">Mobile Growth Community</a>\u00a0online.\u00a0</p> ",
         "end_time": null,
         "link": "https://www.meetup.com/Mobile-Growth-Bucharest/events/236556894/",
         "organizer": "Mobile Growth Bucharest",
-        "start_time": "2017-03-28T18:30:00+03:00",
-        "title": "Mobile Growth Bucharest: March Meetup",
-        "venue": null
+        "start_time": "2017-02-16T18:30:00+02:00",
+        "title": "Mobile Growth Bucharest @ TechHub",
+        "venue": "TechHub: Parter, Strada Nicolae Filipescu 39-41, Bucharest"
     },
-    "meetup-Product-Camp-Bucharest-Meetup-235764168": {
-        "description": "<p>Hi Product Campers,</p> <p>Our next meetup is about\u00a0\u201c<b>Contractual Risks</b>\u201d by <i><a href=\"https://ro.linkedin.com/in/ioana-anda-balasa-8bba235a/en\">Lawyer Ioana Anda B\u0103la\u0219a</a></i></p> <p><i>\"What are the consequences of not having mentioned the unilateral termination of a service contract?</i></p> <p><i>What options do you have if the client is not paying you?</i></p> <p><i>What are the hidden risks to consider when the lease agreement on your office headquarters is close to expiration?</i></p> <p><i>This workshop, built upon my years of experience in working with both young and experienced entrepreneurs, aims to provide insight into how even the simplest contractual clauses can hide unfortunate consequences that can lead anywhere from loss of profit to loss or reputation or even bankruptcy.</i></p> <p><i>Understanding such issues can help you make an informed decision and mitigate risks or even avoid them altogether.\"</i></p> <p>\n\n\nIn the second part we have\u00a0<a href=\"https://en.wikipedia.org/wiki/Open_Space_Technology\">Open Space</a>\u00a0and we invite <b>you</b> to come up with your topic or question related to\u00a0<i>Product Development</i>,\u00a0<i>Software Product Management</i>, or anything related to our theme.</p> <p>\n\n\n<b>Agenda:</b></p> <p>18:45 - 19:00 Welcome Product Campers</p> <p>19:00 - 20:00 \"Contractual Risks\u201d by\u00a0<i>Lawyer Ioana Anda B\u0103la\u0219a</i></p> <p>20:00 - 20:10 BREAK</p> <p>20:10 - 21:15 Open Space</p> <p>See you at Tech Hub Bucharest on Monday, 23rd January 2017!</p> ",
+    "meetup-Product-Camp-Bucharest-Meetup-237523447": {
+        "description": "<p>Hi Productcampers,</p> <p>This month <b><a href=\"http://www.romanescu.com\">Andrei Romanescu</a></b>, <i>mentor for go-getters,\u00a0</i>will talk about \"<b>How to Accelerate Your Startup and Turn it Into a Business</b>\"</p> <p>Throughout his 20-years career, Andrei developed a strong passion for People, Operational Excellence and Customer Delight. He likes to see opportunities when everyone else spots challenges, build on strengths, and strategize businesses.</p> <p>Here is a short summary of his talk:</p> <p><i>\"Having a full time job and developing your own business in parallel? Possible.\u00a0</i></p> <p><i>What does a premium desserts business has in common with IT? Quite a lot.\u00a0</i></p> <p><i>Join us and find out how a family turned a hobby that had nothing to do with their day2day jobs into a business with an annual growth rate of 70%-80%.\u00a0</i></p> <p><i>Listen to their story about:</i></p> <p><i>(a) how they developed and marketed the products;</i></p> <p><i>(b) how they differentiated the brand and increased sales on a very competitive market driven by price;\u00a0</i></p> <p><i>(c) the challenges they had to overcome and mistakes they made as entrepreneurs so you avoid the traps.\u00a0</i></p> <p><i>The sweet business we will be talking about:\u00a0<a href=\"http://www.cupcakephilosophy.ro/\">www.cupcakephilosophy.ro</a>;\u00a0</i></p> <p><i><a href=\"http://www.facebook.com/cupcakephilosophy\">www.facebook.com/cupcakephilosophy</a>\"</i></p> <p>\n\n\nAs always in the second part we have <b>Open Space </b>and you are invited to bring your topics about <i>Product Development</i>, <i>Startup Businesses</i>, or anything else related to our topic.</p> <p><b>Agenda:</b></p> <p>18:45 - 19:00 \u00a0Welcome Product Campers</p> <p>19:00 - 19:10 \u00a0Intro</p> <p>19:10 - 20:10 \u00a0\"<b>Accelerate your startup. Turn it in2 a business</b>\" by <i><a href=\"http://www.romanescu.com\">Andrei Romanescu</a></i></p> <p>20:10 - 20:20 \u00a0BREAK</p> <p>20:20 - 21:15 \u00a0 \u00a0OPEN SPACE</p> <p>\n\n\nSee you there!</p> <p>Adrian &amp; Vlad</p> ",
         "end_time": null,
-        "link": "https://www.meetup.com/Product-Camp-Bucharest-Meetup/events/235764168/",
+        "link": "https://www.meetup.com/Product-Camp-Bucharest-Meetup/events/237523447/",
         "organizer": "Product Camp Bucharest Meetup",
-        "start_time": "2017-01-23T18:45:00+02:00",
-        "title": "Product Camp Bucharest #9 - \"Contractual Risks in Early Stage Business\"",
+        "start_time": "2017-02-20T18:45:00+02:00",
+        "title": "Product Camp Bucharest #10: Accelerate Your Startup. Turn it in2 a Business",
         "venue": "TechHub Bucharest: 39-41 Nicolae Filipescu, Bucharest"
     },
-    "meetup-Tabara-de-Testare-Cluj-dvppbkywdbcb": {
-        "description": "<p>Hello!</p> <p>This meetup is a do-over session from the testing track at Codecamp Cluj.</p> <p>The content owner will be Levente Florisca. During this presentation, he aims to cover the following:</p> <p><i>What is software testing? It is simply understanding the functionality and architecture of a piece of software and test it until fear of not finding any bugs turns to boredom? But what about coding? Is that required for a tester or it is a knowledge exclusively for developers? Does coding help in the software testing? Is automation a fantasy, in a euphoric world? The difference between software delivering and software developing / testing is a topic which can be discussed until the edge of infinity. The pros and cons of each side will be discussed from a QA point of view.</i></p> <p>Levi started to learn, after few years he was asked to tutor, teach and train others in the magical land of automation and testing. He's been holding workshops and training at companies for more than 2 years now, the rest of his info can be tracked on social media.</p> <p><b>***About TdT</b></p> <p><b>1.</b> <b>Meetup starts at 18:30</b>.</p> <p>Please show up at 18:15 to ensure a smooth and proper start of the event.</p> <p><b>2.</b> Each meetup has the following <b>workflow</b>:</p> <p>- by the organizers/facilitators: introduction to Tabara de Testare</p> <p>- by the speaker: speaker background &amp; then the presentation / workshop itself</p> <p>- each participant is invited to donate <b>10 lei</b> to cover the expenses for the location (i.e. Cluj Cowork)</p> <p>- electronic feedback form - available on the meetup message board after the event</p> <p><b>3. TdT online presence</b>:</p> <p>- Blog: <a href=\"http://tabaradetestare.ro/\"><a href=\"http://tabaradetestare.ro/\" class=\"linkified\">http://tabaradetestare.ro/</a></a></p> <p>- Slideshare: <a href=\"http://www.slideshare.net/tabaradetestare\"><a href=\"http://www.slideshare.net/tabaradetestare\" class=\"linkified\">http://www.slideshare.net/tabaradetestare</a></a></p> <p>- Twitter: @tabaradetestare</p> <p>- Facebook: <a href=\"https://www.facebook.com/Tabara.de.Testare?fref=ts\"><a href=\"https://www.facebook.com/Tabara.de.Testare?fref=ts\" class=\"linkified\">https://www.facebook.com/Tabara.de.Testare?fref=ts</a></a></p> <p>- Please mention if you do not wish to be photographed or have your picture posted online</p> <p>Thank you,</p> <p>TdT Team</p> ",
+    "meetup-ProductTank-Bucharest-237550623": {
+        "description": "<p>Welcome to the first meetup of 2017! If you\u2019re working in a startup or a larger company, then you must know that the Product Management role is adapting based on the company size and needs.</p> <p>Dana Niculescu (Product Manager @AdsWizz) will walk us through the different skillsets, goals and challenges a Product Manager is handling while working in different sized companies.</p> <p>We will have an open and casual discussion and we also encourage you to share your experience with the community during the presentation or in the networking session.</p> <p>Join us at Hootsuite office on February 21st at 19:00.</p> <p>See you soon,<br/>The Product Tank team</p> ",
         "end_time": null,
-        "link": "https://www.meetup.com/Tabara-de-Testare-Cluj/events/236350834/",
-        "organizer": "Tabara de Testare Cluj",
-        "start_time": "2017-02-01T18:30:00+02:00",
-        "title": "Meetup #60 - Does a software tester need to learn to code?",
-        "venue": null
-    },
-    "meetup-Tabara-de-Testare-Iasi-236665191": {
-        "description": "<p>Hello everyone,</p> <p>We're happy to invite you to the first presentation this year about \"<b>Testing mobile in the Cloud</b>\", to be held by <b>Andrei Diaconu</b>, co-founder Android Iasi.</p> <p>Find below Andrei's description on the presentation:\u00a0</p> <p>Android has a fragmented ecosystem. There are devices out there with square screens or even no 3G antenna. It\u2019s impossible to test on all of them. But if we write automated tests, then maybe we could run these tests on hundreds of real devices in the cloud. Let\u2019s compare Espresso to Appium and Amazon Device Farm to Firebase Device Lab and see which of these we like more.</p> <p>\n\n\nLooking forward to see you all!</p> <p>TdT Team</p> ",
-        "end_time": null,
-        "link": "https://www.meetup.com/Tabara-de-Testare-Iasi/events/236665191/",
-        "organizer": "Tabara de Testare Iasi",
-        "start_time": "2017-01-25T18:30:00+02:00",
-        "title": "Testing Mobile in the Cloud by Andrei Diaconu",
-        "venue": "Centric IT Solutions Romania: Palas Street No. 3C; UBC 4; 4th Floor, Iasi, Iasi"
+        "link": "https://www.meetup.com/ProductTank-Bucharest/events/237550623/",
+        "organizer": "ProductTank Bucharest",
+        "start_time": "2017-02-21T19:00:00+02:00",
+        "title": "Product management: startup vs enterprise",
+        "venue": "Hootsuite Office: Strada Mr. C\u00e2mpeanu Alexandru 24, Bucure\u0219ti, Bucharest"
     },
     "meetup-Tabara-de-Testare-Timisoara-mktmflywcbzb": {
-        "description": "<p>\u00a0Tabara de Testare se implica mai mult in domeniul automotive. Revenim cu detalii.</p> <p>===========================================</p> <p>Mai jos e lista cu propunerile pe urmatorul an:</p> <p>- Training SQL - Nivel Mediu (recapitulare nivel Basic, la inceput)</p> <p>- Time and Risk Management</p> <p>- Comunicare - colegi, dev/tester</p> <p>* Biblioteca cu informatii utile:</p> <p>- certificari, carti, linkuri (recomandare:\u00a0<a href=\"http://testhuddle.com/\" class=\"linkified\">http://testhuddle.com/</a>)</p> <p>- Technical movie nights: Pluralsight, Coursera</p> <p>- UFT (QTP), Selenium WebDriver, TFS, SoapUI (basic training)</p> <p>* Co-interesare: traininguri, conferinte, certificari</p> <p>- Prezentari si workshop-uri \"Eu am mai facut si vreau sa ajut\"</p> <p>- Prezentation Skills (Moderator Surpriza)</p> <p>- .Net, Java, Html, CSS, Notiuni de OOP, etc - Basic -&gt; Intermediate</p> <p>- Prezentari cu traineri certificati</p> <p>- Add fun stuff</p> <p>-\u00a0Database performance testing</p> <p>-\u00a0implementarea unor design patterns in testarea automata (in afara de Page Objects)</p> <p>-\u00a0Cum tot mai multi lucreaza in Agile, poate ar fi interesanta prezentarea unui mediu de continuos integration (principii, cum se lucreaza cu el si ce se poate face) din perspectiva testarii.\u00a0- Done - la editia aniversara de 3 ani.</p> ",
+        "description": "<p>\u00a0Tabara de Testare se implica mai mult in domeniul automotive. Iata ce vi se pregateste:</p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/d/c/5/4/600_458096404.jpeg\" /></p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/d/c/7/8/600_458096440.jpeg\" /></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/d/c/a/7/600_458096487.jpeg\" /></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/d/c/d/0/600_458096528.jpeg\" /></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/d/c/e/a/600_458096554.jpeg\" /></p> <p>\n\n\nVa asteptam cu drag :)</p> <p>===========================================</p> <p>Mai jos e lista cu propunerile pe urmatorul an:</p> <p>- exploram automotive (incepem cu intalnirea din Februarie) - comparatii intre tool-uri - colaborare oameni de la companii diferite - input din partea managementului - diverse variante de proces - vedem ce tool-uri se folosesc la mai multe firme - Automatizare - demo - cum incurajam oameni din automotive sa vina la discutii<br/>- workshopuri</p> <p>- redo docker workshop (prepare environment from home, imagini in document)</p> <p>- sesiune cu developer (Kuki) workshop PHP/Java - Unit tests, Selenium</p> <p>- pentru devi/freelancers: cum sa-mi fac singur testele, test driven development</p> <p>- node.js mocha/chai (TimJS sau TIM.JS ?? - meetup)</p> <p>- prezentari: security testing, penetration testing (OPSWAP)</p> <p>- code Games - mai multa programare</p> <p>- paradigme DevOps - ce inseamna DevOps? Ce inseamna pt mine ca tester/developer?</p> <p>- o echipa s-a gandit sa faca testare automata sau manuala si au analizat cat ii ajuta - exemplu real</p> <p>- usability, beta testing</p> <p>- security testing -- what do you need to do? what is enough?</p> <p>- Declan o'riordan: security testing</p> ",
         "end_time": null,
         "link": "https://www.meetup.com/Tabara-de-Testare-Timisoara/events/235816696/",
         "organizer": "Tabara de Testare Timisoara",
         "start_time": "2017-02-23T18:30:00+02:00",
         "title": "TM 53 TDT - Welcome to Automotive",
-        "venue": "Autoliv: Openville, No.1 Aristide Demetriade Street, Timisoara"
-    },
-    "meetup-Tabara-de-Testare-Timisoara-mktmflywdbvb": {
-        "description": "<p>Haideti sa discutam despre ce ati dori sa vedeti la Tabara de Testare in urmatorul an.</p> <p>===========================================</p> <p>Mai jos e lista cu propunerile pe urmatorul an:</p> <p>- Training SQL - Nivel Mediu (recapitulare nivel Basic, la inceput)</p> <p>- Time and Risk Management</p> <p>- Comunicare - colegi, dev/tester</p> <p>* Biblioteca cu informatii utile:</p> <p>- certificari, carti, linkuri (recomandare: <a href=\"http://testhuddle.com/\" class=\"linkified\">http://testhuddle.com/</a>)</p> <p>- Technical movie nights: Pluralsight, Coursera</p> <p>- UFT (QTP), Selenium WebDriver, TFS, SoapUI (basic training)</p> <p>* Co-interesare: traininguri, conferinte, certificari</p> <p>- Prezentari si workshop-uri \"Eu am mai facut si vreau sa ajut\"</p> <p>- Prezentation Skills (Moderator Surpriza)</p> <p>- .Net, Java, Html, CSS, Notiuni de OOP, etc - Basic -&gt; Intermediate</p> <p>- Prezentari cu traineri certificati</p> <p>- Add fun stuff</p> <p>- Database performance testing</p> <p>- implementarea unor design patterns in testarea automata (in afara de Page Objects)</p> <p>- Cum tot mai multi lucreaza in Agile, poate ar fi interesanta prezentarea unui mediu de continuos integration (principii, cum se lucreaza cu el si ce se poate face) din perspectiva testarii. - Done - la editia aniversara de 3 ani.</p> ",
-        "end_time": null,
-        "link": "https://www.meetup.com/Tabara-de-Testare-Timisoara/events/236091713/",
-        "organizer": "Tabara de Testare Timisoara",
-        "start_time": "2017-01-26T18:30:00+02:00",
-        "title": "TM 52 TDT - New years resolutions",
-        "venue": "ARIES-TM Asociatia Romana pentru Industria Electronica si Software - Filiala Timisoara: Str. Paris, nr. 2A, Timisoara, Timisoara"
+        "venue": "Autoliv: Antenei Blvd, no. 9, 10th floor, UBC2 building, 300280 Timisoara - Romania, Timisoara"
     },
     "meetup-Tabara-de-Testare-Timisoara-mktmflywfbvb": {
         "description": "<p>\u00a0Andreea Popescu a tinut un workshop de usability la Tabara de Toamna si a fost foarte apreciat.</p> <p>Noi am invitat-o pe Andreea sa tina workshopul si in Timisoara.</p> <p>===========================================</p> <p>Mai jos e lista cu propunerile pe urmatorul an:</p> <p>- Training SQL - Nivel Mediu (recapitulare nivel Basic, la inceput)</p> <p>- Time and Risk Management</p> <p>- Comunicare - colegi, dev/tester</p> <p>* Biblioteca cu informatii utile:</p> <p>- certificari, carti, linkuri (recomandare:\u00a0<a href=\"http://testhuddle.com/\" class=\"linkified\">http://testhuddle.com/</a>)</p> <p>- Technical movie nights: Pluralsight, Coursera</p> <p>- UFT (QTP), Selenium WebDriver, TFS, SoapUI (basic training)</p> <p>* Co-interesare: traininguri, conferinte, certificari</p> <p>- Prezentari si workshop-uri \"Eu am mai facut si vreau sa ajut\"</p> <p>- Prezentation Skills (Moderator Surpriza)</p> <p>- .Net, Java, Html, CSS, Notiuni de OOP, etc - Basic -&gt; Intermediate</p> <p>- Prezentari cu traineri certificati</p> <p>- Add fun stuff</p> <p>-\u00a0Database performance testing</p> <p>-\u00a0implementarea unor design patterns in testarea automata (in afara de Page Objects)</p> <p>-\u00a0Cum tot mai multi lucreaza in Agile, poate ar fi interesanta prezentarea unui mediu de continuos integration (principii, cum se lucreaza cu el si ce se poate face) din perspectiva testarii.\u00a0- Done - la editia aniversara de 3 ani.</p> ",
@@ -290,7 +281,7 @@
     "meetup-Tabara-de-Testare-Timisoara-mktmflywhbxb": {
         "description": "<p>\u00a0</p> <p>===========================================</p> <p>Mai jos e lista cu propunerile pe urmatorul an:</p> <p>- Training SQL - Nivel Mediu (recapitulare nivel Basic, la inceput)</p> <p>- Time and Risk Management</p> <p>- Comunicare - colegi, dev/tester</p> <p>* Biblioteca cu informatii utile:</p> <p>- certificari, carti, linkuri (recomandare:\u00a0<a href=\"http://testhuddle.com/\" class=\"linkified\">http://testhuddle.com/</a>)</p> <p>- Technical movie nights: Pluralsight, Coursera</p> <p>- UFT (QTP), Selenium WebDriver, TFS, SoapUI (basic training)</p> <p>* Co-interesare: traininguri, conferinte, certificari</p> <p>- Prezentari si workshop-uri \"Eu am mai facut si vreau sa ajut\"</p> <p>- Prezentation Skills (Moderator Surpriza)</p> <p>- .Net, Java, Html, CSS, Notiuni de OOP, etc - Basic -&gt; Intermediate</p> <p>- Prezentari cu traineri certificati</p> <p>- Add fun stuff</p> <p>-\u00a0Database performance testing</p> <p>-\u00a0implementarea unor design patterns in testarea automata (in afara de Page Objects)</p> <p>-\u00a0Cum tot mai multi lucreaza in Agile, poate ar fi interesanta prezentarea unui mediu de continuos integration (principii, cum se lucreaza cu el si ce se poate face) din perspectiva testarii.\u00a0- Done - la editia aniversara de 3 ani.</p> <p>\u00a0</p> ",
         "end_time": null,
-        "link": "https://www.meetup.com/Tabara-de-Testare-Timisoara/events/mktmflywhbxb/",
+        "link": "https://www.meetup.com/Tabara-de-Testare-Timisoara/events/237235706/",
         "organizer": "Tabara de Testare Timisoara",
         "start_time": "2017-05-18T18:30:00+03:00",
         "title": "Tabara de Testare Timisoara - Meetup #30",
@@ -359,22 +350,22 @@
         "title": "Tabara de Testare Timisoara - Meetup #30",
         "venue": "ARIES-TM Asociatia Romana pentru Industria Electronica si Software - Filiala Timisoara: Str. Paris, nr. 2A, Timisoara, Timisoara"
     },
-    "meetup-The-Bucharest-Agile-Software-Meetup-Group-dtmvxgywcbwb": {
-        "description": "<p><b>What</b></p> <p>The code and beer idea is simple enough: we gather in the evening after work, in a pub, have a beer and write some code. It is a social coding event where you can share ideas with other developers. You can come and leave whenever you want.</p> <p><b>Why would you come and join us</b></p> <p>Meet other programmers<br/>Work on your own project<br/>Help others with their projects<br/>Find someone who might help you with a specific topic<br/>Pair with someone and learn new things<br/>Just hang around and talk to people</p> <p><b>How</b></p> <p>Bring your laptop and some code that you'll be working on. If you don't have code then think about what you would like to practice during the evening.</p> <p>There is no predefined agenda. We just meet and work on whatever we feel like.</p> <p><b>Important</b></p> <p>Please specify what you would like to do during the evening by answering the question \"What would you like to practice?\" when registering.</p> <p>Also, as soon as you know you can no longer attend the meeting please change your RSVP to NO immediately. Consider this gesture a sign of respect towards other members of this group who might want to attend in your place.</p> <p>The number of attendees is limited because of the difficulties of finding a big pub and making reservations for a big group.</p> ",
+    "meetup-Tabara-de-Testare-Timisoara-mktmflyxcbxb": {
+        "description": "<p>\u00a0</p> <p>===========================================</p> <p>Mai jos e lista cu propunerile pe urmatorul an:</p> <p>- Training SQL - Nivel Mediu (recapitulare nivel Basic, la inceput)</p> <p>- Time and Risk Management</p> <p>- Comunicare - colegi, dev/tester</p> <p>* Biblioteca cu informatii utile:</p> <p>- certificari, carti, linkuri (recomandare:\u00a0<a href=\"http://testhuddle.com/\" class=\"linkified\">http://testhuddle.com/</a>)</p> <p>- Technical movie nights: Pluralsight, Coursera</p> <p>- UFT (QTP), Selenium WebDriver, TFS, SoapUI (basic training)</p> <p>* Co-interesare: traininguri, conferinte, certificari</p> <p>- Prezentari si workshop-uri \"Eu am mai facut si vreau sa ajut\"</p> <p>- Prezentation Skills (Moderator Surpriza)</p> <p>- .Net, Java, Html, CSS, Notiuni de OOP, etc - Basic -&gt; Intermediate</p> <p>- Prezentari cu traineri certificati</p> <p>- Add fun stuff</p> <p>-\u00a0Database performance testing</p> <p>-\u00a0implementarea unor design patterns in testarea automata (in afara de Page Objects)</p> <p>-\u00a0Cum tot mai multi lucreaza in Agile, poate ar fi interesanta prezentarea unui mediu de continuos integration (principii, cum se lucreaza cu el si ce se poate face) din perspectiva testarii.\u00a0- Done - la editia aniversara de 3 ani.</p> <p>\u00a0</p> ",
         "end_time": null,
-        "link": "https://www.meetup.com/The-Bucharest-Agile-Software-Meetup-Group/events/236850461/",
-        "organizer": "The Bucharest Agile Software Meetup Group",
-        "start_time": "2017-01-17T19:00:00+02:00",
-        "title": "Code and beer",
-        "venue": "Finikia: Strada Franceza nr 13, Bucharest"
+        "link": "https://www.meetup.com/Tabara-de-Testare-Timisoara/events/mktmflyxcbxb/",
+        "organizer": "Tabara de Testare Timisoara",
+        "start_time": "2018-01-18T18:30:00+02:00",
+        "title": "Tabara de Testare Timisoara - Meetup #30",
+        "venue": "ARIES-TM Asociatia Romana pentru Industria Electronica si Software - Filiala Timisoara: Str. Paris, nr. 2A, Timisoara, Timisoara"
     },
     "meetup-The-Bucharest-Agile-Software-Meetup-Group-vqxzklywdblb": {
-        "description": "<p>Hi,</p> <p>I invite you all to another Agile Talks event.</p> <p>Here are the speakers for this edition.</p> <p>First speaker is TBD</p> <p>Second speaker is TBD</p> <p>Agenda:</p> <p>18:45 - 19:00 Arriving, socializing<br/>19:00 - 19:10 Introduction<br/>19:10 - 19:40 TBD<br/>19:40 - 20:10 TBD<br/>20:10 - 20:20 Break<br/>20:20 - 21:10 Open Space - ask the speakers for more details or propose interesting topics<br/>21:10 - 21:20 Retrospective &amp; Closing</p> <p>See you on TBD!</p> ",
+        "description": "<p>Hi,</p> <p>We are ready for a new season of awesome Agile Talks events. Start date is 14th of February.</p> <p>Arthur Kerpician and\u00a0 Radu Mazilu have prepared for our community\u00a0one hour talk, \"From zero to (almost) hero - how to build a commercial product in your own time\". \u00a0They have build scrumvee.com product and they want to share their experience with us:\u00a0</p> <p><i>We knew from the first hours of eMAG's Mobile Edition Hackathon 2015, that we got ourselves hooked on this project and we won't escape it anytime soon. One year passed, dozens of weekends and evenings burned coding and here we are: providing all fellow developers a Scrum tool that would make the Agile experience trackable, accurate and more fun. And it's free for all!</i></p> <p><i>During the one hour meet-up, we'll walk you through the core concepts used in our product, how it evolved from spaghetti to a fancy looking dinner, technologies of choice, milestones and future developments waiting to be tackled. A demo involving you, our end-user, will showcase all the features and advantages of our product. Whoever survives the demo, will be granted access to our pizza and beer cave ;)</i></p> <p><br/>After 11 years of entrepreneurship, Arthur joined the eMAG team, where he performed as a software developer and a team manager.\u00a0Arthur's working now for two start-ups, co-owning one of them and doing the most enjoyable things: trying and catching.</p> <p>After working on personal projects and doing freelance gigs for over 6 years, Radu is now working during the day as a software developer at eMAG and as an Android developer at night. He's really annoyed by waiting ridiculous amounts of time for a page to load, so he's also known as \"The Query Slayer\".</p> <p><br/>Agenda:</p> <p>18:45 - 19:00 Arriving, socializing<br/>19:00 - 19:10 Introduction<br/>19:10 - 20:00 TBD\u00a0<br/>20:00 - 20:15 Break<br/>20:15- 21:00 Open Space - ask the speakers for more details or propose interesting topics<br/>21:00 - 21:10 Closing</p> <p>See you on 14th February!</p> ",
         "end_time": null,
-        "link": "http://www.meetup.com/The-Bucharest-Agile-Software-Meetup-Group/events/234804868/",
+        "link": "https://www.meetup.com/The-Bucharest-Agile-Software-Meetup-Group/events/234804868/",
         "organizer": "The Bucharest Agile Software Meetup Group",
-        "start_time": "2017-02-08T18:45:00+02:00",
-        "title": "Agile Talks #X",
+        "start_time": "2017-02-14T18:45:00+02:00",
+        "title": "Agile Talks #19",
         "venue": "Tech Hub: 39-41 Nicolae Filipescu, Bucharest"
     },
     "meetup-The-Bucharest-Agile-Software-Meetup-Group-vqxzklywfblb": {
@@ -385,24 +376,6 @@
         "start_time": "2017-03-08T18:45:00+02:00",
         "title": "Agile Talks #X",
         "venue": "Tech Hub: 39-41 Nicolae Filipescu, Bucharest"
-    },
-    "meetup-The-Timisoara-Agile-Software-Meetup-Group-236868575": {
-        "description": "<p>We are inviting all interested members to a discussion regarding the way we can bring more dynamism to our\u00a0group.\u00a0</p> <p>We are encouraging you to contribute with input and opinions to an analysis on where we are now and where we should aim, starting from <a href=\"https://www.meetup.com/The-Timisoara-Agile-Software-Meetup-Group/messages/boards/thread/50511287\"><b>this post</b></a> on group's message board.</p> ",
-        "end_time": null,
-        "link": "https://www.meetup.com/The-Timisoara-Agile-Software-Meetup-Group/events/236868575/",
-        "organizer": "The Timisoara Agile Software Meetup Group",
-        "start_time": "2017-02-06T18:00:00+02:00",
-        "title": "2017 meetup planning",
-        "venue": "Timisoara Startup Hub: City Business Centre, E Building, Ground Floor, str. C Brediceanu, nr 10, 300011"
-    },
-    "meetup-The-Timisoara-Agile-Software-Meetup-Group-qbkxlfywdbkb": {
-        "description": "<p>The program for this meetup will be published in the week preceding the event.</p> ",
-        "end_time": null,
-        "link": "https://www.meetup.com/The-Timisoara-Agile-Software-Meetup-Group/events/qbkxlfywdbkb/",
-        "organizer": "The Timisoara Agile Software Meetup Group",
-        "start_time": "2017-02-07T18:30:00+02:00",
-        "title": "Timisoara Agile Software Meetup",
-        "venue": "Startup Hub: 10th, C Brediceanu St., D Building, Ground Floor, Timisoara"
     },
     "meetup-The-Timisoara-Agile-Software-Meetup-Group-qbkxlfywfbkb": {
         "description": "<p>The program for this meetup will be published in the week preceding the event.</p> ",
@@ -492,15 +465,6 @@
         "organizer": "The Timisoara Agile Software Meetup Group",
         "start_time": "2017-12-05T18:30:00+02:00",
         "title": "Timisoara Agile Software Meetup",
-        "venue": "Startup Hub: 10th, C Brediceanu St., D Building, Ground Floor, Timisoara"
-    },
-    "meetup-Timisoara-Automotive-Technology-Meetup-snvlglywdbdb": {
-        "description": "<p>Timisoara tech people, active in IT, Automotive, manufacturing, you are kindly invited to join this month's event of this new meetup.\u00a0</p> <p>The content of this event will be announced shortly.</p> ",
-        "end_time": null,
-        "link": "https://www.meetup.com/Timisoara-Automotive-Technology-Meetup/events/235816741/",
-        "organizer": "Timisoara Automotive Technologies Meetup",
-        "start_time": "2017-02-02T18:30:00+02:00",
-        "title": "Timisoara Automotive Technology Meetup",
         "venue": "Startup Hub: 10th, C Brediceanu St., D Building, Ground Floor, Timisoara"
     },
     "meetup-Timisoara-Automotive-Technology-Meetup-snvlglywfbdb": {
@@ -602,58 +566,526 @@
         "title": "Timisoara Automotive Technology Meetup",
         "venue": "Startup Hub: 10th, C Brediceanu St., D Building, Ground Floor, Timisoara"
     },
-    "meetup-UX-Casual-Tuesday-236640080": {
-        "description": "<p><img src=\"https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/b/b/3/0/600_457307920.jpeg\" /></p> <p>\n\n\nHi Everyone,</p> <p>We're getting really excited about this\u00a0Tuesday <b>FIRST #UXCT</b> where we're going to get to talk about mobile app design, but more importantly about challenges\u00a0we face while doing so.\u00a0</p> <p>We're really pumped to share our stories with you all and would love to hear yours.</p> <p><b><br/></b></p> <p><b>The Venue</b></p> <p>For our 1st meetup, we have teamed up with our dear friends from Cluj \u00a0Cowork to bring #UXCT right in the heart of Cluj, Emil Isac 23.</p> <p><b><br/></b></p> <p><b>Agenda</b></p> <p><br/>18:45 - 19:00 \u2014 Time to meet up, networking;</p> <p>19:00 - 19:15 \u2014 What is UX Casual Tuesday?</p> <p>19:15 - 20:15 \u2014 Let's talk about mobile apps;</p> <p>20:15 - 20:30 \u2014 Wrap-up\u00a0and more networking;</p> <p>\n\n\n<b>Topics</b></p> <p>While we'll talk about mobile apps and how we manage to deliver awesome products, we'll cover:</p> <p>- tips &amp; tricks;</p> <p>- challenges we face and how to overcome them;</p> <p>- secret :)</p> <p>\n\n\nWhat's your story? :)</p> <p>\n\n\nCan't wait to meet you all! See you soon!</p> ",
+    "meetup-TransylvaniaCloud-237159918": {
+        "description": "<p>Looking for presenters.</p> ",
         "end_time": null,
-        "link": "https://www.meetup.com/UX-Casual-Tuesday/events/236640080/",
-        "organizer": "UX Casual Tuesday",
-        "start_time": "2017-01-17T19:00:00+02:00",
-        "title": "#001 | Let's meet up and talk about mobile app design!",
-        "venue": "Cluj Cowork: 23 Emil Isac, Cluj-Napoca"
-    },
-    "meetup-UX-Casual-Tuesday-236664755": {
-        "description": null,
-        "end_time": null,
-        "link": "https://www.meetup.com/UX-Casual-Tuesday/events/236664755/",
-        "organizer": "UX Casual Tuesday",
-        "start_time": "2017-01-31T19:00:00+02:00",
-        "title": "#002 | TBD",
-        "venue": null
+        "link": "https://www.meetup.com/TransylvaniaCloud/events/237159918/",
+        "organizer": "Transylvania Cloud",
+        "start_time": "2017-03-30T18:30:00+03:00",
+        "title": "CloudWars: Amazon AWS vs Microsoft Azure",
+        "venue": "HPE The Office, 5th floor (C & D): Bulevardul 21 Decembrie 1989, Nr 77, Cluj-Napoca"
     },
     "meetup-UX-Casual-Tuesday-236664822": {
-        "description": null,
+        "description": "<p><img src=\"http://photos2.meetupstatic.com/photos/event/2/7/4/4/600_458230052.jpeg\" /></p> <p>Hi guys,</p> <p>For this session, we plan on having a relaxed talk about what user experience is. We'll cover basic topics such as research, workflows, wireframe, free tools to make your day better and much more.\u00a0</p> <p><br/>I encourage\u00a0everyone to attend and share tips &amp; tricks with our new members which just hopped on the UX train.\u00a0</p> <p>\n\n\nAgenda\u00a0</p> <p>18:45 - 19:00 \u2014 Time to meet up, networking;</p> <p>19:00 - 19:15 \u2014 Intro \u2014 Ice breaker exercise\u00a0</p> <p>19:15 - 20:15 \u2014 A beginners guide</p> <p>20:15 - 20:30 \u2014 Wrap-up\u00a0and more networking;</p> <p>20:30 - TBD \u2014 Maybe grab a beer at Jax!</p> <p>\n\n\nSee you soon,</p> <p>Paul</p> ",
         "end_time": null,
         "link": "https://www.meetup.com/UX-Casual-Tuesday/events/236664822/",
         "organizer": "UX Casual Tuesday",
+        "start_time": "2017-02-14T19:00:00+02:00",
+        "title": "#003 | A beginners guide",
+        "venue": "Cluj Cowork: 23 Emil Isac, Cluj-Napoca"
+    },
+    "meetup-UX-Casual-Tuesday-237010742": {
+        "description": null,
+        "end_time": null,
+        "link": "https://www.meetup.com/UX-Casual-Tuesday/events/237010742/",
+        "organizer": "UX Casual Tuesday",
+        "start_time": "2017-02-28T19:00:00+02:00",
+        "title": "#004 | TBD",
+        "venue": null
+    },
+    "meetup-UX-Casual-Tuesday-237631434": {
+        "description": null,
+        "end_time": null,
+        "link": "https://www.meetup.com/UX-Casual-Tuesday/events/237631434/",
+        "organizer": "UX Casual Tuesday",
+        "start_time": "2017-03-14T19:00:00+02:00",
+        "title": "#005 | TBD",
+        "venue": null
+    },
+    "meetup-angularjs-cluj-zhpzmmywdbcc": {
+        "description": "<p>Starting today we are planning on holding a recurring meetup in which we will discuss, document, build and more importantly contribute to open source projects.</p> <p>We have used open source projects in our every day job, but rarely had the chance to contribute back and understand the environment better.</p> <p>This meetup will help you improve your developer skills, working in a team, understanding how open source works and how to architect, develop and maintain an open source project.</p> <p>The event will last for 2 hours in which we will do the following:</p> <p>1. Discuss code you already worked on that you are thinking of making open source</p> <p>2. Discuss ideas of open source projects you would like to contribute to</p> <p>3. Organise your project: code, architecture, comments, issues, PRs, community message.</p> <p>4. Contribute by writing code to one or multiple github repositories.</p> <p>At the end of each event we will take a look at what PRs have been added/merged, see how we can improve our code and share new ideas with the community.</p> <p><b>Requirements:</b></p> <p>\u2022 laptop</p> <p><br/>\u2022 2 hours of your time</p> <p><br/>\u2022 fun learning attitude</p> <p><br/><b>Registration fee is $2 as always, to make sure everyone who registers also attends, from which we buy snacks/drinks for the event :).</b></p> ",
+        "end_time": null,
+        "link": "https://www.meetup.com/fullstack-cluj/events/237531846/",
+        "organizer": "FullStack Cluj",
         "start_time": "2017-02-21T19:00:00+02:00",
-        "title": "#003 | TBD",
-        "venue": null
-    },
-    "meetup-angularjs-cluj-236867642": {
-        "description": "<p>Build, Run Unit Tests, Integration Tests and Load tests, Package Artifacts, Create environments and deploy. Then track releases and Test runs, all within a single pipeline from Visual Studio Online build system (Free for small teams* and stupidly easy)</p> <p>Level: <b>Beginner</b></p> <p>Presenter: <b>C\u0103t\u0103lin Pop</b></p> ",
-        "end_time": null,
-        "link": "https://www.meetup.com/fullstack-cluj/events/236867642/",
-        "organizer": "FullStack Cluj",
-        "start_time": "2017-01-31T19:00:00+02:00",
-        "title": "Continuous Deployment with Visual Studio Online",
+        "title": "Workshop: Open Source your Code",
         "venue": "Around 25: Nicolae Cristea 25, Cluj-Napoca"
     },
-    "meetup-aws-ro-236731248": {
-        "description": "<p>Bogdan Alecu will talk about several use cases for AWS from his own experience. This a great opportunity for knowledge sharing among ourselves.</p> ",
+    "meetup-angularjs-cluj-zhpzmmywfbcc": {
+        "description": "<p>Starting today we are planning on holding a recurring meetup in which we will discuss, document, build and more importantly contribute to open source projects.</p> <p>We have used open source projects in our every day job, but rarely had the chance to contribute back and understand the environment better.</p> <p>This meetup will help you improve your developer skills, working in a team, understanding how open source works and how to architect, develop and maintain an open source project.</p> <p>The event will be last for 2 hours in which we will do the following:</p> <p>1. Discuss code you already worked on that you are thinking of making open source</p> <p>2. Discuss ideas of open source projects you would like to contribute to</p> <p>3. Organise your project: code, architecture, comments, issues, PRs, community message.</p> <p>4. Contribute by writing code to one or multiple github repositories.</p> <p>At the end of each event we will take a look at what PRs have been added/merged, see how we can improve our code and share new ideas with the community.</p> <p><b>Requirements:</b></p> <p>\u2022 laptop</p> <p><br/>\u2022 2 hours of your time</p> <p><br/>\u2022 fun learning attitude</p> <p><br/><b>Registration fee is $2 as always, to make sure everyone who registers also attends, from which we buy snacks/drinks for the event :).</b></p> ",
         "end_time": null,
-        "link": "https://www.meetup.com/aws-ro/events/236731248/",
+        "link": "https://www.meetup.com/fullstack-cluj/events/zhpzmmywfbcc/",
+        "organizer": "FullStack Cluj",
+        "start_time": "2017-03-21T19:00:00+02:00",
+        "title": "Open Source your Code",
+        "venue": "Around 25: Nicolae Cristea 25, Cluj-Napoca"
+    },
+    "meetup-angularjs-cluj-zhpzmmywfbkb": {
+        "description": "<p>Starting today we are planning on holding a recurring meetup in which we will discuss, document, build and more importantly contribute to open source projects.</p> <p>We have used open source projects in our every day job, but rarely had the chance to contribute back and understand the environment better.</p> <p>This meetup will help you improve your developer skills, working in a team, understanding how open source works and how to architect, develop and maintain an open source project.</p> <p>The event will be last for 2 hours in which we will do the following:</p> <p>1. Discuss code you already worked on that you are thinking of making open source</p> <p>2. Discuss ideas of open source projects you would like to contribute to</p> <p>3. Organise your project: code, architecture, comments, issues, PRs, community message.</p> <p>4. Contribute by writing code to one or multiple github repositories.</p> <p>At the end of each event we will take a look at what PRs have been added/merged, see how we can improve our code and share new ideas with the community.</p> <p><b>Requirements:</b></p> <p>\u2022 laptop</p> <p><br/>\u2022 2 hours of your time</p> <p><br/>\u2022 fun learning attitude</p> <p><br/><b>Registration fee is $2 as always, to make sure everyone who registers also attends, from which we buy snacks/drinks for the event :).</b></p> ",
+        "end_time": null,
+        "link": "https://www.meetup.com/fullstack-cluj/events/zhpzmmywfbkb/",
+        "organizer": "FullStack Cluj",
+        "start_time": "2017-03-07T19:00:00+02:00",
+        "title": "Open Source your Code",
+        "venue": "Around 25: Nicolae Cristea 25, Cluj-Napoca"
+    },
+    "meetup-angularjs-cluj-zhpzmmywgbgb": {
+        "description": "<p>Starting today we are planning on holding a recurring meetup in which we will discuss, document, build and more importantly contribute to open source projects.</p> <p>We have used open source projects in our every day job, but rarely had the chance to contribute back and understand the environment better.</p> <p>This meetup will help you improve your developer skills, working in a team, understanding how open source works and how to architect, develop and maintain an open source project.</p> <p>The event will be last for 2 hours in which we will do the following:</p> <p>1. Discuss code you already worked on that you are thinking of making open source</p> <p>2. Discuss ideas of open source projects you would like to contribute to</p> <p>3. Organise your project: code, architecture, comments, issues, PRs, community message.</p> <p>4. Contribute by writing code to one or multiple github repositories.</p> <p>At the end of each event we will take a look at what PRs have been added/merged, see how we can improve our code and share new ideas with the community.</p> <p><b>Requirements:</b></p> <p>\u2022 laptop</p> <p><br/>\u2022 2 hours of your time</p> <p><br/>\u2022 fun learning attitude</p> <p><br/><b>Registration fee is $2 as always, to make sure everyone who registers also attends, from which we buy snacks/drinks for the event :).</b></p> ",
+        "end_time": null,
+        "link": "https://www.meetup.com/fullstack-cluj/events/zhpzmmywgbgb/",
+        "organizer": "FullStack Cluj",
+        "start_time": "2017-04-04T19:00:00+03:00",
+        "title": "Open Source your Code",
+        "venue": "Around 25: Nicolae Cristea 25, Cluj-Napoca"
+    },
+    "meetup-angularjs-cluj-zhpzmmywgbxb": {
+        "description": "<p>Starting today we are planning on holding a recurring meetup in which we will discuss, document, build and more importantly contribute to open source projects.</p> <p>We have used open source projects in our every day job, but rarely had the chance to contribute back and understand the environment better.</p> <p>This meetup will help you improve your developer skills, working in a team, understanding how open source works and how to architect, develop and maintain an open source project.</p> <p>The event will be last for 2 hours in which we will do the following:</p> <p>1. Discuss code you already worked on that you are thinking of making open source</p> <p>2. Discuss ideas of open source projects you would like to contribute to</p> <p>3. Organise your project: code, architecture, comments, issues, PRs, community message.</p> <p>4. Contribute by writing code to one or multiple github repositories.</p> <p>At the end of each event we will take a look at what PRs have been added/merged, see how we can improve our code and share new ideas with the community.</p> <p><b>Requirements:</b></p> <p>\u2022 laptop</p> <p><br/>\u2022 2 hours of your time</p> <p><br/>\u2022 fun learning attitude</p> <p><br/><b>Registration fee is $2 as always, to make sure everyone who registers also attends, from which we buy snacks/drinks for the event :).</b></p> ",
+        "end_time": null,
+        "link": "https://www.meetup.com/fullstack-cluj/events/zhpzmmywgbxb/",
+        "organizer": "FullStack Cluj",
+        "start_time": "2017-04-18T19:00:00+03:00",
+        "title": "Open Source your Code",
+        "venue": "Around 25: Nicolae Cristea 25, Cluj-Napoca"
+    },
+    "meetup-angularjs-cluj-zhpzmmywhbdb": {
+        "description": "<p>Starting today we are planning on holding a recurring meetup in which we will discuss, document, build and more importantly contribute to open source projects.</p> <p>We have used open source projects in our every day job, but rarely had the chance to contribute back and understand the environment better.</p> <p>This meetup will help you improve your developer skills, working in a team, understanding how open source works and how to architect, develop and maintain an open source project.</p> <p>The event will be last for 2 hours in which we will do the following:</p> <p>1. Discuss code you already worked on that you are thinking of making open source</p> <p>2. Discuss ideas of open source projects you would like to contribute to</p> <p>3. Organise your project: code, architecture, comments, issues, PRs, community message.</p> <p>4. Contribute by writing code to one or multiple github repositories.</p> <p>At the end of each event we will take a look at what PRs have been added/merged, see how we can improve our code and share new ideas with the community.</p> <p><b>Requirements:</b></p> <p>\u2022 laptop</p> <p><br/>\u2022 2 hours of your time</p> <p><br/>\u2022 fun learning attitude</p> <p><br/><b>Registration fee is $2 as always, to make sure everyone who registers also attends, from which we buy snacks/drinks for the event :).</b></p> ",
+        "end_time": null,
+        "link": "https://www.meetup.com/fullstack-cluj/events/zhpzmmywhbdb/",
+        "organizer": "FullStack Cluj",
+        "start_time": "2017-05-02T19:00:00+03:00",
+        "title": "Open Source your Code",
+        "venue": "Around 25: Nicolae Cristea 25, Cluj-Napoca"
+    },
+    "meetup-angularjs-cluj-zhpzmmywhbnc": {
+        "description": "<p>Starting today we are planning on holding a recurring meetup in which we will discuss, document, build and more importantly contribute to open source projects.</p> <p>We have used open source projects in our every day job, but rarely had the chance to contribute back and understand the environment better.</p> <p>This meetup will help you improve your developer skills, working in a team, understanding how open source works and how to architect, develop and maintain an open source project.</p> <p>The event will be last for 2 hours in which we will do the following:</p> <p>1. Discuss code you already worked on that you are thinking of making open source</p> <p>2. Discuss ideas of open source projects you would like to contribute to</p> <p>3. Organise your project: code, architecture, comments, issues, PRs, community message.</p> <p>4. Contribute by writing code to one or multiple github repositories.</p> <p>At the end of each event we will take a look at what PRs have been added/merged, see how we can improve our code and share new ideas with the community.</p> <p><b>Requirements:</b></p> <p>\u2022 laptop</p> <p><br/>\u2022 2 hours of your time</p> <p><br/>\u2022 fun learning attitude</p> <p><br/><b>Registration fee is $2 as always, to make sure everyone who registers also attends, from which we buy snacks/drinks for the event :).</b></p> ",
+        "end_time": null,
+        "link": "https://www.meetup.com/fullstack-cluj/events/zhpzmmywhbnc/",
+        "organizer": "FullStack Cluj",
+        "start_time": "2017-05-30T19:00:00+03:00",
+        "title": "Open Source your Code",
+        "venue": "Around 25: Nicolae Cristea 25, Cluj-Napoca"
+    },
+    "meetup-angularjs-cluj-zhpzmmywhbvb": {
+        "description": "<p>Starting today we are planning on holding a recurring meetup in which we will discuss, document, build and more importantly contribute to open source projects.</p> <p>We have used open source projects in our every day job, but rarely had the chance to contribute back and understand the environment better.</p> <p>This meetup will help you improve your developer skills, working in a team, understanding how open source works and how to architect, develop and maintain an open source project.</p> <p>The event will be last for 2 hours in which we will do the following:</p> <p>1. Discuss code you already worked on that you are thinking of making open source</p> <p>2. Discuss ideas of open source projects you would like to contribute to</p> <p>3. Organise your project: code, architecture, comments, issues, PRs, community message.</p> <p>4. Contribute by writing code to one or multiple github repositories.</p> <p>At the end of each event we will take a look at what PRs have been added/merged, see how we can improve our code and share new ideas with the community.</p> <p><b>Requirements:</b></p> <p>\u2022 laptop</p> <p><br/>\u2022 2 hours of your time</p> <p><br/>\u2022 fun learning attitude</p> <p><br/><b>Registration fee is $2 as always, to make sure everyone who registers also attends, from which we buy snacks/drinks for the event :).</b></p> ",
+        "end_time": null,
+        "link": "https://www.meetup.com/fullstack-cluj/events/zhpzmmywhbvb/",
+        "organizer": "FullStack Cluj",
+        "start_time": "2017-05-16T19:00:00+03:00",
+        "title": "Open Source your Code",
+        "venue": "Around 25: Nicolae Cristea 25, Cluj-Napoca"
+    },
+    "meetup-angularjs-cluj-zhpzmmywjbkc": {
+        "description": "<p>Starting today we are planning on holding a recurring meetup in which we will discuss, document, build and more importantly contribute to open source projects.</p> <p>We have used open source projects in our every day job, but rarely had the chance to contribute back and understand the environment better.</p> <p>This meetup will help you improve your developer skills, working in a team, understanding how open source works and how to architect, develop and maintain an open source project.</p> <p>The event will be last for 2 hours in which we will do the following:</p> <p>1. Discuss code you already worked on that you are thinking of making open source</p> <p>2. Discuss ideas of open source projects you would like to contribute to</p> <p>3. Organise your project: code, architecture, comments, issues, PRs, community message.</p> <p>4. Contribute by writing code to one or multiple github repositories.</p> <p>At the end of each event we will take a look at what PRs have been added/merged, see how we can improve our code and share new ideas with the community.</p> <p><b>Requirements:</b></p> <p>\u2022 laptop</p> <p><br/>\u2022 2 hours of your time</p> <p><br/>\u2022 fun learning attitude</p> <p><br/><b>Registration fee is $2 as always, to make sure everyone who registers also attends, from which we buy snacks/drinks for the event :).</b></p> ",
+        "end_time": null,
+        "link": "https://www.meetup.com/fullstack-cluj/events/zhpzmmywjbkc/",
+        "organizer": "FullStack Cluj",
+        "start_time": "2017-06-27T19:00:00+03:00",
+        "title": "Open Source your Code",
+        "venue": "Around 25: Nicolae Cristea 25, Cluj-Napoca"
+    },
+    "meetup-angularjs-cluj-zhpzmmywjbrb": {
+        "description": "<p>Starting today we are planning on holding a recurring meetup in which we will discuss, document, build and more importantly contribute to open source projects.</p> <p>We have used open source projects in our every day job, but rarely had the chance to contribute back and understand the environment better.</p> <p>This meetup will help you improve your developer skills, working in a team, understanding how open source works and how to architect, develop and maintain an open source project.</p> <p>The event will be last for 2 hours in which we will do the following:</p> <p>1. Discuss code you already worked on that you are thinking of making open source</p> <p>2. Discuss ideas of open source projects you would like to contribute to</p> <p>3. Organise your project: code, architecture, comments, issues, PRs, community message.</p> <p>4. Contribute by writing code to one or multiple github repositories.</p> <p>At the end of each event we will take a look at what PRs have been added/merged, see how we can improve our code and share new ideas with the community.</p> <p><b>Requirements:</b></p> <p>\u2022 laptop</p> <p><br/>\u2022 2 hours of your time</p> <p><br/>\u2022 fun learning attitude</p> <p><br/><b>Registration fee is $2 as always, to make sure everyone who registers also attends, from which we buy snacks/drinks for the event :).</b></p> ",
+        "end_time": null,
+        "link": "https://www.meetup.com/fullstack-cluj/events/zhpzmmywjbrb/",
+        "organizer": "FullStack Cluj",
+        "start_time": "2017-06-13T19:00:00+03:00",
+        "title": "Open Source your Code",
+        "venue": "Around 25: Nicolae Cristea 25, Cluj-Napoca"
+    },
+    "meetup-angularjs-cluj-zhpzmmywkbhc": {
+        "description": "<p>Starting today we are planning on holding a recurring meetup in which we will discuss, document, build and more importantly contribute to open source projects.</p> <p>We have used open source projects in our every day job, but rarely had the chance to contribute back and understand the environment better.</p> <p>This meetup will help you improve your developer skills, working in a team, understanding how open source works and how to architect, develop and maintain an open source project.</p> <p>The event will be last for 2 hours in which we will do the following:</p> <p>1. Discuss code you already worked on that you are thinking of making open source</p> <p>2. Discuss ideas of open source projects you would like to contribute to</p> <p>3. Organise your project: code, architecture, comments, issues, PRs, community message.</p> <p>4. Contribute by writing code to one or multiple github repositories.</p> <p>At the end of each event we will take a look at what PRs have been added/merged, see how we can improve our code and share new ideas with the community.</p> <p><b>Requirements:</b></p> <p>\u2022 laptop</p> <p><br/>\u2022 2 hours of your time</p> <p><br/>\u2022 fun learning attitude</p> <p><br/><b>Registration fee is $2 as always, to make sure everyone who registers also attends, from which we buy snacks/drinks for the event :).</b></p> ",
+        "end_time": null,
+        "link": "https://www.meetup.com/fullstack-cluj/events/zhpzmmywkbhc/",
+        "organizer": "FullStack Cluj",
+        "start_time": "2017-07-25T19:00:00+03:00",
+        "title": "Open Source your Code",
+        "venue": "Around 25: Nicolae Cristea 25, Cluj-Napoca"
+    },
+    "meetup-angularjs-cluj-zhpzmmywkbpb": {
+        "description": "<p>Starting today we are planning on holding a recurring meetup in which we will discuss, document, build and more importantly contribute to open source projects.</p> <p>We have used open source projects in our every day job, but rarely had the chance to contribute back and understand the environment better.</p> <p>This meetup will help you improve your developer skills, working in a team, understanding how open source works and how to architect, develop and maintain an open source project.</p> <p>The event will be last for 2 hours in which we will do the following:</p> <p>1. Discuss code you already worked on that you are thinking of making open source</p> <p>2. Discuss ideas of open source projects you would like to contribute to</p> <p>3. Organise your project: code, architecture, comments, issues, PRs, community message.</p> <p>4. Contribute by writing code to one or multiple github repositories.</p> <p>At the end of each event we will take a look at what PRs have been added/merged, see how we can improve our code and share new ideas with the community.</p> <p><b>Requirements:</b></p> <p>\u2022 laptop</p> <p><br/>\u2022 2 hours of your time</p> <p><br/>\u2022 fun learning attitude</p> <p><br/><b>Registration fee is $2 as always, to make sure everyone who registers also attends, from which we buy snacks/drinks for the event :).</b></p> ",
+        "end_time": null,
+        "link": "https://www.meetup.com/fullstack-cluj/events/zhpzmmywkbpb/",
+        "organizer": "FullStack Cluj",
+        "start_time": "2017-07-11T19:00:00+03:00",
+        "title": "Open Source your Code",
+        "venue": "Around 25: Nicolae Cristea 25, Cluj-Napoca"
+    },
+    "meetup-angularjs-cluj-zhpzmmywlbdc": {
+        "description": "<p>Starting today we are planning on holding a recurring meetup in which we will discuss, document, build and more importantly contribute to open source projects.</p> <p>We have used open source projects in our every day job, but rarely had the chance to contribute back and understand the environment better.</p> <p>This meetup will help you improve your developer skills, working in a team, understanding how open source works and how to architect, develop and maintain an open source project.</p> <p>The event will be last for 2 hours in which we will do the following:</p> <p>1. Discuss code you already worked on that you are thinking of making open source</p> <p>2. Discuss ideas of open source projects you would like to contribute to</p> <p>3. Organise your project: code, architecture, comments, issues, PRs, community message.</p> <p>4. Contribute by writing code to one or multiple github repositories.</p> <p>At the end of each event we will take a look at what PRs have been added/merged, see how we can improve our code and share new ideas with the community.</p> <p><b>Requirements:</b></p> <p>\u2022 laptop</p> <p><br/>\u2022 2 hours of your time</p> <p><br/>\u2022 fun learning attitude</p> <p><br/><b>Registration fee is $2 as always, to make sure everyone who registers also attends, from which we buy snacks/drinks for the event :).</b></p> ",
+        "end_time": null,
+        "link": "https://www.meetup.com/fullstack-cluj/events/zhpzmmywlbdc/",
+        "organizer": "FullStack Cluj",
+        "start_time": "2017-08-22T19:00:00+03:00",
+        "title": "Open Source your Code",
+        "venue": "Around 25: Nicolae Cristea 25, Cluj-Napoca"
+    },
+    "meetup-angularjs-cluj-zhpzmmywlblb": {
+        "description": "<p>Starting today we are planning on holding a recurring meetup in which we will discuss, document, build and more importantly contribute to open source projects.</p> <p>We have used open source projects in our every day job, but rarely had the chance to contribute back and understand the environment better.</p> <p>This meetup will help you improve your developer skills, working in a team, understanding how open source works and how to architect, develop and maintain an open source project.</p> <p>The event will be last for 2 hours in which we will do the following:</p> <p>1. Discuss code you already worked on that you are thinking of making open source</p> <p>2. Discuss ideas of open source projects you would like to contribute to</p> <p>3. Organise your project: code, architecture, comments, issues, PRs, community message.</p> <p>4. Contribute by writing code to one or multiple github repositories.</p> <p>At the end of each event we will take a look at what PRs have been added/merged, see how we can improve our code and share new ideas with the community.</p> <p><b>Requirements:</b></p> <p>\u2022 laptop</p> <p><br/>\u2022 2 hours of your time</p> <p><br/>\u2022 fun learning attitude</p> <p><br/><b>Registration fee is $2 as always, to make sure everyone who registers also attends, from which we buy snacks/drinks for the event :).</b></p> ",
+        "end_time": null,
+        "link": "https://www.meetup.com/fullstack-cluj/events/zhpzmmywlblb/",
+        "organizer": "FullStack Cluj",
+        "start_time": "2017-08-08T19:00:00+03:00",
+        "title": "Open Source your Code",
+        "venue": "Around 25: Nicolae Cristea 25, Cluj-Napoca"
+    },
+    "meetup-angularjs-cluj-zhpzmmywmbhb": {
+        "description": "<p>Starting today we are planning on holding a recurring meetup in which we will discuss, document, build and more importantly contribute to open source projects.</p> <p>We have used open source projects in our every day job, but rarely had the chance to contribute back and understand the environment better.</p> <p>This meetup will help you improve your developer skills, working in a team, understanding how open source works and how to architect, develop and maintain an open source project.</p> <p>The event will be last for 2 hours in which we will do the following:</p> <p>1. Discuss code you already worked on that you are thinking of making open source</p> <p>2. Discuss ideas of open source projects you would like to contribute to</p> <p>3. Organise your project: code, architecture, comments, issues, PRs, community message.</p> <p>4. Contribute by writing code to one or multiple github repositories.</p> <p>At the end of each event we will take a look at what PRs have been added/merged, see how we can improve our code and share new ideas with the community.</p> <p><b>Requirements:</b></p> <p>\u2022 laptop</p> <p><br/>\u2022 2 hours of your time</p> <p><br/>\u2022 fun learning attitude</p> <p><br/><b>Registration fee is $2 as always, to make sure everyone who registers also attends, from which we buy snacks/drinks for the event :).</b></p> ",
+        "end_time": null,
+        "link": "https://www.meetup.com/fullstack-cluj/events/zhpzmmywmbhb/",
+        "organizer": "FullStack Cluj",
+        "start_time": "2017-09-05T19:00:00+03:00",
+        "title": "Open Source your Code",
+        "venue": "Around 25: Nicolae Cristea 25, Cluj-Napoca"
+    },
+    "meetup-angularjs-cluj-zhpzmmywmbzb": {
+        "description": "<p>Starting today we are planning on holding a recurring meetup in which we will discuss, document, build and more importantly contribute to open source projects.</p> <p>We have used open source projects in our every day job, but rarely had the chance to contribute back and understand the environment better.</p> <p>This meetup will help you improve your developer skills, working in a team, understanding how open source works and how to architect, develop and maintain an open source project.</p> <p>The event will be last for 2 hours in which we will do the following:</p> <p>1. Discuss code you already worked on that you are thinking of making open source</p> <p>2. Discuss ideas of open source projects you would like to contribute to</p> <p>3. Organise your project: code, architecture, comments, issues, PRs, community message.</p> <p>4. Contribute by writing code to one or multiple github repositories.</p> <p>At the end of each event we will take a look at what PRs have been added/merged, see how we can improve our code and share new ideas with the community.</p> <p><b>Requirements:</b></p> <p>\u2022 laptop</p> <p><br/>\u2022 2 hours of your time</p> <p><br/>\u2022 fun learning attitude</p> <p><br/><b>Registration fee is $2 as always, to make sure everyone who registers also attends, from which we buy snacks/drinks for the event :).</b></p> ",
+        "end_time": null,
+        "link": "https://www.meetup.com/fullstack-cluj/events/zhpzmmywmbzb/",
+        "organizer": "FullStack Cluj",
+        "start_time": "2017-09-19T19:00:00+03:00",
+        "title": "Open Source your Code",
+        "venue": "Around 25: Nicolae Cristea 25, Cluj-Napoca"
+    },
+    "meetup-angularjs-cluj-zhpzmmywnbfb": {
+        "description": "<p>Starting today we are planning on holding a recurring meetup in which we will discuss, document, build and more importantly contribute to open source projects.</p> <p>We have used open source projects in our every day job, but rarely had the chance to contribute back and understand the environment better.</p> <p>This meetup will help you improve your developer skills, working in a team, understanding how open source works and how to architect, develop and maintain an open source project.</p> <p>The event will be last for 2 hours in which we will do the following:</p> <p>1. Discuss code you already worked on that you are thinking of making open source</p> <p>2. Discuss ideas of open source projects you would like to contribute to</p> <p>3. Organise your project: code, architecture, comments, issues, PRs, community message.</p> <p>4. Contribute by writing code to one or multiple github repositories.</p> <p>At the end of each event we will take a look at what PRs have been added/merged, see how we can improve our code and share new ideas with the community.</p> <p><b>Requirements:</b></p> <p>\u2022 laptop</p> <p><br/>\u2022 2 hours of your time</p> <p><br/>\u2022 fun learning attitude</p> <p><br/><b>Registration fee is $2 as always, to make sure everyone who registers also attends, from which we buy snacks/drinks for the event :).</b></p> ",
+        "end_time": null,
+        "link": "https://www.meetup.com/fullstack-cluj/events/zhpzmmywnbfb/",
+        "organizer": "FullStack Cluj",
+        "start_time": "2017-10-03T19:00:00+03:00",
+        "title": "Open Source your Code",
+        "venue": "Around 25: Nicolae Cristea 25, Cluj-Napoca"
+    },
+    "meetup-angularjs-cluj-zhpzmmywnbpc": {
+        "description": "<p>Starting today we are planning on holding a recurring meetup in which we will discuss, document, build and more importantly contribute to open source projects.</p> <p>We have used open source projects in our every day job, but rarely had the chance to contribute back and understand the environment better.</p> <p>This meetup will help you improve your developer skills, working in a team, understanding how open source works and how to architect, develop and maintain an open source project.</p> <p>The event will be last for 2 hours in which we will do the following:</p> <p>1. Discuss code you already worked on that you are thinking of making open source</p> <p>2. Discuss ideas of open source projects you would like to contribute to</p> <p>3. Organise your project: code, architecture, comments, issues, PRs, community message.</p> <p>4. Contribute by writing code to one or multiple github repositories.</p> <p>At the end of each event we will take a look at what PRs have been added/merged, see how we can improve our code and share new ideas with the community.</p> <p><b>Requirements:</b></p> <p>\u2022 laptop</p> <p><br/>\u2022 2 hours of your time</p> <p><br/>\u2022 fun learning attitude</p> <p><br/><b>Registration fee is $2 as always, to make sure everyone who registers also attends, from which we buy snacks/drinks for the event :).</b></p> ",
+        "end_time": null,
+        "link": "https://www.meetup.com/fullstack-cluj/events/zhpzmmywnbpc/",
+        "organizer": "FullStack Cluj",
+        "start_time": "2017-10-31T19:00:00+02:00",
+        "title": "Open Source your Code",
+        "venue": "Around 25: Nicolae Cristea 25, Cluj-Napoca"
+    },
+    "meetup-angularjs-cluj-zhpzmmywnbwb": {
+        "description": "<p>Starting today we are planning on holding a recurring meetup in which we will discuss, document, build and more importantly contribute to open source projects.</p> <p>We have used open source projects in our every day job, but rarely had the chance to contribute back and understand the environment better.</p> <p>This meetup will help you improve your developer skills, working in a team, understanding how open source works and how to architect, develop and maintain an open source project.</p> <p>The event will be last for 2 hours in which we will do the following:</p> <p>1. Discuss code you already worked on that you are thinking of making open source</p> <p>2. Discuss ideas of open source projects you would like to contribute to</p> <p>3. Organise your project: code, architecture, comments, issues, PRs, community message.</p> <p>4. Contribute by writing code to one or multiple github repositories.</p> <p>At the end of each event we will take a look at what PRs have been added/merged, see how we can improve our code and share new ideas with the community.</p> <p><b>Requirements:</b></p> <p>\u2022 laptop</p> <p><br/>\u2022 2 hours of your time</p> <p><br/>\u2022 fun learning attitude</p> <p><br/><b>Registration fee is $2 as always, to make sure everyone who registers also attends, from which we buy snacks/drinks for the event :).</b></p> ",
+        "end_time": null,
+        "link": "https://www.meetup.com/fullstack-cluj/events/zhpzmmywnbwb/",
+        "organizer": "FullStack Cluj",
+        "start_time": "2017-10-17T19:00:00+03:00",
+        "title": "Open Source your Code",
+        "venue": "Around 25: Nicolae Cristea 25, Cluj-Napoca"
+    },
+    "meetup-angularjs-cluj-zhpzmmywpblc": {
+        "description": "<p>Starting today we are planning on holding a recurring meetup in which we will discuss, document, build and more importantly contribute to open source projects.</p> <p>We have used open source projects in our every day job, but rarely had the chance to contribute back and understand the environment better.</p> <p>This meetup will help you improve your developer skills, working in a team, understanding how open source works and how to architect, develop and maintain an open source project.</p> <p>The event will be last for 2 hours in which we will do the following:</p> <p>1. Discuss code you already worked on that you are thinking of making open source</p> <p>2. Discuss ideas of open source projects you would like to contribute to</p> <p>3. Organise your project: code, architecture, comments, issues, PRs, community message.</p> <p>4. Contribute by writing code to one or multiple github repositories.</p> <p>At the end of each event we will take a look at what PRs have been added/merged, see how we can improve our code and share new ideas with the community.</p> <p><b>Requirements:</b></p> <p>\u2022 laptop</p> <p><br/>\u2022 2 hours of your time</p> <p><br/>\u2022 fun learning attitude</p> <p><br/><b>Registration fee is $2 as always, to make sure everyone who registers also attends, from which we buy snacks/drinks for the event :).</b></p> ",
+        "end_time": null,
+        "link": "https://www.meetup.com/fullstack-cluj/events/zhpzmmywpblc/",
+        "organizer": "FullStack Cluj",
+        "start_time": "2017-11-28T19:00:00+02:00",
+        "title": "Open Source your Code",
+        "venue": "Around 25: Nicolae Cristea 25, Cluj-Napoca"
+    },
+    "meetup-angularjs-cluj-zhpzmmywpbsb": {
+        "description": "<p>Starting today we are planning on holding a recurring meetup in which we will discuss, document, build and more importantly contribute to open source projects.</p> <p>We have used open source projects in our every day job, but rarely had the chance to contribute back and understand the environment better.</p> <p>This meetup will help you improve your developer skills, working in a team, understanding how open source works and how to architect, develop and maintain an open source project.</p> <p>The event will be last for 2 hours in which we will do the following:</p> <p>1. Discuss code you already worked on that you are thinking of making open source</p> <p>2. Discuss ideas of open source projects you would like to contribute to</p> <p>3. Organise your project: code, architecture, comments, issues, PRs, community message.</p> <p>4. Contribute by writing code to one or multiple github repositories.</p> <p>At the end of each event we will take a look at what PRs have been added/merged, see how we can improve our code and share new ideas with the community.</p> <p><b>Requirements:</b></p> <p>\u2022 laptop</p> <p><br/>\u2022 2 hours of your time</p> <p><br/>\u2022 fun learning attitude</p> <p><br/><b>Registration fee is $2 as always, to make sure everyone who registers also attends, from which we buy snacks/drinks for the event :).</b></p> ",
+        "end_time": null,
+        "link": "https://www.meetup.com/fullstack-cluj/events/zhpzmmywpbsb/",
+        "organizer": "FullStack Cluj",
+        "start_time": "2017-11-14T19:00:00+02:00",
+        "title": "Open Source your Code",
+        "venue": "Around 25: Nicolae Cristea 25, Cluj-Napoca"
+    },
+    "meetup-angularjs-cluj-zhpzmmywqbjc": {
+        "description": "<p>Starting today we are planning on holding a recurring meetup in which we will discuss, document, build and more importantly contribute to open source projects.</p> <p>We have used open source projects in our every day job, but rarely had the chance to contribute back and understand the environment better.</p> <p>This meetup will help you improve your developer skills, working in a team, understanding how open source works and how to architect, develop and maintain an open source project.</p> <p>The event will be last for 2 hours in which we will do the following:</p> <p>1. Discuss code you already worked on that you are thinking of making open source</p> <p>2. Discuss ideas of open source projects you would like to contribute to</p> <p>3. Organise your project: code, architecture, comments, issues, PRs, community message.</p> <p>4. Contribute by writing code to one or multiple github repositories.</p> <p>At the end of each event we will take a look at what PRs have been added/merged, see how we can improve our code and share new ideas with the community.</p> <p><b>Requirements:</b></p> <p>\u2022 laptop</p> <p><br/>\u2022 2 hours of your time</p> <p><br/>\u2022 fun learning attitude</p> <p><br/><b>Registration fee is $2 as always, to make sure everyone who registers also attends, from which we buy snacks/drinks for the event :).</b></p> ",
+        "end_time": null,
+        "link": "https://www.meetup.com/fullstack-cluj/events/zhpzmmywqbjc/",
+        "organizer": "FullStack Cluj",
+        "start_time": "2017-12-26T19:00:00+02:00",
+        "title": "Open Source your Code",
+        "venue": "Around 25: Nicolae Cristea 25, Cluj-Napoca"
+    },
+    "meetup-angularjs-cluj-zhpzmmywqbqb": {
+        "description": "<p>Starting today we are planning on holding a recurring meetup in which we will discuss, document, build and more importantly contribute to open source projects.</p> <p>We have used open source projects in our every day job, but rarely had the chance to contribute back and understand the environment better.</p> <p>This meetup will help you improve your developer skills, working in a team, understanding how open source works and how to architect, develop and maintain an open source project.</p> <p>The event will be last for 2 hours in which we will do the following:</p> <p>1. Discuss code you already worked on that you are thinking of making open source</p> <p>2. Discuss ideas of open source projects you would like to contribute to</p> <p>3. Organise your project: code, architecture, comments, issues, PRs, community message.</p> <p>4. Contribute by writing code to one or multiple github repositories.</p> <p>At the end of each event we will take a look at what PRs have been added/merged, see how we can improve our code and share new ideas with the community.</p> <p><b>Requirements:</b></p> <p>\u2022 laptop</p> <p><br/>\u2022 2 hours of your time</p> <p><br/>\u2022 fun learning attitude</p> <p><br/><b>Registration fee is $2 as always, to make sure everyone who registers also attends, from which we buy snacks/drinks for the event :).</b></p> ",
+        "end_time": null,
+        "link": "https://www.meetup.com/fullstack-cluj/events/zhpzmmywqbqb/",
+        "organizer": "FullStack Cluj",
+        "start_time": "2017-12-12T19:00:00+02:00",
+        "title": "Open Source your Code",
+        "venue": "Around 25: Nicolae Cristea 25, Cluj-Napoca"
+    },
+    "meetup-angularjs-cluj-zhpzmmyxcbfc": {
+        "description": "<p>Starting today we are planning on holding a recurring meetup in which we will discuss, document, build and more importantly contribute to open source projects.</p> <p>We have used open source projects in our every day job, but rarely had the chance to contribute back and understand the environment better.</p> <p>This meetup will help you improve your developer skills, working in a team, understanding how open source works and how to architect, develop and maintain an open source project.</p> <p>The event will be last for 2 hours in which we will do the following:</p> <p>1. Discuss code you already worked on that you are thinking of making open source</p> <p>2. Discuss ideas of open source projects you would like to contribute to</p> <p>3. Organise your project: code, architecture, comments, issues, PRs, community message.</p> <p>4. Contribute by writing code to one or multiple github repositories.</p> <p>At the end of each event we will take a look at what PRs have been added/merged, see how we can improve our code and share new ideas with the community.</p> <p><b>Requirements:</b></p> <p>\u2022 laptop</p> <p><br/>\u2022 2 hours of your time</p> <p><br/>\u2022 fun learning attitude</p> <p><br/><b>Registration fee is $2 as always, to make sure everyone who registers also attends, from which we buy snacks/drinks for the event :).</b></p> ",
+        "end_time": null,
+        "link": "https://www.meetup.com/fullstack-cluj/events/zhpzmmyxcbfc/",
+        "organizer": "FullStack Cluj",
+        "start_time": "2018-01-23T19:00:00+02:00",
+        "title": "Open Source your Code",
+        "venue": "Around 25: Nicolae Cristea 25, Cluj-Napoca"
+    },
+    "meetup-angularjs-cluj-zhpzmmyxcbmb": {
+        "description": "<p>Starting today we are planning on holding a recurring meetup in which we will discuss, document, build and more importantly contribute to open source projects.</p> <p>We have used open source projects in our every day job, but rarely had the chance to contribute back and understand the environment better.</p> <p>This meetup will help you improve your developer skills, working in a team, understanding how open source works and how to architect, develop and maintain an open source project.</p> <p>The event will be last for 2 hours in which we will do the following:</p> <p>1. Discuss code you already worked on that you are thinking of making open source</p> <p>2. Discuss ideas of open source projects you would like to contribute to</p> <p>3. Organise your project: code, architecture, comments, issues, PRs, community message.</p> <p>4. Contribute by writing code to one or multiple github repositories.</p> <p>At the end of each event we will take a look at what PRs have been added/merged, see how we can improve our code and share new ideas with the community.</p> <p><b>Requirements:</b></p> <p>\u2022 laptop</p> <p><br/>\u2022 2 hours of your time</p> <p><br/>\u2022 fun learning attitude</p> <p><br/><b>Registration fee is $2 as always, to make sure everyone who registers also attends, from which we buy snacks/drinks for the event :).</b></p> ",
+        "end_time": null,
+        "link": "https://www.meetup.com/fullstack-cluj/events/zhpzmmyxcbmb/",
+        "organizer": "FullStack Cluj",
+        "start_time": "2018-01-09T19:00:00+02:00",
+        "title": "Open Source your Code",
+        "venue": "Around 25: Nicolae Cristea 25, Cluj-Napoca"
+    },
+    "meetup-aws-ro-237241801": {
+        "description": "<p>Hi Everyone,</p> <p>We have our presenter for Feb 23rd.</p> <p>Marius Mitrofan has once been tasked with developing a fully functional MyBB forum that was of course expected to be highly-scalable, highly-available and as secure as possible. So he chose to use AWS CloudFormation and then he wrote a tutorial on how he did -\u00a0<a href=\"https://netbears.ro/devops/launch-mybb-cloudformation-stack-aws/\"><a href=\"https://netbears.ro/devops/launch-mybb-cloudformation-stack-aws/\" class=\"linkified\">https://netbears.ro/devops/launch-mybb-cloudformation-stack-aws/</a></a>.</p> <p>For our next meeting Marius will present it as a practical use case for AWS CloudFormation and VPC.</p> <p>See you next time!</p> <p>Ciprian</p> ",
+        "end_time": null,
+        "link": "https://www.meetup.com/aws-ro/events/237241801/",
         "organizer": "IASI AWS User Group",
-        "start_time": "2017-01-26T18:15:00+02:00",
-        "title": "AWS at work... implementation examples for a handful of services",
+        "start_time": "2017-02-23T18:15:00+02:00",
+        "title": "Launch a MyBB stack using AWS CloudFormation",
         "venue": null
     },
-    "meetup-fullstack-cluj-236867642": {
-        "description": "<p>Build, Run Unit Tests, Integration Tests and Load tests, Package Artifacts, Create environments and deploy. Then track releases and Test runs, all within a single pipeline from Visual Studio Online build system (Free for small teams* and stupidly easy)</p> <p>Level: <b>Beginner</b></p> <p>Presenter: <b>C\u0103t\u0103lin Pop</b></p> ",
+    "meetup-eat-pray-tech-237058138": {
+        "description": "<p><img src=\"http://photos3.meetupstatic.com/photos/event/8/5/9/6/600_457654198.jpeg\" /></p> <p><b>Tema zilei: Via\u021ba \u0219i injusti\u021biile ei</b></p> <p><br/>Suntem \u00eenconjura\u021bi de tehnologie, ne hr\u0103nim cu ea \u0219i, \u00een consecin\u021b\u0103, ne influen\u021beaz\u0103 modul \u00een care g\u00e2ndim \u0219i tr\u0103im.\u00a0</p> <p>La <a href=\"http://www.eatpraytech.ro\">eat/pray/tech</a> dorim s\u0103 ne \u00eent\u00e2lnim \u0219i s\u0103 ne \u00eempingem g\u00e2ndurile dincolo de limit\u0103rile acesteia. Vrem s\u0103 c\u0103ut\u0103m r\u0103spunsuri acolo unde 1+1 nu d\u0103 \u00eentotdeauna 2.</p> <p>Ne fr\u0103m\u00e2nt\u0103m cu \u00eentreb\u0103rile importante \u0219i dificile ale vie\u021bii, \u00eendrept\u00e2ndu-ne ochii, inima \u0219i mintea spre Dumnezeu.</p> <p>Nu \u00een ultimul r\u00e2nd, ne \u00eent\u00e2lnim ca s\u0103 ne cunoa\u0219tem mai bine, s\u0103 lu\u0103m micul dejun \u00eempreun\u0103 \u0219i, bine\u00een\u021beles, \u0219i prima doz\u0103 de cafein\u0103 a zilei.</p> <p><b>Unde?</b></p> <p><a href=\"http://www.hugorestaurants.ro/\">HUGO Restaurants</a>, cladirea The Office, Bulevardul 21 Decembrie 1989 nr. 77.</p> <p><b>Cost</b></p> <p>Taxa este de 20 RON \u0219i se va achita la loca\u021bie, numerar. Aceasta reprezint\u0103 contravaloarea unui bogat mic dejun, cu suc \u0219i cafea.</p> <p><br/><b>Social Media</b></p> <p>O s\u0103 comunic\u0103m pe Facebook, Twitter si Instagram folosind <a href=\"http://tgb.io/eatpraytech/327740\">#EatPrayTech</a>.</p> ",
         "end_time": null,
-        "link": "https://www.meetup.com/fullstack-cluj/events/236867642/",
+        "link": "https://www.meetup.com/eatpraytech/events/237058138/",
+        "organizer": "/eat/pray/tech",
+        "start_time": "2017-02-13T08:30:00+02:00",
+        "title": "eat/pray/tech #9",
+        "venue": "restaurantul Hugo: The Office, Cluj-Napoca"
+    },
+    "meetup-fullstack-cluj-zhpzmmywdbcc": {
+        "description": "<p>Starting today we are planning on holding a recurring meetup in which we will discuss, document, build and more importantly contribute to open source projects.</p> <p>We have used open source projects in our every day job, but rarely had the chance to contribute back and understand the environment better.</p> <p>This meetup will help you improve your developer skills, working in a team, understanding how open source works and how to architect, develop and maintain an open source project.</p> <p>The event will be last for 2 hours in which we will do the following:</p> <p>1. Discuss code you already worked on that you are thinking of making open source</p> <p>2. Discuss ideas of open source projects you would like to contribute to</p> <p>3. Organise your project: code, architecture, comments, issues, PRs, community message.</p> <p>4. Contribute by writing code to one or multiple github repositories.</p> <p>At the end of each event we will take a look at what PRs have been added/merged, see how we can improve our code and share new ideas with the community.</p> <p><b>Requirements:</b></p> <p>\u2022 laptop</p> <p><br/>\u2022 2 hours of your time</p> <p><br/>\u2022 fun learning attitude</p> <p><br/><b>Registration fee is $2 as always, to make sure everyone who registers also attends, from which we buy snacks/drinks for the event :).</b></p> ",
+        "end_time": null,
+        "link": "https://www.meetup.com/fullstack-cluj/events/zhpzmmywdbcc/",
         "organizer": "FullStack Cluj",
-        "start_time": "2017-01-31T19:00:00+02:00",
-        "title": "Continuous Deployment with Visual Studio Online",
+        "start_time": "2017-02-21T19:00:00+02:00",
+        "title": "Open Source your Code",
         "venue": "Around 25: Nicolae Cristea 25, Cluj-Napoca"
+    },
+    "meetup-fullstack-cluj-zhpzmmywfbcc": {
+        "description": "<p>Starting today we are planning on holding a recurring meetup in which we will discuss, document, build and more importantly contribute to open source projects.</p> <p>We have used open source projects in our every day job, but rarely had the chance to contribute back and understand the environment better.</p> <p>This meetup will help you improve your developer skills, working in a team, understanding how open source works and how to architect, develop and maintain an open source project.</p> <p>The event will be last for 2 hours in which we will do the following:</p> <p>1. Discuss code you already worked on that you are thinking of making open source</p> <p>2. Discuss ideas of open source projects you would like to contribute to</p> <p>3. Organise your project: code, architecture, comments, issues, PRs, community message.</p> <p>4. Contribute by writing code to one or multiple github repositories.</p> <p>At the end of each event we will take a look at what PRs have been added/merged, see how we can improve our code and share new ideas with the community.</p> <p><b>Requirements:</b></p> <p>\u2022 laptop</p> <p><br/>\u2022 2 hours of your time</p> <p><br/>\u2022 fun learning attitude</p> <p><br/><b>Registration fee is $2 as always, to make sure everyone who registers also attends, from which we buy snacks/drinks for the event :).</b></p> ",
+        "end_time": null,
+        "link": "https://www.meetup.com/fullstack-cluj/events/zhpzmmywfbcc/",
+        "organizer": "FullStack Cluj",
+        "start_time": "2017-03-21T19:00:00+02:00",
+        "title": "Open Source your Code",
+        "venue": "Around 25: Nicolae Cristea 25, Cluj-Napoca"
+    },
+    "meetup-fullstack-cluj-zhpzmmywfbkb": {
+        "description": "<p>Starting today we are planning on holding a recurring meetup in which we will discuss, document, build and more importantly contribute to open source projects.</p> <p>We have used open source projects in our every day job, but rarely had the chance to contribute back and understand the environment better.</p> <p>This meetup will help you improve your developer skills, working in a team, understanding how open source works and how to architect, develop and maintain an open source project.</p> <p>The event will be last for 2 hours in which we will do the following:</p> <p>1. Discuss code you already worked on that you are thinking of making open source</p> <p>2. Discuss ideas of open source projects you would like to contribute to</p> <p>3. Organise your project: code, architecture, comments, issues, PRs, community message.</p> <p>4. Contribute by writing code to one or multiple github repositories.</p> <p>At the end of each event we will take a look at what PRs have been added/merged, see how we can improve our code and share new ideas with the community.</p> <p><b>Requirements:</b></p> <p>\u2022 laptop</p> <p><br/>\u2022 2 hours of your time</p> <p><br/>\u2022 fun learning attitude</p> <p><br/><b>Registration fee is $2 as always, to make sure everyone who registers also attends, from which we buy snacks/drinks for the event :).</b></p> ",
+        "end_time": null,
+        "link": "https://www.meetup.com/fullstack-cluj/events/zhpzmmywfbkb/",
+        "organizer": "FullStack Cluj",
+        "start_time": "2017-03-07T19:00:00+02:00",
+        "title": "Open Source your Code",
+        "venue": "Around 25: Nicolae Cristea 25, Cluj-Napoca"
+    },
+    "meetup-fullstack-cluj-zhpzmmywgbgb": {
+        "description": "<p>Starting today we are planning on holding a recurring meetup in which we will discuss, document, build and more importantly contribute to open source projects.</p> <p>We have used open source projects in our every day job, but rarely had the chance to contribute back and understand the environment better.</p> <p>This meetup will help you improve your developer skills, working in a team, understanding how open source works and how to architect, develop and maintain an open source project.</p> <p>The event will be last for 2 hours in which we will do the following:</p> <p>1. Discuss code you already worked on that you are thinking of making open source</p> <p>2. Discuss ideas of open source projects you would like to contribute to</p> <p>3. Organise your project: code, architecture, comments, issues, PRs, community message.</p> <p>4. Contribute by writing code to one or multiple github repositories.</p> <p>At the end of each event we will take a look at what PRs have been added/merged, see how we can improve our code and share new ideas with the community.</p> <p><b>Requirements:</b></p> <p>\u2022 laptop</p> <p><br/>\u2022 2 hours of your time</p> <p><br/>\u2022 fun learning attitude</p> <p><br/><b>Registration fee is $2 as always, to make sure everyone who registers also attends, from which we buy snacks/drinks for the event :).</b></p> ",
+        "end_time": null,
+        "link": "https://www.meetup.com/fullstack-cluj/events/zhpzmmywgbgb/",
+        "organizer": "FullStack Cluj",
+        "start_time": "2017-04-04T19:00:00+03:00",
+        "title": "Open Source your Code",
+        "venue": "Around 25: Nicolae Cristea 25, Cluj-Napoca"
+    },
+    "meetup-fullstack-cluj-zhpzmmywgbxb": {
+        "description": "<p>Starting today we are planning on holding a recurring meetup in which we will discuss, document, build and more importantly contribute to open source projects.</p> <p>We have used open source projects in our every day job, but rarely had the chance to contribute back and understand the environment better.</p> <p>This meetup will help you improve your developer skills, working in a team, understanding how open source works and how to architect, develop and maintain an open source project.</p> <p>The event will be last for 2 hours in which we will do the following:</p> <p>1. Discuss code you already worked on that you are thinking of making open source</p> <p>2. Discuss ideas of open source projects you would like to contribute to</p> <p>3. Organise your project: code, architecture, comments, issues, PRs, community message.</p> <p>4. Contribute by writing code to one or multiple github repositories.</p> <p>At the end of each event we will take a look at what PRs have been added/merged, see how we can improve our code and share new ideas with the community.</p> <p><b>Requirements:</b></p> <p>\u2022 laptop</p> <p><br/>\u2022 2 hours of your time</p> <p><br/>\u2022 fun learning attitude</p> <p><br/><b>Registration fee is $2 as always, to make sure everyone who registers also attends, from which we buy snacks/drinks for the event :).</b></p> ",
+        "end_time": null,
+        "link": "https://www.meetup.com/fullstack-cluj/events/zhpzmmywgbxb/",
+        "organizer": "FullStack Cluj",
+        "start_time": "2017-04-18T19:00:00+03:00",
+        "title": "Open Source your Code",
+        "venue": "Around 25: Nicolae Cristea 25, Cluj-Napoca"
+    },
+    "meetup-fullstack-cluj-zhpzmmywhbdb": {
+        "description": "<p>Starting today we are planning on holding a recurring meetup in which we will discuss, document, build and more importantly contribute to open source projects.</p> <p>We have used open source projects in our every day job, but rarely had the chance to contribute back and understand the environment better.</p> <p>This meetup will help you improve your developer skills, working in a team, understanding how open source works and how to architect, develop and maintain an open source project.</p> <p>The event will be last for 2 hours in which we will do the following:</p> <p>1. Discuss code you already worked on that you are thinking of making open source</p> <p>2. Discuss ideas of open source projects you would like to contribute to</p> <p>3. Organise your project: code, architecture, comments, issues, PRs, community message.</p> <p>4. Contribute by writing code to one or multiple github repositories.</p> <p>At the end of each event we will take a look at what PRs have been added/merged, see how we can improve our code and share new ideas with the community.</p> <p><b>Requirements:</b></p> <p>\u2022 laptop</p> <p><br/>\u2022 2 hours of your time</p> <p><br/>\u2022 fun learning attitude</p> <p><br/><b>Registration fee is $2 as always, to make sure everyone who registers also attends, from which we buy snacks/drinks for the event :).</b></p> ",
+        "end_time": null,
+        "link": "https://www.meetup.com/fullstack-cluj/events/zhpzmmywhbdb/",
+        "organizer": "FullStack Cluj",
+        "start_time": "2017-05-02T19:00:00+03:00",
+        "title": "Open Source your Code",
+        "venue": "Around 25: Nicolae Cristea 25, Cluj-Napoca"
+    },
+    "meetup-fullstack-cluj-zhpzmmywhbnc": {
+        "description": "<p>Starting today we are planning on holding a recurring meetup in which we will discuss, document, build and more importantly contribute to open source projects.</p> <p>We have used open source projects in our every day job, but rarely had the chance to contribute back and understand the environment better.</p> <p>This meetup will help you improve your developer skills, working in a team, understanding how open source works and how to architect, develop and maintain an open source project.</p> <p>The event will be last for 2 hours in which we will do the following:</p> <p>1. Discuss code you already worked on that you are thinking of making open source</p> <p>2. Discuss ideas of open source projects you would like to contribute to</p> <p>3. Organise your project: code, architecture, comments, issues, PRs, community message.</p> <p>4. Contribute by writing code to one or multiple github repositories.</p> <p>At the end of each event we will take a look at what PRs have been added/merged, see how we can improve our code and share new ideas with the community.</p> <p><b>Requirements:</b></p> <p>\u2022 laptop</p> <p><br/>\u2022 2 hours of your time</p> <p><br/>\u2022 fun learning attitude</p> <p><br/><b>Registration fee is $2 as always, to make sure everyone who registers also attends, from which we buy snacks/drinks for the event :).</b></p> ",
+        "end_time": null,
+        "link": "https://www.meetup.com/fullstack-cluj/events/zhpzmmywhbnc/",
+        "organizer": "FullStack Cluj",
+        "start_time": "2017-05-30T19:00:00+03:00",
+        "title": "Open Source your Code",
+        "venue": "Around 25: Nicolae Cristea 25, Cluj-Napoca"
+    },
+    "meetup-fullstack-cluj-zhpzmmywhbvb": {
+        "description": "<p>Starting today we are planning on holding a recurring meetup in which we will discuss, document, build and more importantly contribute to open source projects.</p> <p>We have used open source projects in our every day job, but rarely had the chance to contribute back and understand the environment better.</p> <p>This meetup will help you improve your developer skills, working in a team, understanding how open source works and how to architect, develop and maintain an open source project.</p> <p>The event will be last for 2 hours in which we will do the following:</p> <p>1. Discuss code you already worked on that you are thinking of making open source</p> <p>2. Discuss ideas of open source projects you would like to contribute to</p> <p>3. Organise your project: code, architecture, comments, issues, PRs, community message.</p> <p>4. Contribute by writing code to one or multiple github repositories.</p> <p>At the end of each event we will take a look at what PRs have been added/merged, see how we can improve our code and share new ideas with the community.</p> <p><b>Requirements:</b></p> <p>\u2022 laptop</p> <p><br/>\u2022 2 hours of your time</p> <p><br/>\u2022 fun learning attitude</p> <p><br/><b>Registration fee is $2 as always, to make sure everyone who registers also attends, from which we buy snacks/drinks for the event :).</b></p> ",
+        "end_time": null,
+        "link": "https://www.meetup.com/fullstack-cluj/events/zhpzmmywhbvb/",
+        "organizer": "FullStack Cluj",
+        "start_time": "2017-05-16T19:00:00+03:00",
+        "title": "Open Source your Code",
+        "venue": "Around 25: Nicolae Cristea 25, Cluj-Napoca"
+    },
+    "meetup-fullstack-cluj-zhpzmmywjbkc": {
+        "description": "<p>Starting today we are planning on holding a recurring meetup in which we will discuss, document, build and more importantly contribute to open source projects.</p> <p>We have used open source projects in our every day job, but rarely had the chance to contribute back and understand the environment better.</p> <p>This meetup will help you improve your developer skills, working in a team, understanding how open source works and how to architect, develop and maintain an open source project.</p> <p>The event will be last for 2 hours in which we will do the following:</p> <p>1. Discuss code you already worked on that you are thinking of making open source</p> <p>2. Discuss ideas of open source projects you would like to contribute to</p> <p>3. Organise your project: code, architecture, comments, issues, PRs, community message.</p> <p>4. Contribute by writing code to one or multiple github repositories.</p> <p>At the end of each event we will take a look at what PRs have been added/merged, see how we can improve our code and share new ideas with the community.</p> <p><b>Requirements:</b></p> <p>\u2022 laptop</p> <p><br/>\u2022 2 hours of your time</p> <p><br/>\u2022 fun learning attitude</p> <p><br/><b>Registration fee is $2 as always, to make sure everyone who registers also attends, from which we buy snacks/drinks for the event :).</b></p> ",
+        "end_time": null,
+        "link": "https://www.meetup.com/fullstack-cluj/events/zhpzmmywjbkc/",
+        "organizer": "FullStack Cluj",
+        "start_time": "2017-06-27T19:00:00+03:00",
+        "title": "Open Source your Code",
+        "venue": "Around 25: Nicolae Cristea 25, Cluj-Napoca"
+    },
+    "meetup-fullstack-cluj-zhpzmmywjbrb": {
+        "description": "<p>Starting today we are planning on holding a recurring meetup in which we will discuss, document, build and more importantly contribute to open source projects.</p> <p>We have used open source projects in our every day job, but rarely had the chance to contribute back and understand the environment better.</p> <p>This meetup will help you improve your developer skills, working in a team, understanding how open source works and how to architect, develop and maintain an open source project.</p> <p>The event will be last for 2 hours in which we will do the following:</p> <p>1. Discuss code you already worked on that you are thinking of making open source</p> <p>2. Discuss ideas of open source projects you would like to contribute to</p> <p>3. Organise your project: code, architecture, comments, issues, PRs, community message.</p> <p>4. Contribute by writing code to one or multiple github repositories.</p> <p>At the end of each event we will take a look at what PRs have been added/merged, see how we can improve our code and share new ideas with the community.</p> <p><b>Requirements:</b></p> <p>\u2022 laptop</p> <p><br/>\u2022 2 hours of your time</p> <p><br/>\u2022 fun learning attitude</p> <p><br/><b>Registration fee is $2 as always, to make sure everyone who registers also attends, from which we buy snacks/drinks for the event :).</b></p> ",
+        "end_time": null,
+        "link": "https://www.meetup.com/fullstack-cluj/events/zhpzmmywjbrb/",
+        "organizer": "FullStack Cluj",
+        "start_time": "2017-06-13T19:00:00+03:00",
+        "title": "Open Source your Code",
+        "venue": "Around 25: Nicolae Cristea 25, Cluj-Napoca"
+    },
+    "meetup-fullstack-cluj-zhpzmmywkbhc": {
+        "description": "<p>Starting today we are planning on holding a recurring meetup in which we will discuss, document, build and more importantly contribute to open source projects.</p> <p>We have used open source projects in our every day job, but rarely had the chance to contribute back and understand the environment better.</p> <p>This meetup will help you improve your developer skills, working in a team, understanding how open source works and how to architect, develop and maintain an open source project.</p> <p>The event will be last for 2 hours in which we will do the following:</p> <p>1. Discuss code you already worked on that you are thinking of making open source</p> <p>2. Discuss ideas of open source projects you would like to contribute to</p> <p>3. Organise your project: code, architecture, comments, issues, PRs, community message.</p> <p>4. Contribute by writing code to one or multiple github repositories.</p> <p>At the end of each event we will take a look at what PRs have been added/merged, see how we can improve our code and share new ideas with the community.</p> <p><b>Requirements:</b></p> <p>\u2022 laptop</p> <p><br/>\u2022 2 hours of your time</p> <p><br/>\u2022 fun learning attitude</p> <p><br/><b>Registration fee is $2 as always, to make sure everyone who registers also attends, from which we buy snacks/drinks for the event :).</b></p> ",
+        "end_time": null,
+        "link": "https://www.meetup.com/fullstack-cluj/events/zhpzmmywkbhc/",
+        "organizer": "FullStack Cluj",
+        "start_time": "2017-07-25T19:00:00+03:00",
+        "title": "Open Source your Code",
+        "venue": "Around 25: Nicolae Cristea 25, Cluj-Napoca"
+    },
+    "meetup-fullstack-cluj-zhpzmmywkbpb": {
+        "description": "<p>Starting today we are planning on holding a recurring meetup in which we will discuss, document, build and more importantly contribute to open source projects.</p> <p>We have used open source projects in our every day job, but rarely had the chance to contribute back and understand the environment better.</p> <p>This meetup will help you improve your developer skills, working in a team, understanding how open source works and how to architect, develop and maintain an open source project.</p> <p>The event will be last for 2 hours in which we will do the following:</p> <p>1. Discuss code you already worked on that you are thinking of making open source</p> <p>2. Discuss ideas of open source projects you would like to contribute to</p> <p>3. Organise your project: code, architecture, comments, issues, PRs, community message.</p> <p>4. Contribute by writing code to one or multiple github repositories.</p> <p>At the end of each event we will take a look at what PRs have been added/merged, see how we can improve our code and share new ideas with the community.</p> <p><b>Requirements:</b></p> <p>\u2022 laptop</p> <p><br/>\u2022 2 hours of your time</p> <p><br/>\u2022 fun learning attitude</p> <p><br/><b>Registration fee is $2 as always, to make sure everyone who registers also attends, from which we buy snacks/drinks for the event :).</b></p> ",
+        "end_time": null,
+        "link": "https://www.meetup.com/fullstack-cluj/events/zhpzmmywkbpb/",
+        "organizer": "FullStack Cluj",
+        "start_time": "2017-07-11T19:00:00+03:00",
+        "title": "Open Source your Code",
+        "venue": "Around 25: Nicolae Cristea 25, Cluj-Napoca"
+    },
+    "meetup-fullstack-cluj-zhpzmmywlbdc": {
+        "description": "<p>Starting today we are planning on holding a recurring meetup in which we will discuss, document, build and more importantly contribute to open source projects.</p> <p>We have used open source projects in our every day job, but rarely had the chance to contribute back and understand the environment better.</p> <p>This meetup will help you improve your developer skills, working in a team, understanding how open source works and how to architect, develop and maintain an open source project.</p> <p>The event will be last for 2 hours in which we will do the following:</p> <p>1. Discuss code you already worked on that you are thinking of making open source</p> <p>2. Discuss ideas of open source projects you would like to contribute to</p> <p>3. Organise your project: code, architecture, comments, issues, PRs, community message.</p> <p>4. Contribute by writing code to one or multiple github repositories.</p> <p>At the end of each event we will take a look at what PRs have been added/merged, see how we can improve our code and share new ideas with the community.</p> <p><b>Requirements:</b></p> <p>\u2022 laptop</p> <p><br/>\u2022 2 hours of your time</p> <p><br/>\u2022 fun learning attitude</p> <p><br/><b>Registration fee is $2 as always, to make sure everyone who registers also attends, from which we buy snacks/drinks for the event :).</b></p> ",
+        "end_time": null,
+        "link": "https://www.meetup.com/fullstack-cluj/events/zhpzmmywlbdc/",
+        "organizer": "FullStack Cluj",
+        "start_time": "2017-08-22T19:00:00+03:00",
+        "title": "Open Source your Code",
+        "venue": "Around 25: Nicolae Cristea 25, Cluj-Napoca"
+    },
+    "meetup-fullstack-cluj-zhpzmmywlblb": {
+        "description": "<p>Starting today we are planning on holding a recurring meetup in which we will discuss, document, build and more importantly contribute to open source projects.</p> <p>We have used open source projects in our every day job, but rarely had the chance to contribute back and understand the environment better.</p> <p>This meetup will help you improve your developer skills, working in a team, understanding how open source works and how to architect, develop and maintain an open source project.</p> <p>The event will be last for 2 hours in which we will do the following:</p> <p>1. Discuss code you already worked on that you are thinking of making open source</p> <p>2. Discuss ideas of open source projects you would like to contribute to</p> <p>3. Organise your project: code, architecture, comments, issues, PRs, community message.</p> <p>4. Contribute by writing code to one or multiple github repositories.</p> <p>At the end of each event we will take a look at what PRs have been added/merged, see how we can improve our code and share new ideas with the community.</p> <p><b>Requirements:</b></p> <p>\u2022 laptop</p> <p><br/>\u2022 2 hours of your time</p> <p><br/>\u2022 fun learning attitude</p> <p><br/><b>Registration fee is $2 as always, to make sure everyone who registers also attends, from which we buy snacks/drinks for the event :).</b></p> ",
+        "end_time": null,
+        "link": "https://www.meetup.com/fullstack-cluj/events/zhpzmmywlblb/",
+        "organizer": "FullStack Cluj",
+        "start_time": "2017-08-08T19:00:00+03:00",
+        "title": "Open Source your Code",
+        "venue": "Around 25: Nicolae Cristea 25, Cluj-Napoca"
+    },
+    "meetup-fullstack-cluj-zhpzmmywmbhb": {
+        "description": "<p>Starting today we are planning on holding a recurring meetup in which we will discuss, document, build and more importantly contribute to open source projects.</p> <p>We have used open source projects in our every day job, but rarely had the chance to contribute back and understand the environment better.</p> <p>This meetup will help you improve your developer skills, working in a team, understanding how open source works and how to architect, develop and maintain an open source project.</p> <p>The event will be last for 2 hours in which we will do the following:</p> <p>1. Discuss code you already worked on that you are thinking of making open source</p> <p>2. Discuss ideas of open source projects you would like to contribute to</p> <p>3. Organise your project: code, architecture, comments, issues, PRs, community message.</p> <p>4. Contribute by writing code to one or multiple github repositories.</p> <p>At the end of each event we will take a look at what PRs have been added/merged, see how we can improve our code and share new ideas with the community.</p> <p><b>Requirements:</b></p> <p>\u2022 laptop</p> <p><br/>\u2022 2 hours of your time</p> <p><br/>\u2022 fun learning attitude</p> <p><br/><b>Registration fee is $2 as always, to make sure everyone who registers also attends, from which we buy snacks/drinks for the event :).</b></p> ",
+        "end_time": null,
+        "link": "https://www.meetup.com/fullstack-cluj/events/zhpzmmywmbhb/",
+        "organizer": "FullStack Cluj",
+        "start_time": "2017-09-05T19:00:00+03:00",
+        "title": "Open Source your Code",
+        "venue": "Around 25: Nicolae Cristea 25, Cluj-Napoca"
+    },
+    "meetup-fullstack-cluj-zhpzmmywmbzb": {
+        "description": "<p>Starting today we are planning on holding a recurring meetup in which we will discuss, document, build and more importantly contribute to open source projects.</p> <p>We have used open source projects in our every day job, but rarely had the chance to contribute back and understand the environment better.</p> <p>This meetup will help you improve your developer skills, working in a team, understanding how open source works and how to architect, develop and maintain an open source project.</p> <p>The event will be last for 2 hours in which we will do the following:</p> <p>1. Discuss code you already worked on that you are thinking of making open source</p> <p>2. Discuss ideas of open source projects you would like to contribute to</p> <p>3. Organise your project: code, architecture, comments, issues, PRs, community message.</p> <p>4. Contribute by writing code to one or multiple github repositories.</p> <p>At the end of each event we will take a look at what PRs have been added/merged, see how we can improve our code and share new ideas with the community.</p> <p><b>Requirements:</b></p> <p>\u2022 laptop</p> <p><br/>\u2022 2 hours of your time</p> <p><br/>\u2022 fun learning attitude</p> <p><br/><b>Registration fee is $2 as always, to make sure everyone who registers also attends, from which we buy snacks/drinks for the event :).</b></p> ",
+        "end_time": null,
+        "link": "https://www.meetup.com/fullstack-cluj/events/zhpzmmywmbzb/",
+        "organizer": "FullStack Cluj",
+        "start_time": "2017-09-19T19:00:00+03:00",
+        "title": "Open Source your Code",
+        "venue": "Around 25: Nicolae Cristea 25, Cluj-Napoca"
+    },
+    "meetup-fullstack-cluj-zhpzmmywnbfb": {
+        "description": "<p>Starting today we are planning on holding a recurring meetup in which we will discuss, document, build and more importantly contribute to open source projects.</p> <p>We have used open source projects in our every day job, but rarely had the chance to contribute back and understand the environment better.</p> <p>This meetup will help you improve your developer skills, working in a team, understanding how open source works and how to architect, develop and maintain an open source project.</p> <p>The event will be last for 2 hours in which we will do the following:</p> <p>1. Discuss code you already worked on that you are thinking of making open source</p> <p>2. Discuss ideas of open source projects you would like to contribute to</p> <p>3. Organise your project: code, architecture, comments, issues, PRs, community message.</p> <p>4. Contribute by writing code to one or multiple github repositories.</p> <p>At the end of each event we will take a look at what PRs have been added/merged, see how we can improve our code and share new ideas with the community.</p> <p><b>Requirements:</b></p> <p>\u2022 laptop</p> <p><br/>\u2022 2 hours of your time</p> <p><br/>\u2022 fun learning attitude</p> <p><br/><b>Registration fee is $2 as always, to make sure everyone who registers also attends, from which we buy snacks/drinks for the event :).</b></p> ",
+        "end_time": null,
+        "link": "https://www.meetup.com/fullstack-cluj/events/zhpzmmywnbfb/",
+        "organizer": "FullStack Cluj",
+        "start_time": "2017-10-03T19:00:00+03:00",
+        "title": "Open Source your Code",
+        "venue": "Around 25: Nicolae Cristea 25, Cluj-Napoca"
+    },
+    "meetup-fullstack-cluj-zhpzmmywnbpc": {
+        "description": "<p>Starting today we are planning on holding a recurring meetup in which we will discuss, document, build and more importantly contribute to open source projects.</p> <p>We have used open source projects in our every day job, but rarely had the chance to contribute back and understand the environment better.</p> <p>This meetup will help you improve your developer skills, working in a team, understanding how open source works and how to architect, develop and maintain an open source project.</p> <p>The event will be last for 2 hours in which we will do the following:</p> <p>1. Discuss code you already worked on that you are thinking of making open source</p> <p>2. Discuss ideas of open source projects you would like to contribute to</p> <p>3. Organise your project: code, architecture, comments, issues, PRs, community message.</p> <p>4. Contribute by writing code to one or multiple github repositories.</p> <p>At the end of each event we will take a look at what PRs have been added/merged, see how we can improve our code and share new ideas with the community.</p> <p><b>Requirements:</b></p> <p>\u2022 laptop</p> <p><br/>\u2022 2 hours of your time</p> <p><br/>\u2022 fun learning attitude</p> <p><br/><b>Registration fee is $2 as always, to make sure everyone who registers also attends, from which we buy snacks/drinks for the event :).</b></p> ",
+        "end_time": null,
+        "link": "https://www.meetup.com/fullstack-cluj/events/zhpzmmywnbpc/",
+        "organizer": "FullStack Cluj",
+        "start_time": "2017-10-31T19:00:00+02:00",
+        "title": "Open Source your Code",
+        "venue": "Around 25: Nicolae Cristea 25, Cluj-Napoca"
+    },
+    "meetup-fullstack-cluj-zhpzmmywnbwb": {
+        "description": "<p>Starting today we are planning on holding a recurring meetup in which we will discuss, document, build and more importantly contribute to open source projects.</p> <p>We have used open source projects in our every day job, but rarely had the chance to contribute back and understand the environment better.</p> <p>This meetup will help you improve your developer skills, working in a team, understanding how open source works and how to architect, develop and maintain an open source project.</p> <p>The event will be last for 2 hours in which we will do the following:</p> <p>1. Discuss code you already worked on that you are thinking of making open source</p> <p>2. Discuss ideas of open source projects you would like to contribute to</p> <p>3. Organise your project: code, architecture, comments, issues, PRs, community message.</p> <p>4. Contribute by writing code to one or multiple github repositories.</p> <p>At the end of each event we will take a look at what PRs have been added/merged, see how we can improve our code and share new ideas with the community.</p> <p><b>Requirements:</b></p> <p>\u2022 laptop</p> <p><br/>\u2022 2 hours of your time</p> <p><br/>\u2022 fun learning attitude</p> <p><br/><b>Registration fee is $2 as always, to make sure everyone who registers also attends, from which we buy snacks/drinks for the event :).</b></p> ",
+        "end_time": null,
+        "link": "https://www.meetup.com/fullstack-cluj/events/zhpzmmywnbwb/",
+        "organizer": "FullStack Cluj",
+        "start_time": "2017-10-17T19:00:00+03:00",
+        "title": "Open Source your Code",
+        "venue": "Around 25: Nicolae Cristea 25, Cluj-Napoca"
+    },
+    "meetup-fullstack-cluj-zhpzmmywpblc": {
+        "description": "<p>Starting today we are planning on holding a recurring meetup in which we will discuss, document, build and more importantly contribute to open source projects.</p> <p>We have used open source projects in our every day job, but rarely had the chance to contribute back and understand the environment better.</p> <p>This meetup will help you improve your developer skills, working in a team, understanding how open source works and how to architect, develop and maintain an open source project.</p> <p>The event will be last for 2 hours in which we will do the following:</p> <p>1. Discuss code you already worked on that you are thinking of making open source</p> <p>2. Discuss ideas of open source projects you would like to contribute to</p> <p>3. Organise your project: code, architecture, comments, issues, PRs, community message.</p> <p>4. Contribute by writing code to one or multiple github repositories.</p> <p>At the end of each event we will take a look at what PRs have been added/merged, see how we can improve our code and share new ideas with the community.</p> <p><b>Requirements:</b></p> <p>\u2022 laptop</p> <p><br/>\u2022 2 hours of your time</p> <p><br/>\u2022 fun learning attitude</p> <p><br/><b>Registration fee is $2 as always, to make sure everyone who registers also attends, from which we buy snacks/drinks for the event :).</b></p> ",
+        "end_time": null,
+        "link": "https://www.meetup.com/fullstack-cluj/events/zhpzmmywpblc/",
+        "organizer": "FullStack Cluj",
+        "start_time": "2017-11-28T19:00:00+02:00",
+        "title": "Open Source your Code",
+        "venue": "Around 25: Nicolae Cristea 25, Cluj-Napoca"
+    },
+    "meetup-fullstack-cluj-zhpzmmywpbsb": {
+        "description": "<p>Starting today we are planning on holding a recurring meetup in which we will discuss, document, build and more importantly contribute to open source projects.</p> <p>We have used open source projects in our every day job, but rarely had the chance to contribute back and understand the environment better.</p> <p>This meetup will help you improve your developer skills, working in a team, understanding how open source works and how to architect, develop and maintain an open source project.</p> <p>The event will be last for 2 hours in which we will do the following:</p> <p>1. Discuss code you already worked on that you are thinking of making open source</p> <p>2. Discuss ideas of open source projects you would like to contribute to</p> <p>3. Organise your project: code, architecture, comments, issues, PRs, community message.</p> <p>4. Contribute by writing code to one or multiple github repositories.</p> <p>At the end of each event we will take a look at what PRs have been added/merged, see how we can improve our code and share new ideas with the community.</p> <p><b>Requirements:</b></p> <p>\u2022 laptop</p> <p><br/>\u2022 2 hours of your time</p> <p><br/>\u2022 fun learning attitude</p> <p><br/><b>Registration fee is $2 as always, to make sure everyone who registers also attends, from which we buy snacks/drinks for the event :).</b></p> ",
+        "end_time": null,
+        "link": "https://www.meetup.com/fullstack-cluj/events/zhpzmmywpbsb/",
+        "organizer": "FullStack Cluj",
+        "start_time": "2017-11-14T19:00:00+02:00",
+        "title": "Open Source your Code",
+        "venue": "Around 25: Nicolae Cristea 25, Cluj-Napoca"
+    },
+    "meetup-fullstack-cluj-zhpzmmywqbjc": {
+        "description": "<p>Starting today we are planning on holding a recurring meetup in which we will discuss, document, build and more importantly contribute to open source projects.</p> <p>We have used open source projects in our every day job, but rarely had the chance to contribute back and understand the environment better.</p> <p>This meetup will help you improve your developer skills, working in a team, understanding how open source works and how to architect, develop and maintain an open source project.</p> <p>The event will be last for 2 hours in which we will do the following:</p> <p>1. Discuss code you already worked on that you are thinking of making open source</p> <p>2. Discuss ideas of open source projects you would like to contribute to</p> <p>3. Organise your project: code, architecture, comments, issues, PRs, community message.</p> <p>4. Contribute by writing code to one or multiple github repositories.</p> <p>At the end of each event we will take a look at what PRs have been added/merged, see how we can improve our code and share new ideas with the community.</p> <p><b>Requirements:</b></p> <p>\u2022 laptop</p> <p><br/>\u2022 2 hours of your time</p> <p><br/>\u2022 fun learning attitude</p> <p><br/><b>Registration fee is $2 as always, to make sure everyone who registers also attends, from which we buy snacks/drinks for the event :).</b></p> ",
+        "end_time": null,
+        "link": "https://www.meetup.com/fullstack-cluj/events/zhpzmmywqbjc/",
+        "organizer": "FullStack Cluj",
+        "start_time": "2017-12-26T19:00:00+02:00",
+        "title": "Open Source your Code",
+        "venue": "Around 25: Nicolae Cristea 25, Cluj-Napoca"
+    },
+    "meetup-fullstack-cluj-zhpzmmywqbqb": {
+        "description": "<p>Starting today we are planning on holding a recurring meetup in which we will discuss, document, build and more importantly contribute to open source projects.</p> <p>We have used open source projects in our every day job, but rarely had the chance to contribute back and understand the environment better.</p> <p>This meetup will help you improve your developer skills, working in a team, understanding how open source works and how to architect, develop and maintain an open source project.</p> <p>The event will be last for 2 hours in which we will do the following:</p> <p>1. Discuss code you already worked on that you are thinking of making open source</p> <p>2. Discuss ideas of open source projects you would like to contribute to</p> <p>3. Organise your project: code, architecture, comments, issues, PRs, community message.</p> <p>4. Contribute by writing code to one or multiple github repositories.</p> <p>At the end of each event we will take a look at what PRs have been added/merged, see how we can improve our code and share new ideas with the community.</p> <p><b>Requirements:</b></p> <p>\u2022 laptop</p> <p><br/>\u2022 2 hours of your time</p> <p><br/>\u2022 fun learning attitude</p> <p><br/><b>Registration fee is $2 as always, to make sure everyone who registers also attends, from which we buy snacks/drinks for the event :).</b></p> ",
+        "end_time": null,
+        "link": "https://www.meetup.com/fullstack-cluj/events/zhpzmmywqbqb/",
+        "organizer": "FullStack Cluj",
+        "start_time": "2017-12-12T19:00:00+02:00",
+        "title": "Open Source your Code",
+        "venue": "Around 25: Nicolae Cristea 25, Cluj-Napoca"
+    },
+    "meetup-fullstack-cluj-zhpzmmyxcbfc": {
+        "description": "<p>Starting today we are planning on holding a recurring meetup in which we will discuss, document, build and more importantly contribute to open source projects.</p> <p>We have used open source projects in our every day job, but rarely had the chance to contribute back and understand the environment better.</p> <p>This meetup will help you improve your developer skills, working in a team, understanding how open source works and how to architect, develop and maintain an open source project.</p> <p>The event will be last for 2 hours in which we will do the following:</p> <p>1. Discuss code you already worked on that you are thinking of making open source</p> <p>2. Discuss ideas of open source projects you would like to contribute to</p> <p>3. Organise your project: code, architecture, comments, issues, PRs, community message.</p> <p>4. Contribute by writing code to one or multiple github repositories.</p> <p>At the end of each event we will take a look at what PRs have been added/merged, see how we can improve our code and share new ideas with the community.</p> <p><b>Requirements:</b></p> <p>\u2022 laptop</p> <p><br/>\u2022 2 hours of your time</p> <p><br/>\u2022 fun learning attitude</p> <p><br/><b>Registration fee is $2 as always, to make sure everyone who registers also attends, from which we buy snacks/drinks for the event :).</b></p> ",
+        "end_time": null,
+        "link": "https://www.meetup.com/fullstack-cluj/events/zhpzmmyxcbfc/",
+        "organizer": "FullStack Cluj",
+        "start_time": "2018-01-23T19:00:00+02:00",
+        "title": "Open Source your Code",
+        "venue": "Around 25: Nicolae Cristea 25, Cluj-Napoca"
+    },
+    "meetup-fullstack-cluj-zhpzmmyxcbmb": {
+        "description": "<p>Starting today we are planning on holding a recurring meetup in which we will discuss, document, build and more importantly contribute to open source projects.</p> <p>We have used open source projects in our every day job, but rarely had the chance to contribute back and understand the environment better.</p> <p>This meetup will help you improve your developer skills, working in a team, understanding how open source works and how to architect, develop and maintain an open source project.</p> <p>The event will be last for 2 hours in which we will do the following:</p> <p>1. Discuss code you already worked on that you are thinking of making open source</p> <p>2. Discuss ideas of open source projects you would like to contribute to</p> <p>3. Organise your project: code, architecture, comments, issues, PRs, community message.</p> <p>4. Contribute by writing code to one or multiple github repositories.</p> <p>At the end of each event we will take a look at what PRs have been added/merged, see how we can improve our code and share new ideas with the community.</p> <p><b>Requirements:</b></p> <p>\u2022 laptop</p> <p><br/>\u2022 2 hours of your time</p> <p><br/>\u2022 fun learning attitude</p> <p><br/><b>Registration fee is $2 as always, to make sure everyone who registers also attends, from which we buy snacks/drinks for the event :).</b></p> ",
+        "end_time": null,
+        "link": "https://www.meetup.com/fullstack-cluj/events/zhpzmmyxcbmb/",
+        "organizer": "FullStack Cluj",
+        "start_time": "2018-01-09T19:00:00+02:00",
+        "title": "Open Source your Code",
+        "venue": "Around 25: Nicolae Cristea 25, Cluj-Napoca"
+    },
+    "meetup-meetup-group-TxaIuXXp-237552345": {
+        "description": "<p>Hi Kx Community Cluj,</p> <p>We're holding our next Kx Meetup on Thursday 7th September in collaboration with Dataconomy - we hope you can join! Join us for an evening of exciting talks from Data Science industry leaders and experts, followed by enough time for a few beers, pizza and networking. We look forward to seeing you there! Date: Thursday 7th September 2017</p> <p>Time: 19.00 - 22.00</p> <p>Speaker: TBC</p> <p>Title: TBC</p> <p>We look forward to meeting all of you! Kx Community Cluj By attending this event, you consent to the disclosure of your personal information (including first name, last name, title, email and company) to FD plc and its affiliates, and that FD plc and its affiliates may use such information for purposes of contacting you, sending marketing materials from and/or sending invitations to events.</p> ",
+        "end_time": null,
+        "link": "https://www.meetup.com/meetup-group-TxaIuXXp/events/237552345/",
+        "organizer": "Kx Community Cluj Meetup",
+        "start_time": "2017-09-07T19:00:00+03:00",
+        "title": "Kx Community Meetup 2017",
+        "venue": null
+    },
+    "meetup-the-javascript-timisoara-group-237547271": {
+        "description": "<p><b>How do you \"type\" JavaScript?</b></p> <p>In the context of having various JavaScript flavors &amp; languages that compile to JS, that offer static typing, the aim of this meetup is to answer a few questions?</p> <p><br/><i>\u2022 will static types make us write better code?<br/></i><i>\u2022 will static types reduce the number of bugs?<br/>\u2022 are dynamic languages suited for \"small\" projects only?<br/>\u2022 can I mix static &amp; dynamic types?<br/>\u2022 should I switch to a statically typed JavaScript flavor?</i></p> <p>To help us answer these questions, we have invited 2 special guests:</p> <p>\u2022 <b>Radu Marinescu</b><br/>\u2022 <b>Radu Fericean</b></p> <p><br/><i>Moderator: <b>Andrei Pfeiffer</b></i></p> <p>This meetup will take place in a panel-like format, no presentations. The audience is welcome to contribute to the discussion.</p> <p><i>&lt;Have a subject you want to talk about? Contact us. We're always eager to hear from you!&gt;</i></p> ",
+        "end_time": null,
+        "link": "https://www.meetup.com/tim-js/events/237547271/",
+        "organizer": "tim.js",
+        "start_time": "2017-02-22T18:30:00+02:00",
+        "title": "tim.js meetup 36: How do you \"type\" JavaScript?",
+        "venue": "[e-spres-oh]: Strada Florimund Mercy, nr. 3, Timisoara"
     }
 }
