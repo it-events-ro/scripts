@@ -21,6 +21,7 @@ Bucharest-Startup-Founder-101
 BucharestTech
 Bucharest-Virtual-Reality-Meetup
 Bucharest-Web-and-Mobile-Development-Meetup
+Bucharest-WordPress-Meetup
 Business-Analysts-Cluj
 bv-tech
 Cluj-Data-Scientists
@@ -82,8 +83,10 @@ Java-Day-Cluj-Napoca
 JavaDayRO
 JavaScript-Cluj
 lean-startup-bucharest
+Lets-talk-DDD
 Marketing-for-IT-Mk-4-IT
 meetup-group-TxaIuXXp
+meetup-group-xMeHnowj
 Meteor-Iasi
 Meteor-Romania
 Mobile-Growth-Bucharest
