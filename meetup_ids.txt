@@ -47,6 +47,7 @@ clujytech
 CoFoundersLab-Cluj
 Comunitatea-Hatch-Bucuresti
 Constanța-Web-Developers
+Design-Thinking-Bucharest
 DevOps-Cluj-Community
 Devoxx4Kidsro
 devsunitedtm
@@ -72,6 +73,7 @@ Google-Developer-Group-Bucharest
 Google-Developer-Group-Cluj-Napoca
 HackDays
 hello-js
+Iasi-C-CPP-Developers-Meetup
 Iasi-JS
 Iasi-MongoDB-User-Group
 InfoSecTM
@@ -85,6 +87,7 @@ JavaScript-Cluj
 lean-startup-bucharest
 Lets-talk-DDD
 Marketing-for-IT-Mk-4-IT
+meetup-group-EnDeuZuZ
 meetup-group-TxaIuXXp
 meetup-group-xMeHnowj
 Meteor-Iasi
@@ -107,7 +110,9 @@ Product-Camp-Bucharest-Meetup
 ProductTank-Bucharest
 PyTim-Meetup
 Qt-Cluj
+ReadyForStartups
 romanian-lean-startup-cell
+RoPython_Iasi
 RoPython-Timisoara
 RO-SQL
 Share-IT-Cluj-Meetup
@@ -130,6 +135,7 @@ The-Startup-Lab
 The-Targu-Mures-Agile-Software-Meetup-Group
 The-Timisoara-Agile-Software-Meetup-Group
 Timisoara-Automotive-Technology-Meetup
+Timisoara-Freelancers
 Timisoara-Google-Developers-Group
 TIMISOARA-IT-STARTUP-GENERATOR
 Timisoara-Java-User-Group
