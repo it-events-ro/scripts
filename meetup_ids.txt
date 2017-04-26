@@ -120,6 +120,7 @@ RO-SQL
 Share-IT-Cluj-Meetup
 Softbinator-Romanian-IT-Community
 SQL-Cluj
+Startup-Coffee-Timisoara
 StartupGrindClujNapoca
 Startup-Grind-Romania
 Tabara-de-Testare-Bucuresti
