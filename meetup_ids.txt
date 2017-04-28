@@ -2,6 +2,7 @@ agilecell
 Agile-Connexions-Romania
 AngularJS-Bucharest
 angularjs-cluj
+AWS-Cluj
 aws-ro
 AWS-Romania
 Big-Data-Cluj-Napoca
@@ -80,7 +81,10 @@ Iasi-JS
 Iasi-MongoDB-User-Group
 InfoSecTM
 Infrastructure-Automation-Meetups
+InnoWork
 Internet-of-Things-Timisoara
+I-O-Extended-Cluj-Napoca-2017
+iOSMures
 IS-DevOps-Meetup
 ITCamp-Community
 Java-Day-Cluj-Napoca
