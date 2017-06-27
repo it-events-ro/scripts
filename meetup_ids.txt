@@ -1,5 +1,6 @@
 agilecell
 Agile-Connexions-Romania
+Agile-Software-Development-Transylvania-Meetup
 AngularJS-Bucharest
 angularjs-cluj
 AWS-Cluj
@@ -43,6 +44,7 @@ cluj-rb
 Cluj-Semantic-WEB
 Cluj-Software-Developers
 Cluj-Tech-Meetup
+Cluj-UX
 Cluj-WEB-Developers
 clujytech
 CoFoundersLab-Cluj
@@ -108,9 +110,11 @@ Openstack-Bucharest
 OWASP-Cluj-Napoca-Security-Meetup
 papers-we-love-bucharest
 Papers-We-Love-Iasi
+Passion-for-Testing-Cluj-Napoca
 PentaBAR-Cluj-Tech-Meetup-by-Pentalog
 PHPBrasov
 PHP-Cluj
+PHP-Mures
 PMI-Romania-Cluj-Napoca-Project-Management-Meetup-Group
 Product-Camp-Bucharest-Meetup
 ProductTank-Bucharest
